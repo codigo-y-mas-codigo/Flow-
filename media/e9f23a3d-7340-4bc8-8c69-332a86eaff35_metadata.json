@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e9f23a3d-7340-4bc8-8c69-332a86eaff35",
+    "mediaTitle": "Model maintaining natural pose f…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 22:39:13.539442-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

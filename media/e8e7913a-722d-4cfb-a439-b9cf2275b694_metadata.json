@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e8e7913a-722d-4cfb-a439-b9cf2275b694",
+    "mediaTitle": "Magician diorama creative power",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 04:14",
+    "projectId": "18470725-d3a5-4073-a01d-b5867cff4899",
+    "createdAt": "2026-09-17 03:24:26.385289-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "SCENE: 3D miniature diorama of The Magician (RWS Tarot). A handcrafted 3D resin figure of The Magician standing behind a wooden altar on a mini stage. Resting on the table are 3D miniature objects (a sword, a cup, a pentacle, and a wand). In the background, a floating infinity symbol (∞) glows above his head. The card illustration behind him transitions from a flat black and white print to warm vintage colors, eventually becoming a volumetric 3D photorealistic scene. Floating text in Spanish \"EL PODER CREATIVO\" in 3D gold serif typography casting soft shadows on the stage floor.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

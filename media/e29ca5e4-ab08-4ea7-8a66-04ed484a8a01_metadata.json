@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e29ca5e4-ab08-4ea7-8a66-04ed484a8a01",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 05:09:38.640879-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "ella de espaldas, el leon de frente acostado vista desde atras de ella ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

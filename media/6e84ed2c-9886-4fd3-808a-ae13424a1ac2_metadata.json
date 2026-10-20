@@ -1,0 +1,16 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6e84ed2c-9886-4fd3-808a-ae13424a1ac2",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "uploaded",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 07:53:29.139220-07",
+    "isFavorited": true,
+    "dimensions": {
+      "width": 851,
+      "height": 1094
+    }
+  }]
+}

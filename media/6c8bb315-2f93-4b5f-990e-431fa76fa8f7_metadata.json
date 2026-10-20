@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6c8bb315-2f93-4b5f-990e-431fa76fa8f7",
+    "mediaTitle": "Modifying text in an image",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:29:16.777066-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translation of the image prompt with the requested modifications:\n\nIn the silence behind the letter put \"Aquí va el titulo\" and in La breva oculta change it for \"Aquí va el subtitulo\".",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

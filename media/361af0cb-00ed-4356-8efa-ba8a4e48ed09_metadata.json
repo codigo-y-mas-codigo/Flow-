@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "361af0cb-00ed-4356-8efa-ba8a4e48ed09",
+    "mediaTitle": "Simular ovni pasando",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:13:28.135083-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Haz que parezca pasa un ovni.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

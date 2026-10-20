@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7db63897-3819-45f8-bfa2-b1850ffdccb0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 20:52:57.057561-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "A digital image displaying a font example and its attribution against a white background. The text \"Font Raider West Smith by Luis Angel Maciel\" is centered at the top in a large, bold, black serif font. Below this title, the uppercase English alphabet is presented in the same black, bold serif font, broken into three centered lines: \"A B C D E F G H I J K L M\", \"N O P Q R S T U V W X\", and \"Y U V W Y Z\". Below the alphabet, a line of numerals is centered: \"0 1 2 3 4 5 6 7 8 9\". The characters for the alphabet and numerals are significantly larger than the title text. The background of the image is pure white. usa las letras de the fool como referencia para hacer todas iguales del estilo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

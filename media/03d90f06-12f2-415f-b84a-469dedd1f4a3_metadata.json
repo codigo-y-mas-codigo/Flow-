@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "03d90f06-12f2-415f-b84a-469dedd1f4a3",
+    "mediaTitle": "Mug with Alpha 5 illustration",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:49:35.931868-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A product shot of a white ceramic mug featuring a fun colorful 90s style cartoon illustration of Alpha 5 looking exhausted and holding a coffee pot. Splashes of pastel colors, bold text saying \u0027Ay, ay, ay! Necesito café...\u0027",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aedf772b-60b2-4f91-9b16-3d2f29f5b594",
+    "mediaTitle": "Hombre en andén del Metro",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-08 04:47:48.206158-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Usa ese rostro ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "cc69558d-603f-4752-9feb-5e7fc1e4a137"
+    }
+  }]
+}

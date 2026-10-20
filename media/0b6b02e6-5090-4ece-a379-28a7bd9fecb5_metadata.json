@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0b6b02e6-5090-4ece-a379-28a7bd9fecb5",
+    "mediaTitle": "Gemini_Generated_Image_xf2qoyxf2qoyxf2q.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:16:40.900727-07",
+    "modelName": "Nano Banana 2 Lite",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

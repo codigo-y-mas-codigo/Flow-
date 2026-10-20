@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "205e1ed7-63f6-42ee-acb9-b6ec79fc1126",
+    "mediaTitle": "Shower curtain design Zordon Alp…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:39:23.297013-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the design of the shower curtain.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "cdd28217-c080-418b-988b-54fbb5bbe1cb"
+    }
+  }]
+}

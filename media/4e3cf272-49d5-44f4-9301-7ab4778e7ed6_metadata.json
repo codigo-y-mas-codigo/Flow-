@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4e3cf272-49d5-44f4-9301-7ab4778e7ed6",
+    "mediaTitle": "Change image text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:45:30.786126-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "Change the text of image one to that of image two.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE"
+    }
+  }]
+}

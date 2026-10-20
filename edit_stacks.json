@@ -1,0 +1,2067 @@
+{
+  "editStacks": [{
+    "stackName": "1000673856.jpg",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "collectionId": "",
+    "primaryMediaId": "79e4de72-bb2e-4508-8eaa-9108e3430a6a",
+    "editStackMedia": [{
+      "mediaId": "73ba88fe-021a-4f8c-8863-b47ce35ce76a",
+      "createdAt": "2026-08-04 02:06:52.514948-07"
+    }, {
+      "mediaId": "79e4de72-bb2e-4508-8eaa-9108e3430a6a",
+      "parentMediaId": "73ba88fe-021a-4f8c-8863-b47ce35ce76a",
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the requested text in its original language:\n\n\"Change the typography to a less cliché, more original style that looks like a logo.\"",
+      "createdAt": "2026-08-04 02:07:33.171329-07"
+    }]
+  }, {
+    "stackName": "Diablo con cuernos y humanos",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "7ff68cd4-3e5a-4029-83bc-6900906adaf8",
+    "editStackMedia": [{
+      "mediaId": "7ff68cd4-3e5a-4029-83bc-6900906adaf8",
+      "prompt": "El fondo obscurecelo y que lo verde parezca fuego verde . Y el arcano original tiene unido a los personajes por medio de una cadena. Hazla visible . Agrégale cuernos grande al diablo y borra las serpientes. Las colas de los humanos, parece tienen fuego y la otra una fruta. ponlos de pie.texto en español ",
+      "createdAt": "2026-07-09 11:11:50.973289-07"
+    }, {
+      "mediaId": "0f84268a-c88d-444f-8c75-3c9f63b52a9f",
+      "createdAt": "2026-07-09 11:14:06.950549-07"
+    }, {
+      "mediaId": "bf245464-ed6b-4435-97af-c7f63fdefc18",
+      "parentMediaId": "0f84268a-c88d-444f-8c75-3c9f63b52a9f",
+      "prompt": "Borra el arnés que tiene el diablo y la cadena debe unir a los humanos y el centro está amarrado en la base donde está el diablo ",
+      "createdAt": "2026-07-09 11:14:11.632058-07"
+    }]
+  }, {
+    "stackName": "3x3 grid photo collage",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "ffd6ab0f-1171-48b8-b39d-bb158f561510",
+    "editStackMedia": [{
+      "mediaId": "ffd6ab0f-1171-48b8-b39d-bb158f561510",
+      "prompt": "Create a 3×3 grid photo collage with high-contrast black-and-white aesthetics.\n\nFace Reference:\n\nStrict face preservation.\n\nUse the uploaded reference for exact facial features.\n\nKeep the face identical across all nine frames.\n\nGrid Composition:\n\n3×3 layout.\n\nPose variety:\n\nIntense direct stare\n\nSilhouette backlit\n\nHands covering face with one eye peeking\n\nStrong side profile\n\nFull-body power stance\n\nEyes-only close-up\n\nMotion blur\n\nContemplative downward gaze\n\nLaughing candid\n\nSubject:\n\nSame person as the reference.\n\nSimple black turtleneck.\n\nTimeless, artistic presence.\n\nEnvironment:\n\nMinimal studio.\n\nGrey gradient or geometric background.\n\nDramatic directional lighting with hard shadows and extreme contrast.\n\nImage Quality:\n\n8K color\n\nFine-art film grain.\n\nEditorial portrait style inspired by Irving Penn and Richard Avedon.\n\nNegative Prompt:\n\nFlat lighting\n\nDifferent face\n\nAltered facial features\n\nOutput:\n\n3×3 grid\n\n9:16 aspect ratio\n\nImportante Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-07-08 04:35:34.455261-07"
+    }, {
+      "mediaId": "17aa3d1a-1e93-47e2-a018-e103364af122",
+      "createdAt": "2026-07-09 12:45:55.658314-07"
+    }]
+  }, {
+    "stackName": "Men rubbing mud on suits",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "ca788bbc-ad2c-4398-92f1-e835fdeddbad",
+    "editStackMedia": [{
+      "mediaId": "bb80e5fb-3df8-4469-9de6-f5810f79ce3c",
+      "prompt": "Here is the English translation of your image prompt:\n\nAn attractive Mexican man, 30-35 years old, normal athletic build (not overly muscular), face similar to the reference: slightly wavy black hair, short goatee, Latin features, wearing a tight black motorcycle suit. He is leaning back on the seat of a black motorcycle in a studio with a neutral background. Another attractive Mexican man of normal build, also attractive, wearing a black and white motorcycle suit, is unzipping his suit and aggressively rubbing thick, wet brown mud over his chest and abdomen. Realistic expressions of pleasure/pain, detailed textures of wet leather and dripping mud, soft cinematic lighting, photorealistic 8K, ultra-realistic Mexican style.",
+      "createdAt": "2026-07-18 11:18:39.663461-07"
+    }, {
+      "mediaId": "ca788bbc-ad2c-4398-92f1-e835fdeddbad",
+      "parentMediaId": "bb80e5fb-3df8-4469-9de6-f5810f79ce3c",
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"Adapt it to horizontal size.\"",
+      "createdAt": "2026-07-24 05:52:32.612443-07"
+    }]
+  }, {
+    "stackName": "Orchestra playing with colorful …",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "f5f40682-eb03-46b8-9048-63c7326b8bb8",
+    "editStackMedia": [{
+      "mediaId": "9d3f33f2-44f6-4e3b-84be-92fdfdc277ba",
+      "prompt": "High energy vertical shot of a vibrant K-pop orchestral explosion, conductor with glowing baton, massive orchestra playing with punchy drums and bright brass, sweeping violins creating light trails, energetic crowd dancing, colorful stage lights and pyrotechnics, festive uplifting powerful atmosphere, dynamic composition, hyper-detailed, polished modern production",
+      "createdAt": "2026-07-08 08:58:00.809820-07"
+    }, {
+      "mediaId": "a65acfea-47d9-46b3-a972-3617cc262107",
+      "parentMediaId": "9d3f33f2-44f6-4e3b-84be-92fdfdc277ba",
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "createdAt": "2026-07-08 08:59:31.752415-07"
+    }, {
+      "mediaId": "f4345eef-4062-4482-9f35-5a38cd4acab5",
+      "parentMediaId": "a65acfea-47d9-46b3-a972-3617cc262107",
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1\r\n¿Aprueban este Batman? \r\n\r",
+      "createdAt": "2026-07-08 09:00:22.641218-07"
+    }, {
+      "mediaId": "f5f40682-eb03-46b8-9048-63c7326b8bb8",
+      "parentMediaId": "a65acfea-47d9-46b3-a972-3617cc262107",
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1 ",
+      "createdAt": "2026-07-08 09:01:18.412208-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "4f471fff-31ed-46bb-afeb-564cf4d1a891",
+    "editStackMedia": [{
+      "mediaId": "4f471fff-31ed-46bb-afeb-564cf4d1a891",
+      "prompt": "Definitiva   Los stocks de película color más queridos, usados y recomendados por fotógrafos y creadores. Ordenados por popularidad y carácter visual.  01. Cinestill 800T\r\n02. Kodak Portra 800\r\n03. Kodak Portra 400\r\n04. Kodak Portra 160\r\n05. Lomography Color Negative 800\r\n06. Fujifilm Pro 400H\r\n07. Kodak Ektar 100\r\n08. Kodak Ektachrome E100\r\n09. Fujifilm Superia 400\r\n10. Lomography X-Pro 200\r\n11. Kodak Gold 200\r\n12. Fujifilm Velvia 50\r\n13. Kodak Ultramax 400\r\n14. Cinestill 50D\r\n15. Fujifilm Pro 400H (2da mención)\r\n16. Lomography Color Negative 400\r\n17. Kodak Vision3 500T\r\n18. Kodak Vision3 250D\r\n19. Agfa Vista Plus 200\r\n20. Fujifilm Superia X-Tra 400  21-50 (Continuación):\r\n21. Revolog Kolor\r\n22. Adox Color Implosion\r\n23. Lomography Redscale\r\n24. Cinestill 400D\r\n25. Kodak Portra 800 (push)\r\n26. Fujifilm 400H\r\n27. Kodak Gold 100\r\n28. Polaroid Color\r\n29. Fujifilm Instax (color)\r\n30. Kodak Ektachrome 100\r\n31. Lomography Diana F+ Color\r\n32. Rollei Color\r\n33. Kodak Aerochrome (infrarrojo color)\r\n34. Fujifilm Velvia 100\r\n35. Kodak Portra 100T\r\n36. Cinestill 800T (expired)\r\n37. Agfa Vista 400\r\n38. Lomography Metropolis\r\n39. Kodak Vision3 50D\r\n40. Fujifilm Provia 100F",
+      "createdAt": "2026-07-09 12:30:33.039662-07"
+    }, {
+      "mediaId": "6c0a02f8-31a9-48d6-87f7-660e3be8cf78",
+      "createdAt": "2026-08-04 02:41:00.875629-07"
+    }]
+  }, {
+    "stackName": "grok-image-84c6f4fa-ff8e-41a0-8b74-4966c7df7953.png.jpg",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "7256c0d4-b59d-41be-9b6a-8aef375a1e35",
+    "editStackMedia": [{
+      "mediaId": "465797e0-18e6-43ee-8e26-bfa8e076d40b",
+      "createdAt": "2026-04-28 04:46:30.389387-07"
+    }, {
+      "mediaId": "7256c0d4-b59d-41be-9b6a-8aef375a1e35",
+      "parentMediaId": "465797e0-18e6-43ee-8e26-bfa8e076d40b",
+      "prompt": "Adáptalo a tamaño horizontal ",
+      "createdAt": "2026-04-28 04:47:22.803589-07"
+    }]
+  }, {
+    "stackName": "1000658031.jpg",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "collectionId": "",
+    "primaryMediaId": "dc04724e-4b84-4a7c-b9f3-cbfa8002ff6e",
+    "editStackMedia": [{
+      "mediaId": "23a966de-097e-4f19-a1b0-f8c4a9deeace",
+      "createdAt": "2026-08-10 20:51:39.885631-07"
+    }, {
+      "mediaId": "52e8bf37-7dfa-41a4-ab48-986860878758",
+      "parentMediaId": "23a966de-097e-4f19-a1b0-f8c4a9deeace",
+      "prompt": "Delete the texts and make it full body.",
+      "createdAt": "2026-10-06 04:49:59.682229-07"
+    }, {
+      "mediaId": "dc04724e-4b84-4a7c-b9f3-cbfa8002ff6e",
+      "parentMediaId": "23a966de-097e-4f19-a1b0-f8c4a9deeace",
+      "prompt": "Erase the texts.",
+      "createdAt": "2026-10-06 04:51:21.641584-07"
+    }]
+  }, {
+    "stackName": "Orchestra playing with colorful …",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "b9bb5986-afa2-4cb1-8789-d40c1f113af5",
+    "editStackMedia": [{
+      "mediaId": "30af670b-d6af-49b8-8831-068d52646089",
+      "prompt": "High energy vertical shot of a vibrant K-pop orchestral explosion, conductor with glowing baton, massive orchestra playing with punchy drums and bright brass, sweeping violins creating light trails, energetic crowd dancing, colorful stage lights and pyrotechnics, festive uplifting powerful atmosphere, dynamic composition, hyper-detailed, polished modern production",
+      "createdAt": "2026-07-08 08:58:01.623143-07"
+    }, {
+      "mediaId": "b9bb5986-afa2-4cb1-8789-d40c1f113af5",
+      "parentMediaId": "30af670b-d6af-49b8-8831-068d52646089",
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-07-08 08:58:36.847381-07"
+    }]
+  }, {
+    "stackName": "Surreal apocalyptic Mexico City …",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "primaryMediaId": "482a1dfd-e949-44ab-a38d-c3bf42aa23a7",
+    "editStackMedia": [{
+      "mediaId": "8f59b155-2398-4acb-b4c9-bf00195f2bd7",
+      "prompt": "A surreal apocalyptic cinematic sequence where reality folds in on itself, set in Mexico: a colossal tsunami curls into a gigantic ocean vortex with iconic Mexican skyscrapers and colonial buildings (like Mexico City skyline mixed with historic structures) embedded inside its walls. Fires, explosions, and a tilting cargo ship caught in the chaos near the coast. The sky transforms into an upside-down floating metropolis featuring floating Aztec-inspired pyramids, cathedrals, and modern towers, while smoke, clouds, and glowing fires engulf the streets of a Mexican city below. A mirrored version of Mexico City hangs above the skyline as black smoke, falling debris, massive explosions, and volcanic ash connect both worlds. The camera races dynamically through a colossal portal-like vortex formed by curved bridges (inspired by Mexican architecture), swirling oceans, fractured land with cenotes, spinning skyscrapers, and ancient ruins, ending in a blazing fireball at the eye of the storm. Ultra-realistic, hyper-detailed, cinematic lighting, volumetric clouds, dynamic camera movement, epic scale, IMAX quality, 8K. Duration: Exactly 10 seconds, fast-paced and intense.havlan en español, no subtitulos no textos.",
+      "createdAt": "2026-08-04 02:04:20.281428-07"
+    }, {
+      "mediaId": "482a1dfd-e949-44ab-a38d-c3bf42aa23a7",
+      "parentMediaId": "8f59b155-2398-4acb-b4c9-bf00195f2bd7",
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-08-04 02:06:00.160406-07"
+    }]
+  }, {
+    "stackName": "Man with mud on chest",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "dbed036b-32dc-4aef-ae48-f9eee6f9f494",
+    "editStackMedia": [{
+      "mediaId": "dbed036b-32dc-4aef-ae48-f9eee6f9f494",
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n30-year-old Mexican man, normal build, face similar to the reference (goatee, black hair), wearing a tight black motorcycle suit, leaning on a black motorcycle. Another Mexican man in a black and white suit is standing over the motorcycle and opening his suit, rubbing thick, wet brown mud vigorously over his chest and abdomen. Expression of pleasure and surprise on his face. Dripping mud, realistic wet leather textures, soft cinematic lighting, extreme photorealistic 8K. no t3xtos no logos. They speak in Spanish.",
+      "createdAt": "2026-07-18 11:31:52.533677-07"
+    }, {
+      "mediaId": "7781f783-bb61-4ea3-a90f-0b4e4eca241a",
+      "parentMediaId": "dbed036b-32dc-4aef-ae48-f9eee6f9f494",
+      "prompt": "A person removes a worm walking on their abdomen with their mouth.",
+      "createdAt": "2026-07-24 05:55:24.272194-07"
+    }]
+  }, {
+    "stackName": "Making fruit shiny",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "primaryMediaId": "674a1500-9dee-4107-a5ee-f3355f3317b1",
+    "editStackMedia": [{
+      "mediaId": "674a1500-9dee-4107-a5ee-f3355f3317b1",
+      "prompt": "Make the fruit look shiny and new.",
+      "createdAt": "2026-08-10 20:43:11.275958-07"
+    }, {
+      "mediaId": "af6d2330-8fe7-4b1d-b08c-28bebc3e3195",
+      "createdAt": "2026-08-10 20:43:45.472892-07"
+    }]
+  }, {
+    "stackName": "Man in leather suit pleasure",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "3a7901f3-6611-462d-a66d-db11b24236bf",
+    "editStackMedia": [{
+      "mediaId": "3a7901f3-6611-462d-a66d-db11b24236bf",
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Mexican man of normal build, face similar to the reference, wearing a tight black leather biker suit. He is reclining or sitting while another man is firmly squeezing his chest and the lower area of the suit with his hands. Expression of intense pleasure. Details of shining leather, photorealistic, soft lighting, 8K. no t3xtos no logos. They speak in Spanish. español.\"",
+      "createdAt": "2026-07-18 11:35:12.724510-07"
+    }, {
+      "mediaId": "3f791d4c-dae9-41ba-8a0f-02ab35166126",
+      "createdAt": "2026-07-24 05:45:52.211406-07"
+    }, {
+      "mediaId": "fe49c49e-1fdb-4acb-9bbe-0f34b06318fa",
+      "parentMediaId": "3f791d4c-dae9-41ba-8a0f-02ab35166126",
+      "prompt": "The room darkened.",
+      "createdAt": "2026-07-24 05:45:59.322877-07"
+    }, {
+      "mediaId": "835a8b7b-27ac-45de-a118-2e175abd5e5d",
+      "parentMediaId": "fe49c49e-1fdb-4acb-9bbe-0f34b06318fa",
+      "prompt": "The user prompt is: \"Le ayuda a desabrochar el cierre del uniforme.\"\n\nApplying the edit, the translated image prompt is: \"Helps her unbutton the uniform zipper.\"",
+      "createdAt": "2026-07-24 05:49:31.321399-07"
+    }]
+  }, {
+    "stackName": "Animated man reacting in restaurant",
+    "project": "sept 20 - 07:11",
+    "projectId": "4d056b7f-87e0-451f-83fb-904cb1286e8f",
+    "primaryMediaId": "94894812-bc4f-47f3-ae1a-951e14647068",
+    "editStackMedia": [{
+      "mediaId": "94894812-bc4f-47f3-ae1a-951e14647068",
+      "prompt": "",
+      "createdAt": "2026-09-20 06:15:59.982996-07"
+    }, {
+      "mediaId": "b9fc73b1-8f7e-47bc-8ca8-01a6a21ad4be",
+      "prompt": "",
+      "createdAt": "2026-09-20 06:33:47.893300-07"
+    }, {
+      "mediaId": "6d820c05-b70e-48b1-916f-7d4a068b8ebe",
+      "prompt": "",
+      "createdAt": "2026-09-20 06:33:57.545615-07"
+    }]
+  }, {
+    "stackName": "Se guardó el fotograma de Cheer up image Apply edit",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "5265e596-bbb9-4d7c-af17-eece8e1b9635",
+    "editStackMedia": [{
+      "mediaId": "9cdbb638-4c74-43dd-95d2-9383e52351f2",
+      "createdAt": "2026-09-17 03:01:37.054295-07"
+    }, {
+      "mediaId": "5265e596-bbb9-4d7c-af17-eece8e1b9635",
+      "parentMediaId": "9cdbb638-4c74-43dd-95d2-9383e52351f2",
+      "prompt": "Delete the word \"veo\", keep the rest exact, do not change anything.",
+      "createdAt": "2026-09-17 03:02:23.133621-07"
+    }]
+  }, {
+    "stackName": "1777353195974.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "80e392a6-bcfe-4e92-8235-e415cbebf3b9",
+    "editStackMedia": [{
+      "mediaId": "de366458-730e-48c0-bcef-c7714899a824",
+      "createdAt": "2026-04-27 22:28:49.303289-07"
+    }, {
+      "mediaId": "828a8d6e-e9eb-4179-8d25-1b9907f69602",
+      "parentMediaId": "de366458-730e-48c0-bcef-c7714899a824",
+      "prompt": "Adáptalo a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:11:16.402347-07"
+    }, {
+      "mediaId": "94813744-70e5-4a51-8a09-31d2e355087b",
+      "createdAt": "2026-07-08 04:16:18.398890-07"
+    }, {
+      "mediaId": "80e392a6-bcfe-4e92-8235-e415cbebf3b9",
+      "parentMediaId": "de366458-730e-48c0-bcef-c7714899a824",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:26:54.438448-07"
+    }]
+  }, {
+    "stackName": "1777353182881.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "4a8d0417-4c17-4d64-b213-282dec229c71",
+    "editStackMedia": [{
+      "mediaId": "b66b60e9-744c-42df-90da-5d8d420f175c",
+      "createdAt": "2026-04-27 22:28:49.185127-07"
+    }, {
+      "mediaId": "4a8d0417-4c17-4d64-b213-282dec229c71",
+      "parentMediaId": "b66b60e9-744c-42df-90da-5d8d420f175c",
+      "prompt": "Adáptalo a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:11:33.253082-07"
+    }, {
+      "mediaId": "e6eaf613-822e-4cf4-a1c6-daeb1e45c9b6",
+      "createdAt": "2026-07-08 04:16:23.908322-07"
+    }]
+  }, {
+    "stackName": "1777353192913.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "313077f0-b7ac-4d9c-ab4b-6ac499ff6e32",
+    "editStackMedia": [{
+      "mediaId": "30806b06-c02c-45bd-9c50-ccb770fbae2b",
+      "createdAt": "2026-04-27 22:28:49.249155-07"
+    }, {
+      "mediaId": "313077f0-b7ac-4d9c-ab4b-6ac499ff6e32",
+      "parentMediaId": "30806b06-c02c-45bd-9c50-ccb770fbae2b",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:25:53.371025-07"
+    }, {
+      "mediaId": "41cc2261-4c05-4768-88d4-de6a3d63fc9c",
+      "parentMediaId": "313077f0-b7ac-4d9c-ab4b-6ac499ff6e32",
+      "prompt": "Adáptalo a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 06:05:36.657439-07"
+    }]
+  }, {
+    "stackName": "Man in racing suit squirting liq…",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "6caa6670-002b-4eee-a25e-c89e00531a26",
+    "editStackMedia": [{
+      "mediaId": "e5f3e723-22b1-4a0c-bf68-4411777340b8",
+      "prompt": "Here\u0027s the English translation of your prompt:\n\nMexican man of normal build, face similar to the reference (goatee, black hair), wearing a black and white racing motorcycle suit. He is in the middle of a group of friends in a workshop. The friends are jokingly holding him down while he makes a face of extreme pain and effort. A strong jet of white liquid (like milk or thick cream) shoots out from the lower part of his suit, splashing everywhere. Chaotic and funny scene, photorealistic, sweat details, 8K. No text, no watermarks.",
+      "createdAt": "2026-07-18 11:25:26.502096-07"
+    }, {
+      "mediaId": "bbd931df-7d05-41a5-b4d9-186779047126",
+      "parentMediaId": "e5f3e723-22b1-4a0c-bf68-4411777340b8",
+      "prompt": "The workshop seems abandoned.",
+      "createdAt": "2026-07-24 05:50:14.734315-07"
+    }, {
+      "mediaId": "6caa6670-002b-4eee-a25e-c89e00531a26",
+      "parentMediaId": "e5f3e723-22b1-4a0c-bf68-4411777340b8",
+      "prompt": "The men holding have short-sleeved shirts and the other one does not.",
+      "createdAt": "2026-07-24 05:51:38.484984-07"
+    }]
+  }, {
+    "stackName": "Surreal apocalyptic Mexico City …",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "primaryMediaId": "7bb6a4c6-02a6-4518-86a5-f1764d7ea407",
+    "editStackMedia": [{
+      "mediaId": "89d1169c-2a19-47f5-9839-6bf216c28dab",
+      "prompt": "A surreal apocalyptic cinematic sequence where reality folds in on itself, set in Mexico: a colossal tsunami curls into a gigantic ocean vortex with iconic Mexican skyscrapers and colonial buildings (like Mexico City skyline mixed with historic structures) embedded inside its walls. Fires, explosions, and a tilting cargo ship caught in the chaos near the coast. The sky transforms into an upside-down floating metropolis featuring floating Aztec-inspired pyramids, cathedrals, and modern towers, while smoke, clouds, and glowing fires engulf the streets of a Mexican city below. A mirrored version of Mexico City hangs above the skyline as black smoke, falling debris, massive explosions, and volcanic ash connect both worlds. The camera races dynamically through a colossal portal-like vortex formed by curved bridges (inspired by Mexican architecture), swirling oceans, fractured land with cenotes, spinning skyscrapers, and ancient ruins, ending in a blazing fireball at the eye of the storm. Ultra-realistic, hyper-detailed, cinematic lighting, volumetric clouds, dynamic camera movement, epic scale, IMAX quality, 8K. Duration: Exactly 10 seconds, fast-paced and intense.havlan en español, no subtitulos no textos.photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "createdAt": "2026-08-04 02:08:32.330657-07"
+    }, {
+      "mediaId": "e2f64571-815c-4c3a-96ad-79cd046cd178",
+      "parentMediaId": "89d1169c-2a19-47f5-9839-6bf216c28dab",
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the Spanish text as requested:\n\n\"A vibrant, abstract painting with swirling colors of deep blues, emerald greens, and fiery oranges. In the center, a single, delicate white lotus flower is blooming, its petals unfurling gracefully. The background is a textured canvas with subtle hints of gold leaf. **Flores de la vida** is subtly incorporated into the lower right corner in a flowing, elegant script.\"",
+      "createdAt": "2026-08-04 02:13:02.893656-07"
+    }, {
+      "mediaId": "7bb6a4c6-02a6-4518-86a5-f1764d7ea407",
+      "parentMediaId": "89d1169c-2a19-47f5-9839-6bf216c28dab",
+      "prompt": "Here\u0027s the translated image prompt in a cinematic, end-of-the-world movie style:\n\n**\"A lone, battered figure stands silhouetted against a sky choked with toxic, orange-red dust. The ruins of a once-great city stretch out behind them, skeletal skyscrapers piercing the oppressive atmosphere. A tattered flag, barely recognizable, whips in the desolate wind. The ground is cracked and barren, littered with debris. The overall mood is one of utter desolation, a stark testament to humanity\u0027s final moments.\"**",
+      "createdAt": "2026-08-04 02:15:56.250713-07"
+    }]
+  }, {
+    "stackName": "Man and woman change position",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "f4f9318a-a56c-4484-95e1-b34d047290c7",
+    "editStackMedia": [{
+      "mediaId": "5bba1440-a7ef-4584-9fc0-f33b2d3a9a78",
+      "prompt": "Cambia de posición al hombre y mujer. Borra el arnés. Laca cadena debe estar sujeta en la base donde está el diablo  añade una antorcha en la mano izquierda.b",
+      "createdAt": "2026-07-09 11:23:20.582758-07"
+    }, {
+      "mediaId": "f4f9318a-a56c-4484-95e1-b34d047290c7",
+      "parentMediaId": "5bba1440-a7ef-4584-9fc0-f33b2d3a9a78",
+      "prompt": "Bor los personajes y deja únicamente el background el fondo",
+      "createdAt": "2026-07-09 11:33:36.760511-07"
+    }]
+  }, {
+    "stackName": "Male pilot character sheet",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "e9a14fcc-b0df-42b2-b2c3-b23eb5308bd6",
+    "editStackMedia": [{
+      "mediaId": "e9a14fcc-b0df-42b2-b2c3-b23eb5308bd6",
+      "prompt": "Create a highly detailed character sheet for a stoic, experienced male pilot in his mid-30s, ultra-realistic cinematic style. He has sharp, determined facial features, short dark hair with some gray strands, intense dark eyes, light stubble, and a calm but battle-hardened expression. Athletic build, wearing a fitted dark tactical pilot suit with subtle cybernetic/mechanical accents, harnesses, and high-tech details.\nInclude multiple angles: front, side, 3/4 view, close-up of face showing stoic expression, full body in cockpit pose, and action pose climbing on a transforming mech.\nEmphasize his grumpy, no-nonsense personality through expression and posture. Cinematic lighting, ultra-realistic details, photorealistic, 8k, dramatic atmosphere suitable for epic robot transformation scenes in a modern city. Style: ultra-realistic visuals with unmatched detail and creativity.",
+      "createdAt": "2026-07-27 00:48:42.219859-07"
+    }, {
+      "mediaId": "3d0d1583-7f4a-4022-b026-432da2298d2a",
+      "parentMediaId": "e9a14fcc-b0df-42b2-b2c3-b23eb5308bd6",
+      "prompt": "En modo photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-07-27 00:49:35.554907-07"
+    }, {
+      "mediaId": "ab2f0463-7f09-46de-b234-994cbf8bebea",
+      "createdAt": "2026-07-27 00:50:07.658494-07"
+    }]
+  }, {
+    "stackName": "Men kissing on motorcycle",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "706e950a-b3ad-4905-ac8b-33fb918f19fd",
+    "editStackMedia": [{
+      "mediaId": "dfd8ff89-6062-45eb-8e63-7b01c38cf20c",
+      "prompt": "Two attractive Mexican men, 28-35 years old, with realistic average builds (average Mexican bodies, not overly muscular). The driver looks exactly like the reference: wavy black hair, short goatee, attractive face. The passenger is also Mexican, with short hair. Both are wearing fitted black leather biker jackets and gloves. They are riding a black motorcycle on a rural road with Mexican vegetation. The passenger is hugging the driver tightly around the waist, hands on his chest, and passionately kissing his neck and ear. Close-ups of faces, intense gazes, and sensual expressions. Natural daylight illumination, photorealistic 8K, shiny leather details.",
+      "createdAt": "2026-07-18 11:29:59.835545-07"
+    }, {
+      "mediaId": "b597fef4-c3be-4ee4-ab45-54e38b7a52c7",
+      "parentMediaId": "dfd8ff89-6062-45eb-8e63-7b01c38cf20c",
+      "prompt": "Mexican man of normal build, face similar to the reference, wearing a tight black leather biker suit. He is reclining or sitting while another man is squeezing his chest and the lower part of the suit tightly with his hands. Expression of intense pleasure. Details of shining leather, photorealistic, soft lighting, 8K.",
+      "createdAt": "2026-07-18 11:33:58.142234-07"
+    }, {
+      "mediaId": "706e950a-b3ad-4905-ac8b-33fb918f19fd",
+      "parentMediaId": "dfd8ff89-6062-45eb-8e63-7b01c38cf20c",
+      "prompt": "Mexican man of normal build, face similar to the reference, wearing a tight black leather biker suit. He is reclining or sitting while another man is squeezing his chest and the lower part of the suit tightly with his hands. Expression of intense pleasure. Details of shining leather, photorealistic, soft lighting, 8K.",
+      "createdAt": "2026-07-18 11:34:18.956399-07"
+    }]
+  }, {
+    "stackName": "Couple touching foreheads silhou…",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "primaryMediaId": "dfa8cefa-41f6-4723-9472-b82ac766f17a",
+    "editStackMedia": [{
+      "mediaId": "b45f17fd-a964-44f8-a41d-5cf932d04453",
+      "prompt": "Close-up silhouette of a couple hombre y hombre almost touching foreheads, warm amber and deep red lighting, smoke or steam in the air, shallow depth of field, cinematic album cover photography, moody and intimate, no explicit content\n\n**Texto (ES):** \"Me Vuelves Loco\" — script dorada, esquina inferior.",
+      "createdAt": "2026-08-04 23:30:39.546596-07"
+    }, {
+      "mediaId": "dfa8cefa-41f6-4723-9472-b82ac766f17a",
+      "parentMediaId": "b45f17fd-a964-44f8-a41d-5cf932d04453",
+      "prompt": "The faces in the profiles should be those of these two men.",
+      "createdAt": "2026-08-05 01:57:35.110435-07"
+    }]
+  }, {
+    "stackName": "Mariachi Pop song lyrics",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "920d52d9-d39b-4e78-a8f0-12d65cb993d1",
+    "editStackMedia": [{
+      "mediaId": "06e97684-c91c-44b1-a5cf-60a4f7d1b510",
+      "prompt": "melancholic, hopeful Mariachi Pop, Spanish male vocals, rich male vocal harmonies in chorus, bright trumpets, lush violins, driving guitarrón groove, steady rhythmic drive, warm intimate production [Intro: Bright trumpets, lush violins, guitarrón groove, 8 bars]\n\n[Verse 1]\nMil razones para no caer\nno hay tiempo para sentimientos\nFueron más las cosas que callé  que tus besos y ahora me arrepiento\nSé que cuando yo te di , esperé sentir  y volverlo personal\nY ahora que no estás aquí  tengo que admitir que no pienso en nadie más\n\n[Chorus]\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\n\n[Verse 2]\nRecuperar las noches que perdí\nQue no valieron na\u0027sin ti\nY siempre me despierto pensando en ti\nPor eso ya no quiero dejarte ir\n\n[Chorus]\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\n\n[Bridge]\nEl silencio grita tu nombre en mi cuarto vacío\nY el espejo repite lo que el alma ya sabe\nNo fue un error  fue solo miedo disfrazado\nDe orgullo… y ya no más\n\n[Inst: Trumpets swell, strings sustain, 4 bars]\n\n[Chorus]\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\nEsta vez  te juraré\nQue el pasado se queda atrás  y contigo me quedo\n\n[Outro: Trumpets fade, violins warm decay, guitarrón heartbeat, 6 bars]///👉🏻👉🏻👉🏻 haz una imagen en 9:16 en español que refleje esa canción estilo vibra de la canción.. dame 4 promopts y te diré cuál me haces",
+      "createdAt": "2026-07-08 04:42:26.440306-07"
+    }, {
+      "mediaId": "920d52d9-d39b-4e78-a8f0-12d65cb993d1",
+      "parentMediaId": "06e97684-c91c-44b1-a5cf-60a4f7d1b510",
+      "prompt": "La persona de la imagen adjunta es la que debe ser la protagonista ",
+      "createdAt": "2026-07-09 12:38:55.206402-07"
+    }, {
+      "mediaId": "192dbbef-6c1b-493d-bc03-19ae7022bd5e",
+      "createdAt": "2026-07-09 12:46:45.575053-07"
+    }, {
+      "mediaId": "2a23d694-76cd-48f8-8e0d-f540f4b19265",
+      "parentMediaId": "920d52d9-d39b-4e78-a8f0-12d65cb993d1",
+      "prompt": "Borra a los personajes y pon los textos al centro y agrandar los pequeños . Que queden bien distribución ",
+      "createdAt": "2026-07-09 12:47:27.010060-07"
+    }]
+  }, {
+    "stackName": "Serpiente verde y personaje",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "072b2761-ae65-4f3d-90fd-4887041a8211",
+    "editStackMedia": [{
+      "mediaId": "ee4f5c10-ed94-4a6d-b9a3-20a6f3b78429",
+      "prompt": "Muscular demonic man (ver referencia) with shaved head, glowing intense green eyes, black ritual face paint and cracks, long forked tongue out, wearing leather harness and collar, standing powerfully over live snakes and burning black candles, dark cracked wall with dripping pentagram in background, black and white with green neon accents, evil sinister smile, gooner possessed energy, sweaty oiled skin, dramatic low angle shot, PixVerse.ai style, dark satanic ritual atmosphere, #666 aKodak Portra 100T con cabello \r\n\r",
+      "createdAt": "2026-07-09 08:20:55.759769-07"
+    }, {
+      "mediaId": "072b2761-ae65-4f3d-90fd-4887041a8211",
+      "parentMediaId": "ee4f5c10-ed94-4a6d-b9a3-20a6f3b78429",
+      "prompt": "Ponle verde loa estrella de tras y sus ojos normales. La serpiente de color verde y pon cabello al personaje principal ",
+      "createdAt": "2026-07-09 08:22:11.092388-07"
+    }, {
+      "mediaId": "bd5bce53-22b5-4760-998e-9d14169ae856",
+      "parentMediaId": "072b2761-ae65-4f3d-90fd-4887041a8211",
+      "prompt": "Haz una ficha de personaje como la del ejemplo adjunto ",
+      "createdAt": "2026-07-09 12:13:24.775735-07"
+    }]
+  }, {
+    "stackName": "Haz arcano diablo segunda imagen",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "4c252997-d3cd-40f8-a43f-0a805f32d46e",
+    "editStackMedia": [{
+      "mediaId": "4c252997-d3cd-40f8-a43f-0a805f32d46e",
+      "prompt": "Haz el arcano del diablo en el estilo de la segunda imagen ",
+      "createdAt": "2026-07-09 11:03:31.944010-07"
+    }, {
+      "mediaId": "a072ff4a-e73d-47cc-8822-1e07eb37b788",
+      "parentMediaId": "4c252997-d3cd-40f8-a43f-0a805f32d46e",
+      "prompt": "Borra el arnés y ponle unos cuernos el pentagrama de atrás bórralo y agrega fuego en la parte detrás ",
+      "createdAt": "2026-07-09 11:05:22.158857-07"
+    }, {
+      "mediaId": "a0ff2fa4-a2d9-4f81-acd7-e3ab147c9b2e",
+      "parentMediaId": "4c252997-d3cd-40f8-a43f-0a805f32d46e",
+      "prompt": "Borra el arnés y ponle unos cuernos el pentagrama de atrás bórralo y agrega fuego en la parte detrás ",
+      "createdAt": "2026-07-09 11:05:34.684447-07"
+    }]
+  }, {
+    "stackName": "1777354363262.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "dbfd06b0-b90d-4a31-88ee-25bb4bb877d0",
+    "editStackMedia": [{
+      "mediaId": "d784525e-a298-4086-b2de-b0e0199ee361",
+      "createdAt": "2026-04-27 22:33:18.395231-07"
+    }, {
+      "mediaId": "b0b5d5be-19fb-4e16-8346-8a919332b626",
+      "createdAt": "2026-07-08 04:13:55.398626-07"
+    }, {
+      "mediaId": "57221452-587e-4da3-8414-316db80d38d3",
+      "parentMediaId": "b0b5d5be-19fb-4e16-8346-8a919332b626",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:14:01.094772-07"
+    }, {
+      "mediaId": "dbfd06b0-b90d-4a31-88ee-25bb4bb877d0",
+      "parentMediaId": "57221452-587e-4da3-8414-316db80d38d3",
+      "prompt": "Remove the watermark and improve the image quality.",
+      "createdAt": "2026-09-17 03:06:34.303862-07"
+    }, {
+      "mediaId": "ecb32f40-be48-432d-8255-b01092e13dba",
+      "parentMediaId": "dbfd06b0-b90d-4a31-88ee-25bb4bb877d0",
+      "prompt": "remove the texts and change the frequency of the lines as if they had continued",
+      "createdAt": "2026-09-17 03:07:35.858654-07"
+    }]
+  }, {
+    "stackName": "Se guardó el fotograma de Headphones with animated sound wave",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "8fd8d99a-a307-4bc5-ba45-4a64c955f085",
+    "editStackMedia": [{
+      "mediaId": "0f356267-a941-49e7-9c67-47eb0dacd795",
+      "createdAt": "2026-09-17 03:05:21.388741-07"
+    }, {
+      "mediaId": "e8701298-a504-4421-bdcf-99432f62874c",
+      "parentMediaId": "0f356267-a941-49e7-9c67-47eb0dacd795",
+      "prompt": "Here is the translated image prompt, following your instructions:\n\n\"Without logos or watermarks, improve the image quality and keep all other elements identical, as it is the continuation of a video.\"",
+      "createdAt": "2026-09-17 03:06:01.256445-07"
+    }, {
+      "mediaId": "8fd8d99a-a307-4bc5-ba45-4a64c955f085",
+      "parentMediaId": "e8701298-a504-4421-bdcf-99432f62874c",
+      "prompt": "no text",
+      "createdAt": "2026-09-17 03:07:55.621800-07"
+    }]
+  }, {
+    "stackName": "image.png",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "collectionId": "",
+    "primaryMediaId": "38d82794-8e1c-4028-8455-e81c672462e4",
+    "editStackMedia": [{
+      "mediaId": "38d82794-8e1c-4028-8455-e81c672462e4",
+      "createdAt": "2026-09-17 01:41:42.725878-07"
+    }, {
+      "mediaId": "8a51a3a2-b876-4892-a6b9-870261c5507c",
+      "parentMediaId": "38d82794-8e1c-4028-8455-e81c672462e4",
+      "prompt": "Here is the translated image prompt:\n\n\"A close-up of their face, with a neutral expression.\"",
+      "createdAt": "2026-09-17 02:04:43.688896-07"
+    }, {
+      "mediaId": "0c85dbf7-dcbc-4b44-aa0e-8e21554a451a",
+      "parentMediaId": "38d82794-8e1c-4028-8455-e81c672462e4",
+      "prompt": "make it full body",
+      "createdAt": "2026-09-17 02:12:30.278809-07"
+    }]
+  }, {
+    "stackName": "La antorcha en mano izquierda",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "52541d81-d6be-454f-8086-c6fa90fdf5de",
+    "editStackMedia": [{
+      "mediaId": "016b0562-f614-407f-81ad-ef56609e79f8",
+      "prompt": "La la antorcha la debe de tener en la mano izquierda hacia abajo",
+      "createdAt": "2026-07-09 11:30:00.531751-07"
+    }, {
+      "mediaId": "52541d81-d6be-454f-8086-c6fa90fdf5de",
+      "parentMediaId": "016b0562-f614-407f-81ad-ef56609e79f8",
+      "prompt": "Bor borré el background",
+      "createdAt": "2026-07-09 11:33:54.409985-07"
+    }]
+  }, {
+    "stackName": "Most loved color film stocks",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "9972d3cc-0586-4337-acc1-fed57d2e5edd",
+    "editStackMedia": [{
+      "mediaId": "9972d3cc-0586-4337-acc1-fed57d2e5edd",
+      "prompt": "Definitiva   Los stocks de película color más queridos, usados y recomendados por fotógrafos y creadores. Ordenados por popularidad y carácter visual.  01. Cinestill 800T\r\n02. Kodak Portra 800\r\n03. Kodak Portra 400\r\n04. Kodak Portra 160\r\n05. Lomography Color Negative 800\r\n06. Fujifilm Pro 400H\r\n07. Kodak Ektar 100\r\n08. Kodak Ektachrome E100\r\n09. Fujifilm Superia 400\r\n10. Lomography X-Pro 200\r\n11. Kodak Gold 200\r\n12. Fujifilm Velvia 50\r\n13. Kodak Ultramax 400\r\n14. Cinestill 50D\r\n15. Fujifilm Pro 400H (2da mención)\r\n16. Lomography Color Negative 400\r\n17. Kodak Vision3 500T\r\n18. Kodak Vision3 250D\r\n19. Agfa Vista Plus 200\r\n20. Fujifilm Superia X-Tra 400  21-50 (Continuación):\r\n21. Revolog Kolor\r\n22. Adox Color Implosion\r\n23. Lomography Redscale\r\n24. Cinestill 400D\r\n25. Kodak Portra 800 (push)\r\n26. Fujifilm 400H\r\n27. Kodak Gold 100\r\n28. Polaroid Color\r\n29. Fujifilm Instax (color)\r\n30. Kodak Ektachrome 100\r\n31. Lomography Diana F+ Color\r\n32. Rollei Color\r\n33. Kodak Aerochrome (infrarrojo color)\r\n34. Fujifilm Velvia 100\r\n35. Kodak Portra 100T\r\n36. Cinestill 800T (expired)\r\n37. Agfa Vista 400\r\n38. Lomography Metropolis\r\n39. Kodak Vision3 50D\r\n40. Fujifilm Provia 100F",
+      "createdAt": "2026-07-09 12:30:34.070123-07"
+    }, {
+      "mediaId": "9ca37da0-1433-4b37-9f0c-f0e5ae820266",
+      "createdAt": "2026-08-04 02:40:55.327573-07"
+    }, {
+      "mediaId": "dc121f70-a792-47e8-a5b7-7c2dd3c78e2c",
+      "parentMediaId": "9972d3cc-0586-4337-acc1-fed57d2e5edd",
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\nDefinitive: The most loved, used, and recommended color film stocks by photographers and creators. Ordered by popularity and visual character.\n\n01. Cinestill 800T\n02. Kodak Portra 800\n03. Kodak Portra 400\n04. Kodak Portra 160\n05. Lomography Color Negative 800\n06. Fujifilm Pro 400H\n07. Kodak Ektar 100\n08. Kodak Ektachrome E100\n09. Fujifilm Superia 400\n10. Lomography X-Pro 200\n11. Kodak Gold 200\n12. Fujifilm Velvia 50\n13. Kodak Ultramax 400\n14. Cinestill 50D\n15. Fujifilm Pro 400H (2nd mention)\n16. Lomography Color Negative 400\n17. Kodak Vision3 500T\n18. Kodak Vision3 250D\n19. Agfa Vista Plus 200\n20. Fujifilm Superia X-Tra 400\n\n21-50 (Continuation):\n21. Revolog Kolor\n22. Adox Color Implosion\n23. Lomography Redscale\n24. Cinestill 400D\n25. Kodak Portra 800 (push)\n26. Fujifilm 400H\n27. Kodak Gold 100\n28. Polaroid Color\n29. Fujifilm Instax (color)\n30. Kodak Ektachrome 100\n31. Lomography Diana F+ Color\n32. Rollei Color\n33. Kodak Aerochrome (color infrared)\n34. Fujifilm Velvia 100\n35. Kodak Portra 100T\n36. Cinestill 800T (expired)\n37. Agfa Vista 400\n38. Lomography Metropolis\n39. Kodak Vision3 50D\n40. Fujifilm Provia 100F",
+      "createdAt": "2026-08-04 02:41:45.323157-07"
+    }, {
+      "mediaId": "ce4729ac-a75a-45e9-8f54-22386b98d66f",
+      "createdAt": "2026-08-04 02:42:21.429073-07"
+    }]
+  }, {
+    "stackName": "Me gusta fondo imagen elementos",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "00296df4-197e-468a-b638-e8838083f097",
+    "editStackMedia": [{
+      "mediaId": "83a8ba94-9306-4dcf-a390-e8012d1d8f27",
+      "prompt": "Me me gusta el fondo de la imagen uno pero con todos los elementos de la segunda imagen",
+      "createdAt": "2026-07-09 11:33:18.090966-07"
+    }, {
+      "mediaId": "00296df4-197e-468a-b638-e8838083f097",
+      "parentMediaId": "83a8ba94-9306-4dcf-a390-e8012d1d8f27",
+      "prompt": "La el fondo es lo más oscuro y la cadena debe de estar unida a la base al círculo que tiene la base",
+      "createdAt": "2026-07-09 11:35:07.942386-07"
+    }]
+  }, {
+    "stackName": "Hombre en andén del Metro",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "864bd20c-50b0-4946-8786-c0b25e5dd50d",
+    "editStackMedia": [{
+      "mediaId": "4b3dcd5d-6235-4be7-9711-a21f26507335",
+      "prompt": "Me gusta mucho la vibra de la canción: es una mezcla de nostalgia, arrepentimiento, esperanza y amor que quiere una segunda oportunidad, con una producción de Mariachi Pop moderna. Además, usaré tu hoja de referencia para mantener tu identidad y rasgos consistentes.\n\nAquí tienes 4 conceptos cinematográficos. Todos son verticales 9:16, hiperrealistas y pensados para portada de sencillo o video musical.\n\n\n---\n\nPrompt 1 — \"El último tren\" ⭐ (Más cinematográfico)\n\nTítulo: Esta vez\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta como referencia absoluta de identidad. Conserva exactamente el rostro, barba, peinado, tono de piel y proporciones faciales.\n\nFotografía hiperrealista estilo cine, formato vertical 9:16.\n\nUn hombre permanece completamente inmóvil sobre el andén del Metro de la Ciudad de México durante la hora azul, mientras un tren pasa a toda velocidad creando un intenso desenfoque de movimiento. Lleva una camiseta negra sencilla, expresión melancólica pero llena de esperanza, como si esperara volver a ver al amor de su vida.\n\nLas luces del metro iluminan suavemente su rostro. El viento mueve ligeramente su cabello. Al fondo, el tren crea estelas de luz roja y blanca.\n\nLa escena transmite arrepentimiento, segundas oportunidades y la promesa de no volver a soltar a quien ama.\n\nPaleta de colores: Azules profundos, ámbar cálido, reflejos rojos del metro.\n\nEstilo: Cinematográfico, Kodak Vision3, profundidad de campo, lente anamórfico, iluminación volumétrica, ultra realista, fotografía editorial, emociones contenidas, 8K.\n\n\n---\n\nPrompt 2 — \"Bajo la lluvia\"\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta como referencia absoluta del personaje.\n\nFormato 9:16.\n\nNoche lluviosa en una calle del Centro Histórico de la Ciudad de México. El hombre camina lentamente bajo una lluvia intensa sin paraguas. Lleva camiseta negra y pantalón negro.\n\nLas luces cálidas de los faroles y los reflejos sobre el pavimento mojado crean una atmósfera romántica.\n\nAl fondo, un mariachi desenfocado toca trompetas y violines bajo un toldo iluminado.\n\nEl personaje mira hacia arriba con una mezcla de tristeza y esperanza, como si aún creyera que alguien aparecerá.\n\nLa lluvia representa el arrepentimiento mientras las luces representan una nueva oportunidad.\n\nEstilo cinematográfico moderno, colores cálidos y fríos contrastados, profundidad de campo, fotografía editorial, ultra realista, lente 50 mm, iluminación volumétrica, 8K.\n\n\n---\n\nPrompt 3 — \"La promesa\"\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta para conservar exactamente la identidad del personaje.\n\nFormato vertical 9:16.\n\nAtardecer dorado sobre un puente peatonal de la Ciudad de México.\n\nEl hombre permanece apoyado sobre el barandal sosteniendo una pequeña fotografía antigua entre sus manos.\n\nNo mira la fotografía.\n\nMira directamente al horizonte mientras el sol ilumina únicamente la mitad de su rostro.\n\nDetrás de él aparecen desenfocados los edificios y el tráfico creando un hermoso bokeh.\n\nLa expresión transmite aceptación, nostalgia y esperanza.\n\nLa escena representa la frase:\n\n\"Si nos volvemos a encontrar... prometo no soltarte.\"\n\nFotografía editorial, luz dorada, anamórfico, película Kodak, tonos cálidos, ultra realista, composición minimalista, profundidad de campo, 8K.\n\n\n---\n\nPrompt 4 — \"Mariachi Pop\" 🎺❤️ (El más artístico)\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta como referencia absoluta del rostro.\n\nFormato vertical 9:16.\n\nRetrato cinematográfico hiperrealista.\n\nEl personaje aparece de pie en primer plano con expresión profundamente emotiva.\n\nDetrás de él, ligeramente desenfocados y bañados por una luz cálida, aparecen músicos de mariachi interpretando trompetas, violines y guitarrón.\n\nMiles de pequeñas partículas doradas flotan en el aire como si fueran recuerdos.\n\nLas notas musicales parecen transformarse en destellos luminosos alrededor del personaje.\n\nLa iluminación cálida envuelve toda la escena con un ambiente romántico y esperanzador.\n\nEl fondo mezcla la arquitectura tradicional mexicana con una estética moderna de videoclip.\n\nPaleta: Dorado, negro, rojo vino, azul profundo.\n\nEstilo: Portada de álbum, fotografía editorial, cine mexicano contemporáneo, ultra realista, iluminación volumétrica, profundidad de campo, textura de película Kodak, 8K.\n\n\n---\n\nMi orden de preferencia para esta canción sería:\n\n1. 🚇 El último tren (el que mejor cuenta la historia).\n\n\n2. 🎺 Mariachi Pop (ideal como portada del sencillo).\n\n\n3. 🌧️ Bajo la lluvia (muy emocional).\n\n\n4. 🌅 La promesa (más íntimo y reflexivo).\n",
+      "createdAt": "2026-07-08 04:49:35.254112-07"
+    }, {
+      "mediaId": "864bd20c-50b0-4946-8786-c0b25e5dd50d",
+      "parentMediaId": "4b3dcd5d-6235-4be7-9711-a21f26507335",
+      "prompt": "Los efectos de luz de la imagen superior derecha borrarlos todo debe ser en estilo 3photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-07-08 04:54:54.926552-07"
+    }]
+  }, {
+    "stackName": "3x3 grid photo collage",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "e197fcfa-2dae-49d1-b38a-e99ed2ea5e00",
+    "editStackMedia": [{
+      "mediaId": "e197fcfa-2dae-49d1-b38a-e99ed2ea5e00",
+      "prompt": "Create a 3×3 grid photo collage with high-contrast black-and-white aesthetics.\n\nFace Reference:\n\nStrict face preservation.\n\nUse the uploaded reference for exact facial features.\n\nKeep the face identical across all nine frames.\n\nGrid Composition:\n\n3×3 layout.\n\nPose variety:\n\nIntense direct stare\n\nSilhouette backlit\n\nHands covering face with one eye peeking\n\nStrong side profile\n\nFull-body power stance\n\nEyes-only close-up\n\nMotion blur\n\nContemplative downward gaze\n\nLaughing candid\n\nSubject:\n\nSame person as the reference.\n\nSimple black turtleneck.\n\nTimeless, artistic presence.\n\nEnvironment:\n\nMinimal studio.\n\nGrey gradient or geometric background.\n\nDramatic directional lighting with hard shadows and extreme contrast.\n\nImage Quality:\n\n8K color\n\nFine-art film grain.\n\nEditorial portrait style inspired by Irving Penn and Richard Avedon.\n\nNegative Prompt:\n\nFlat lighting\n\nDifferent face\n\nAltered facial features\n\nOutput:\n\n3×3 grid\n\n9:16 aspect ratio\n\nImportante Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-07-08 04:35:33.939205-07"
+    }, {
+      "mediaId": "47f45eaf-9240-45b0-b6f2-945c542ae366",
+      "createdAt": "2026-07-09 12:45:41.623611-07"
+    }]
+  }, {
+    "stackName": "Horizontal size translation",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "primaryMediaId": "3290f913-e627-487c-802e-0312713bba7e",
+    "editStackMedia": [{
+      "mediaId": "e8401f54-84fd-48b9-84ea-54f75b850fe5",
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n**Horizontal size.**",
+      "createdAt": "2026-08-10 20:46:20.876860-07"
+    }, {
+      "mediaId": "58394fdb-3959-4e6b-85b0-7ef646768079",
+      "parentMediaId": "e8401f54-84fd-48b9-84ea-54f75b850fe5",
+      "prompt": "Here\u0027s the translated image prompt:\n\nChange the papaya for the peach.",
+      "createdAt": "2026-08-18 15:40:28.959634-07"
+    }, {
+      "mediaId": "68e0549e-5818-4e8f-80ff-8396ec346bb8",
+      "parentMediaId": "58394fdb-3959-4e6b-85b0-7ef646768079",
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Put a whole bitten peach and change cucumber to eggplant.\"",
+      "createdAt": "2026-08-18 15:41:28.619945-07"
+    }, {
+      "mediaId": "cd433aca-22ca-451c-abd0-43a16545b5f5",
+      "parentMediaId": "68e0549e-5818-4e8f-80ff-8396ec346bb8",
+      "prompt": "Change the eggplant to a cucumber.",
+      "createdAt": "2026-10-06 04:39:59.312783-07"
+    }, {
+      "mediaId": "53ce6f1e-95db-426e-b4af-f3aaf995f20e",
+      "parentMediaId": "cd433aca-22ca-451c-abd0-43a16545b5f5",
+      "prompt": "Change the peach to a red rose and the Pepito to a fist.",
+      "createdAt": "2026-10-06 04:41:44.634009-07"
+    }, {
+      "mediaId": "3290f913-e627-487c-802e-0312713bba7e",
+      "parentMediaId": "53ce6f1e-95db-426e-b4af-f3aaf995f20e",
+      "prompt": "Change the rose for a hole emoji and make the fist in emoji style.",
+      "createdAt": "2026-10-06 04:43:17.024892-07"
+    }]
+  }, {
+    "stackName": "Red velvet fabric texture folds",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "primaryMediaId": "239b0bc4-7a96-45b6-b4e3-0c371939b9d9",
+    "editStackMedia": [{
+      "mediaId": "239b0bc4-7a96-45b6-b4e3-0c371939b9d9",
+      "prompt": "Close-up macro texture of red velvet fabric with soft folds and shadows, luxurious and sensual, studio lighting, high-end album cover background\n\n**Texto (ES):** bordado o grabado en relieve, dorado sutil.",
+      "createdAt": "2026-08-04 23:55:36.558797-07"
+    }, {
+      "mediaId": "1cd369b8-eaf4-47d1-b651-e138a19c500c",
+      "createdAt": "2026-08-18 15:38:01.906689-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "26849c5f-841a-4a02-98d0-25b65b4a22f6",
+    "editStackMedia": [{
+      "mediaId": "26849c5f-841a-4a02-98d0-25b65b4a22f6",
+      "prompt": "Borra los textos la parte inferior y el texto de ricasbarmoniasnybtromoetas brillantes ponlo abajo de \"la esperanza\" ",
+      "createdAt": "2026-07-09 12:52:24.559922-07"
+    }, {
+      "mediaId": "d9b2fd52-6761-4c1d-86ea-e2f1cf4bf2e3",
+      "createdAt": "2026-07-24 05:57:21.870485-07"
+    }]
+  }, {
+    "stackName": "Surreal apocalyptic Mexico City …",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "primaryMediaId": "590a9f82-040b-4bcf-ac60-e55daf776088",
+    "editStackMedia": [{
+      "mediaId": "26364e9c-2f8d-414d-8688-b7cc9d195064",
+      "prompt": "A surreal apocalyptic cinematic sequence where reality folds in on itself, set in Mexico: a colossal tsunami curls into a gigantic ocean vortex with iconic Mexican skyscrapers and colonial buildings (like Mexico City skyline mixed with historic structures) embedded inside its walls. Fires, explosions, and a tilting cargo ship caught in the chaos near the coast. The sky transforms into an upside-down floating metropolis featuring floating Aztec-inspired pyramids, cathedrals, and modern towers, while smoke, clouds, and glowing fires engulf the streets of a Mexican city below. A mirrored version of Mexico City hangs above the skyline as black smoke, falling debris, massive explosions, and volcanic ash connect both worlds. The camera races dynamically through a colossal portal-like vortex formed by curved bridges (inspired by Mexican architecture), swirling oceans, fractured land with cenotes, spinning skyscrapers, and ancient ruins, ending in a blazing fireball at the eye of the storm. Ultra-realistic, hyper-detailed, cinematic lighting, volumetric clouds, dynamic camera movement, epic scale, IMAX quality, 8K. Duration: Exactly 10 seconds, fast-paced and intense.havlan en español, no subtitulos no textos.",
+      "createdAt": "2026-08-04 02:04:19.925257-07"
+    }, {
+      "mediaId": "590a9f82-040b-4bcf-ac60-e55daf776088",
+      "parentMediaId": "26364e9c-2f8d-414d-8688-b7cc9d195064",
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "createdAt": "2026-08-04 02:08:41.412388-07"
+    }]
+  }, {
+    "stackName": "Headphones musical staff flowing…",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "bc864206-4ec8-4d9b-8049-b3da2d6dfcab",
+    "editStackMedia": [{
+      "mediaId": "ccea670d-774c-46d3-9b7a-8dd375c1c0ea",
+      "prompt": "Seamless infinite loop animation, perfectly centered composition. The white-lined headphones remain completely static. The golden musical staff, notes, and subtle dust particles flow smoothly outward in a continuous, gentle motion. The heart shape at the end of the staff remains completely static, unlit, and without any glowing or pulsing effects. Deep dark background, clean 2D motion graphics style, perfectly loopable.",
+      "createdAt": "2026-04-27 22:12:14.746063-07"
+    }, {
+      "mediaId": "53fd8726-ff7d-4474-9c2a-42977ab23fbf",
+      "createdAt": "2026-07-08 04:24:01.307738-07"
+    }, {
+      "mediaId": "959d85e2-2be2-4db1-9904-4210557d1ad5",
+      "parentMediaId": "53fd8726-ff7d-4474-9c2a-42977ab23fbf",
+      "prompt": "Hazlo en un estilo neon ",
+      "createdAt": "2026-07-08 04:24:05.487886-07"
+    }, {
+      "mediaId": "bc864206-4ec8-4d9b-8049-b3da2d6dfcab",
+      "parentMediaId": "ccea670d-774c-46d3-9b7a-8dd375c1c0ea",
+      "prompt": "Adáptalo a tamaño vertical ",
+      "createdAt": "2026-07-08 04:25:29.994377-07"
+    }]
+  }, {
+    "stackName": "1777354363262.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "473732a8-a330-4415-825e-30e9ef2bb22d",
+    "editStackMedia": [{
+      "mediaId": "731064cd-f651-4b6d-82c4-68c653b19520",
+      "parentMediaId": "57221452-587e-4da3-8414-316db80d38d3",
+      "prompt": "Remove the watermark and improve the image quality.",
+      "createdAt": "2026-09-17 03:09:35.457545-07"
+    }, {
+      "mediaId": "473732a8-a330-4415-825e-30e9ef2bb22d",
+      "parentMediaId": "731064cd-f651-4b6d-82c4-68c653b19520",
+      "prompt": "Adapt to vertical size.",
+      "createdAt": "2026-09-17 03:10:56.913858-07"
+    }]
+  }, {
+    "stackName": "Se guardó el fotograma de Cheer up image Apply edit",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "2487ed7d-191c-4ea6-94b7-10fc96c53598",
+    "editStackMedia": [{
+      "mediaId": "2e0fd2e3-bb7e-46b9-a111-b517ca5c8d16",
+      "createdAt": "2026-09-17 03:01:32.241648-07"
+    }, {
+      "mediaId": "2487ed7d-191c-4ea6-94b7-10fc96c53598",
+      "parentMediaId": "2e0fd2e3-bb7e-46b9-a111-b517ca5c8d16",
+      "prompt": "no text, the rest of the image leave it identical.",
+      "createdAt": "2026-09-17 03:02:05.204333-07"
+    }]
+  }, {
+    "stackName": "Surreal apocalyptic Mexico City …",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "primaryMediaId": "39472aa8-e36d-4a27-adcf-b5c8db3c0363",
+    "editStackMedia": [{
+      "mediaId": "39472aa8-e36d-4a27-adcf-b5c8db3c0363",
+      "prompt": "A surreal apocalyptic cinematic sequence where reality folds in on itself, set in Mexico: a colossal tsunami curls into a gigantic ocean vortex with iconic Mexican skyscrapers and colonial buildings (like Mexico City skyline mixed with historic structures) embedded inside its walls. Fires, explosions, and a tilting cargo ship caught in the chaos near the coast. The sky transforms into an upside-down floating metropolis featuring floating Aztec-inspired pyramids, cathedrals, and modern towers, while smoke, clouds, and glowing fires engulf the streets of a Mexican city below. A mirrored version of Mexico City hangs above the skyline as black smoke, falling debris, massive explosions, and volcanic ash connect both worlds. The camera races dynamically through a colossal portal-like vortex formed by curved bridges (inspired by Mexican architecture), swirling oceans, fractured land with cenotes, spinning skyscrapers, and ancient ruins, ending in a blazing fireball at the eye of the storm. Ultra-realistic, hyper-detailed, cinematic lighting, volumetric clouds, dynamic camera movement, epic scale, IMAX quality, 8K. Duration: Exactly 10 seconds, fast-paced and intense.havlan en español, no subtitulos no textos.photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "createdAt": "2026-08-04 02:08:33.205945-07"
+    }, {
+      "mediaId": "2014d7c1-981b-4704-b812-0b428168e8aa",
+      "parentMediaId": "39472aa8-e36d-4a27-adcf-b5c8db3c0363",
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "createdAt": "2026-08-04 02:09:40.141529-07"
+    }]
+  }, {
+    "stackName": "Top 50 Color Film Types",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "f1a5f9a3-4831-408a-9938-3f88b3d70fb8",
+    "editStackMedia": [{
+      "mediaId": "f1a5f9a3-4831-408a-9938-3f88b3d70fb8",
+      "prompt": "TOP 50 Color Film Types – La Lista Definitiva   Los stocks de película color más queridos, usados y recomendados por fotógrafos y creadores. Ordenados por popularidad y carácter visual.  01. Cinestill 800T\r\n02. Kodak Portra 800\r\n03. Kodak Portra 400\r\n04. Kodak Portra 160\r\n05. Lomography Color Negative 800\r\n06. Fujifilm Pro 400H\r\n07. Kodak Ektar 100\r\n08. Kodak Ektachrome E100\r\n09. Fujifilm Superia 400\r\n10. Lomography X-Pro 200\r\n11. Kodak Gold 200\r\n12. Fujifilm Velvia 50\r\n13. Kodak Ultramax 400\r\n14. Cinestill 50D\r\n15. Fujifilm Pro 400H (2da mención)\r\n16. Lomography Color Negative 400\r\n17. Kodak Vision3 500T\r\n18. Kodak Vision3 250D\r\n19. Agfa Vista Plus 200\r\n20. Fujifilm Superia X-Tra 400  21-50 (Continuación):\r\n21. Revolog Kolor\r\n22. Adox Color Implosion\r\n23. Lomography Redscale\r\n24. Cinestill 400D\r\n25. Kodak Portra 800 (push)\r\n26. Fujifilm 400H\r\n27. Kodak Gold 100\r\n28. Polaroid Color\r\n29. Fujifilm Instax (color)\r\n30. Kodak Ektachrome 100\r\n31. Lomography Diana F+ Color\r\n32. Rollei Color\r\n33. Kodak Aerochrome (infrarrojo color)\r\n34. Fujifilm Velvia 100\r\n35. Kodak Portra 100T\r\n36. Cinestill 800T (expired)\r\n37. Agfa Vista 400\r\n38. Lomography Metropolis\r\n39. Kodak Vision3 50D\r\n40. Fujifilm Provia 100F\r\n41. Kodak Elite Chrome\r\n42. 3M Scotch Color\r\n43. Orwo Color\r\n44. Svema Color\r\n45. Kodak Ektar 25\r\n46. Fujifilm Superia 200\r\n47. Lomography X-Pro Slide\r\n48. Polaroid Originals Color\r\n49. Expired Film (variedad)\r\n50. Cinestill 800T pushed to 3200\r\n\r",
+      "createdAt": "2026-07-08 09:06:53.379146-07"
+    }, {
+      "mediaId": "7ffb01b7-a662-4348-8742-8f194748c3de",
+      "createdAt": "2026-07-08 09:07:31.997445-07"
+    }]
+  }, {
+    "stackName": "1000636012.png",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "collectionId": "",
+    "primaryMediaId": "dd541a84-1a12-4077-b61f-0ef58ebf7593",
+    "editStackMedia": [{
+      "mediaId": "c5cda6fd-7d54-4f15-991b-a2ae8f0d105b",
+      "createdAt": "2026-07-09 11:09:01.020033-07"
+    }, {
+      "mediaId": "2638a99d-79bb-4b72-bc24-bfa82e5ea847",
+      "parentMediaId": "c5cda6fd-7d54-4f15-991b-a2ae8f0d105b",
+      "prompt": "Adáptalo a tamaño horizontal ",
+      "createdAt": "2026-07-09 11:11:37.509944-07"
+    }, {
+      "mediaId": "dd541a84-1a12-4077-b61f-0ef58ebf7593",
+      "parentMediaId": "2638a99d-79bb-4b72-bc24-bfa82e5ea847",
+      "prompt": "La planta de lisnoiez deben verse , sus brazos ponlos a los lados",
+      "createdAt": "2026-07-09 11:48:34.037941-07"
+    }]
+  }, {
+    "stackName": "Mariachi Pop song lyrics",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "52acbb99-ddd9-4100-89b7-bcd8b754e51b",
+    "editStackMedia": [{
+      "mediaId": "52acbb99-ddd9-4100-89b7-bcd8b754e51b",
+      "prompt": "melancholic, hopeful Mariachi Pop, Spanish male vocals, rich male vocal harmonies in chorus, bright trumpets, lush violins, driving guitarrón groove, steady rhythmic drive, warm intimate production [Intro: Bright trumpets, lush violins, guitarrón groove, 8 bars]\n\n[Verse 1]\nMil razones para no caer\nno hay tiempo para sentimientos\nFueron más las cosas que callé  que tus besos y ahora me arrepiento\nSé que cuando yo te di , esperé sentir  y volverlo personal\nY ahora que no estás aquí  tengo que admitir que no pienso en nadie más\n\n[Chorus]\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\n\n[Verse 2]\nRecuperar las noches que perdí\nQue no valieron na\u0027sin ti\nY siempre me despierto pensando en ti\nPor eso ya no quiero dejarte ir\n\n[Chorus]\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\n\n[Bridge]\nEl silencio grita tu nombre en mi cuarto vacío\nY el espejo repite lo que el alma ya sabe\nNo fue un error  fue solo miedo disfrazado\nDe orgullo… y ya no más\n\n[Inst: Trumpets swell, strings sustain, 4 bars]\n\n[Chorus]\nEsta vez  te diré\nSi nos volvemos a encontrar  prometo no soltarte\nEsta vez  te juraré\nQue el pasado se queda atrás  y contigo me quedo\n\n[Outro: Trumpets fade, violins warm decay, guitarrón heartbeat, 6 bars]///👉🏻👉🏻👉🏻 haz una imagen en 9:16 en español que refleje esa canción estilo vibra de la canción.. dame 4 promopts y te diré cuál me haces",
+      "createdAt": "2026-07-08 04:42:25.769542-07"
+    }, {
+      "mediaId": "da77e075-e899-4387-b5d3-73196cc5e011",
+      "parentMediaId": "52acbb99-ddd9-4100-89b7-bcd8b754e51b",
+      "prompt": "Cambia al personaje por el de la imagen adjunta. Las tipografías hazlas con transparencia y más elegantes ",
+      "createdAt": "2026-07-09 12:56:26.090948-07"
+    }]
+  }, {
+    "stackName": "Lips near ear whispering",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "primaryMediaId": "d6e69379-4695-497a-8d23-63ab539bc263",
+    "editStackMedia": [{
+      "mediaId": "a61cda1f-4cfc-446a-aa76-6510cf1af456",
+      "prompt": "Oil painting style album cover, chiaroscuro lighting like a Baroque portrait, close-up of lips near an ear whispering, rich burgundy and gold tones, classical fine art aesthetic, tasteful and elegant\n\n**Texto (ES):** serif clásica dorada, como firma de cuadro.",
+      "createdAt": "2026-08-05 01:58:01.876321-07"
+    }, {
+      "mediaId": "d6e69379-4695-497a-8d23-63ab539bc263",
+      "parentMediaId": "a61cda1f-4cfc-446a-aa76-6510cf1af456",
+      "prompt": "Here\u0027s the adapted prompt in English, with the style name identified:\n\n**Prompt:**\n\nAdapt to horizontal format and in silent music, change to the style of the image. The visual style is called **Neo-Mughal**.\n\n**Explanation of the Style:**\n\nNeo-Mughal is a contemporary artistic style that draws inspiration from the rich visual heritage of the Mughal Empire. It often incorporates elements such as:\n\n*   **Intricate patterns and geometric designs:** Echoing the detailed ornamentation found in Mughal architecture and miniature paintings.\n*   **Vibrant color palettes:** Utilizing jewel tones, rich blues, greens, reds, and golds.\n*   **Figurative elements:** Often featuring stylized human figures, animals, and floral motifs, reminiscent of Mughal miniatures.\n*   **A sense of grandeur and opulence:** Conveying a feeling of luxury and historical depth.\n*   **Modern interpretations:** While rooted in tradition, Neo-Mughal art often reinterprets these elements with a contemporary sensibility, sometimes blending them with modern aesthetics or techniques.",
+      "createdAt": "2026-08-13 11:55:07.433715-07"
+    }]
+  }, {
+    "stackName": "image.png",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "collectionId": "",
+    "primaryMediaId": "592c42b2-d422-45b4-bda3-95cae3547b6b",
+    "editStackMedia": [{
+      "mediaId": "fe2f62b6-63b9-488a-97ef-2da2027e32bf",
+      "createdAt": "2026-09-01 01:52:19.213335-07"
+    }, {
+      "mediaId": "592c42b2-d422-45b4-bda3-95cae3547b6b",
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 1-column by 6-row grid layout of vertical 9:16 panels. \n\nSTYLE: Signature Pamela Colman Smith artistic illustrative style. Richly detailed pen and dark black ink line art with organic contours. Soft watercolor and gouache washes with visible paint-pooling borders. Vintage Edwardian folk-art aesthetic. Palette of saturated jewel tones (deep indigo, saffron yellow, madder red, moss green, terracotta). Rendered on heavy, off-white historic watercolor paper with a delicate tooth and subtle texture. \n\nGRID LAYOUT INSTRUCTIONS:\n- 1 column, 6 rows. \n- Each panel has a small, clearly legible blue ink circle with its number (1 to 6) in the top-left corner.\n- Hand-lettered calligraphy at the top or bottom of each panel.\n\nPANEL CONTENTS:\n- Panel 1: A vintage \u0027XV\u0027 tarot card sliding over dark textured velvet. Hand-lettered \u0027PEOR CONDENA\u0027.\n- Panel 2: An artist\u0027s hand using a dip pen to ink a tarot illustration on aged parchment. Hand-lettered \u0027CLAVE OCULTA\u0027.\n- Panel 3: Symmetrical shot of two robed figures looking up at a high ancient stone pedestal. Hand-lettered \u0027DOS FIGURAS\u0027.\n- Panel 4: Extreme close-up of a loose golden circular ribbon on a robed figure\u0027s neck; it is wider than the head. A red hand-drawn arrow points to the gap. Hand-lettered \u0027ARGOLLAS SUELTAS\u0027.\n- Panel 5: Wide angle. A majestic winged figure seated on the tall stone pedestal. A golden flame in a hearth glows below. Symmetrical. Hand-lettered \u0027TU PROPIO MIEDO\u0027.\n- Panel 6: Symmetrical composition. The two figures walking forward into a lush green garden of white roses under a warm rising sun. Hand-lettered \u0027SUELTA TODO\u0027.",
+      "createdAt": "2026-09-01 02:11:01.550518-07"
+    }]
+  }, {
+    "stackName": "Gemini_Generated_Image_ (2).png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "018ad578-7866-4dd7-aeaf-66d41a2a0093",
+    "editStackMedia": [{
+      "mediaId": "ead19cc4-0452-4a2c-8441-6e426b9a360b",
+      "createdAt": "2026-04-27 21:56:54.300919-07"
+    }, {
+      "mediaId": "018ad578-7866-4dd7-aeaf-66d41a2a0093",
+      "parentMediaId": "ead19cc4-0452-4a2c-8441-6e426b9a360b",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:14:07.943026-07"
+    }, {
+      "mediaId": "6ab3bdf3-45c8-42a3-b9ea-b41adeef0f16",
+      "createdAt": "2026-07-08 04:15:01.639264-07"
+    }]
+  }, {
+    "stackName": "K-pop orchestral performance fut…",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "a2e0522e-7c81-4007-9c4c-94c07655ec12",
+    "editStackMedia": [{
+      "mediaId": "87e83bf8-1762-482b-b364-6729f7f6fc36",
+      "prompt": "Cinematic vertical shot of a massive energetic K-pop orchestral performance on a glowing futuristic stage, sweeping violinist leading with glowing bow, lush string section, powerful brass accents, punchy orchestral drums, dancers in colorful outfits, bright golden and neon lights, festive uplifting atmosphere, dynamic motion, sparkling particles, hyper-detailed, modern polished production --ar 9:16 --stylize 200 --v 8.1",
+      "createdAt": "2026-07-08 08:57:01.491178-07"
+    }, {
+      "mediaId": "a2e0522e-7c81-4007-9c4c-94c07655ec12",
+      "parentMediaId": "87e83bf8-1762-482b-b364-6729f7f6fc36",
+      "prompt": "studio lighting, hyper playful bromance --ar 3:2 --stylize 160 --v 8.1 ",
+      "createdAt": "2026-07-08 09:02:37.970612-07"
+    }]
+  }, {
+    "stackName": "Visual storyboard grid layout tarot",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "primaryMediaId": "0fed8170-9291-4d40-887f-6ca8f1a13304",
+    "editStackMedia": [{
+      "mediaId": "5997c553-db9d-4048-a881-c240aa61dcc4",
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 1-column by 6-row grid layout of vertical 9:16 panels. \n\nSTYLE: Classic early 20th-century Rider-Waite-Smith tarot illustration style, in the signature artistic style of Pamela Colman Smith. Distinct hand-drawn black ink outlines, flat and highly symbolic color washes (rich golden yellows, deep lapis lazuli blues, warm organic greens, and brilliant vermilion reds) on aged parchment paper background with subtle paper fiber texture. Symmetrical and theatrical compositions. No modern digital gradients, no 3D elements.\n\nGRID LAYOUT INSTRUCTIONS:\n- The image is a single vertical composite divided into 6 equal vertical panels.\n- Each panel has a small, dark blue ink circle in the top-left corner with the panel number (1 to 6).\n- Thin black ink borders separate each panel.\n\nPANEL CONTENTS:\n- Panel 1 (Top): A vintage tarot card with Roman numeral \u0027XIII\u0027 sliding open over dark textured velvet. Hand-lettered text \u0027TEMOR MEDIEVAL\u0027 at the bottom.\n- Panel 2: An ancient parchment scroll unrolling to reveal a blank tarot card with Roman numeral \u0027XIII\u0027. Hand-lettered \u0027ARCANO SIN NOMBRE\u0027.\n- Panel 3: Side-by-side comparison. Left: skeletal robed figure with wooden scythe. Right: majestic knight in dark grey plate armor on a white horse with a black banner. Text \u0027EL GRAN ERROR\u0027.\n- Panel 4: Close-up of an armored hand holding a black banner with a beautiful five-petaled white rose in the center. Text \u0027ROSA MISTICA\u0027.\n- Panel 5: Landscape with a brilliant golden sun rising between two tall grey stone towers under a warm sky. Text \u0027SOL NACIENTE\u0027.\n- Panel 6 (Bottom): Knight in dark plate armor riding a white horse forward, leaving a dark path behind into a glowing horizon. Hand-lettered \u0027NUEVA VIDA\u0027.",
+      "createdAt": "2026-09-01 01:48:57.850436-07"
+    }, {
+      "mediaId": "e7829ec2-ba5e-40b4-97d5-46ba9fa318ea",
+      "createdAt": "2026-09-01 01:50:06.712395-07"
+    }, {
+      "mediaId": "40c20c01-28ab-4afe-8878-bd959fe60394",
+      "createdAt": "2026-09-01 01:50:09.639298-07"
+    }, {
+      "mediaId": "357b7260-dd07-4b88-9685-426a1e123d7e",
+      "createdAt": "2026-09-01 01:50:14.824755-07"
+    }, {
+      "mediaId": "fbcbc677-410a-4bf7-96d4-df6ebee0d2c0",
+      "parentMediaId": "5997c553-db9d-4048-a881-c240aa61dcc4",
+      "prompt": "a la muerte de gudaña cambiala por la de marsella, y el arte en general debe ser como el del mazo raider ",
+      "createdAt": "2026-09-01 01:50:57.225547-07"
+    }, {
+      "mediaId": "92c16f7d-95d1-4b66-95c6-b132a3caf65e",
+      "parentMediaId": "5997c553-db9d-4048-a881-c240aa61dcc4",
+      "prompt": "a la muerte de gudaña cambiala por la de marsella, y el arte en general debe ser como el del mazo raider ",
+      "createdAt": "2026-09-01 01:52:51.543857-07"
+    }, {
+      "mediaId": "38e8fc4e-dc4a-45d4-903e-133062e3e358",
+      "createdAt": "2026-09-01 01:54:41.282980-07"
+    }, {
+      "mediaId": "eabcdea2-911c-4186-9130-7cefddf398a1",
+      "createdAt": "2026-09-01 01:54:42.604371-07"
+    }, {
+      "mediaId": "0fed8170-9291-4d40-887f-6ca8f1a13304",
+      "parentMediaId": "5997c553-db9d-4048-a881-c240aa61dcc4",
+      "prompt": "cambia a la muerte que esta seleccionada en la versión de marsella. ",
+      "createdAt": "2026-09-01 01:55:09.784004-07"
+    }]
+  }, {
+    "stackName": "1000634396.jpg",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "collectionId": "",
+    "primaryMediaId": "e1407541-bd75-474e-947d-247cfb0e1506",
+    "editStackMedia": [{
+      "mediaId": "e1ea7098-2f7e-4ada-a620-3f9302448509",
+      "createdAt": "2026-07-08 09:15:27.225316-07"
+    }, {
+      "mediaId": "20a54e31-698d-462d-9c2e-aaf01ff0b289",
+      "createdAt": "2026-07-08 09:16:39.051103-07"
+    }, {
+      "mediaId": "4a290a0a-88ac-4264-9e3d-66cc59d1f08d",
+      "parentMediaId": "20a54e31-698d-462d-9c2e-aaf01ff0b289",
+      "prompt": "Cambiabsus tatuajes de rostro ",
+      "createdAt": "2026-07-08 09:17:13.618777-07"
+    }, {
+      "mediaId": "f7dbe05e-70a9-4d91-b672-439b2fb5dbdc",
+      "createdAt": "2026-07-08 09:20:42.804510-07"
+    }, {
+      "mediaId": "c81d4443-5e45-4dc8-a6d0-2431336719f7",
+      "createdAt": "2026-07-08 09:21:57.635002-07"
+    }, {
+      "mediaId": "0fa06f1f-a8a0-4a9f-ac3a-430b1f5bed0f",
+      "parentMediaId": "c81d4443-5e45-4dc8-a6d0-2431336719f7",
+      "prompt": "Cambio de posición más serio ",
+      "createdAt": "2026-07-08 09:22:02.099910-07"
+    }, {
+      "mediaId": "dacd5e3f-7db6-406b-90c7-90b6d735c5c3",
+      "parentMediaId": "4a290a0a-88ac-4264-9e3d-66cc59d1f08d",
+      "prompt": "Expande la imagen y debe estar sentado echado para atrás ",
+      "createdAt": "2026-07-08 09:23:52.479571-07"
+    }, {
+      "mediaId": "3a759d1a-fd1e-45fa-8454-0b067769f050",
+      "createdAt": "2026-07-08 09:24:12.190995-07"
+    }, {
+      "mediaId": "d1345975-6bce-4e0e-b67b-e29e4a296a3e",
+      "parentMediaId": "dacd5e3f-7db6-406b-90c7-90b6d735c5c3",
+      "prompt": "Cinestill 800T pushed to 3200\r\n\r",
+      "createdAt": "2026-07-08 09:24:31.079924-07"
+    }, {
+      "mediaId": "0b8e5c32-14ff-48a0-b97b-3806abc1475e",
+      "parentMediaId": "d1345975-6bce-4e0e-b67b-e29e4a296a3e",
+      "prompt": "Kodak Portra 100T\r\n\r",
+      "createdAt": "2026-07-08 09:24:55.792078-07"
+    }, {
+      "mediaId": "e1407541-bd75-474e-947d-247cfb0e1506",
+      "parentMediaId": "0b8e5c32-14ff-48a0-b97b-3806abc1475e",
+      "prompt": "Agfa Vista 400TOP 50 Color Film Types – La Lista Definitiva   Los stocks de película color más queridos, usados y recomendados por fotógrafos y creadores. Ordenados por popularidad y carácter visual.  01. Cinestill 800T\r\n02. Kodak Portra 800\r\n03. Kodak Portra 400\r\n04. Kodak Portra 160\r\n05. Lomography Color Negative 800\r\n06. Fujifilm Pro 400H\r\n07. Kodak Ektar 100\r\n08. Kodak Ektachrome E100\r\n09. Fujifilm Superia 400\r\n10. Lomography X-Pro 200\r\n11. Kodak Gold 200\r\n12. Fujifilm Velvia 50\r\n13. Kodak Ultramax 400\r\n14. Cinestill 50D\r\n15. Fujifilm Pro 400H (2da mención)\r\n16. Lomography Color Negative 400\r\n17. Kodak Vision3 500T\r\n18. Kodak Vision3 250D\r\n19. Agfa Vista Plus 200\r\n20. Fujifilm Superia X-Tra 400  21-50 (Continuación):\r\n21. Revolog Kolor\r\n22. Adox Color Implosion\r\n23. Lomography Redscale\r\n24. Cinestill 400D\r\n25. Kodak Portra 800 (push)\r\n26. Fujifilm 400H\r\n27. Kodak Gold 100\r\n28. Polaroid Color\r\n29. Fujifilm Instax (color)\r\n30. Kodak Ektachrome 100\r\n31. Lomography Diana F+ Color\r\n32. Rollei Color\r\n33. Kodak Aerochrome (infrarrojo color)\r\n34. Fujifilm Velvia 100\r\n35. Kodak Portra 100T\r\n36. Cinestill 800T (expired)\r\n37. Agfa Vista 400\r\n38. Lomography Metropolis\r\n39. Kodak Vision3 50D\r\n40. Fujifilm Provia 100F\r\n41. Kodak Elite Chrome\r\n42. 3M Scotch Color\r\n43. Orwo Color\r\n44. Svema Color\r\n45. Kodak Ektar 25\r\n46. Fujifilm Superia 200\r\n47. Lomography X-Pro Slide\r\n48. Polaroid Originals Color\r\n49. Expired Film (variedad)\r\n50. Cinestill 800T pushed to 3200\r\n\r\n\n",
+      "createdAt": "2026-07-08 09:25:05.023570-07"
+    }, {
+      "mediaId": "23c421c0-3aa5-43a6-87f8-86da11363f0b",
+      "parentMediaId": "e1407541-bd75-474e-947d-247cfb0e1506",
+      "prompt": "Polaroid Originals Color\r\n\r",
+      "createdAt": "2026-07-08 09:26:19.039042-07"
+    }]
+  }, {
+    "stackName": "Man flexing bicep glowing eyes",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "57121c24-56ac-4cec-b9bd-a6c405d9c8c7",
+    "editStackMedia": [{
+      "mediaId": "3f5ee3a8-e508-4bc7-b55a-f6fbca39b656",
+      "prompt": "man with short dark hair and beard, wearing black tank top and shiny pants, flexing powerful bicep intensely, glowing natural neon green eyes with electric cracks and sparks on face and arm, particles and energy floating around, confident to evil demonic smile, ruined industrial warehouse background, dramatic lighting, sweat on skin, powerful gooner alpha energy, PixVerse.ai cinematic style, #666",
+      "createdAt": "2026-07-08 09:29:38.366400-07"
+    }, {
+      "mediaId": "4636b621-dca7-4bcb-adb9-16de7d0fd84f",
+      "parentMediaId": "3f5ee3a8-e508-4bc7-b55a-f6fbca39b656",
+      "prompt": "Quita los ojos verdes ",
+      "createdAt": "2026-07-09 08:16:05.153852-07"
+    }, {
+      "mediaId": "c589eeab-1f0b-4be7-8698-9f0c7d407424",
+      "parentMediaId": "4636b621-dca7-4bcb-adb9-16de7d0fd84f",
+      "prompt": "Debe parecerse al de la foto adjunta y ponlo en ropa de lencería masculina ",
+      "createdAt": "2026-07-09 08:17:46.934322-07"
+    }, {
+      "mediaId": "57121c24-56ac-4cec-b9bd-a6c405d9c8c7",
+      "parentMediaId": "4636b621-dca7-4bcb-adb9-16de7d0fd84f",
+      "prompt": "Debe parecer al de la imagen adjunta ",
+      "createdAt": "2026-07-09 08:19:02.479948-07"
+    }, {
+      "mediaId": "84c42f9a-6895-4b33-8a97-a219e20479c2",
+      "createdAt": "2026-07-09 08:19:55.264936-07"
+    }]
+  }, {
+    "stackName": "K-pop orchestral performance fut…",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "0448247c-8cc1-4ce5-ad98-898897768582",
+    "editStackMedia": [{
+      "mediaId": "8a89c523-9862-43fa-ba5b-740a486b3a1d",
+      "prompt": "Cinematic vertical shot of a massive energetic K-pop orchestral performance on a glowing futuristic stage, sweeping violinist leading with glowing bow, lush string section, powerful brass accents, punchy orchestral drums, dancers in colorful outfits, bright golden and neon lights, festive uplifting atmosphere, dynamic motion, sparkling particles, hyper-detailed, modern polished production --ar 9:16 --stylize 200 --v 8.1",
+      "createdAt": "2026-07-08 08:56:44.545432-07"
+    }, {
+      "mediaId": "84caabe6-0415-4964-9746-225b4cdacb44",
+      "parentMediaId": "8a89c523-9862-43fa-ba5b-740a486b3a1d",
+      "prompt": "studio lighting, --ar 3:2 --stylize 160 --v 8.1 ",
+      "createdAt": "2026-07-09 12:35:35.996024-07"
+    }, {
+      "mediaId": "0448247c-8cc1-4ce5-ad98-898897768582",
+      "parentMediaId": "84caabe6-0415-4964-9746-225b4cdacb44",
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-07-09 12:36:07.922947-07"
+    }]
+  }, {
+    "stackName": "1000635982.png",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "collectionId": "",
+    "primaryMediaId": "247f6eb0-2d2d-44ae-9dd8-8739f4a757b3",
+    "editStackMedia": [{
+      "mediaId": "247f6eb0-2d2d-44ae-9dd8-8739f4a757b3",
+      "createdAt": "2026-07-09 11:09:02.552690-07"
+    }, {
+      "mediaId": "3aeff99c-aafd-48ee-b64e-da4e26375c90",
+      "parentMediaId": "247f6eb0-2d2d-44ae-9dd8-8739f4a757b3",
+      "prompt": "Adáptalo a tamaño vertical ",
+      "createdAt": "2026-07-09 11:23:54.659030-07"
+    }, {
+      "mediaId": "56e510d4-9c75-4a80-9d2c-8714959a62a6",
+      "parentMediaId": "3aeff99c-aafd-48ee-b64e-da4e26375c90",
+      "prompt": "Haz un acercamiento al personaje y la habitación más limpia e infantil ",
+      "createdAt": "2026-07-09 11:25:27.928373-07"
+    }, {
+      "mediaId": "1ea2fd77-d6d4-4ea1-94e5-78d8c55de0ea",
+      "parentMediaId": "3aeff99c-aafd-48ee-b64e-da4e26375c90",
+      "prompt": "Haz un acercamiento ",
+      "createdAt": "2026-07-09 12:03:58.817851-07"
+    }, {
+      "mediaId": "a2cba384-31a9-4622-9772-dafb4399b707",
+      "parentMediaId": "247f6eb0-2d2d-44ae-9dd8-8739f4a757b3",
+      "prompt": "Ponlonde rodillas con los codos abajo mirando a la camara ",
+      "createdAt": "2026-07-09 12:29:08.605849-07"
+    }]
+  }, {
+    "stackName": "1777353186560.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "69ac31c4-88cd-4164-85c3-c5fd9fe902ab",
+    "editStackMedia": [{
+      "mediaId": "0a85d4f1-7009-410c-9deb-d703237ad9ca",
+      "createdAt": "2026-04-27 22:28:49.185781-07"
+    }, {
+      "mediaId": "69ac31c4-88cd-4164-85c3-c5fd9fe902ab",
+      "parentMediaId": "0a85d4f1-7009-410c-9deb-d703237ad9ca",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:17:38.668961-07"
+    }]
+  }, {
+    "stackName": "Man with mud on chest",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "82bab9c4-9cbf-49c4-92ec-133058b88b00",
+    "editStackMedia": [{
+      "mediaId": "7c20afb6-2b89-4d1c-a713-9547c1784f30",
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n30-year-old Mexican man, normal build, face similar to the reference (goatee, black hair), wearing a tight black motorcycle suit, leaning on a black motorcycle. Another Mexican man in a black and white suit is standing over the motorcycle and opening his suit, rubbing thick, wet brown mud vigorously over his chest and abdomen. Expression of pleasure and surprise on his face. Dripping mud, realistic wet leather textures, soft cinematic lighting, extreme photorealistic 8K. no t3xtos no logos. They speak in Spanish.",
+      "createdAt": "2026-07-18 11:31:52.834922-07"
+    }, {
+      "mediaId": "82bab9c4-9cbf-49c4-92ec-133058b88b00",
+      "parentMediaId": "7c20afb6-2b89-4d1c-a713-9547c1784f30",
+      "prompt": "The uniform he is wearing must have some elements in orange-red.",
+      "createdAt": "2026-07-24 05:48:32.559634-07"
+    }]
+  }, {
+    "stackName": "Borra los libros ",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "1b664bb4-d222-4b2b-b604-361871a4ec9b",
+    "editStackMedia": [{
+      "mediaId": "1b664bb4-d222-4b2b-b604-361871a4ec9b",
+      "prompt": "Ponlonde frente con un par de brazos cruzados y los otros a la cintura",
+      "createdAt": "2026-07-09 12:17:57.344708-07"
+    }, {
+      "mediaId": "e7a8a3fe-1584-430e-879e-75f266398fce",
+      "parentMediaId": "1b664bb4-d222-4b2b-b604-361871a4ec9b",
+      "prompt": "Borra el arnés y libros  ",
+      "createdAt": "2026-07-09 12:18:42.686852-07"
+    }, {
+      "mediaId": "77a06a61-31cb-4fb1-b43f-ca7a31f2eac5",
+      "parentMediaId": "1b664bb4-d222-4b2b-b604-361871a4ec9b",
+      "prompt": "Borra los libros ",
+      "createdAt": "2026-07-09 12:20:02.776114-07"
+    }]
+  }, {
+    "stackName": "Man in racing suit squirting liq…",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "d6d58a72-987a-48f0-a9a7-26525acba3da",
+    "editStackMedia": [{
+      "mediaId": "a7515e5a-fc80-42b3-8482-506094c816d0",
+      "prompt": "Here\u0027s the English translation of your prompt:\n\nMexican man of normal build, face similar to the reference (goatee, black hair), wearing a black and white racing motorcycle suit. He is in the middle of a group of friends in a workshop. The friends are jokingly holding him down while he makes a face of extreme pain and effort. A strong jet of white liquid (like milk or thick cream) shoots out from the lower part of his suit, splashing everywhere. Chaotic and funny scene, photorealistic, sweat details, 8K. No text, no watermarks.",
+      "createdAt": "2026-07-18 11:25:26.066138-07"
+    }, {
+      "mediaId": "d6d58a72-987a-48f0-a9a7-26525acba3da",
+      "parentMediaId": "a7515e5a-fc80-42b3-8482-506094c816d0",
+      "prompt": "The three men holding the protagonist wear balaclava masks to hide their identity.",
+      "createdAt": "2026-07-24 05:54:14.325676-07"
+    }]
+  }, {
+    "stackName": "Top 50 Color Film Types",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "25e2307c-bad8-4238-843b-438c5b0d052d",
+    "editStackMedia": [{
+      "mediaId": "25e2307c-bad8-4238-843b-438c5b0d052d",
+      "prompt": "TOP 50 Color Film Types – La Lista Definitiva   Los stocks de película color más queridos, usados y recomendados por fotógrafos y creadores. Ordenados por popularidad y carácter visual.  01. Cinestill 800T\r\n02. Kodak Portra 800\r\n03. Kodak Portra 400\r\n04. Kodak Portra 160\r\n05. Lomography Color Negative 800\r\n06. Fujifilm Pro 400H\r\n07. Kodak Ektar 100\r\n08. Kodak Ektachrome E100\r\n09. Fujifilm Superia 400\r\n10. Lomography X-Pro 200\r\n11. Kodak Gold 200\r\n12. Fujifilm Velvia 50\r\n13. Kodak Ultramax 400\r\n14. Cinestill 50D\r\n15. Fujifilm Pro 400H (2da mención)\r\n16. Lomography Color Negative 400\r\n17. Kodak Vision3 500T\r\n18. Kodak Vision3 250D\r\n19. Agfa Vista Plus 200\r\n20. Fujifilm Superia X-Tra 400  21-50 (Continuación):\r\n21. Revolog Kolor\r\n22. Adox Color Implosion\r\n23. Lomography Redscale\r\n24. Cinestill 400D\r\n25. Kodak Portra 800 (push)\r\n26. Fujifilm 400H\r\n27. Kodak Gold 100\r\n28. Polaroid Color\r\n29. Fujifilm Instax (color)\r\n30. Kodak Ektachrome 100\r\n31. Lomography Diana F+ Color\r\n32. Rollei Color\r\n33. Kodak Aerochrome (infrarrojo color)\r\n34. Fujifilm Velvia 100\r\n35. Kodak Portra 100T\r\n36. Cinestill 800T (expired)\r\n37. Agfa Vista 400\r\n38. Lomography Metropolis\r\n39. Kodak Vision3 50D\r\n40. Fujifilm Provia 100F\r\n41. Kodak Elite Chrome\r\n42. 3M Scotch Color\r\n43. Orwo Color\r\n44. Svema Color\r\n45. Kodak Ektar 25\r\n46. Fujifilm Superia 200\r\n47. Lomography X-Pro Slide\r\n48. Polaroid Originals Color\r\n49. Expired Film (variedad)\r\n50. Cinestill 800T pushed to 3200\r\n\r",
+      "createdAt": "2026-07-08 09:06:53.088750-07"
+    }, {
+      "mediaId": "50f0ef08-ee0c-47b7-a266-50083576677c",
+      "createdAt": "2026-07-08 09:07:25.240738-07"
+    }]
+  }, {
+    "stackName": "Demonic man ritual snakes candles",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "a7b92366-b09a-440c-bb6f-2a44492a2ce7",
+    "editStackMedia": [{
+      "mediaId": "ac1a7d8b-073b-4f6d-9938-7a76d1e55a60",
+      "prompt": "Muscular demonic man with shaved head, glowing intense green eyes, black ritual face paint and cracks, long forked tongue out, wearing leather harness and collar, standing powerfully over live snakes and burning black candles, dark cracked wall with dripping pentagram in background, black and white with green neon accents, evil sinister smile, gooner possessed energy, sweaty oiled skin, dramatic low angle shot, PixVerse.ai style, dark satanic ritual atmosphere, #666",
+      "createdAt": "2026-07-08 06:01:20.268002-07"
+    }, {
+      "mediaId": "a7b92366-b09a-440c-bb6f-2a44492a2ce7",
+      "parentMediaId": "ac1a7d8b-073b-4f6d-9938-7a76d1e55a60",
+      "prompt": "Haz que se parezca a la foto adjunta ",
+      "createdAt": "2026-07-08 09:09:52.701-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "47a2dccd-61d6-4bcd-8b4a-eadb2e9de10e",
+    "editStackMedia": [{
+      "mediaId": "47a2dccd-61d6-4bcd-8b4a-eadb2e9de10e",
+      "prompt": "Haz una ficha de personaje diablo como la del ejemplo adjunto \n",
+      "createdAt": "2026-07-09 12:16:18.268229-07"
+    }, {
+      "mediaId": "428baff5-8361-4597-bf9d-2f4f50fbfbf2",
+      "createdAt": "2026-08-04 02:54:41.654060-07"
+    }]
+  }, {
+    "stackName": "Man delivers pizza in rain",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "5e5bf174-ecc9-4173-8715-0a80eb9f0bcb",
+    "editStackMedia": [{
+      "mediaId": "5e5bf174-ecc9-4173-8715-0a80eb9f0bcb",
+      "prompt": "Cinematic high-energy multi-shot video, 15 rapid dynamic shots telling a complete story, fast-paced urban bike courier race against the clock through rainy 80s CDMX streets. Consistent young man in his mid-20s, short dark wavy hair with a slight mullet, light olive skin, determined focused expression turning to triumphant relief. Retro 80s style: red windbreaker jacket with pizza shop logo, white t-shirt, tight jeans, sneakers, reflective stripes on the sleeves, big insulated pizza delivery bag strapped to the back of an old-school black delivery bike with front basket. VHS grain, filmic look, vibrant wet-street neon and sodium lamp reflections, rain, steam from manholes, bustling night traffic with 80s cars (Beetles, old Fords).\n\nShot 1: Extreme close-up on a wall clock and a handwritten delivery slip flashing “3 pizzas – 15 minutos – ¡Urgente!”, he snaps his head up in a small cluttered apartment hallway in la colonia Roma, eyes wide. Grabs the stack of pizza boxes in the insulated bag and an old helmet. Handheld urgent camera, tense synthwave beat kicks in.\n\nShot 2: Medium tracking shot from behind as the same young man charges down the dim stairwell of an old building, boots echoing on tiles, heavy breathing, pizza bag bouncing on his back.\n\nShot 3: Quick cut to exterior wide shot of rain-soaked Mexico City street at night, neon signs in Spanish glowing (Coca-Cola, Cine, Pizzería), he bursts out the building door, mounts his old black delivery bike with the big front carrier, pedals hard into traffic full of VW Beetles and old buses.\n\nShot 4: Dynamic over-the-shoulder medium shot following him weaving between cars and microbuses on Avenida Reforma, mullet and jacket flapping in the wind, rain streaking across his face, fast dolly with colorful neon and streetlight reflections on wet asphalt.\n\nShot 5: Low-angle close-up alternating between spinning bike wheels splashing through puddles and his focused face checking the handwritten address slip under a small plastic protector, sweat and rain on forehead, shallow depth of field, rhythmic pedaling and rain SFX mixed with 80s city noise.\n\nShot 6: Fast tracking shot as he cuts across a busy crosswalk just as the traffic light changes, pizza bag secure, dramatic lens flares from headlights and bright neon signs.\n\nShot 7: Medium side shot, he skids to a stop outside a glowing mid-century apartment building entrance (condominio style), dismounts in one fluid motion, intense focus, first door-slam sounds.\n\nShot 8: POV from his hands rapidly handing the warm pizza boxes to a waiting doorman/receptionist, slight handheld shake, rain dripping from his jacket, urgent but controlled audio with Spanish voices in the background.\n\nShot 9: Cut to his face — sudden big smile of relief as the doorman pays him and nods, quick push-in on his triumphant expression.\n\nShot 10: Wide orbiting shot around him as he mounts the bike again under the building canopy lights, rain still falling, city lights reflecting on wet streets, music lifting with 80s synth.\n\nShot 11: Extreme long shot from above showing the neon-lit Mexico City skyline (with 80s buildings) stretching out while he rides away, breathing hard but grinning, headlights of old cars streaking below.\n\nShot 12: Close-up on his hands gripping the handlebars and the now-empty delivery slip showing “Entregado – A tiempo”, water droplets flying, focused triumphant grin, satisfying cash-in-pocket sound and upbeat notification chime from his small radio.\n\nShot 13: Medium shot from behind as he coasts through a quieter side street in la Condesa or Roma, neon still bathing the scene, first relaxed posture, warm color grading intensifies with 80s film look.\n\nShot 14: Slow-motion close-up on his face as he removes the helmet, rain mixing with sweat, pure joy and exhaustion, eyes sparkling under the streetlights, music peaking with distant city hum and cumbia/synth elements.\n\nShot 15: Final wide pull-out shot of him riding confidently into the glowing rainy 80s CDMX night, satisfied laugh, ambient traffic, rain, and distant siren sounds, fade out on energetic neon atmosphere.\n\nThis version keeps the high-energy cinematic style while fully adapting it to a young male pizza delivery courier in 1980s Mexico City. The retro tech (paper slips, cash, old bike, no smartphones), fashion, vehicles, and architecture give it that authentic 80s Mexican urban vibe.\n\nSin textos ni subtítulos. Hablan  en español en formato vertical 916 ",
+      "createdAt": "2026-07-27 01:01:22.156067-07"
+    }, {
+      "mediaId": "66b6e50e-16d0-424b-9693-aa0d765d2dd4",
+      "createdAt": "2026-07-27 01:01:47.746866-07"
+    }]
+  }, {
+    "stackName": "párrafo de abajonponlonal centro",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "074ace45-5b57-431f-96df-261c21de4d69",
+    "editStackMedia": [{
+      "mediaId": "e2e60783-682c-4a49-8573-21f7c89db9fd",
+      "prompt": "El texto de la izquierda ponlonal centro y el de la derecha abajo centrom ",
+      "createdAt": "2026-07-09 12:58:03.978990-07"
+    }, {
+      "mediaId": "074ace45-5b57-431f-96df-261c21de4d69",
+      "parentMediaId": "e2e60783-682c-4a49-8573-21f7c89db9fd",
+      "prompt": "El párrafo de abajonponlonal centro ",
+      "createdAt": "2026-07-09 13:02:03.114605-07"
+    }]
+  }, {
+    "stackName": "3D emoji style typography",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "primaryMediaId": "a2243e0a-9557-4e21-8b0f-450b1670377f",
+    "editStackMedia": [{
+      "mediaId": "52b267b3-af76-4a9f-87f3-8ba4db14f2ea",
+      "prompt": "Here\u0027s the English translation of your prompt, keeping the original Spanish text as requested:\n\n\"In 3D emoji style, original non-cliché typography.\"",
+      "createdAt": "2026-08-04 02:53:19.283321-07"
+    }, {
+      "mediaId": "a2243e0a-9557-4e21-8b0f-450b1670377f",
+      "parentMediaId": "52b267b3-af76-4a9f-87f3-8ba4db14f2ea",
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Birra el username de fb.\"",
+      "createdAt": "2026-08-10 20:37:44.843522-07"
+    }, {
+      "mediaId": "195f7dbf-f2a6-4c80-8dcb-88e89d14b9c1",
+      "parentMediaId": "a2243e0a-9557-4e21-8b0f-450b1670377f",
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Add some sparkles to the text and food.\"",
+      "createdAt": "2026-08-10 20:38:29.942358-07"
+    }, {
+      "mediaId": "ad157241-0ce1-487e-a244-42a645baf657",
+      "parentMediaId": "a2243e0a-9557-4e21-8b0f-450b1670377f",
+      "prompt": "Make the fruit have a glow like a radiance.",
+      "createdAt": "2026-08-10 20:39:39.384053-07"
+    }]
+  }, {
+    "stackName": "Surreal apocalyptic Mexico City …",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "primaryMediaId": "47316c90-091c-41b5-9c2e-c941bd716c56",
+    "editStackMedia": [{
+      "mediaId": "df98ae91-2428-490b-ae69-ac605de45fad",
+      "prompt": "A surreal apocalyptic cinematic sequence where reality folds in on itself, set in Mexico: a colossal tsunami curls into a gigantic ocean vortex with iconic Mexican skyscrapers and colonial buildings (like Mexico City skyline mixed with historic structures) embedded inside its walls. Fires, explosions, and a tilting cargo ship caught in the chaos near the coast. The sky transforms into an upside-down floating metropolis featuring floating Aztec-inspired pyramids, cathedrals, and modern towers, while smoke, clouds, and glowing fires engulf the streets of a Mexican city below. A mirrored version of Mexico City hangs above the skyline as black smoke, falling debris, massive explosions, and volcanic ash connect both worlds. The camera races dynamically through a colossal portal-like vortex formed by curved bridges (inspired by Mexican architecture), swirling oceans, fractured land with cenotes, spinning skyscrapers, and ancient ruins, ending in a blazing fireball at the eye of the storm. Ultra-realistic, hyper-detailed, cinematic lighting, volumetric clouds, dynamic camera movement, epic scale, IMAX quality, 8K. Duration: Exactly 10 seconds, fast-paced and intense.havlan en español, no subtitulos no textos.photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "createdAt": "2026-08-04 02:08:31.190998-07"
+    }, {
+      "mediaId": "47316c90-091c-41b5-9c2e-c941bd716c56",
+      "parentMediaId": "df98ae91-2428-490b-ae69-ac605de45fad",
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the original language for any text that might be rendered in the image:\n\n\"Make it cinematic realistic Kodak Portra 100T studio lighting, --ar 3:2 --stylize 160 --v 8.1\"",
+      "createdAt": "2026-08-04 02:15:15.166758-07"
+    }]
+  }, {
+    "stackName": "Me gusta fondo imagen elementos",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "a824c61c-49a3-4a68-9883-3aa191afe8a5",
+    "editStackMedia": [{
+      "mediaId": "1dff5b3e-f5ef-417a-a47f-5555d929af75",
+      "prompt": "Me me gusta el fondo de la imagen uno pero con todos los elementos de la segunda imagen",
+      "createdAt": "2026-07-09 11:33:18.381710-07"
+    }, {
+      "mediaId": "51216203-dd69-44f1-b4e5-13c9eb2ef712",
+      "createdAt": "2026-07-09 11:36:52.572323-07"
+    }, {
+      "mediaId": "a824c61c-49a3-4a68-9883-3aa191afe8a5",
+      "parentMediaId": "1dff5b3e-f5ef-417a-a47f-5555d929af75",
+      "prompt": "Haz que se parezca el diablo a la persona adjunta ",
+      "createdAt": "2026-07-09 12:19:46.798702-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "b206b1c5-0ddc-4add-b90e-ab589584c4a1",
+    "editStackMedia": [{
+      "mediaId": "b206b1c5-0ddc-4add-b90e-ab589584c4a1",
+      "prompt": "Haz una ficha de personaje diablo como la del ejemplo adjunto \n",
+      "createdAt": "2026-07-09 12:16:19.134511-07"
+    }, {
+      "mediaId": "d9065da7-f598-4dda-a535-5da6664ce41e",
+      "createdAt": "2026-08-04 03:12:48.036649-07"
+    }]
+  }, {
+    "stackName": "Two intertwined figures illustra…",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "primaryMediaId": "3380ac97-f360-47d7-8b19-b1bc726857a3",
+    "editStackMedia": [{
+      "mediaId": "440a7d91-169b-4bbb-8365-99b54d27c212",
+      "prompt": "**Prompt (EN):**\nSingle continuous line art illustration of two intertwined figures, minimalist black line on cream background, elegant and sensual, modern art gallery poster style\n\n**Texto (ES):** manuscrita fina, parte inferior.",
+      "createdAt": "2026-08-04 23:56:09.356019-07"
+    }, {
+      "mediaId": "3380ac97-f360-47d7-8b19-b1bc726857a3",
+      "parentMediaId": "440a7d91-169b-4bbb-8365-99b54d27c212",
+      "prompt": "Two male silhouettes change.",
+      "createdAt": "2026-08-13 11:57:39.986063-07"
+    }]
+  }, {
+    "stackName": "Gemini_Generated_Image_ (3).png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "19c37e06-050a-404a-a507-1a9497f239f7",
+    "editStackMedia": [{
+      "mediaId": "7e61b957-7691-4134-9c68-1f66d319fc6f",
+      "createdAt": "2026-04-27 21:57:17.047878-07"
+    }, {
+      "mediaId": "b5b11937-9e11-4b9f-a3d7-6993f5b17b17",
+      "parentMediaId": "7e61b957-7691-4134-9c68-1f66d319fc6f",
+      "prompt": "Adáptalo a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:13:22.255983-07"
+    }, {
+      "mediaId": "2682b7b0-1326-4a90-b133-7c26bce59115",
+      "parentMediaId": "7e61b957-7691-4134-9c68-1f66d319fc6f",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:14:55.370035-07"
+    }, {
+      "mediaId": "d29123b8-5b3e-4759-b710-f634c5ce4119",
+      "createdAt": "2026-07-08 04:15:56.189701-07"
+    }, {
+      "mediaId": "7b621515-2c8d-4ff7-bd4d-f4e18766de98",
+      "parentMediaId": "7e61b957-7691-4134-9c68-1f66d319fc6f",
+      "prompt": "Adáptalo a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 06:12:42.085965-07"
+    }, {
+      "mediaId": "19c37e06-050a-404a-a507-1a9497f239f7",
+      "parentMediaId": "7e61b957-7691-4134-9c68-1f66d319fc6f",
+      "prompt": "Adapt to vertical 9:16 aspect ratio",
+      "createdAt": "2026-09-17 03:08:40.011875-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "66d2acdc-e959-4de9-a8c7-b676237d25fa",
+    "editStackMedia": [{
+      "mediaId": "66d2acdc-e959-4de9-a8c7-b676237d25fa",
+      "prompt": "Borra a los personajes y pon los textos al centro y agrandar los pequeños . Que queden bien distribuidos ",
+      "createdAt": "2026-07-09 12:48:47.789042-07"
+    }, {
+      "mediaId": "0e2e0f14-3962-4cb5-9513-0015de7609af",
+      "parentMediaId": "66d2acdc-e959-4de9-a8c7-b676237d25fa",
+      "prompt": "Borra los textos la parte inferior y los que están en columna hazlos en lista ",
+      "createdAt": "2026-07-09 12:50:46.297302-07"
+    }]
+  }, {
+    "stackName": "1777353189765.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "7a689115-9598-42c3-bb1d-dbc6c3ba9fe6",
+    "editStackMedia": [{
+      "mediaId": "d9a65a2a-9de4-4644-a164-1973fe5cb2d1",
+      "createdAt": "2026-04-27 22:28:49.227699-07"
+    }, {
+      "mediaId": "7a689115-9598-42c3-bb1d-dbc6c3ba9fe6",
+      "parentMediaId": "d9a65a2a-9de4-4644-a164-1973fe5cb2d1",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:16:39.168411-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "e4ee3618-4bb9-4ae3-bcf3-b162100a574f",
+    "editStackMedia": [{
+      "mediaId": "e4ee3618-4bb9-4ae3-bcf3-b162100a574f",
+      "prompt": "Definitiva   Los stocks de película color más queridos, usados y recomendados por fotógrafos y creadores. Ordenados por popularidad y carácter visual.  01. Cinestill 800T\r\n02. Kodak Portra 800\r\n03. Kodak Portra 400\r\n04. Kodak Portra 160\r\n05. Lomography Color Negative 800\r\n06. Fujifilm Pro 400H\r\n07. Kodak Ektar 100\r\n08. Kodak Ektachrome E100\r\n09. Fujifilm Superia 400\r\n10. Lomography X-Pro 200\r\n11. Kodak Gold 200\r\n12. Fujifilm Velvia 50\r\n13. Kodak Ultramax 400\r\n14. Cinestill 50D\r\n15. Fujifilm Pro 400H (2da mención)\r\n16. Lomography Color Negative 400\r\n17. Kodak Vision3 500T\r\n18. Kodak Vision3 250D\r\n19. Agfa Vista Plus 200\r\n20. Fujifilm Superia X-Tra 400  21-50 (Continuación):\r\n21. Revolog Kolor\r\n22. Adox Color Implosion\r\n23. Lomography Redscale\r\n24. Cinestill 400D\r\n25. Kodak Portra 800 (push)\r\n26. Fujifilm 400H\r\n27. Kodak Gold 100\r\n28. Polaroid Color\r\n29. Fujifilm Instax (color)\r\n30. Kodak Ektachrome 100\r\n31. Lomography Diana F+ Color\r\n32. Rollei Color\r\n33. Kodak Aerochrome (infrarrojo color)\r\n34. Fujifilm Velvia 100\r\n35. Kodak Portra 100T\r\n36. Cinestill 800T (expired)\r\n37. Agfa Vista 400\r\n38. Lomography Metropolis\r\n39. Kodak Vision3 50D\r\n40. Fujifilm Provia 100F",
+      "createdAt": "2026-07-09 12:30:33.476454-07"
+    }, {
+      "mediaId": "7f9bd539-3a8e-468a-b5c3-02612b7edf75",
+      "createdAt": "2026-08-04 02:41:14.470285-07"
+    }]
+  }, {
+    "stackName": "Text changing to purple black",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "primaryMediaId": "e6759252-44cf-4996-9434-c4bb52484270",
+    "editStackMedia": [{
+      "mediaId": "687229b7-9b36-42db-84b2-eeaa3259db17",
+      "prompt": "The text changes to purple-black color.",
+      "createdAt": "2026-10-06 05:08:54.142601-07"
+    }, {
+      "mediaId": "e6759252-44cf-4996-9434-c4bb52484270",
+      "parentMediaId": "687229b7-9b36-42db-84b2-eeaa3259db17",
+      "prompt": "Change the yellow to purple and the black lettering to a light grayish-white.",
+      "createdAt": "2026-10-06 05:10:19.373264-07"
+    }]
+  }, {
+    "stackName": "Create visual tarot storyboard grid",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "primaryMediaId": "adeb6946-554e-42d8-aa25-d05e23d181d6",
+    "editStackMedia": [{
+      "mediaId": "adeb6946-554e-42d8-aa25-d05e23d181d6",
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 1-column by 6-row grid layout of vertical 9:16 panels. \n\nSTYLE: Signature Pamela Colman Smith artistic illustrative style. Richly detailed pen and dark black ink line art with organic contours. Soft watercolor and gouache washes with visible paint-pooling borders. Vintage Edwardian folk-art and late nineteenth-century Art Nouveau aesthetic. Palette of saturated jewel tones (deep indigo, saffron yellow, madder red, moss green, terracotta). Rendered on heavy, off-white historic watercolor paper with a delicate tooth and subtle texture. \n\nGRID LAYOUT INSTRUCTIONS:\n- The image is a single vertical composite divided into 6 equal vertical panels.\n- Each panel has a small, clearly legible blue ink circle in the top-left corner with the panel number (1 to 6).\n- Thin black ink borders separate each panel.\n- Elegant historic hand-lettered calligraphy at the top or bottom of each panel.\n\nPANEL CONTENTS:\n- Panel 1 (Top): A vintage \u0027XV\u0027 tarot card sliding over dark textured velvet. Hand-lettered \u0027PEOR CONDENA\u0027 at the bottom.\n- Panel 2: A close-up of an artist\u0027s hand using a dip pen to ink delicate tarot lines on aged parchment. Hand-lettered \u0027CLAVE OCULTA\u0027.\n- Panel 3: Symmetrical shot of two robed figures looking up at a high ancient stone pedestal. Hand-lettered \u0027DOS FIGURAS\u0027 at the top.\n- Panel 4: Extreme close-up of a loose golden circular ribbon on a robed figure\u0027s neck; it is clearly wider than the head. A red hand-drawn arrow points to the gap. Hand-lettered \u0027ARGOLLAS SUELTAS\u0027.\n- Panel 5: Wide angle. A majestic winged figure seated on a tall stone pedestal. A golden flame glows below in a hearth. Symmetrical. Hand-lettered \u0027TU PROPIO MIEDO\u0027.\n- Panel 6 (Bottom): Symmetrical composition. The two figures walking forward away from the pedestal into a lush garden of white roses under a rising sun. Hand-lettered \u0027SUELTA TODO\u0027 at the bottom.",
+      "createdAt": "2026-09-01 01:59:35.311886-07"
+    }, {
+      "mediaId": "9a3ac625-bf43-4722-831c-0d2f5686ed01",
+      "createdAt": "2026-09-01 02:28:57.148287-07"
+    }]
+  }, {
+    "stackName": "Style effect Fujifilm Provia 100F",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "06d76e22-5df2-4602-9f09-3b449a195614",
+    "editStackMedia": [{
+      "mediaId": "75faaf08-42c8-490d-b3c4-2708cc2b8a00",
+      "prompt": "Here\u0027s the English translation of the image prompt, keeping the specified text in its original language:\n\n\"Give it the style effect of 40. Fujifilm Provia 100F.\"",
+      "createdAt": "2026-08-04 02:43:33.487590-07"
+    }, {
+      "mediaId": "06d76e22-5df2-4602-9f09-3b449a195614",
+      "parentMediaId": "75faaf08-42c8-490d-b3c4-2708cc2b8a00",
+      "prompt": "Hazlo en color amarillos naranjas.",
+      "createdAt": "2026-08-04 02:44:43.805431-07"
+    }, {
+      "mediaId": "bd9ac198-82f8-4f3a-a259-52088da89c98",
+      "createdAt": "2026-08-04 02:53:34.876604-07"
+    }]
+  }, {
+    "stackName": "Hombre en andén del Metro",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "cc69558d-603f-4752-9feb-5e7fc1e4a137",
+    "editStackMedia": [{
+      "mediaId": "cc69558d-603f-4752-9feb-5e7fc1e4a137",
+      "prompt": "Me gusta mucho la vibra de la canción: es una mezcla de nostalgia, arrepentimiento, esperanza y amor que quiere una segunda oportunidad, con una producción de Mariachi Pop moderna. Además, usaré tu hoja de referencia para mantener tu identidad y rasgos consistentes.\n\nAquí tienes 4 conceptos cinematográficos. Todos son verticales 9:16, hiperrealistas y pensados para portada de sencillo o video musical.\n\n\n---\n\nPrompt 1 — \"El último tren\" ⭐ (Más cinematográfico)\n\nTítulo: Esta vez\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta como referencia absoluta de identidad. Conserva exactamente el rostro, barba, peinado, tono de piel y proporciones faciales.\n\nFotografía hiperrealista estilo cine, formato vertical 9:16.\n\nUn hombre permanece completamente inmóvil sobre el andén del Metro de la Ciudad de México durante la hora azul, mientras un tren pasa a toda velocidad creando un intenso desenfoque de movimiento. Lleva una camiseta negra sencilla, expresión melancólica pero llena de esperanza, como si esperara volver a ver al amor de su vida.\n\nLas luces del metro iluminan suavemente su rostro. El viento mueve ligeramente su cabello. Al fondo, el tren crea estelas de luz roja y blanca.\n\nLa escena transmite arrepentimiento, segundas oportunidades y la promesa de no volver a soltar a quien ama.\n\nPaleta de colores: Azules profundos, ámbar cálido, reflejos rojos del metro.\n\nEstilo: Cinematográfico, Kodak Vision3, profundidad de campo, lente anamórfico, iluminación volumétrica, ultra realista, fotografía editorial, emociones contenidas, 8K.\n\n\n---\n\nPrompt 2 — \"Bajo la lluvia\"\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta como referencia absoluta del personaje.\n\nFormato 9:16.\n\nNoche lluviosa en una calle del Centro Histórico de la Ciudad de México. El hombre camina lentamente bajo una lluvia intensa sin paraguas. Lleva camiseta negra y pantalón negro.\n\nLas luces cálidas de los faroles y los reflejos sobre el pavimento mojado crean una atmósfera romántica.\n\nAl fondo, un mariachi desenfocado toca trompetas y violines bajo un toldo iluminado.\n\nEl personaje mira hacia arriba con una mezcla de tristeza y esperanza, como si aún creyera que alguien aparecerá.\n\nLa lluvia representa el arrepentimiento mientras las luces representan una nueva oportunidad.\n\nEstilo cinematográfico moderno, colores cálidos y fríos contrastados, profundidad de campo, fotografía editorial, ultra realista, lente 50 mm, iluminación volumétrica, 8K.\n\n\n---\n\nPrompt 3 — \"La promesa\"\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta para conservar exactamente la identidad del personaje.\n\nFormato vertical 9:16.\n\nAtardecer dorado sobre un puente peatonal de la Ciudad de México.\n\nEl hombre permanece apoyado sobre el barandal sosteniendo una pequeña fotografía antigua entre sus manos.\n\nNo mira la fotografía.\n\nMira directamente al horizonte mientras el sol ilumina únicamente la mitad de su rostro.\n\nDetrás de él aparecen desenfocados los edificios y el tráfico creando un hermoso bokeh.\n\nLa expresión transmite aceptación, nostalgia y esperanza.\n\nLa escena representa la frase:\n\n\"Si nos volvemos a encontrar... prometo no soltarte.\"\n\nFotografía editorial, luz dorada, anamórfico, película Kodak, tonos cálidos, ultra realista, composición minimalista, profundidad de campo, 8K.\n\n\n---\n\nPrompt 4 — \"Mariachi Pop\" 🎺❤️ (El más artístico)\n\nPrompt (ESPAÑOL)\n\nUsa la hoja de referencia adjunta como referencia absoluta del rostro.\n\nFormato vertical 9:16.\n\nRetrato cinematográfico hiperrealista.\n\nEl personaje aparece de pie en primer plano con expresión profundamente emotiva.\n\nDetrás de él, ligeramente desenfocados y bañados por una luz cálida, aparecen músicos de mariachi interpretando trompetas, violines y guitarrón.\n\nMiles de pequeñas partículas doradas flotan en el aire como si fueran recuerdos.\n\nLas notas musicales parecen transformarse en destellos luminosos alrededor del personaje.\n\nLa iluminación cálida envuelve toda la escena con un ambiente romántico y esperanzador.\n\nEl fondo mezcla la arquitectura tradicional mexicana con una estética moderna de videoclip.\n\nPaleta: Dorado, negro, rojo vino, azul profundo.\n\nEstilo: Portada de álbum, fotografía editorial, cine mexicano contemporáneo, ultra realista, iluminación volumétrica, profundidad de campo, textura de película Kodak, 8K.\n\n\n---\n\nMi orden de preferencia para esta canción sería:\n\n1. 🚇 El último tren (el que mejor cuenta la historia).\n\n\n2. 🎺 Mariachi Pop (ideal como portada del sencillo).\n\n\n3. 🌧️ Bajo la lluvia (muy emocional).\n\n\n4. 🌅 La promesa (más íntimo y reflexivo).\n",
+      "createdAt": "2026-07-08 04:45:18.514014-07"
+    }, {
+      "mediaId": "ded0488c-f96f-4e1a-a9a6-100e01c6226d",
+      "parentMediaId": "cc69558d-603f-4752-9feb-5e7fc1e4a137",
+      "prompt": "Usa ese rostro ",
+      "createdAt": "2026-07-08 04:46:47.449235-07"
+    }, {
+      "mediaId": "aedf772b-60b2-4f91-9b16-3d2f29f5b594",
+      "parentMediaId": "cc69558d-603f-4752-9feb-5e7fc1e4a137",
+      "prompt": "Usa ese rostro ",
+      "createdAt": "2026-07-08 04:47:48.206158-07"
+    }]
+  }, {
+    "stackName": "Man\u0027s hand cartoon style",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "primaryMediaId": "a3720d07-ba3e-459e-a2a9-9092682f774b",
+    "editStackMedia": [{
+      "mediaId": "c27de27d-c25c-430b-8b98-0c623f46e2e3",
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Change to a man\u0027s hand.. they are rings put them in cartoon style.\"",
+      "createdAt": "2026-08-04 02:46:19.048847-07"
+    }, {
+      "mediaId": "a3720d07-ba3e-459e-a2a9-9092682f774b",
+      "parentMediaId": "c27de27d-c25c-430b-8b98-0c623f46e2e3",
+      "prompt": "The user wants the image prompt \"Debe parecer una mano más joven de hombre\" translated to English.\n\nThe translation is: **It should look like a younger man\u0027s hand.**",
+      "createdAt": "2026-08-04 02:47:30.375165-07"
+    }]
+  }, {
+    "stackName": "Change image text",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "primaryMediaId": "412a48e6-2e95-4da3-9403-82d089aa74b8",
+    "editStackMedia": [{
+      "mediaId": "4e3cf272-49d5-44f4-9301-7ab4778e7ed6",
+      "prompt": "Change the text of image one to that of image two.",
+      "createdAt": "2026-10-06 04:45:30.786126-07"
+    }, {
+      "mediaId": "f2ec98ba-bf32-4a37-bd97-21a39afd578d",
+      "parentMediaId": "4e3cf272-49d5-44f4-9301-7ab4778e7ed6",
+      "prompt": "Make it look like it is embroidered in 99% gray color",
+      "createdAt": "2026-10-06 04:48:26.911158-07"
+    }, {
+      "mediaId": "951cb28d-e176-4239-b80e-5307bca9973f",
+      "parentMediaId": "f2ec98ba-bf32-4a37-bd97-21a39afd578d",
+      "prompt": "Change the colors to make them look aesthetic, maybe purple instead of gray.",
+      "createdAt": "2026-10-06 04:52:18.371911-07"
+    }, {
+      "mediaId": "412a48e6-2e95-4da3-9403-82d089aa74b8",
+      "parentMediaId": "951cb28d-e176-4239-b80e-5307bca9973f",
+      "prompt": "The green-colored garment and the yellow of a different shade.",
+      "createdAt": "2026-10-06 04:53:59.353373-07"
+    }]
+  }, {
+    "stackName": "Demonic man with snakes candles",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "ebd6c4bd-e72e-4ed4-ba17-fe503453ea35",
+    "editStackMedia": [{
+      "mediaId": "6b64f8d8-cd44-4cad-b584-28accddd2310",
+      "prompt": "Muscular demonic man (ver referencia) with shaved head, glowing intense green eyes, black ritual face paint and cracks, long forked tongue out, wearing leather harness and collar, standing powerfully over live snakes and burning black candles, dark cracked wall with dripping pentagram in background, black and white with green neon accents, evil sinister smile, gooner possessed energy, sweaty oiled skin, dramatic low angle shot, PixVerse.ai style, dark satanic ritual atmosphere, #666 aKodak Portra 100T\r\n\r",
+      "createdAt": "2026-07-08 09:11:22.208400-07"
+    }, {
+      "mediaId": "8df71714-b933-436e-aab5-af94e0b52dc0",
+      "parentMediaId": "6b64f8d8-cd44-4cad-b584-28accddd2310",
+      "prompt": "Estilo agfa Vista 400 ",
+      "createdAt": "2026-07-08 09:12:17.238708-07"
+    }, {
+      "mediaId": "833407d9-a509-4ef5-90d1-9dbcf3609036",
+      "parentMediaId": "8df71714-b933-436e-aab5-af94e0b52dc0",
+      "prompt": "Hazlo igual que el ",
+      "createdAt": "2026-07-08 09:13:29.580511-07"
+    }, {
+      "mediaId": "dfbef226-046b-4d0f-82d1-7e1d6d5b6962",
+      "createdAt": "2026-07-09 08:15:06.334222-07"
+    }, {
+      "mediaId": "a0c78d30-0f3d-4f14-99ee-8857094ff1a7",
+      "parentMediaId": "6b64f8d8-cd44-4cad-b584-28accddd2310",
+      "prompt": "Ponle cabello ",
+      "createdAt": "2026-07-09 08:15:33.672742-07"
+    }, {
+      "mediaId": "ebd6c4bd-e72e-4ed4-ba17-fe503453ea35",
+      "parentMediaId": "a0c78d30-0f3d-4f14-99ee-8857094ff1a7",
+      "prompt": "Una toma desde arriba el mira arriba también  ",
+      "createdAt": "2026-07-09 08:18:04.414205-07"
+    }, {
+      "mediaId": "b4de87ef-63a7-480e-94ef-fd4ef54e7ea9",
+      "parentMediaId": "a0c78d30-0f3d-4f14-99ee-8857094ff1a7",
+      "prompt": "Cambia a un escenario como el diablo de tarot de te Raider ",
+      "createdAt": "2026-07-09 08:19:48.759057-07"
+    }]
+  }, {
+    "stackName": "Orchestra explosion with conduct…",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "5b0afa07-ed99-4635-a29f-c66c9291a83e",
+    "editStackMedia": [{
+      "mediaId": "f3e3f435-8968-44e4-ad2c-808da59e145a",
+      "prompt": "High energy vertical shot of a vibrant K-pop orchestral explosion, conductor with glowing baton, massive orchestra playing with punchy drums and bright brass, sweeping violins creating light trails, energetic crowd dancing, colorful stage lights and pyrotechnics, festive uplifting powerful atmosphere, dynamic composition, hyper-detailed, polished modern production --ar 9:16 --stylize 220 --v 8.1",
+      "createdAt": "2026-07-08 08:57:14.058421-07"
+    }, {
+      "mediaId": "5b0afa07-ed99-4635-a29f-c66c9291a83e",
+      "parentMediaId": "f3e3f435-8968-44e4-ad2c-808da59e145a",
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1\r\n¿Aprueban este Batman? \r\n\r",
+      "createdAt": "2026-07-08 09:02:06.701641-07"
+    }]
+  }, {
+    "stackName": "1777355955195.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "7a1ef6a2-5643-4efc-b1c4-af52bad6831c",
+    "editStackMedia": [{
+      "mediaId": "133fe6db-21a1-4e9f-8dfd-e63b05beb53e",
+      "createdAt": "2026-04-28 07:29:07.258890-07"
+    }, {
+      "mediaId": "2dad9c27-bfa3-4e90-81d1-c0b867e5f16b",
+      "createdAt": "2026-07-08 04:19:56.738952-07"
+    }, {
+      "mediaId": "3680aa2e-3d0a-444d-92c2-cc0be23f770c",
+      "parentMediaId": "2dad9c27-bfa3-4e90-81d1-c0b867e5f16b",
+      "prompt": "Borra la marcas de agua de lado inferior derecha ",
+      "createdAt": "2026-07-08 04:20:02.106613-07"
+    }, {
+      "mediaId": "7a1ef6a2-5643-4efc-b1c4-af52bad6831c",
+      "parentMediaId": "133fe6db-21a1-4e9f-8dfd-e63b05beb53e",
+      "prompt": "Adáptalo en la parte superior de un tamaño vertical ",
+      "createdAt": "2026-07-08 04:21:50.672512-07"
+    }]
+  }, {
+    "stackName": "1075ea8c-61ec-41ad-816d-526fe561df66-1_all_66678.jpg",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "collectionId": "",
+    "primaryMediaId": "1fbf5741-758b-4e41-b819-300ba14f4b31",
+    "editStackMedia": [{
+      "mediaId": "6ce4e3f7-97cc-48ee-87fa-63f91b852023",
+      "createdAt": "2026-06-22 00:51:14.870830-07"
+    }, {
+      "mediaId": "d9ee89a5-2710-4087-877c-a2325f1e74aa",
+      "parentMediaId": "6ce4e3f7-97cc-48ee-87fa-63f91b852023",
+      "prompt": "Handsome muscular man with short hair, shirtless, exhaling thick glowing green toxic vapor from mouth, neon green glowing eyes with energy cracks spreading on face and chest, intense gooner expression turning demonic, tongue out with drool, then putting on gas mask with glowing green eyes visible through lenses, warm indoor lighting turning into cyber-demonic, sweat and shiny skin, high detail energy effects, PixVerse style, lustful evil transformation",
+      "createdAt": "2026-06-22 00:55:23.691839-07"
+    }, {
+      "mediaId": "1fbf5741-758b-4e41-b819-300ba14f4b31",
+      "parentMediaId": "d9ee89a5-2710-4087-877c-a2325f1e74aa",
+      "prompt": "Haz el lado derecho completo ",
+      "createdAt": "2026-07-09 11:59:59.443464-07"
+    }]
+  }, {
+    "stackName": "Estilo agfa Vista 400 \n",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "8404672c-da5c-489e-8f38-81a5bd3d7188",
+    "editStackMedia": [{
+      "mediaId": "8d80587b-6f21-4e89-a39e-9f72ab4b9180",
+      "prompt": "Estilo agfa Vista 400 \n",
+      "createdAt": "2026-07-09 12:00:04.904340-07"
+    }, {
+      "mediaId": "8404672c-da5c-489e-8f38-81a5bd3d7188",
+      "parentMediaId": "8d80587b-6f21-4e89-a39e-9f72ab4b9180",
+      "prompt": "Hazle un efecto hipermegsrealista cinematográfico hollowy película completa de terror ",
+      "createdAt": "2026-07-09 12:02:15.182006-07"
+    }, {
+      "mediaId": "031c8b84-9189-425c-9f19-e35d7b334242",
+      "createdAt": "2026-07-09 12:03:03.708457-07"
+    }, {
+      "mediaId": "1fc61a40-111e-4546-9a4d-ad2d883b30dd",
+      "createdAt": "2026-07-09 12:03:49.776496-07"
+    }, {
+      "mediaId": "752ae947-0331-4726-9212-3e79591b8ce5",
+      "parentMediaId": "1fc61a40-111e-4546-9a4d-ad2d883b30dd",
+      "prompt": "Obscurece la habíatacion ",
+      "createdAt": "2026-07-09 12:03:55.713520-07"
+    }]
+  }, {
+    "stackName": "Demonic man with snakes candles",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "b118b38d-42ac-4250-a2a6-54aa3078362b",
+    "editStackMedia": [{
+      "mediaId": "b118b38d-42ac-4250-a2a6-54aa3078362b",
+      "prompt": "Muscular demonic man (ver referencia) with shaved head, glowing intense green eyes, black ritual face paint and cracks, long forked tongue out, wearing leather harness and collar, standing powerfully over live snakes and burning black candles, dark cracked wall with dripping pentagram in background, black and white with green neon accents, evil sinister smile, gooner possessed energy, sweaty oiled skin, dramatic low angle shot, PixVerse.ai style, dark satanic ritual atmosphere, #666 aKodak Portra 100T con cabello \r\n\r",
+      "createdAt": "2026-07-09 08:20:56.088585-07"
+    }, {
+      "mediaId": "3ebb115d-777b-4484-bc20-2b67e4f69976",
+      "createdAt": "2026-08-05 02:28:34.635342-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "905bd474-e367-4cce-977a-f7bd36a079fd",
+    "editStackMedia": [{
+      "mediaId": "905bd474-e367-4cce-977a-f7bd36a079fd",
+      "prompt": "Haz una ficha de personaje diablo como la del ejemplo adjunto \n",
+      "createdAt": "2026-07-09 12:16:19.502203-07"
+    }, {
+      "mediaId": "47fea5e4-09ea-4190-ad68-539ae4be2c45",
+      "createdAt": "2026-08-04 03:12:41.439917-07"
+    }]
+  }, {
+    "stackName": "Most loved color film stocks",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "e5ed8119-84c7-4be9-b040-7cd26533f581",
+    "editStackMedia": [{
+      "mediaId": "e5ed8119-84c7-4be9-b040-7cd26533f581",
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the specified text in its original language:\n\n\"Definitive The most loved, used, and recommended color film stocks by photographers and creators. Ordered by popularity and visual character. 01. Cinestill 800T 02. Kodak Portra 800 03. Kodak Portra 400 04. Kodak Portra 160 05. Lomography Color Negative 800 06. Fujifilm Pro 400H 07. Kodak Ektar 100 08. Kodak Ektachrome E100👈🏻👈🏻👈🏻 09. Fujifilm Superia 400 10. Lomography X-Pro 200 11. Kodak Gold 200 12. Fujifilm Velvia 50 13. Kodak Ultramax 400 14. Cinestill 50D 15. Fujifilm Pro 400H (2nd mention) 16. Lomography Color Negative 400 17. Kodak Vision3 500T 18. Kodak Vision3 250D 19. Agfa Vista Plus 200 20. Fujifilm Superia X-Tra 400 21-50 (Continuation): 21. Revolog Kolor 22. Adox Color Implosion 23. Lomography Redscale 24. Cinestill 400D 25. Kodak Portra 800 (push) 26. Fujifilm 400H 27. Kodak Gold 100 28. Polaroid Color 29. Fujifilm Instax (color) 30. Kodak Ektachrome 100 31. Lomography Diana F+ Color 32. Rollei Color 33. Kodak Aerochrome (color infrared) 34. Fujifilm Velvia 100 35. Kodak Portra 100T 36. Cinestill 800T (expired) 37. Agfa Vista 400 38. Lomography Metropolis 39. Kodak Vision3 50D 40. Fujifilm Provia 100F 👉🏻👉🏻👉🏻 make the nuenron40.\"",
+      "createdAt": "2026-08-04 02:44:00.115585-07"
+    }, {
+      "mediaId": "55120a0d-0678-47a3-a847-5358ff68ff69",
+      "createdAt": "2026-08-04 02:44:28.881969-07"
+    }]
+  }, {
+    "stackName": "Man exhaling toxic green smoke",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "91b6dbd8-7252-4cd5-a32c-890ca78fa9d9",
+    "editStackMedia": [{
+      "mediaId": "57642acf-63a8-4216-9e16-5bc3ddc1721e",
+      "prompt": "Medium cinematic shot of a muscular athletic man leaning forward intensely, eyes rolled back in gooner ecstasy with bright neon green glow, exhaling continuous thick swirling clouds of luminous toxic green smoke that wrap around his neck and chest, green energy cracks pulsing on face and shoulders, tongue slightly out, sweat and oil on shiny skin, dramatic overhead lighting mixed with green underglow, dark minimalist background, heavy volumetric atmosphere, slow sensual movement, ultra realistic textures, dark erotic cinematography, evil lust #666",
+      "createdAt": "2026-06-22 01:07:04.552391-07"
+    }, {
+      "mediaId": "04dd2955-80d0-4911-a0f5-fbb8ce088aab",
+      "parentMediaId": "57642acf-63a8-4216-9e16-5bc3ddc1721e",
+      "prompt": "Los ojos hazlos normales ",
+      "createdAt": "2026-07-09 11:56:47.217114-07"
+    }, {
+      "mediaId": "91b6dbd8-7252-4cd5-a32c-890ca78fa9d9",
+      "parentMediaId": "04dd2955-80d0-4911-a0f5-fbb8ce088aab",
+      "prompt": "Hazlo desde un ángulo de lado derecho desde arriba ",
+      "createdAt": "2026-07-09 12:07:40.800499-07"
+    }]
+  }, {
+    "stackName": "Adapt prompt to horizontal size",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "primaryMediaId": "7235220a-8c04-499f-b015-318796019436",
+    "editStackMedia": [{
+      "mediaId": "1b0fd87a-d9f8-4dec-8c33-778b72c12dc0",
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Adapt it to horizontal size.\"",
+      "createdAt": "2026-08-13 11:53:38.588193-07"
+    }, {
+      "mediaId": "01f36a04-60df-48f4-b7a8-fa588cf890d3",
+      "parentMediaId": "1b0fd87a-d9f8-4dec-8c33-778b72c12dc0",
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Change the person to this man.\"",
+      "createdAt": "2026-08-13 11:55:44.631624-07"
+    }, {
+      "mediaId": "8ce610da-31a5-464c-a010-eebb5666f66e",
+      "parentMediaId": "1b0fd87a-d9f8-4dec-8c33-778b72c12dc0",
+      "prompt": "Here\u0027s the translated prompt:\n\nChange it for the man.",
+      "createdAt": "2026-08-13 11:56:39.746991-07"
+    }, {
+      "mediaId": "7235220a-8c04-499f-b015-318796019436",
+      "parentMediaId": "8ce610da-31a5-464c-a010-eebb5666f66e",
+      "prompt": "Here\u0027s the translated and adapted prompt:\n\n**Adapt it to vertical size and at night.**",
+      "createdAt": "2026-08-13 12:04:14.638571-07"
+    }, {
+      "mediaId": "24dd7d30-a7ad-4457-a484-004f3f329947",
+      "createdAt": "2026-08-13 12:20:19.023517-07"
+    }]
+  }, {
+    "stackName": "20260416_133142.jpg",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "e3ffd444-da1f-42c1-a9c7-beb779e74b60",
+    "editStackMedia": [{
+      "mediaId": "dd5bf5c5-13f8-4c3f-8cdb-50ef5e26769e",
+      "createdAt": "2026-04-27 21:55:35.301793-07"
+    }, {
+      "mediaId": "53ec99ca-f324-4439-a300-da5fec8a735b",
+      "parentMediaId": "dd5bf5c5-13f8-4c3f-8cdb-50ef5e26769e",
+      "prompt": "Adáptalo a tamaño vertical ",
+      "createdAt": "2026-04-27 21:56:09.035763-07"
+    }, {
+      "mediaId": "13e10e46-3cdc-46af-88a1-5d0a5b94131a",
+      "createdAt": "2026-07-08 04:17:13.655562-07"
+    }, {
+      "mediaId": "a1056a25-2e5d-44cb-a1ce-88aca463ab1f",
+      "parentMediaId": "13e10e46-3cdc-46af-88a1-5d0a5b94131a",
+      "prompt": "Distribuye las iluminación ",
+      "createdAt": "2026-07-08 04:17:17.793479-07"
+    }, {
+      "mediaId": "29a2a967-d105-437b-a6c5-c3485a1935ad",
+      "createdAt": "2026-07-08 04:18:31.487807-07"
+    }, {
+      "mediaId": "e3ffd444-da1f-42c1-a9c7-beb779e74b60",
+      "parentMediaId": "29a2a967-d105-437b-a6c5-c3485a1935ad",
+      "prompt": "Animar la imagen en efecto bucle infinito dejando al centro libre el espacio",
+      "createdAt": "2026-07-08 04:18:36.186966-07"
+    }]
+  }, {
+    "stackName": "Two intertwined figures illustra…",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "primaryMediaId": "647b6e75-9f45-42c5-adef-21a89a7d6bbc",
+    "editStackMedia": [{
+      "mediaId": "647b6e75-9f45-42c5-adef-21a89a7d6bbc",
+      "prompt": "**Prompt (EN):**\nSingle continuous line art illustration of two intertwined figures, minimalist black line on cream background, elegant and sensual, modern art gallery poster style\n\n**Texto (ES):** manuscrita fina, parte inferior.",
+      "createdAt": "2026-08-04 23:56:08.614989-07"
+    }, {
+      "mediaId": "92953fd5-e1c0-4992-8cb4-62d0215d2b10",
+      "parentMediaId": "647b6e75-9f45-42c5-adef-21a89a7d6bbc",
+      "prompt": "Quebla hug backwards.",
+      "createdAt": "2026-08-13 12:21:39.758231-07"
+    }, {
+      "mediaId": "b8c59e1c-63e1-4680-bfd2-5010de4d1975",
+      "parentMediaId": "647b6e75-9f45-42c5-adef-21a89a7d6bbc",
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"A series for the cover of the advanced Kama Sutra book.\"",
+      "createdAt": "2026-08-13 12:30:37.353357-07"
+    }]
+  }, {
+    "stackName": "Man\u0027s hand breaking diet",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "primaryMediaId": "fcc4f02d-61c6-4fec-8f33-dbfc526419cf",
+    "editStackMedia": [{
+      "mediaId": "9b49e3e8-ead2-4ec3-8cf2-3c28b3fd0a99",
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"It should look like a man\u0027s hand without rings and logo-type typography. The theme should be related to breaking a diet.\"",
+      "createdAt": "2026-08-04 02:49:21.136229-07"
+    }, {
+      "mediaId": "dab3ad61-07b7-4db6-afa1-801877a21a86",
+      "parentMediaId": "9b49e3e8-ead2-4ec3-8cf2-3c28b3fd0a99",
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Change the fonts to be more original, making them look like they have movement or resemble logos. The style should be emoji-like. In relation to breaking diets.\"",
+      "createdAt": "2026-08-04 02:50:50.083042-07"
+    }, {
+      "mediaId": "fcc4f02d-61c6-4fec-8f33-dbfc526419cf",
+      "parentMediaId": "dab3ad61-07b7-4db6-afa1-801877a21a86",
+      "prompt": "I\u0027m this close to slamming my head against a desk.",
+      "createdAt": "2026-10-06 04:46:37.217798-07"
+    }]
+  }, {
+    "stackName": "Demonic man ritual snakes candles",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "87d3b77a-96fb-4cf5-8f48-578aff566c12",
+    "editStackMedia": [{
+      "mediaId": "87d3b77a-96fb-4cf5-8f48-578aff566c12",
+      "prompt": "Muscular demonic man with shaved head, glowing intense green eyes, black ritual face paint and cracks, long forked tongue out, wearing leather harness and collar, standing powerfully over live snakes and burning black candles, dark cracked wall with dripping pentagram in background, black and white with green neon accents, evil sinister smile, gooner possessed energy, sweaty oiled skin, dramatic low angle shot, PixVerse.ai style, dark satanic ritual atmosphere, #666",
+      "createdAt": "2026-06-22 00:36:28.221376-07"
+    }, {
+      "mediaId": "ae3d4238-bddb-40bd-8251-c9cbcb83ee05",
+      "parentMediaId": "87d3b77a-96fb-4cf5-8f48-578aff566c12",
+      "prompt": "Inspirste en este personaje para volver hacer la imagen ",
+      "createdAt": "2026-07-08 05:53:45.201046-07"
+    }, {
+      "mediaId": "59b43734-d26d-43c4-b182-72bab9a0163d",
+      "parentMediaId": "ae3d4238-bddb-40bd-8251-c9cbcb83ee05",
+      "prompt": "Adáptalo a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 05:59:15.169618-07"
+    }]
+  }, {
+    "stackName": "3x3 grid photo collage",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "6b3b61c2-1d46-411b-9695-4e4db1354159",
+    "editStackMedia": [{
+      "mediaId": "6b3b61c2-1d46-411b-9695-4e4db1354159",
+      "prompt": "Create a 3×3 grid photo collage with high-contrast black-and-white aesthetics.\n\nFace Reference:\n\nStrict face preservation.\n\nUse the uploaded reference for exact facial features.\n\nKeep the face identical across all nine frames.\n\nGrid Composition:\n\n3×3 layout.\n\nPose variety:\n\nIntense direct stare\n\nSilhouette backlit\n\nHands covering face with one eye peeking\n\nStrong side profile\n\nFull-body power stance\n\nEyes-only close-up\n\nMotion blur\n\nContemplative downward gaze\n\nLaughing candid\n\nSubject:\n\nSame person as the reference.\n\nSimple black turtleneck.\n\nTimeless, artistic presence.\n\nEnvironment:\n\nMinimal studio.\n\nGrey gradient or geometric background.\n\nDramatic directional lighting with hard shadows and extreme contrast.\n\nImage Quality:\n\n8K color\n\nFine-art film grain.\n\nEditorial portrait style inspired by Irving Penn and Richard Avedon.\n\nNegative Prompt:\n\nFlat lighting\n\nDifferent face\n\nAltered facial features\n\nOutput:\n\n3×3 grid\n\n9:16 aspect ratio\n\nImportante Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "createdAt": "2026-07-08 04:35:34.842469-07"
+    }, {
+      "mediaId": "23a448ec-9cd1-47ad-9b01-7c2254bd5b11",
+      "createdAt": "2026-07-09 12:45:50.178351-07"
+    }]
+  }, {
+    "stackName": "",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "primaryMediaId": "0ad8da64-2ee2-4779-85fe-ed7be36740f7",
+    "editStackMedia": [{
+      "mediaId": "d84ee7e2-469c-46a1-bf7a-f82758202b5d",
+      "prompt": "Borra los textos la parte inferior y el texto de ricasbarmoniasnybtromoetas brillantes ponlo abajo de \"la esperanza\" ",
+      "createdAt": "2026-07-09 12:52:24.089114-07"
+    }, {
+      "mediaId": "0ad8da64-2ee2-4779-85fe-ed7be36740f7",
+      "parentMediaId": "d84ee7e2-469c-46a1-bf7a-f82758202b5d",
+      "prompt": "El texto de la izquierda ponlonal centro y el de la derecha abajo centrom ",
+      "createdAt": "2026-07-09 12:55:04.455293-07"
+    }]
+  }, {
+    "stackName": "Neon typography album cover pink…",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "primaryMediaId": "1a23e81f-c229-4734-8cf3-39c7ddce48e6",
+    "editStackMedia": [{
+      "mediaId": "1a23e81f-c229-4734-8cf3-39c7ddce48e6",
+      "prompt": "Bold neon typography album cover, glowing pink and purple gradient letters, dark background, R\u0026B album aesthetic, minimalist, no people\n\n**Texto (ES):** \"ESA LENGUA DULCE\" — efecto neón/glitch como elemento principal.",
+      "createdAt": "2026-08-04 23:32:01.800609-07"
+    }, {
+      "mediaId": "686f62cf-920a-4976-8fe3-17b5e8b07bfb",
+      "createdAt": "2026-08-18 15:38:12.562369-07"
+    }]
+  }, {
+    "stackName": "Gemini_Generated_Image_ (3).png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "f372309a-72b3-4f2f-9c3d-e2f3516ab567",
+    "editStackMedia": [{
+      "mediaId": "b3b32dd0-414f-4a08-8829-f1cc2ad4c177",
+      "createdAt": "2026-04-27 21:56:53.916059-07"
+    }, {
+      "mediaId": "f372309a-72b3-4f2f-9c3d-e2f3516ab567",
+      "parentMediaId": "b3b32dd0-414f-4a08-8829-f1cc2ad4c177",
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "createdAt": "2026-07-08 04:21:07.286649-07"
+    }]
+  }, {
+    "stackName": "Man in leather suit pleasure",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "primaryMediaId": "b9a1f2f9-8a72-42a6-8d3e-cb07a29c8450",
+    "editStackMedia": [{
+      "mediaId": "bc4a438f-704b-422b-8d0d-688988e53af7",
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Mexican man of normal build, face similar to the reference, wearing a tight black leather biker suit. He is reclining or sitting while another man is firmly squeezing his chest and the lower area of the suit with his hands. Expression of intense pleasure. Details of shining leather, photorealistic, soft lighting, 8K. no t3xtos no logos. They speak in Spanish. español.\"",
+      "createdAt": "2026-07-18 11:35:12.476215-07"
+    }, {
+      "mediaId": "c3b743f9-a5bf-4999-a825-ba651e5a5d54",
+      "parentMediaId": "bc4a438f-704b-422b-8d0d-688988e53af7",
+      "prompt": "The workshop should look abandoned.",
+      "createdAt": "2026-07-24 05:46:49.741421-07"
+    }, {
+      "mediaId": "977f6ebb-6d42-42de-8c41-740de2db3249",
+      "parentMediaId": "c3b743f9-a5bf-4999-a825-ba651e5a5d54",
+      "prompt": "He/She sits on his/her legs to help him/her.",
+      "createdAt": "2026-07-24 05:47:46.218583-07"
+    }, {
+      "mediaId": "603620ce-fa18-450b-942f-f114df477366",
+      "parentMediaId": "977f6ebb-6d42-42de-8c41-740de2db3249",
+      "prompt": "It helps you take off your shoes.",
+      "createdAt": "2026-07-24 05:52:46.697641-07"
+    }, {
+      "mediaId": "3640aa82-48bd-473d-b19d-1f5a9668072c",
+      "parentMediaId": "c3b743f9-a5bf-4999-a825-ba651e5a5d54",
+      "prompt": "The standing person unzips the seated person.",
+      "createdAt": "2026-07-27 00:42:38.013276-07"
+    }, {
+      "mediaId": "b9a1f2f9-8a72-42a6-8d3e-cb07a29c8450",
+      "parentMediaId": "3640aa82-48bd-473d-b19d-1f5a9668072c",
+      "prompt": "The one standing puts on a belt and the one sitting puts on white gloves.",
+      "createdAt": "2026-07-27 00:44:38.224727-07"
+    }, {
+      "mediaId": "e89f0ded-142f-49f0-b5b6-8abd756d555e",
+      "parentMediaId": "b9a1f2f9-8a72-42a6-8d3e-cb07a29c8450",
+      "prompt": "The standing one pulls up his pants, the sitting one kneels, leaning back on the armchair.",
+      "createdAt": "2026-07-27 00:45:54.757823-07"
+    }]
+  }, {
+    "stackName": "1000634396.jpg",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "collectionId": "",
+    "primaryMediaId": "4d4286eb-ec2c-43da-bfa5-b523f7493133",
+    "editStackMedia": [{
+      "mediaId": "0387aad1-12e7-4c62-a1a7-8d183d32229b",
+      "createdAt": "2026-07-08 09:14:02.989993-07"
+    }, {
+      "mediaId": "d0da8aa6-654f-4e4d-9644-f7ebb5e63de2",
+      "createdAt": "2026-07-08 09:14:56.145270-07"
+    }, {
+      "mediaId": "0074078f-4239-4ee2-a788-a99c9e6dd163",
+      "parentMediaId": "d0da8aa6-654f-4e4d-9644-f7ebb5e63de2",
+      "prompt": " Kodak Portra 400 adáptalo a tamaño vertical ",
+      "createdAt": "2026-07-08 09:15:04.654809-07"
+    }, {
+      "mediaId": "d86b1219-b7a1-4a97-8e29-65b0fb079efe",
+      "createdAt": "2026-07-08 09:15:38.731989-07"
+    }, {
+      "mediaId": "addb889e-d7f5-4da8-98ad-eca0d8be0e67",
+      "parentMediaId": "0074078f-4239-4ee2-a788-a99c9e6dd163",
+      "prompt": "Kodak Portra 100T\r\n\r",
+      "createdAt": "2026-07-08 09:17:00.203114-07"
+    }, {
+      "mediaId": "fae2bf22-2909-4070-b6f3-54ed509c71cb",
+      "createdAt": "2026-07-08 09:24:04.240109-07"
+    }, {
+      "mediaId": "44b01ba6-6faf-49ba-8cd2-23b1a8f23773",
+      "parentMediaId": "addb889e-d7f5-4da8-98ad-eca0d8be0e67",
+      "prompt": "Quitaleblos ojos verdes ",
+      "createdAt": "2026-07-09 08:20:09.955208-07"
+    }, {
+      "mediaId": "4d4286eb-ec2c-43da-bfa5-b523f7493133",
+      "parentMediaId": "44b01ba6-6faf-49ba-8cd2-23b1a8f23773",
+      "prompt": "Borra los ojos verdes ",
+      "createdAt": "2026-07-09 08:21:16.458148-07"
+    }, {
+      "mediaId": "9bd0f5fd-5852-4971-8b89-5c3b94288365",
+      "createdAt": "2026-08-04 02:30:56.430017-07"
+    }]
+  }, {
+    "stackName": "Cinematic realistic Kodak Portra…",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "primaryMediaId": "63c125f1-0209-4358-9792-d1f46a327071",
+    "editStackMedia": [{
+      "mediaId": "63c125f1-0209-4358-9792-d1f46a327071",
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the original language for any text that might be rendered in the image:\n\n\"Make it cinematic realistic Kodak Portra 100T studio lighting, --ar 3:2 --stylize 160 --v 8.1\"",
+      "createdAt": "2026-08-04 02:17:11.865384-07"
+    }, {
+      "mediaId": "e87ddb41-c7b0-496a-a507-8ca04e2c75f6",
+      "createdAt": "2026-08-04 02:18:02.081534-07"
+    }]
+  }, {
+    "stackName": "1777355947748.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "d2f92774-7b9e-4a95-bc20-5d43c081edd5",
+    "editStackMedia": [{
+      "mediaId": "2b151301-2ba8-45cc-ad3a-dd04dae53c2d",
+      "createdAt": "2026-04-28 07:24:58.437807-07"
+    }, {
+      "mediaId": "0550a9e6-0fd9-4e53-8684-76b8c4c8befc",
+      "createdAt": "2026-07-08 04:22:28.330847-07"
+    }, {
+      "mediaId": "8450a866-cd85-405e-bbc4-ce71fbb5e9b8",
+      "parentMediaId": "0550a9e6-0fd9-4e53-8684-76b8c4c8befc",
+      "prompt": "En la parte superior adáptalo a tamaño vertical ",
+      "createdAt": "2026-07-08 04:22:32.732442-07"
+    }, {
+      "mediaId": "d2f92774-7b9e-4a95-bc20-5d43c081edd5",
+      "parentMediaId": "2b151301-2ba8-45cc-ad3a-dd04dae53c2d",
+      "prompt": "without logos or watermarks, keep the rest identical.",
+      "createdAt": "2026-09-17 03:23:47.854656-07"
+    }]
+  }, {
+    "stackName": "Man exhaling toxic green smoke",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "98b140b4-5133-4291-a0b7-c68714a1fde5",
+    "editStackMedia": [{
+      "mediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4",
+      "prompt": "Medium cinematic shot of a muscular athletic man leaning forward intensely, eyes rolled back in gooner ecstasy with bright neon green glow, exhaling continuous thick swirling clouds of luminous toxic green smoke that wrap around his neck and chest, green energy cracks pulsing on face and shoulders, tongue slightly out, sweat and oil on shiny skin, dramatic overhead lighting mixed with green underglow, dark minimalist background, heavy volumetric atmosphere, slow sensual movement, ultra realistic textures, dark erotic cinematography, evil lust #666",
+      "createdAt": "2026-06-22 01:07:09.129678-07"
+    }, {
+      "mediaId": "a6ae92d4-8edf-434c-aceb-e8698eabefd5",
+      "parentMediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4",
+      "prompt": " Kodak Portra 400",
+      "createdAt": "2026-07-08 09:10:11.338386-07"
+    }, {
+      "mediaId": "a05cbc69-fd77-4e2d-9696-e6dd63ee54ea",
+      "parentMediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4",
+      "prompt": "Kodak Portra 100T\r\n\r",
+      "createdAt": "2026-07-08 09:10:40.810002-07"
+    }, {
+      "mediaId": "237d034b-a6ff-4c49-a7b3-2d4ce489679d",
+      "parentMediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4",
+      "prompt": " Kodak Portra 400",
+      "createdAt": "2026-07-08 09:10:45.486559-07"
+    }, {
+      "mediaId": "cfdfb0f9-fca4-4f92-aea7-31587d7cdef8",
+      "parentMediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4",
+      "prompt": "Kodak Portra 100T\r\n\r",
+      "createdAt": "2026-07-08 09:11:43.674755-07"
+    }, {
+      "mediaId": "b17dff27-3653-45eb-ad8f-dc1543de5c9f",
+      "parentMediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4",
+      "prompt": "Yoma desde arriba abajo del lado derecho ",
+      "createdAt": "2026-07-08 09:12:33.448448-07"
+    }, {
+      "mediaId": "529c60bd-bfd6-4442-8fdd-4dac8e42d036",
+      "parentMediaId": "cfdfb0f9-fca4-4f92-aea7-31587d7cdef8",
+      "prompt": "Hazlo desde un ángulo de lado derecho desde arriba \n",
+      "createdAt": "2026-07-09 12:04:37.801717-07"
+    }, {
+      "mediaId": "0d1a03b3-85ee-4534-a416-99a98cb10835",
+      "createdAt": "2026-07-09 12:04:53.482151-07"
+    }, {
+      "mediaId": "98b140b4-5133-4291-a0b7-c68714a1fde5",
+      "parentMediaId": "529c60bd-bfd6-4442-8fdd-4dac8e42d036",
+      "prompt": "Hazlo desde abajo hacia arriba de frente ",
+      "createdAt": "2026-07-09 12:05:58.004068-07"
+    }]
+  }, {
+    "stackName": "1777353198636.png",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "collectionId": "",
+    "primaryMediaId": "fd0afaf6-f0e4-451f-adf9-8298e4bb3418",
+    "editStackMedia": [{
+      "mediaId": "2a8bc5b6-8261-46d9-bbe6-c68a6f55e7cb",
+      "createdAt": "2026-04-27 22:28:48.887928-07"
+    }, {
+      "mediaId": "fd0afaf6-f0e4-451f-adf9-8298e4bb3418",
+      "parentMediaId": "2a8bc5b6-8261-46d9-bbe6-c68a6f55e7cb",
+      "prompt": "Adáptalo a tamaño vertical ",
+      "createdAt": "2026-07-08 04:25:06.039543-07"
+    }]
+  }, {
+    "stackName": "Orchestra playing with colorful …",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "primaryMediaId": "f7714ad0-2472-4637-99e3-f9518a1dfcee",
+    "editStackMedia": [{
+      "mediaId": "41b2752b-0192-4f95-b09f-49acae401006",
+      "prompt": "High energy vertical shot of a vibrant K-pop orchestral explosion, conductor with glowing baton, massive orchestra playing with punchy drums and bright brass, sweeping violins creating light trails, energetic crowd dancing, colorful stage lights and pyrotechnics, festive uplifting powerful atmosphere, dynamic composition, hyper-detailed, polished modern production",
+      "createdAt": "2026-07-08 08:58:01.277846-07"
+    }, {
+      "mediaId": "f7714ad0-2472-4637-99e3-f9518a1dfcee",
+      "parentMediaId": "41b2752b-0192-4f95-b09f-49acae401006",
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1\r\n¿Aprueban este Batman? \r\n\r",
+      "createdAt": "2026-07-08 09:00:29.971543-07"
+    }]
+  }, {
+    "stackName": "Cambia de rojo a morado",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "8ffdc777-0ee0-4e89-a14b-908089399cba",
+    "editStackMedia": [{
+      "mediaId": "26b4d73c-6e5c-4b63-b811-88315c33d5ab",
+      "prompt": "Cinematic silhouette shot of a muscular demonic man slowly walking forward through thick glowing green toxic fog, neon green eyes burning brightly as the only clear feature, smoke dramatically swirling around his powerful physique, subtle green energy cracks visible on torso, wearing open harness, backlit by strong red rim light creating halo effect, dark industrial/satanic environment, floating particles and embers, ultra atmospheric, moody and menacing, filmic wide angle, photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at allPixVerse cinematic masterpiece, #666",
+      "createdAt": "2026-07-08 05:50:35.882035-07"
+    }, {
+      "mediaId": "0b5d62d8-f9c7-4f0d-a1d5-2d9d6f0fba60",
+      "parentMediaId": "26b4d73c-6e5c-4b63-b811-88315c33d5ab",
+      "prompt": "Cambia de rojo a morado",
+      "createdAt": "2026-07-08 06:00:14.788638-07"
+    }, {
+      "mediaId": "8ffdc777-0ee0-4e89-a14b-908089399cba",
+      "parentMediaId": "0b5d62d8-f9c7-4f0d-a1d5-2d9d6f0fba60",
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "createdAt": "2026-07-09 13:07:11.811397-07"
+    }]
+  }, {
+    "stackName": "Me gusta fondo imagen elementos",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "primaryMediaId": "ed10c709-85fb-4115-bf02-de4530608b8a",
+    "editStackMedia": [{
+      "mediaId": "b78e25cc-53fc-4418-93d2-15715bbad040",
+      "prompt": "Me me gusta el fondo de la imagen uno pero con todos los elementos de la segunda imagen",
+      "createdAt": "2026-07-09 11:33:17.859786-07"
+    }, {
+      "mediaId": "7ead1385-c8fe-41cb-8498-944d4a287475",
+      "parentMediaId": "b78e25cc-53fc-4418-93d2-15715bbad040",
+      "prompt": "Las deben estar sujetas al aero que están en el centro de la base donde está el diablo borra el arnés del diablo",
+      "createdAt": "2026-07-09 11:37:22.335725-07"
+    }, {
+      "mediaId": "ed10c709-85fb-4115-bf02-de4530608b8a",
+      "parentMediaId": "7ead1385-c8fe-41cb-8498-944d4a287475",
+      "prompt": "Texto escríbelo al español",
+      "createdAt": "2026-07-09 11:38:13.319754-07"
+    }, {
+      "mediaId": "9a6d984d-da31-42c5-9fcb-ee68e6adcab5",
+      "parentMediaId": "ed10c709-85fb-4115-bf02-de4530608b8a",
+      "prompt": "Kodak Portra 100T",
+      "createdAt": "2026-07-09 11:39:41.076266-07"
+    }, {
+      "mediaId": "cf5dfae9-2b80-4842-a327-9e41948e67a4",
+      "createdAt": "2026-07-09 11:46:39.810938-07"
+    }, {
+      "mediaId": "de926f39-01da-4ee7-9fcb-191dab7732e1",
+      "parentMediaId": "ed10c709-85fb-4115-bf02-de4530608b8a",
+      "prompt": "Obscurece el fondo ",
+      "createdAt": "2026-07-09 11:53:03.484213-07"
+    }]
+  }]
+}

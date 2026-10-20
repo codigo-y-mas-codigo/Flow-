@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f91ea781-d94b-4a8a-98fe-59afdd5c0112",
+    "mediaTitle": "Disaster romance film story",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-11 00:39:10.328447-07",
+    "modelName": "Veo 3.1 - Fast",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "74a44d3c-d5f6-4a51-9070-dbced6341e75",
+    "mediaTitle": "Man transforming into superhero …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 08:09:32.921392-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vertical 9:16 cinematic video. A dramatic morphing transition where a sudden burst of glowing neon blue lightning and sparks erupts from the man\u0027s chest. The electrical energy instantly transforms his black t-shirt into a high-tech metallic carbon fiber superhero suit. The camera does a subtle dolly zoom in. Includes realistic electrical crackle, hum, and thunder sound effects.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

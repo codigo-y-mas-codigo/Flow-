@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "51110de2-c1be-4eed-bae7-9da48a95cf1c",
+    "mediaTitle": "Magician diorama crafting scene",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 04:14",
+    "projectId": "18470725-d3a5-4073-a01d-b5867cff4899",
+    "createdAt": "2026-09-17 03:15:07.757360-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "SCENE: A 3D miniature diorama of The Magician (RWS Tarot). A 3D handcrafted resin figure of The Magician standing behind a wooden altar on a mini stage. On the table, 3D miniature objects (a sword, cup, pentacle, and wand) rest in detail. The background features a glowing 3D infinity symbol (∞) floating above his head. The card illustration behind him transitions from a flat black-and-white print, to warm vintage colors, to a fully volumetric 3D photorealistic scene. Text \"EL PODER CREATIVO\" in bold 3D golden serif typography casting soft shadows on the stage floor.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

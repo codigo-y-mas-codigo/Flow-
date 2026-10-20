@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5e2d8513-6698-4727-8720-59b07457cde5",
+    "mediaTitle": "Disaster romance film story",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-27 00:02:54.826479-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

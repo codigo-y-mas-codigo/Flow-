@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f7139787-ee10-4efc-92ac-85153e67c417",
+    "mediaTitle": "Paper collage documentary diagram",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 04:47:56.534553-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary. Paper collage diagram of traditional leather saddlery, spurs, and rope cutouts. Warm cream textured paper background with visible newsprint fibre and subtle grain. Soft realistic drop shadows. Heavy condensed sans-serif ALL CAPS typography with black ink stamp effect: \"NUEVE SUERTES CHARRAS\". Palette: warm cream, charcoal black, deep navy, leather brown accents.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2ae41d09-cf80-42a0-b830-98446e1d3dc2",
+    "mediaTitle": "Character keeping exact same exp…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 00:33:33.870577-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Close-up on the character\u0027s face, keep her exact same expression, makeup, countenance, wardrobe, colors, hairstyle, wig, accessories, keep the same gestures, do not embellish.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE"
+    }
+  }]
+}

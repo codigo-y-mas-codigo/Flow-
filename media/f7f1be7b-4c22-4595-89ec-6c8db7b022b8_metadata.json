@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f7f1be7b-4c22-4595-89ec-6c8db7b022b8",
+    "mediaTitle": "Fruit glowing with radiance",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:40:39.020445-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make the fruit have a glow like a radiance.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

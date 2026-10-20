@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2325b414-bb6f-4842-8366-2db06946fcc3",
+    "mediaTitle": "Modificar imagen con pared rosa",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-06 14:16:06.027935-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Delete the TV, furniture, and flowers.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ade49c08-94ad-4b97-b447-7fa8718de082"
+    }
+  }]
+}

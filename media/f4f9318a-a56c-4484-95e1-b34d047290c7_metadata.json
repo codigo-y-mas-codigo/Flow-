@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f4f9318a-a56c-4484-95e1-b34d047290c7",
+    "mediaTitle": "Man and woman change position",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:33:36.760511-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Bor los personajes y deja únicamente el background el fondo",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "5bba1440-a7ef-4584-9fc0-f33b2d3a9a78"
+    }
+  }]
+}

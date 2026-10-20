@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a19f86e2-f4fc-4678-bac7-51bb4b230846",
+    "mediaTitle": "Antorcha abajo misma posición ar…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:27:14.266162-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "La antorcha debe estar abajo , debe tener la misma posición que el arcano original ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6fea0a75-c7a6-4319-a824-9dd611005859",
+    "mediaTitle": "rostros de modelos cambialos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:11:53.922288-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "los rostros de los modelos cambialos y haz que se parezca al de el rostro ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

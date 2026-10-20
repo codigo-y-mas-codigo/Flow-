@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fb70ac00-a1c8-446c-946d-1773a5e7c8f4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 02:39:58.242447-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Rider-Waite tarot card on dark velvet surface, single candle light, mysterious atmosphere, cinematic photography, close up no text, no watermark, high quality  onsistent art style, warm color palette, cinematic ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

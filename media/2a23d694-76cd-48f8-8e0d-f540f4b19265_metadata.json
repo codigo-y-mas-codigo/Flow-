@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2a23d694-76cd-48f8-8e0d-f540f4b19265",
+    "mediaTitle": "Mariachi Pop song lyrics",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:47:27.010060-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra a los personajes y pon los textos al centro y agrandar los pequeños . Que queden bien distribución ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "920d52d9-d39b-4e78-a8f0-12d65cb993d1"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "46481f0d-74e0-4488-9dff-f6eb60d1088c",
+    "mediaTitle": "Tarot card vertical artwork design",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 04:14",
+    "projectId": "18470725-d3a5-4073-a01d-b5867cff4899",
+    "createdAt": "2026-09-17 03:34:19.089261-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Full-bleed 9:16 vertical artwork in the authentic 1909 Rider-Waite-Smith tarot style by Pamela Colman Smith. No card frames, no borders, edge-to-edge illustration.\n\nCHARACTER \u0026 FOREGROUND:\n[Inserte Personaje/Arcano, ej: The Fool standing at the edge of a cliff, vibrant classic outfit].\n\nLIVING BACKGROUND \u0026 ATMOSPHERE:\nThe background expands into a dynamic, living scene with atmospheric depth: [Ej: turbulent waves crashing below, sun rays breaking through dramatic clouds, moving dust particles], maintaining hand-drawn ink linework, vintage color palette (pale yellow, cobalt blue, crimson, olive green), and classical flat-color shading.\n\nTYPOGRAPHY \u0026 TITLE:\nAt the bottom center, a bold banner featuring the exact hand-lettered vintage Rider-Waite serif typography, reading \"[NOMBRE DEL ARCANO EN MAYÚSCULAS]\", large, ultra-clear, high-contrast, highly legible text.\n\nSTYLE DETAILS:\nPhotorealistic texture of vintage heavy paper print, authentic ink lines, dramatic lighting integrated into the classic art style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

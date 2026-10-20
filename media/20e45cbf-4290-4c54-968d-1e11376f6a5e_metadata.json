@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "20e45cbf-4290-4c54-968d-1e11376f6a5e",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 16 - 01:38",
+    "projectId": "122401e3-570f-4e50-8846-0e5465adb5f7",
+    "createdAt": "2026-09-20 00:04:55.153951-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Extract the image on the right. Remove the trees and anything that looks like a screenshot. Do not modify the building or the framing.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "9d836bfd-dfe3-4f74-84a3-fc87d61be19b"
+    }
+  }]
+}

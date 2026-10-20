@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "279f1cc8-b377-43c4-992a-8d4a4bc2b977",
+    "mediaTitle": "Two men dramatic pose",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-05 01:58:41.968585-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Retro pulp romance novel cover parody, exaggerated dramatic pose, bold comic-style text bubble, campy and playful, saturated colors, two men.\n\n**Text (ES):** \"Advertencia: contenido dulce\" — comic style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

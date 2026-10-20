@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "afe4877c-7976-433b-aa07-4b46dc3a058a",
+    "mediaTitle": "Demonic man walking through fog",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-06-22 01:05:08.552290-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic silhouette shot of a muscular demonic man slowly walking forward through thick glowing green toxic fog, neon green eyes burning brightly as the only clear feature, smoke dramatically swirling around his powerful physique, subtle green energy cracks visible on torso, wearing open harness, backlit by strong red rim light creating halo effect, dark industrial/satanic environment, floating particles and embers, ultra atmospheric, moody and menacing, filmic wide angle, PixVerse cinematic masterpiece, #666",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

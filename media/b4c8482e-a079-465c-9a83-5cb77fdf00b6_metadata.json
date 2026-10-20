@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b4c8482e-a079-465c-9a83-5cb77fdf00b6",
+    "mediaTitle": "image.png_202609070507.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:24:23.014875-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "neutral white background, do not beautify, keep the exact same pose makeup everything the same",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "46700ddf-57a8-48c6-b823-d775efc02e50"
+    }
+  }]
+}

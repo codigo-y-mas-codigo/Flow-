@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d29123b8-5b3e-4759-b710-f634c5ce4119",
+    "mediaTitle": "Gemini_Generated_Image_ (3).png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 04:15:56.189701-07",
+    "modelName": "Nano Banana 2",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

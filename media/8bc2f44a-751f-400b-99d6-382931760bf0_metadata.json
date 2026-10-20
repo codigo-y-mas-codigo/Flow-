@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8bc2f44a-751f-400b-99d6-382931760bf0",
+    "mediaTitle": "Respect image musical video clips",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:20:35.499554-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

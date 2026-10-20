@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aba43fc6-d0a7-4ac0-ab4a-f85482c10b32",
+    "mediaTitle": "Gemini_Generated_Image_efb6d1efb6d1efb6.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:26:10.152714-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Extract the design of the cyperbpunl logo without makeup, including the chip-type background that has the background.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "18f1aace-554f-4548-8ea8-76d2cce3d98b"
+    }
+  }]
+}

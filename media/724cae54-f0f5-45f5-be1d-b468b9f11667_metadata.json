@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "724cae54-f0f5-45f5-be1d-b468b9f11667",
+    "mediaTitle": "Animate image with fixed shot",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-09-17 03:04:04.209745-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

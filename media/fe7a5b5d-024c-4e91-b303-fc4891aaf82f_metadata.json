@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fe7a5b5d-024c-4e91-b303-fc4891aaf82f",
+    "mediaTitle": "Red Ranger helmet on ground",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:25:18.401852-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A dramatic close-up of a battle-damaged Red Ranger helmet lying on dusty ground. visible deep cracks, scorch marks, and wear. In the reflection of the dark visor, the silhouette of an imposing monster is visible. Moody low-key cinematic lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

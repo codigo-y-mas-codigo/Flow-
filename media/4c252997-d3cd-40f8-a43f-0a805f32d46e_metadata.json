@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4c252997-d3cd-40f8-a43f-0a805f32d46e",
+    "mediaTitle": "Haz arcano diablo segunda imagen",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:03:31.944010-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Haz el arcano del diablo en el estilo de la segunda imagen ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

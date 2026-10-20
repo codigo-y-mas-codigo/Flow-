@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4549a415-d049-4ea0-8427-8de48575230b",
+    "mediaTitle": "Video generation prompts and text",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-08-04 02:36:38.091088-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

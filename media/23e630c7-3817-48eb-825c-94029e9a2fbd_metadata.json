@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "23e630c7-3817-48eb-825c-94029e9a2fbd",
+    "mediaTitle": "Winged figure near stone hearth",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "createdAt": "2026-09-01 02:33:27.826856-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

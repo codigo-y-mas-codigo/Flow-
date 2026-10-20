@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dbed036b-32dc-4aef-ae48-f9eee6f9f494",
+    "mediaTitle": "Man with mud on chest",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-18 11:31:52.533677-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n30-year-old Mexican man, normal build, face similar to the reference (goatee, black hair), wearing a tight black motorcycle suit, leaning on a black motorcycle. Another Mexican man in a black and white suit is standing over the motorcycle and opening his suit, rubbing thick, wet brown mud vigorously over his chest and abdomen. Expression of pleasure and surprise on his face. Dripping mud, realistic wet leather textures, soft cinematic lighting, extreme photorealistic 8K. no t3xtos no logos. They speak in Spanish.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

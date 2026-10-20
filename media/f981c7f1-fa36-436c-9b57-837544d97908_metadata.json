@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f981c7f1-fa36-436c-9b57-837544d97908",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 02:57:07.302818-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A close-up, highly detailed portrait of a powerful lion with calm eyes, rendered in a clean, illustrative style reminiscent of traditional woodcut prints or simplified, vintage storybook art, but colored digitally. The image features strong, consistent black outlines defining the lion\u0027s form and mane, contributing to a graphic and stylized appearance. The color palette is limited and uses large, flat areas of color with no shading or subtle gradients. The lion\u0027s fur and mane are represented by large, smooth, flat blocks of muted color, possibly using soft browns and pale yellows. The background is simple and symbolic, illuminated by a warm, golden light that pervades the entire scene. The overall texture is smooth and uniform, emphasizing clear forms and a simple, decorative color scheme for a classic, mythological feel. The composition is cinematic and painterly, focusing intensely on the lion\u0027s head and serene expression.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

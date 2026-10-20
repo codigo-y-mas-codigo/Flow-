@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "267a0a48-6008-40a5-bd51-dd44a3e00904",
+    "mediaTitle": "Changing logo font style",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:50:31.589239-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Change \u0027cambio\u0027 to a logo-like font suitable for the theme.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

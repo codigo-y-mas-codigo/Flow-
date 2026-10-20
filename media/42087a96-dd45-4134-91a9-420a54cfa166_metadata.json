@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "42087a96-dd45-4134-91a9-420a54cfa166",
+    "mediaTitle": "Man exhaling thick vapor",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:23:16.284274-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "en una secuencia de 3x3 A shirtless muscular Latino man in his 38s, wearing a black cap backwards, visible giraffe tattoo on chest and shoulder, eyes closed in pleasure, exhaling an extremely massive, thick, dense cloud of white and purple vapor/smoke from his mouth and nose. The huge volumetric smoke billows out dramatically, filling the entire room like thick fog. Psychedelic neon bedroom at night, rainbow and star decorations on walls, blue and pink neon lights, string lights, dreamy colorful atmosphere, cinematic lighting, highly detailed, realistic skin texture, dynamic camera movement, 4\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR",
+      "parentMediaId": "cf1d33be-09ad-4bed-9b7f-021b94adeeb4"
+    }
+  }]
+}

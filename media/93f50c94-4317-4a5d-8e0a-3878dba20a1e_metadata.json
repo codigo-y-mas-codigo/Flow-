@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "93f50c94-4317-4a5d-8e0a-3878dba20a1e",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 00:19:22.473158-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt in English:\n\nDelete the letter \"L\" from the part, the bottom letter, the first one from left to right. Erase the pink letter in the upper left part. Keep the rest of the image exactly the same.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "a7cea510-df0f-4b2b-b5a0-c3fd408e4508"
+    }
+  }]
+}

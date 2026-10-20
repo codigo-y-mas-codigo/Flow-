@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d2903375-2c5d-4401-be45-c9bb81369e89",
+    "mediaTitle": "Paper bamboo and bar chart anima…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-15 00:29:53.310672-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Minimalist editorial paper collage animation style. A giant paper cutout bamboo stalk standing next to a hand-drawn paper bar chart showing carbon absorption spiking upwards with a bright yellow marker underline. Warm off-white background, deep navy ink accents, brick red details, and soft drop shadows. On-screen bold typography in Spanish: \"¿EL FIN DEL PLÁSTICO?\".",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

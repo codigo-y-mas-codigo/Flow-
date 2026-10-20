@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "93b1f7c1-34c8-4914-b6fc-fa7a45cad4fd",
+    "mediaTitle": "Amor en el Tetanic",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:10:45.336093-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "prompt": "Amor en el Tetanic, la historia de amor que jamas paso protagonisada por Barmie y Luis Angel, proximamente en Nepflix (en estpañol). Música romántica. Los personajes interactúan románticamente en la cubierta del barco, movimiento suave de cámara y ambiente cinematográfico.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

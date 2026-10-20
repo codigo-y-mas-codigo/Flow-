@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "395d6572-5094-4634-99a0-1ab68da57e81",
+    "mediaTitle": "Creating book cover art",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 04:12:05.658415-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a cover in Spanish, titled \"más allá de las cartas\" with this art.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f56a7813-e8ee-4673-bc6c-41b33a612cf7"
+    }
+  }]
+}

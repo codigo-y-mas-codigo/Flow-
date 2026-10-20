@@ -1,0 +1,22 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ec37e347-fe1b-456b-92b9-983253e91f88",
+    "mediaTitle": "Create alphabet and numbers typo…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 20:48:05.153288-07",
+    "modelName": "Nano Banana 2",
+    "isFavorited": true,
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Make the alphabet and the numbers from 0 to 9 with that same typography.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "6ac2cd21-e346-4b6f-a562-2e00f6364454"
+    }
+  }]
+}

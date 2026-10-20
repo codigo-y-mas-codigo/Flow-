@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "21a4fb8c-51c2-44ca-909b-5c9c16d870d6",
+    "mediaTitle": "Gemini_Generated_Image_xf2qoyxf2qoyxf2q.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:16:25.226514-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Extract the colorful cyberpunk lightning bolt logo. Exact design, do not modify.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "ab688c83-0724-4ecc-85b7-69d18b2ed392"
+    }
+  }]
+}

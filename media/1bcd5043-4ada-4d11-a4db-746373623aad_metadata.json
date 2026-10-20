@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1bcd5043-4ada-4d11-a4db-746373623aad",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 04:00:48.485610-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "7:30Dark wolf emerging from forest shadows, powerful symbolic, cinematic, low key lighting",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

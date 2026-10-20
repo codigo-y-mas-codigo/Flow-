@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "75faaf08-42c8-490d-b3c4-2708cc2b8a00",
+    "mediaTitle": "Style effect Fujifilm Provia 100F",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-08-04 02:43:33.487590-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt, keeping the specified text in its original language:\n\n\"Give it the style effect of 40. Fujifilm Provia 100F.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

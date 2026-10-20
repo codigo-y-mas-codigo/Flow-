@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c1b2c2fb-c82b-4d30-8a40-58e093aa1434",
+    "mediaTitle": "Gemini_Generated_Image_xf2qoyxf2qoyxf2q.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:14:09.380381-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nExtract the rainbow pride lightning bolt logo.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "ab688c83-0724-4ecc-85b7-69d18b2ed392"
+    }
+  }]
+}

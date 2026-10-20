@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a9cc22af-0964-4b8b-ae9d-7bc98a7a321b",
+    "mediaTitle": "Cassette edition musical tarot",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-11 10:44:29.510767-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"In cassette edition musical tarot.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

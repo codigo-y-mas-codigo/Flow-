@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "44952ec7-9693-4a05-867c-67777a81dcbd",
+    "mediaTitle": "Adapt to horizontal size.",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 04:25",
+    "projectId": "b1ddcd00-ce5d-48be-9fd7-7d3c053404ed",
+    "createdAt": "2026-10-07 03:28:20.472540-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Adapt to horizontal size.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

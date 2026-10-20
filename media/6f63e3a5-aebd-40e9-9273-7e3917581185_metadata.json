@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6f63e3a5-aebd-40e9-9273-7e3917581185",
+    "mediaTitle": "1777354604135.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 07:34:36.824741-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make the yellow character the same size as the other characters and change their hairstyle.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "fef37cb5-46b6-43a8-a1aa-a1266627ae71"
+    }
+  }]
+}

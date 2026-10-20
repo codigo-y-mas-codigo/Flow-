@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4c15e397-e1db-480e-a2c3-ed0bd6b9aebe",
+    "mediaTitle": "Adapt image to vertical size",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 04:20:56.480430-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Adapt image 1 to vertical size with the art style of image 2.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

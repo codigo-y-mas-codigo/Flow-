@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4a290a0a-88ac-4264-9e3d-66cc59d1f08d",
+    "mediaTitle": "1000634396.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:17:13.618777-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cambiabsus tatuajes de rostro ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "20a54e31-698d-462d-9c2e-aaf01ff0b289"
+    }
+  }]
+}

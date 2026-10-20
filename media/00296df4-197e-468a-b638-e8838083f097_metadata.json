@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "00296df4-197e-468a-b638-e8838083f097",
+    "mediaTitle": "Me gusta fondo imagen elementos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:35:07.942386-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "La el fondo es lo más oscuro y la cadena debe de estar unida a la base al círculo que tiene la base",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "83a8ba94-9306-4dcf-a390-e8012d1d8f27"
+    }
+  }]
+}

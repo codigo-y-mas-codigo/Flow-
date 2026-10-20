@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "148ea5af-0e28-42bc-bdff-43567c169c81",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 03:11:46.919243-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "convert draw characters into realistic human portraits  Convert  character into a photorealistic live-action portrait / fashion editorial photograph, modern cinematic style, high-fashion grade, punchy but natural contrast, refined filmic color science, subtle halation and lens bloom, controlled highlights, soft roll-off, realistic skin pores and texture, lifelike hair strands, premium fabric/material rendering, studio-quality lighting with natural depth, preserve the original camera framing and composition exactly, no text, no logo.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0eed9d2c-71b4-48b4-9e34-85431d3ccf27",
+    "mediaTitle": "Anime rock song lyrics translation",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "11-ago, 12:29 a.m.",
+    "projectId": "2b29700b-03b8-4695-b4b6-ad1f191b98c3",
+    "createdAt": "2026-08-10 23:32:39.366408-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the Spanish text as requested:\n\n\"Original cover art for social media, viral energetic anime rock opening, distorted power chord electric guitars, driving drums, upbeat fast tempo, passionate male vocals, epic gang backing vocals on chorus, polished high-energy production.\n\n[Intro]\n\n[Verse 1]\nEstas son las mañanitas\nQue cantaba el Rey David\nHoy por ser día de tu santo\nTe las cantamos a ti\n\nDespierta, mi bien, despierta\nMira que ya amaneció\nYa los pajarillos cantan\nLa luna ya se metió\n\n[Chorus]\nQué linda está la mañana\nEn que vengo a saludarte\nVenimos todos con gusto\nY placer a felicitarte\n\n[Verse 2]\nEl día en que tú naciste\nNacieron todas las flores\nY en la pila del bautismo\nCantaron los ruiseñores\n\nYa viene amaneciendo\nYa la luz del día nos dio\nLevántate de mañana\nMira que ya amaneció\n\n[Chorus]\nQué linda está la mañana\nEn que vengo a saludarte\nVenimos todos con gusto\nY placer a felicitarte\n\n[Bridge]\nDe las estrellas del cielo\nTengo que bajarte dos\nUna para saludarte\nY otra para decirte adiós\n\nVolaron cuatro palomas\nPor toditas las ciudades\nHoy por ser día de tu santo\nTe venimos a cantar\n\n[Chorus]\nQué linda está la mañana\nEn que vengo a saludarte\nVenimos todos con gusto\nY placer a felicitarte\n\n[Outro]\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

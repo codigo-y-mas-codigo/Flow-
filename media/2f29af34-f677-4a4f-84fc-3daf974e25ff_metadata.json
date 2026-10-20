@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2f29af34-f677-4a4f-84fc-3daf974e25ff",
+    "mediaTitle": "Gemini_Generated_Image_efb6d1efb6d1efb6.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:27:51.792719-07",
+    "modelName": "Omni Flash",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

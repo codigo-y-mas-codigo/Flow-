@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aa2be334-6489-47e3-b7c0-e24ae82c927a",
+    "mediaTitle": "3D emoji style typography",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-04 02:53:18.728580-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt, keeping the original Spanish text as requested:\n\n\"In 3D emoji style, original non-cliché typography.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

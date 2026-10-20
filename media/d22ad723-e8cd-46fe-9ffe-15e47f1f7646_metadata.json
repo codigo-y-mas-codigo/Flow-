@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d22ad723-e8cd-46fe-9ffe-15e47f1f7646",
+    "mediaTitle": "Three dogs levitating in chamber",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:35:58.473029-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A cinematic medium shot of the three dogs from the reference image—the white Chihuahua, the tan Chihuahua with its tongue out to the side, and the fluffy white Maltese-type dog—levitating naturally in a minimalist, clinical white futuristic chamber with no visible corners. The dogs maintain their exact fur textures, features, and expressions from the reference. The atmosphere is ethereal and weightless, with soft diffused high-key lighting and a high-end cinematic style. Vertical 9:16 aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "addb889e-d7f5-4da8-98ad-eca0d8be0e67",
+    "mediaTitle": "1000634396.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:17:00.203114-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Kodak Portra 100T\r\n\r",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "0074078f-4239-4ee2-a788-a99c9e6dd163"
+    }
+  }]
+}

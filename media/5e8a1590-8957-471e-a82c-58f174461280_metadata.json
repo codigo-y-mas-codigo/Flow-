@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5e8a1590-8957-471e-a82c-58f174461280",
+    "mediaTitle": "Surreal apocalyptic Mexico vortex",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-07-30 08:40:19.717465-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

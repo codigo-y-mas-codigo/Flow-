@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5af0a3b0-9e07-4633-bb97-4ca0c0d0a4c4",
+    "mediaTitle": "toma fija, animación. ",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-09-17 03:21:08.053552-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

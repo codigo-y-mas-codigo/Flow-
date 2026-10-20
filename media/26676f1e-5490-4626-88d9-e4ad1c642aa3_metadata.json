@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "26676f1e-5490-4626-88d9-e4ad1c642aa3",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 03:06:15.886456-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Change the middle \u0027g\u0027 in \u0027gyagada\u0027 to correctly spell \u0027GYARADA\u0027.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "36e6f654-53d0-4955-b5ea-b3cab9b62df5"
+    }
+  }]
+}

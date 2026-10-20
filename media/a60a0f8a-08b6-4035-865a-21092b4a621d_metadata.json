@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a60a0f8a-08b6-4035-865a-21092b4a621d",
+    "mediaTitle": "Gemini_Generated_Image_qwfs2kqwfs2kqwfs.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 17:58:32.400078-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Modify the central emblem. Remove the two outer lightning bolts entirely. Keep only the single central lightning bolt, make it larger so it occupies the center of the ornate circular frame. The single bolt should be made of shiny black plastic patent leather. Preserve the frame and background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f817b2c1-c1ab-4817-bd92-a28b33239b6c"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7dd2af8c-e2dc-48b2-9b64-c814619bf476",
+    "mediaTitle": "Creating music video image sequence",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 17:44:26.643396-07",
+    "modelName": "Omni Flash",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

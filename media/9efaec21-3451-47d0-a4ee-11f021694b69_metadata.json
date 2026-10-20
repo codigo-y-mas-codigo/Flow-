@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9efaec21-3451-47d0-a4ee-11f021694b69",
+    "mediaTitle": "Playful bromance hyper-detailed …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:41:12.865894-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0b8e5c32-14ff-48a0-b97b-3806abc1475e",
+    "mediaTitle": "1000634396.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:24:55.792078-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Kodak Portra 100T\r\n\r",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "d1345975-6bce-4e0e-b67b-e29e4a296a3e"
+    }
+  }]
+}

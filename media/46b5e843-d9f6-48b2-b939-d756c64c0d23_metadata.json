@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "46b5e843-d9f6-48b2-b939-d756c64c0d23",
+    "mediaTitle": "Adapting image style",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:16:21.399991-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Adapta la imagen 1 con el estilo de la imagen 2 -\u003e Adapt image 1 in the style of image 2",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

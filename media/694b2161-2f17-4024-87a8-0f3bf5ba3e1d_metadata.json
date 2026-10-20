@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "694b2161-2f17-4024-87a8-0f3bf5ba3e1d",
+    "mediaTitle": "Put them on background",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-07-30 09:00:29.428751-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"Put them on a neutral background and in the position they are in, do not modify them, they must be exactly identical.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

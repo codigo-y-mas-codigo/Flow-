@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "16ead12f-26d4-41d5-9a56-a9e8b5a8bbfd",
+    "mediaTitle": "Six identical models in outfits",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 21:43:33.765675-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "```\nSUBJECT: A full-length studio lineup grid of 5 identical female models standing side-by-side in a straight row, representing the exact same person presenting 5different outfit challenge looks.\nCOMPOSITION \u0026amp; POSE: Full-body shot, front-facing eye-level view. All 5 iterations must maintain the exact same height, body proportions, physical build, facial structure, skin tone, makeup, wig styling, and identical neutral standing posture.\nBACKGROUND \u0026amp; LIGHTING: Seamless neutral flat white studio backdrop with clean, soft, realistic contact shadows under their feet. Even, neutral, unstylized commercial studio lighting.\nREALISM \u0026amp; TEXTURE: Photorealistic, raw unedited fashion catalog aesthetic, authentic natural skin texture with visible pores and realistic details. Strictly no beautification filters, no digital skin smoothing, no face-tuning, no artificial enhancement.\nOUTFITS: Each of the5 iterations wears a unique outfit from the outfit challenge, while keeping all physical features, hair, makeup, pose, and height strictly identical across the whole lineup.\n\n```",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "d33cbf3e-e429-42f9-ad6d-d114a95703f4"
+    }
+  }]
+}

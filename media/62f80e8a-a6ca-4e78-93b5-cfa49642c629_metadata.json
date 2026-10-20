@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "62f80e8a-a6ca-4e78-93b5-cfa49642c629",
+    "mediaTitle": "Corgi father and son camping",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 20 - 18:46",
+    "projectId": "166104d8-f14e-4853-b47e-634b6e515828",
+    "createdAt": "2026-09-20 17:48:07.008648-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "/imagine prompt: A 3D sculpted clay style scene of a happy corgi dog father and baby son camping, full body Pixar-style cartoon characters. The corgis have large eyes, fluffy fur, and big heads with serious expressions. The setting is joyful with a campfire and smiling faces. The forest background at night features moonlight filtering through the trees, high resolution, hd quality, natural look --ar 2:3 --v 6.0 --chaos 15",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

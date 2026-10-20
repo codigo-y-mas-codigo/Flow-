@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5ba5909d-ee50-4502-9193-d4c6302426cc",
+    "mediaTitle": "Man flexing bicep glowing eyes",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-06-22 00:58:31.787034-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "92f79779-b0b0-48a2-99ec-acd9c106c1f7",
+    "mediaTitle": "Model showcasing six fashion out…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 22:02:58.214729-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f286b36d-cfb7-4b73-91a3-c40d6e079f8a",
+    "mediaTitle": "Removing text and frame",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 20:45:51.012726-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt:\n\n\"Remove text and frame.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "fd13ed5d-9a4f-4b6e-ac26-051ff0473a47"
+    }
+  }]
+}

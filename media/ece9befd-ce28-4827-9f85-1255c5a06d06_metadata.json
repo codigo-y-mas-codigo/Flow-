@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ece9befd-ce28-4827-9f85-1255c5a06d06",
+    "mediaTitle": "adapta a 4:3 en darkmode",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 07:17:56.316226-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "adapta a 4:3 en darkmode",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE"
+    }
+  }]
+}

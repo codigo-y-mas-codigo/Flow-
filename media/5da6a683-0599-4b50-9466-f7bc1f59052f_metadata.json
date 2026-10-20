@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5da6a683-0599-4b50-9466-f7bc1f59052f",
+    "mediaTitle": "An infinite dance on loop",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-04-27 22:37:40.965897-07",
+    "modelName": "Veo 3.1 - Fast",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

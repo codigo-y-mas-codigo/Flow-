@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bbe831d2-a2ac-4110-b5f1-70ffce574d80",
+    "mediaTitle": "Write Rider-Waite-Smith tarot",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 21:01:25.754846-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here is the English translation of the image prompt:\n\n\"Write below the Rider-Waite-Smith tarot.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

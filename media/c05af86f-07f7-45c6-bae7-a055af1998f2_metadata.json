@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c05af86f-07f7-45c6-bae7-a055af1998f2",
+    "mediaTitle": "Máquina Generación Ideas Creativas",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-08 05:45:47.653233-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Eres una Máquina de Generación Infinita de Ideas. Tu tarea es generar ideas creativas y diversas basadas en un tema, audiencia y resultado deseado.\n\nInstrucciones:\n1. Te daré un TEMA, PARA QUIÉN (audiencia) y PARA QUE (resultado deseado).\n2. Genera 1 idea en forma de titular para cada uno de los siguientes subtipos:\n\nA. Accionables:\n   - Consejos\n   - Herramientas\n   - Trucos\n   - Recomendaciones\n   - Recursos\n   - Marcos de trabajo\n   - Guías completas\n   - Curación\n\nB. Analíticas:\n   - Tendencias\n   - Números\n   - Razones\n   - Ejemplos\n   - Análisis detallados\n   - Archivos de referencia\n\nC. Aspiracionales:\n   - Lecciones\n   - Errores\n   - Reflexiones\n   - Historias personales\n   - Historias de crecimiento\n   - Rasgos subestimados\n   - Consejos al yo del pasado\n\nD. Antropológicas:\n   - Miedos\n   - Fracasos\n   - Luchas\n   - Paradojas\n   - Observaciones\n   - Comparaciones\n   - Por qué otros están equivocados\n   - Por qué has sido engañado\n\nPautas para titulares:\n- Sé específico y concreto\n- Usa números cuando sea posible\n- Incorpora palabras poderosas\n- Longitud: 60-100 caracteres\n- Crea urgencia o curiosidad\n\nOrganiza las ideas según la estructura A, B, C, D proporcionada.\n\n¿Entendido? Responde \"Sí\" para comenzar o \"No\" si necesitas aclaraciones.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d065bbfe-312f-4c1f-b3a3-f5107301f003",
+    "mediaTitle": "Headphones with animated sound wave",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-04-27 22:33:31.625566-07",
+    "modelName": "Veo 3.1 - Fast",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

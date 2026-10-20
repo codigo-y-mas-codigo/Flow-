@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dd541a84-1a12-4077-b61f-0ef58ebf7593",
+    "mediaTitle": "1000636012.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:48:34.037941-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "La planta de lisnoiez deben verse , sus brazos ponlos a los lados",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "2638a99d-79bb-4b72-bc24-bfa82e5ea847"
+    }
+  }]
+}

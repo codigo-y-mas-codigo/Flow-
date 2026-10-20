@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dc12ea41-f68b-4c20-b97a-e9fb1cb3126f",
+    "mediaTitle": "Men kissing on motorcycle",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-18 11:30:00.196723-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Two attractive Mexican men, 28-35 years old, with realistic average builds (average Mexican bodies, not overly muscular). The driver looks exactly like the reference: wavy black hair, short goatee, attractive face. The passenger is also Mexican, with short hair. Both are wearing fitted black leather biker jackets and gloves. They are riding a black motorcycle on a rural road with Mexican vegetation. The passenger is hugging the driver tightly around the waist, hands on his chest, and passionately kissing his neck and ear. Close-ups of faces, intense gazes, and sensual expressions. Natural daylight illumination, photorealistic 8K, shiny leather details.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

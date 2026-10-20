@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "addfb89b-dd77-4e1b-9ab2-39bb369c62c1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 03:49:31.568367-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Woman in white dress standing fearlessly before a lion, full body, golden meadow, soft mist, photorealistic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

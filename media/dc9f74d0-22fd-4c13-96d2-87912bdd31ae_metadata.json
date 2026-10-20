@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dc9f74d0-22fd-4c13-96d2-87912bdd31ae",
+    "mediaTitle": "Stick figure designing on laptop",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 03:20",
+    "projectId": "5ea84ca6-81ae-4ce4-9ea9-b141ea2c7836",
+    "createdAt": "2026-09-17 02:22:53.108249-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A clean 2D cartoon illustration in a simple, minimal cartoon style with a flat digital look.\n\nScene: small bedroom home office, daytime, soft natural light through a window.\nCamera: medium shot, eye-level angle, centered framing.\n\nCharacters: 1 stick-figure character with a BIG ROUND HEAD that is ALWAYS PURE WHITE, tiny dot eyes, minimal mouth. Arms, legs, and hands are BLACK stick-line outlines. Clothes and accessories are simple flat shapes with solid fills: blue hoodie, black headphones, laptop on desk.\n\nAction: creating a digital design on a laptop while smiling with excitement, mood is motivated and optimistic.\n\nBackground: simple clean shapes, flat muted colors, solid fills, crisp edges, uniform line weight, clean readable composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

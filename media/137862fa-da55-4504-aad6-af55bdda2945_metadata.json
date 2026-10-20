@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "137862fa-da55-4504-aad6-af55bdda2945",
+    "mediaTitle": "Place characters on white backgr…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 02 - 04:36",
+    "projectId": "ef3f1650-4d6b-4b0c-8991-b1831f27e1e9",
+    "createdAt": "2026-10-02 03:37:47.452242-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Place them on a neutral white full-body background. Do not embellish or alter the characters; keep the clothing, makeup, hairstyle, and accessories identical.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

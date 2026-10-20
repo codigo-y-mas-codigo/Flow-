@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "68e0549e-5818-4e8f-80ff-8396ec346bb8",
+    "mediaTitle": "Horizontal size translation",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-18 15:41:28.619945-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Put a whole bitten peach and change cucumber to eggplant.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "58394fdb-3959-4e6b-85b0-7ef646768079"
+    }
+  }]
+}

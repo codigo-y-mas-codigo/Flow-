@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9c644e10-97c9-4f66-8980-1b54809b0882",
+    "mediaTitle": "Changing face",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-08-10 22:16:30.564440-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt:\n\n\"Change the face.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

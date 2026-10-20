@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6b0fad0f-6c69-44a6-9916-39a7d080a84b",
+    "mediaTitle": "Translate music video prompt seq…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 17:38:24.108472-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"In a 3x3 image, create a sequence of a music video scene. Use exclusively the attached images.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

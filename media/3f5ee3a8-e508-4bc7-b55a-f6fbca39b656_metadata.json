@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3f5ee3a8-e508-4bc7-b55a-f6fbca39b656",
+    "mediaTitle": "Man flexing bicep glowing eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:29:38.366400-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "man with short dark hair and beard, wearing black tank top and shiny pants, flexing powerful bicep intensely, glowing natural neon green eyes with electric cracks and sparks on face and arm, particles and energy floating around, confident to evil demonic smile, ruined industrial warehouse background, dramatic lighting, sweat on skin, powerful gooner alpha energy, PixVerse.ai cinematic style, #666",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

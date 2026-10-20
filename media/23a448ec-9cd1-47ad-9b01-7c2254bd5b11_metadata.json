@@ -1,0 +1,16 @@
+{
+  "mediaEntries": [{
+    "mediaId": "23a448ec-9cd1-47ad-9b01-7c2254bd5b11",
+    "mediaTitle": "3x3 grid photo collage",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:45:50.178351-07",
+    "modelName": "Omni Flash",
+    "isFavorited": true,
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

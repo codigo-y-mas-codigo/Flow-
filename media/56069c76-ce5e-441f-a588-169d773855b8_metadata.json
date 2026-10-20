@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "56069c76-ce5e-441f-a588-169d773855b8",
+    "mediaTitle": "Make star constellation look",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:41:53.079850-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make it look like a star constellation.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

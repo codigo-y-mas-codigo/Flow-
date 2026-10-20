@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d7c279e4-b6b0-455a-93da-eadc0a745562",
+    "mediaTitle": "Cambia personaje tipografías tra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:57:31.524366-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cambia al personaje por el de la imagen adjunta. Las tipografías hazlas con transparencia y más elegantes  y más grandes, bien distribuidas que se se puedan leer",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

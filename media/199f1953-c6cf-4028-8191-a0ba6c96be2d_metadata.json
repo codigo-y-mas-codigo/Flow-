@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "199f1953-c6cf-4028-8191-a0ba6c96be2d",
+    "mediaTitle": "Storyboard grid Luis Ángel cinem…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 00:56:44.843511-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Visual storyboard grid for a cinematic intro titled \u0027Luis Ángel\u0027. The image is a single composite arranged in a 2x5 grid layout (2 rows, 5 columns) with 10 equal panels numbered 1-10. Each panel is separated by a thin white border. \n\nSTYLE CONSISTENCY: Photorealistic cinematic style, high contrast, moody lighting. Luis Ángel (Ref 2: Man with dark hair) is the consistent character throughout. \n\nPanel 1: Luis Ángel fixing his hair in a backstage mirror, warm vanity bulbs.\nPanel 2: Extreme close-up of a hand picking up a Spider-Man mask (textured fabric).\nPanel 3: Spinning disco ball reflecting neon pink and blue light in a smoky club.\nPanel 4: Spider-Man (Ref 1) leaping onto a stage pole, backlit silhouette.\nPanel 5: Low angle shot of crowd hands reaching up in strobe lights.\nPanel 6: Spider-Man performing a horizontal acrobatic hold on a chrome pole.\nPanel 7: Close-up of a gloved Spider-Man hand accepting money from a fan.\nPanel 8: Luis Ángel backstage, shirtless, mask off, sweaty and exhausted.\nPanel 9: Tight close-up of Luis Ángel looking at the camera with a slight smile.\nPanel 10: Luis Ángel darning a jacket, walking away through a club door into bright morning light.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

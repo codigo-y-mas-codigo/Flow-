@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ac89aaa7-5a64-4642-90ba-0cc59a6bbb91",
+    "mediaTitle": "image.png_202609070510 (1).jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:20:50.246841-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "cambia el fondo a blanco neutro",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "c565e61b-4816-4957-ac1a-e0d45992eba8"
+    }
+  }]
+}

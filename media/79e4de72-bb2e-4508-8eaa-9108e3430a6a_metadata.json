@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "79e4de72-bb2e-4508-8eaa-9108e3430a6a",
+    "mediaTitle": "1000673856.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:07:33.171329-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the requested text in its original language:\n\n\"Change the typography to a less cliché, more original style that looks like a logo.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "73ba88fe-021a-4f8c-8863-b47ce35ce76a"
+    }
+  }]
+}

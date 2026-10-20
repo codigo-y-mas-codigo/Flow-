@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "92c16f7d-95d1-4b66-95c6-b132a3caf65e",
+    "mediaTitle": "Visual storyboard grid layout tarot",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "createdAt": "2026-09-01 01:52:51.543857-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "a la muerte de gudaña cambiala por la de marsella, y el arte en general debe ser como el del mazo raider ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "5997c553-db9d-4048-a881-c240aa61dcc4"
+    }
+  }]
+}

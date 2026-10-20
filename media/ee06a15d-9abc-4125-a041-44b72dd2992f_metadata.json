@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ee06a15d-9abc-4125-a041-44b72dd2992f",
+    "mediaTitle": "1777355863256.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-03 03:07:46.427951-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "el hombre debe pareserse al de la foto adjunta. y la imagen dividela en 3x3 , debe ser una cronologia de amor en el barco , la escena principal es como la del titanic con jack y rose ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "19929664-88ac-4be5-83fe-cb995c42523a"
+    }
+  }]
+}

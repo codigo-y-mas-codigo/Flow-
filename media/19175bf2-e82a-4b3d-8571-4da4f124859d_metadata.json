@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "19175bf2-e82a-4b3d-8571-4da4f124859d",
+    "mediaTitle": "La antorcha en mano izquierda",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:30:01.980643-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "La la antorcha la debe de tener en la mano izquierda hacia abajo",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

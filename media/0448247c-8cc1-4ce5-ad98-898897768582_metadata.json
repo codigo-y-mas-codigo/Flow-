@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0448247c-8cc1-4ce5-ad98-898897768582",
+    "mediaTitle": "K-pop orchestral performance fut…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-09 12:36:07.922947-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "84caabe6-0415-4964-9746-225b4cdacb44"
+    }
+  }]
+}

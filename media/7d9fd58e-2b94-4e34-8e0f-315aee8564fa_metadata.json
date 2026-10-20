@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7d9fd58e-2b94-4e34-8e0f-315aee8564fa",
+    "mediaTitle": "Spanish quote on notebook paper",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:19:48.020670-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Spanish quote on notebook paper background, following the tarot card aesthetic of the first reference image. Cream-colored textured background, ornate gold borders, and decorative celestial motifs. Hand-drawn watercolor style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

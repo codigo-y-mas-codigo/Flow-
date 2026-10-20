@@ -1,0 +1,35 @@
+{
+  "characters": [{
+    "characterId": "4887be04-31bf-4586-86b4-64eedeb8fc2e",
+    "name": "Lennox",
+    "personalityNotes": "",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-07 05:04:38.538758-07",
+    "isFavorited": false
+  }, {
+    "characterId": "ae0db27d-9c37-4b46-9835-50e8e9be98a8",
+    "name": "MiaSnatch",
+    "personalityNotes": "",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:30:26.213318-07",
+    "isFavorited": false
+  }, {
+    "characterId": "cb25f0be-2ee2-4703-b4db-e5f8a94032f7",
+    "name": "Mia Pop",
+    "personalityNotes": "",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-09 22:48:40.838157-07",
+    "isFavorited": false
+  }, {
+    "characterId": "d107329a-0a5e-4ad6-95c8-72fea3e8ad80",
+    "name": "MiaPorrista",
+    "personalityNotes": "",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:31:35.496812-07",
+    "isFavorited": false
+  }]
+}

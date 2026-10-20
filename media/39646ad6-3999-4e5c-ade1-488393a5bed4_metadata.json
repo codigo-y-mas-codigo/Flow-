@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "39646ad6-3999-4e5c-ade1-488393a5bed4",
+    "mediaTitle": "Robot and dogs orbiting zero-G",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:45:29.859637-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

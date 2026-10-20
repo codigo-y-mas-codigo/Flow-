@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a88b8f43-63d9-47ea-959b-0ab88232c513",
+    "mediaTitle": "Orchestra playing with colorful …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 08:58:00.421442-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "High energy vertical shot of a vibrant K-pop orchestral explosion, conductor with glowing baton, massive orchestra playing with punchy drums and bright brass, sweeping violins creating light trails, energetic crowd dancing, colorful stage lights and pyrotechnics, festive uplifting powerful atmosphere, dynamic composition, hyper-detailed, polished modern production",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fa7cd2ae-b909-48c3-b78b-da34c6f57a83",
+    "mediaTitle": "Shower curtain vertical lines de…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:36:40.479744-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the bathroom curtain design.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "2fcacddf-4c7d-4690-8cba-06095d90f2cc"
+    }
+  }]
+}

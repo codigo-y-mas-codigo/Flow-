@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f8c51a2e-27f0-4317-8d00-199f92b9daca",
+    "mediaTitle": "Zoom in on character face",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 00:40:20.376895-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt in English:\n\n\"zoom in on the character\u0027s face, keep her exact same expression, makeup, countenance, clothing, colors, hairstyle, wig, accessories, do not embellish, no text.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE"
+    }
+  }]
+}

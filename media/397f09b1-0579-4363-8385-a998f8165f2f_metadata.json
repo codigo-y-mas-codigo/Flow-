@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "397f09b1-0579-4363-8385-a998f8165f2f",
+    "mediaTitle": "Tarot reader and concerned client",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 26 - 04:30",
+    "projectId": "fc43e9fa-e286-4a18-9a26-39b625c2811b",
+    "createdAt": "2026-09-26 03:34:34.873437-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

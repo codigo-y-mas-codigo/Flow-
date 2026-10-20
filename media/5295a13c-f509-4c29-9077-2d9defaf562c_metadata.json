@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5295a13c-f509-4c29-9077-2d9defaf562c",
+    "mediaTitle": "Replacing woman with walking man",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:36:50.911907-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make me play a violin.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "890bc116-4d2d-472c-a881-a2e7ce12e348"
+    }
+  }]
+}

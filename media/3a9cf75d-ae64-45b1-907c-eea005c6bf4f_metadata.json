@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3a9cf75d-ae64-45b1-907c-eea005c6bf4f",
+    "mediaTitle": "The man in that effect.",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:50:37.477497-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The man in that effect.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

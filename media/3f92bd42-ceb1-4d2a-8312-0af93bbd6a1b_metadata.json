@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3f92bd42-ceb1-4d2a-8312-0af93bbd6a1b",
+    "mediaTitle": "Flying through happy skies",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-07-30 09:06:21.029038-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "They should fly through the happy skies while a narrator\u0027s voice is heard closing the story in Spanish of Phiphi Sharon iivii and the master slave Luis.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

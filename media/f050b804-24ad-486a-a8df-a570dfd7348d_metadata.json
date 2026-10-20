@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f050b804-24ad-486a-a8df-a570dfd7348d",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 14:04:30.822740-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "añade un texto en español que diga \"feliz cumpeaños madre mia\" con globos pastel y esten en la playa ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "7d6e0ab9-a499-4102-ba5d-307afa8538ee"
+    }
+  }]
+}

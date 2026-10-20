@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4636b621-dca7-4bcb-adb9-16de7d0fd84f",
+    "mediaTitle": "Man flexing bicep glowing eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 08:16:05.153852-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Quita los ojos verdes ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "3f5ee3a8-e508-4bc7-b55a-f6fbca39b656"
+    }
+  }]
+}

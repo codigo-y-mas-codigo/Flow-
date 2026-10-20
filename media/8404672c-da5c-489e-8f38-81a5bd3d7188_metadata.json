@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8404672c-da5c-489e-8f38-81a5bd3d7188",
+    "mediaTitle": "Estilo agfa Vista 400 \n",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:02:15.182006-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Hazle un efecto hipermegsrealista cinematográfico hollowy película completa de terror ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "8d80587b-6f21-4e89-a39e-9f72ab4b9180"
+    }
+  }]
+}

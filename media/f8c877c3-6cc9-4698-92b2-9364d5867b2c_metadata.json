@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f8c877c3-6cc9-4698-92b2-9364d5867b2c",
+    "mediaTitle": "Man squeezed in leather suit",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-18 11:33:08.231183-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Mexican man of normal build, face similar to the reference, wearing a tight black leather biker suit. He is reclining or sitting while another man is squeezing his chest and the lower part of the suit tightly with his hands. Expression of intense pleasure. Details of shining leather, photorealistic, soft lighting, 8K.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

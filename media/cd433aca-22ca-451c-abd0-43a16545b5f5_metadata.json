@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cd433aca-22ca-451c-abd0-43a16545b5f5",
+    "mediaTitle": "Horizontal size translation",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:39:59.312783-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Change the eggplant to a cucumber.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "68e0549e-5818-4e8f-80ff-8396ec346bb8"
+    }
+  }]
+}

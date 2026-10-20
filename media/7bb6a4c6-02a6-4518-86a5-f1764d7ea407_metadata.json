@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7bb6a4c6-02a6-4518-86a5-f1764d7ea407",
+    "mediaTitle": "Surreal apocalyptic Mexico City …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:15:56.250713-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt in a cinematic, end-of-the-world movie style:\n\n**\"A lone, battered figure stands silhouetted against a sky choked with toxic, orange-red dust. The ruins of a once-great city stretch out behind them, skeletal skyscrapers piercing the oppressive atmosphere. A tattered flag, barely recognizable, whips in the desolate wind. The ground is cracked and barren, littered with debris. The overall mood is one of utter desolation, a stark testament to humanity\u0027s final moments.\"**",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "89d1169c-2a19-47f5-9839-6bf216c28dab"
+    }
+  }]
+}

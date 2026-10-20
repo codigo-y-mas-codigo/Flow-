@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a574a962-3b87-4446-9ce1-b07e9d6f422d",
+    "mediaTitle": "Sticker chat loop",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-08 04:29:14.981436-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vertical video 9:16, 8 seconds total, seamless loop, TikTok style, high contrast, clean composition.\n\nScene 1 (0–2s):\nClose-up of a smartphone chat (dark mode).\nTyping animation:\n“¿Ya llegamos?”\nCursor blinking.\nOverlay text large and bold:\n“Siempre escribes esto…”\n\nScene 2 (2–5s):\nSmooth pop transition.\nThe typed message transforms into a sticker:\nAdorable chihuahua sticker with impatient expression.\nText inside sticker:\n“¿Ya llegamos?”\n\nThen quickly show 2 more stickers:\n“Hambre”\n“Jalo”\n\nEach appears with soft bounce animation.\n\nScene 3 (5–8s):\nFinal frame:\nChihuahua sticker centered, looking at viewer.\n\nText:\n“Siempre hay un sticker”\n\nThen smoothly transition back to Scene 1:\nSticker fades into chat input field,\ncursor appears again typing “¿Ya llegamos?”\n\nIMPORTANT:\nThe ending must visually match the beginning for a perfect seamless loop.\n\nStyle:\nSticker aesthetic, bold outlines, expressive chihuahua, soft lighting, no pure white (use off-white tones), subtle shadow, minimal background.\n\nText must be large, bold, high contrast, Spanish language only.\n\nNo watermark, no clutter, clean UI.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

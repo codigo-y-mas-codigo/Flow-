@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1f95a757-1a4f-4f20-839b-86ba5a49d9fc",
+    "mediaTitle": "Charro paper collage documentary…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 04:47:56.406953-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary. High-impact editorial collage assembling multiple historical and modern archival charro cutouts in charcoal grayscale into a unified composition. Warm cream textured paper background. Soft realistic drop shadows. Heavy condensed sans-serif ALL CAPS typography with black ink stamp effect: \"IDENTIDAD VIVA\". Palette: warm cream, charcoal black, deep navy, terracotta red.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

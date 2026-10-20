@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "de40d750-9120-4162-a0fa-35568c771084",
+    "mediaTitle": "Bento grid poster design values",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 06:08:59.260332-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "\u003crender_generated_image\u003e\nprompt: Create a premium glowing educational bento-grid poster in the style of a soft futuristic glassmorphism interface.\n\nFORMAT:\nUse aspect ratio 4:3.\n\nLAYOUT:\nGenerate a bento grid with exactly 6 tiles.\n\nUse these exact tile labels:\nHierarchy | Contrast | Alignment | Spacing | Consistency | Clarity\n\nAutomatically calculate the most balanced composition for this number of tiles. Make one tile (Hierarchy) the largest and most visually dominant at the top. Arrange the remaining five as supporting modules that form one coherent rectangular composition: two medium horizontal/vertical, and three smaller near-square modules. Maintain even spacing between tiles, consistent outer margins, aligned edges, and balanced visual weight. Clean overall silhouette with no gaps.\n\nSTYLE:\nEach tile should appear as a soft volumetric glass panel with generously rounded corners, blurred internal illumination, subtle outer bloom, smooth gradient diffusion, translucent visual depth, softly frosted edges, gentle atmospheric haze, and premium futuristic lighting. The material should feel soft, tactile, luminous, and slightly dimensional.\n\nBACKGROUND:\nNearly black deep midnight-navy background. Add only a subtle atmospheric glow behind the grid.\n\nTEXT:\nPlace one exact label inside each corresponding tile using clean white minimalist sans-serif typography. Keep all labels clearly readable, correctly spelled, and visually balanced.\n\nMAIN TITLE:\nPlace the title below the bento grid: \"Design values\" in a clean, bold sans-serif typeface with refined spacing and subtle cool luminous treatment.\n\nCOLOR SYSTEM:\nSemantic_auto colors, harmonious and premium:\n- Hierarchy — luminous coral pink / magenta\n- Contrast — deep electric blue with bright opposing highlights\n- Alignment — cool cyan / ice blue\n- Spacing — warm soft amber / golden yellow\n- Consistency — rich violet / purple\n- Clarity — emerald green / luminous white accents\n\nTILE VISUALS:\nCreate subtle abstract visual metaphors for each principle embedded inside the glowing glass material using geometric guides, softly illuminated forms, controlled grids, spatial relationships, diffused light fields, and diagrammatic structures.\n\n- Hierarchy: Large dominant structure with smaller elements flowing toward it, clear visual order and scale.\n- Contrast: Strong opposing elements (light vs dark, big vs small) with dramatic glow separation.\n- Alignment: Perfect grid lines and edge alignments with connecting guides.\n- Spacing: Balanced negative space with golden ratio spirals or rhythmic intervals.\n- Consistency: Repeating patterns and uniform elements in harmony.\n- Clarity: Clean sharp focus with minimal elements and luminous clarity.\n\nAESTHETIC:\nEducational, premium, minimal, futuristic, soft, elegant, editorial, visually coherent. High-end luminous glassmorphism style with soft bloom and depth.\n\u003c/render_generated_image\u003e",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

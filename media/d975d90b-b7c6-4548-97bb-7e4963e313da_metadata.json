@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d975d90b-b7c6-4548-97bb-7e4963e313da",
+    "mediaTitle": "Create typography from word",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 20:50:28.834112-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Make the alphabet and the numbers from 0 to 9 with that same typography, it should result in a typography in the style of that word.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

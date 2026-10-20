@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8d94353d-a8c1-449a-ab92-d5d7c9960996",
+    "mediaTitle": "Hombre abducido por ovni flotando",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-09-02 23:31:53.526628-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

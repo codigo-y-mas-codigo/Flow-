@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c08e0fb6-08ea-439b-a41c-a46c0dc1eaa5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:57:30.626879-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cambia al personaje por el de la imagen adjunta. Las tipografías hazlas con transparencia y más elegantes  y más grandes, bien distribuidas que se se puedan leer",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

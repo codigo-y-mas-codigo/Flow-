@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1da5db9f-3f50-4834-b939-6f4f6ec44084",
+    "mediaTitle": "Drag queens posing in outfits",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "oct 03 - 11:56",
+    "projectId": "7060e30d-dfbe-4b70-8dc4-27d0e6241f06",
+    "createdAt": "2026-10-03 11:09:43.855439-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "6s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

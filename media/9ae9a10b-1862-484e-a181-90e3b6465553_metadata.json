@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9ae9a10b-1862-484e-a181-90e3b6465553",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 16 - 01:38",
+    "projectId": "122401e3-570f-4e50-8846-0e5465adb5f7",
+    "createdAt": "2026-09-16 01:10:06.686157-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "extrae la imagen grande, es importante que mantengas el mismo angulo, enfoque, colores, tipo de construcción, Proibido que alteres la construccion, deja todo ventana, puerta , rejas y demas elementos de la construcción principal identicas. Unicamente tiquees que quitar todo aquello que parezca como captura de pantalla, ademas de los arboles y carros. No agreges elementos extras ni cambies de angulo. tomate tu tiempo en analizar la imagen, no agreges elementos extras. mantente fiel al angulo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "47d87658-b92a-4227-a20b-e9e358df74ad"
+    }
+  }]
+}

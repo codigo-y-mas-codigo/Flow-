@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0d571b8f-f5a6-41ed-95a1-6be7f6cdcde1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:00:04.787442-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Storm inside a glass jar, calm hands holding it, symbolic still life, dark dramatic lighting",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

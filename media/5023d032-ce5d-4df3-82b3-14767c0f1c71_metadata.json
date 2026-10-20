@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5023d032-ce5d-4df3-82b3-14767c0f1c71",
+    "mediaTitle": "Mug with Alpha 5 illustration",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:50:42.544924-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "extract the mug design",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE",
+      "parentMediaId": "486f4660-d56a-4409-ae2b-52c9b757bb19"
+    }
+  }]
+}

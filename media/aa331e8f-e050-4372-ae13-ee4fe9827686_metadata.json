@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aa331e8f-e050-4372-ae13-ee4fe9827686",
+    "mediaTitle": "Diagram with five circles",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:19:47.714421-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Diagram titled \u0027S.A.B.I.O. en Accion\u0027 with five circles, following the tarot card aesthetic of the first reference image. Cream-colored textured background, ornate gold borders, and decorative celestial motifs. Hand-drawn watercolor style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

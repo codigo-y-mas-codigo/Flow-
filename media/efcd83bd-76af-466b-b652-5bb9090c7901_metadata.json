@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "efcd83bd-76af-466b-b652-5bb9090c7901",
+    "mediaTitle": "Retro romance cover parody text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-04 23:36:33.578977-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Retro pulp romance novel cover parody, exaggerated dramatic pose, bold comic-style text bubble, campy and playful, saturated colors\n\n**Texto (ES):** \"Advertencia: contenido dulce\" — estilo cómic.\n\n---",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

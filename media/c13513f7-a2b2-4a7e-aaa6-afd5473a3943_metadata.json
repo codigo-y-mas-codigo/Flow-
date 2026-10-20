@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c13513f7-a2b2-4a7e-aaa6-afd5473a3943",
+    "mediaTitle": "Structured geometric cocktail dress",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:03:36.544166-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "extract the dress design",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ba82638d-f070-4fcd-b6ca-7c049853aa7f"
+    }
+  }]
+}

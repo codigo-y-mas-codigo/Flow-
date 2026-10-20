@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fa99f252-28f0-423a-ab7b-b34d1b33d47d",
+    "mediaTitle": "Playful bromance hyper-detailed …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 09:01:02.465811-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

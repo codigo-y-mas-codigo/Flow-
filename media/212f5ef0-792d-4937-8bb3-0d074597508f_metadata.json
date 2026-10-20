@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "212f5ef0-792d-4937-8bb3-0d074597508f",
+    "mediaTitle": "Bauhaus infographic slide templa…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 04:23:51.936733-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "An editorial and asymmetric infographic slide template inspired by the 1923 Bauhaus exhibition and constructivism art movement. The canvas is a solid stark white background. The composition is divided by thick, solid black structural lines (3px thickness) intersecting at perfect 90-degree angles. On the left side, a massive, heavy geometric sans-serif title in bold black all-caps typography. A large, perfectly flat vibrant signal orange circle is placed asymmetrically in the background, partially behind a block of text. The layout features extreme hierarchy with small caption numbers in a raw typewriter Courier font. High contrast, clean, minimalist industrial poster design, no gradients, no shadows, 2D flat design, 16:9 aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

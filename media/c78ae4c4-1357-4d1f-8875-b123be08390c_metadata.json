@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c78ae4c4-1357-4d1f-8875-b123be08390c",
+    "mediaTitle": "Extracting image near text BECKY",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 03:07:09.239313-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the image from the upper middle left, just above where it says BECKY. Do not embellish, keep the exact same position, makeup, and everything the same, do not change the position.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

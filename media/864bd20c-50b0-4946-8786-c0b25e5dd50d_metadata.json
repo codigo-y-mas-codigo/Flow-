@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "864bd20c-50b0-4946-8786-c0b25e5dd50d",
+    "mediaTitle": "Hombre en andén del Metro",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-08 04:54:54.926552-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Los efectos de luz de la imagen superior derecha borrarlos todo debe ser en estilo 3photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "4b3dcd5d-6235-4be7-9711-a21f26507335"
+    }
+  }]
+}

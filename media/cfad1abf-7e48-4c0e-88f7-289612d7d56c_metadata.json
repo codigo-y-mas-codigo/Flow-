@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cfad1abf-7e48-4c0e-88f7-289612d7d56c",
+    "mediaTitle": "1777355863256.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 00:49:21.927746-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the breakdown of your prompt into a 3x3 grid, with each scene intended to be one second long for a video:\n\n**Scene Grid (3x3)**\n\n**Row 1:**\n\n*   **Scene 1 (Top Left):** [Describe the first visual element of your scene here]\n*   **Scene 2 (Top Middle):** [Describe the second visual element of your scene here]\n*   **Scene 3 (Top Right):** [Describe the third visual element of your scene here]\n\n**Row 2:**\n\n*   **Scene 4 (Middle Left):** [Describe the fourth visual element of your scene here]\n*   **Scene 5 (Center):** [Describe the fifth visual element of your scene here]\n*   **Scene 6 (Middle Right):** [Describe the sixth visual element of your scene here]\n\n**Row 3:**\n\n*   **Scene 7 (Bottom Left):** [Describe the seventh visual element of your scene here]\n*   **Scene 8 (Bottom Middle):** [Describe the eighth visual element of your scene here]\n*   **Scene 9 (Bottom Right):** [Describe the ninth visual element of your scene here]\n\n**To make this into a video, you would then provide the specific descriptions for each of these nine scenes.**\n\n---\n\n**English Translation of the Image Prompt Request:**\n\n\"Divide it into 3x3, each scene will be one second long so that we can make it a video later. In Spanish.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f4500819-4e3e-48c0-95e6-6d39c83eaa7d"
+    }
+  }]
+}

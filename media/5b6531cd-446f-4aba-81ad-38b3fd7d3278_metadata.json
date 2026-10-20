@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5b6531cd-446f-4aba-81ad-38b3fd7d3278",
+    "mediaTitle": "Two figures intertwined line art",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-04 23:58:24.369252-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Single continuous line art illustration of two intertwined figures, man and man, , minimalist black line on cream background, elegant and sensual, modern art gallery poster style\n\n**Texto (ES):** manuscrita fina, parte inferior.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

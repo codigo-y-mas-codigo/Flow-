@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f3803db9-1756-4a95-8422-d57922fe9a59",
+    "mediaTitle": "Translating image prompt into En…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-08-10 22:14:33.903549-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The user wants me to translate the image prompt \"Csmbis el rostro\" into English.\n\nSince there is no text to be rendered in the image, I will translate the entire prompt.\n\n**English Translation:**\n\n\"Csmbis the face.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

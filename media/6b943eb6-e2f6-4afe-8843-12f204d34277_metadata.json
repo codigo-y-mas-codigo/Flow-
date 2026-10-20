@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6b943eb6-e2f6-4afe-8843-12f204d34277",
+    "mediaTitle": "Generate model images maintainin…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-09 23:14:04.227197-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "pon en una imagen a cada modelo, en blanco neutro,  no embellezacas, manten la misma posicion exacta maquillaje, peluca, vestuario,  deben ser iguales a las imagenes adjuntas. Cabe destacar que es la misma persona en distintos retos de outfits ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

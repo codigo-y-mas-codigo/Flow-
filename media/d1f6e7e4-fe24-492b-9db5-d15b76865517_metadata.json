@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d1f6e7e4-fe24-492b-9db5-d15b76865517",
+    "mediaTitle": "Red rose with dew drops",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-11 10:45:03.183929-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"A close-up, cinematic shot of a single, vibrant red rose with dew drops on its petals, set against a blurred, dark green background. The lighting is soft and dramatic, highlighting the texture of the petals and the glistening water droplets. The overall mood is romantic and elegant.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

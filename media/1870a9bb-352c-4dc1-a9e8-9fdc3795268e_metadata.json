@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1870a9bb-352c-4dc1-a9e8-9fdc3795268e",
+    "mediaTitle": "image.png_202609070507.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:23:43.566021-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Put her on a neutral white background, full body, do not beautify, keep the exact same position, makeup all the same, in 9:16.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "c5a1b421-df76-4dac-a4fe-0ff55a7fcddc"
+    }
+  }]
+}

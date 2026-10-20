@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7776b263-d81d-4533-bc34-f1a4beafc148",
+    "mediaTitle": "Dinozords on white background",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:33:02.282561-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "erase the text from the rectangles",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "57ba03f9-fb47-4803-ba77-1b1a7b900d67"
+    }
+  }]
+}

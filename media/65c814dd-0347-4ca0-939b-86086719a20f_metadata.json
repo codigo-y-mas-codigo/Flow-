@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "65c814dd-0347-4ca0-939b-86086719a20f",
+    "mediaTitle": "Crystal prisms reflecting colorf…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:06:20.787539-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A minimalistic pattern of multi-faceted crystal prisms reflecting distorted beams of colorful energy. Sharp geometric lines, refraction effects, subtle neon pink and green highlights over a dark background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e4027ac4-33d0-4a5e-8d22-206749a6af7b",
+    "mediaTitle": "Corgi dogs camping with campfire",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 20 - 18:46",
+    "projectId": "166104d8-f14e-4853-b47e-634b6e515828",
+    "createdAt": "2026-09-20 17:47:05.727428-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "3d sculpted clay style A happy corgi dog father and his baby son camping in the woods, in the style of Disney, as cartoon characters in a full body portrait, in the style of Pixar art illustration with big eyes, fluffy fur, big head, and a serious face expression, in a happy atmosphere, with a campfire burning, and happy smiling faces, with a background of a forest at night with moonlight shining through the trees, in high resolution. --chaos 15 --ar 2:3",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

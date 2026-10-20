@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5cfcde0c-1e77-4668-8636-50a7726bdaa2",
+    "mediaTitle": "City street map blueprint design",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:13:18.983974-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A minimalist city street map design of Angel Grove, styled as a vintage urban plan blueprint. Includes subtle color-coded markers for \"Evacuation Routes\" and circular hazard zones labeled \"Zord Collision Area\".",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

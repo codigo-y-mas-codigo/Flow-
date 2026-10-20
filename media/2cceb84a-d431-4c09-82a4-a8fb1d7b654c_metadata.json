@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2cceb84a-d431-4c09-82a4-a8fb1d7b654c",
+    "mediaTitle": "Modificar pared rosa y pantalla",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-12 06:28:55.551814-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "la pared debe ir de color rosa, cambia a las personas sentadas deben parecer las personajes de la imagen adjunta. mantén la misma posición que la imagen uno y haz un 50% más grande la pantalla.  La pantalla debe estar libre, es decir las cabezas no deben taparla.  adaptada a tamaño vertical ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

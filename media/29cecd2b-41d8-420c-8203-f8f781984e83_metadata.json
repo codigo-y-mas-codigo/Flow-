@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "29cecd2b-41d8-420c-8203-f8f781984e83",
+    "mediaTitle": "Change texts of image",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:27:33.736731-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Change the texts of image 2 to those of image 1.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

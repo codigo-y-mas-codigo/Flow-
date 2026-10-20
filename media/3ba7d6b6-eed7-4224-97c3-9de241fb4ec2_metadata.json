@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3ba7d6b6-eed7-4224-97c3-9de241fb4ec2",
+    "mediaTitle": "Red smoke diffusing in water",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-04 23:56:48.835146-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Macro photography of red smoke or ink diffusing in water, sensual organic movement, dark background, dramatic studio lighting, high-end album cover aesthetic\n\n**Texto (ES):** pequeño, integrado en el humo con opacidad baja.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

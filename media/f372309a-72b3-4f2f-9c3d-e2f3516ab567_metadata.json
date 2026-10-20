@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f372309a-72b3-4f2f-9c3d-e2f3516ab567",
+    "mediaTitle": "Gemini_Generated_Image_ (3).png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 04:21:07.286649-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "b3b32dd0-414f-4a08-8829-f1cc2ad4c177"
+    }
+  }]
+}

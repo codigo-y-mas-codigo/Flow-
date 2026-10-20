@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "56e510d4-9c75-4a80-9d2c-8714959a62a6",
+    "mediaTitle": "1000635982.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:25:27.928373-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Haz un acercamiento al personaje y la habitación más limpia e infantil ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "3aeff99c-aafd-48ee-b64e-da4e26375c90"
+    }
+  }]
+}

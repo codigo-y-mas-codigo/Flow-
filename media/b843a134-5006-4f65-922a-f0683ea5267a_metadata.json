@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b843a134-5006-4f65-922a-f0683ea5267a",
+    "mediaTitle": "1075ea8c-61ec-41ad-816d-526fe561df66-1_all_72383.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-07-30 09:00:42.359869-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Change Batman to Spider-Man.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "61f80e31-6eee-4ae0-844f-b2f50d9065c1"
+    }
+  }]
+}

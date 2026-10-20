@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8b6413e3-6fa2-44f0-a884-41660979fa9d",
+    "mediaTitle": "rostros de modelos cambialos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:20:29.920368-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "textos en español y el rostro se debe ver de acuerdo al cuerpo, natural ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "6fea0a75-c7a6-4319-a824-9dd611005859"
+    }
+  }]
+}

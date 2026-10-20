@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "40ffb32e-f9d9-4418-9c0f-8e26a16af215",
+    "mediaTitle": "Charro and soccer ball collage",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 07:03:59.639074-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "```\nVox-style editorial paper collage on warm cream newsprint background with visible paper grain. A paper cutout illustration of a traditional Mexican charro on horseback in charcoal black ink, placed side by side with a paper cutout of a soccer ball crossed out with thick red masking tape. High contrast, clean composition, realistic soft drop shadows under paper layers. On-screen bold condensed typography in Spanish: \"NO ES EL FÚTBOL\". Editorial style, natural lighting, ultra sharp.\n\n```",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

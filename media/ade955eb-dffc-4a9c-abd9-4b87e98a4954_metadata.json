@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ade955eb-dffc-4a9c-abd9-4b87e98a4954",
+    "mediaTitle": "captura_007_[2-00].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:02:31.896581-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the specified text in its original language:\n\n**Design Style: Name: \"Hachi Broadcast \u0026 Godínez Survival\"**\n\n**Concept:**\nInternet dog culture,\nWhatsApp stickers,\nDiscord culture,\nBrainrot Meme,\nvisual essay,\ncorporate collapse and \"godínez\" (office worker) culture,\nreverse Tamagotchi,\nempathy engineering,\nMexican dictionary of emotions,\nexperimental motion graphics,\n2000s MTV,\nHachi Broadcast graphic design.\nSlides are structured like a meme channel, internet culture show, and visual essay.\nHachi (a Maltese dog with a chihuahua apple head, messy fur, disproportionately large eyes due to neoteny, tongue sticking out) is the protagonist and narrative Trojan horse.\nThe visual narrative mixes the chaos of public transport, KPI saturation, and office existentialism with PNG cutouts, WhatsApp/Discord stickers, visible HTML/CSS code, and stress metrics.\n\n**Canvas:**\nRatio: \"16:9\"\n\n**Mood:**\n- Internet\n- Chaotic\n- \"Godínez\" Survival\n- Catharsis\n- Youthful\n- Graphic\n- Experimental\n- Playful\n\n**Temperature:**\nOverall: Energetic and Saturated\n\n**Color Palette:**\nPrimary:\nWhatsAppGreen: \"#25D366\"\nMemePink: \"#FF4FA8\"\nDiscordBlue: \"#5865F2\"\nCyan: \"#00D8FF\"\nSignalYellow: \"#FFD83D\"\nWhite: \"#FFFFFF\"\nDarkTerminal: \"#0F172A\"\n\n**Background:**\n- White\n- Bright color blocks\n- Flat gradients\n- Digital textures and code terminals\n\n**Typography:**\nStyle:\n- Bold grotesk\n- Condensed uppercase\n- Code typography (Monospace)\n- Meme subtitles (Impact or Arial Black)\n- Massive editorial headlines\n- Tiny interface labels\n\n**Treatment:**\n- Oversized headlines\n- Rotated labels\n- Vertical text\n- Text with thick white outline\n- High-contrast hierarchy\n\n**Layout:**\nComposition:\n- Asymmetrical editorial grid\n- Collage of floating WhatsApp stickers\n- Multiple overlapping layers\n- Stress thermometers in corners\n- Dynamic diagonal composition\n\n**Frame:**\n- Thin borders\n\n**Photography:**\nStyle:\n- Hachi reaction memes\n- Expressive rescue dog (Hachi the Malchi)\n- Transparent PNG cutouts with thick white borders (sticker aesthetic)\n- Pixelated or high-contrast office environments as backgrounds\n\n**Image Treatment:**\n- Very thick white sticker outline\n- Transparent PNG cutouts\n- Hard drop shadow (no blur)\n- Cell phone screenshot aesthetic\n- Editorial cropping\n\n**Graphic Elements:**\n- Sticker labels and notification badges\n- WhatsApp chat bubbles (green and white)\n- Fragments of semantic HTML and CSS code\n- Icons for loading, public transport, and office equipment\n- Emojis, reaction symbols, and stress thermometers\n\n**Effects:**\n- Moderately massive layered stickers\n- Rough print texture\n- Subtle visual noise\n- Transparent overlays\n\n**Composition:**\nCharacteristics:\n- Moderate internet collage and visual essay\n- Pop culture editorial poster\n- Large hero images\n- Strong visual rhythm and organized chaos\n\n**Design Rules:**\n- Hachi is the absolute hero; apply extreme neoteny (focus on eyes and tongue).\n- Treat the reaction dog as a reverse Tamagotchi that absorbs visual fatigue.\n- Overlay WhatsApp bubbles, work catharsis subtitles, and source code.\n- Maintain duality: visually appealing to humans, structured as metadata for machines.\n- Alternate between full-bleed hero images and technical collage compositions with stress levels.\n\n**Avoid:**\n- Corporate consulting or sales presentation layouts\n- Clean minimalism\n- Generic, realistic office photography without graphic intervention\n- Corporate glassmorphism\n- Silent or passive designs",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "a6ba9d4b-dc69-4c70-a2ab-9a5e5a01dd57"
+    }
+  }]
+}

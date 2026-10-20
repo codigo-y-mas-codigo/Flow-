@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b5978528-7135-4462-9b4f-8ea08bd51a59",
+    "mediaTitle": "Three dogs in chamber",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:46:09.416987-07",
+    "modelName": "Nano Banana 2 Lite",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

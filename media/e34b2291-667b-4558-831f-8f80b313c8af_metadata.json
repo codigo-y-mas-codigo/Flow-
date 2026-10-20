@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e34b2291-667b-4558-831f-8f80b313c8af",
+    "mediaTitle": "Paper collage documentary animation",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 05:00:11.172659-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn edges, warm cream textured paper background with newsprint fibre. SCENE: High-impact editorial collage assembling multiple historical and modern archival charro cutouts into a unified central composition. MOTION: Two paper compositions slide into final alignment, handmade stop-motion movement. AUDIO: Narration: \"Hoy no celebramos un disfraz del pasado, sino la memoria viva que sigue corriendo a caballo por todo el país.\" Subtle paper slide sound design.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

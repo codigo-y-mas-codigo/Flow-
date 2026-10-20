@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a6ae92d4-8edf-434c-aceb-e8698eabefd5",
+    "mediaTitle": "Man exhaling toxic green smoke",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:10:11.338386-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": " Kodak Portra 400",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "167f2b8f-1d11-4f22-b6a5-fe78acc0d1b9",
+    "mediaTitle": "A sequence with those images.",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-04-28 03:28:20.371692-07",
+    "modelName": "Veo 3.1 - Fast",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

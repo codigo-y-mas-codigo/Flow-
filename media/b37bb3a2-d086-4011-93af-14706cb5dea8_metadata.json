@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b37bb3a2-d086-4011-93af-14706cb5dea8",
+    "mediaTitle": "Screenshot_2026-04-16-05-10-33-439_com.google.android.apps.photos-edit.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 00:57:49.066172-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Make a character sheet from the front, from above, from below, from the left, and from the right, full body. This will be used to create the character sheet to maintain character consistency.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR",
+      "parentMediaId": "a76ffd14-f029-4c44-a401-a89c64cce830"
+    }
+  }]
+}

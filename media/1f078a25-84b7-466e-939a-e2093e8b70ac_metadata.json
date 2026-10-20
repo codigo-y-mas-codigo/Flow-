@@ -1,0 +1,23 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1f078a25-84b7-466e-939a-e2093e8b70ac",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "character": "Androide",
+    "characterId": "450a53f0-0794-450b-9a17-9e11be1f8a94",
+    "createdAt": "2026-09-17 02:16:53.532778-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "make it full body",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "38d82794-8e1c-4028-8455-e81c672462e4"
+    }
+  }]
+}

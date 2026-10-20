@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8a51a3a2-b876-4892-a6b9-870261c5507c",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-17 02:04:43.688896-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt:\n\n\"A close-up of their face, with a neutral expression.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "38d82794-8e1c-4028-8455-e81c672462e4"
+    }
+  }]
+}

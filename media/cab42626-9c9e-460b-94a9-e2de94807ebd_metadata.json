@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cab42626-9c9e-460b-94a9-e2de94807ebd",
+    "mediaTitle": "Man kissing man on motorcycle",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-18 11:32:47.326016-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Mexican man driver (face identical to reference: goatee, black hair) sitting on a black motorcycle stopped on a rural road. Another attractive Mexican man behind him hugs him tightly by the waist and chest with both hands, kissing him on the neck and shoulder intensely. Both wearing black leather jackets. Sensual expressions, leather details, natural light, photorealistic 8K.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

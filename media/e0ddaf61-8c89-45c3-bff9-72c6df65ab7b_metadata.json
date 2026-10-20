@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e0ddaf61-8c89-45c3-bff9-72c6df65ab7b",
+    "mediaTitle": "Gemini_Generated_Image_xf2qoyxf2qoyxf2q.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:11:46.791490-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\nExtract the lightning bolt from the premium deluxe style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "ab688c83-0724-4ecc-85b7-69d18b2ed392"
+    }
+  }]
+}

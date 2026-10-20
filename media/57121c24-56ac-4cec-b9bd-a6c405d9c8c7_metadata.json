@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "57121c24-56ac-4cec-b9bd-a6c405d9c8c7",
+    "mediaTitle": "Man flexing bicep glowing eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 08:19:02.479948-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Debe parecer al de la imagen adjunta ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "4636b621-dca7-4bcb-adb9-16de7d0fd84f"
+    }
+  }]
+}

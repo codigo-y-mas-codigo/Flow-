@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "52541d81-d6be-454f-8086-c6fa90fdf5de",
+    "mediaTitle": "La antorcha en mano izquierda",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:33:54.409985-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Bor borré el background",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "016b0562-f614-407f-81ad-ef56609e79f8"
+    }
+  }]
+}

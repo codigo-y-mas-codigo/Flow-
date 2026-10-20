@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bed1d94e-d259-4c6b-a95f-c5f8d17238bc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:58:44.332673-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "un acercamiento a los dos personajes ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

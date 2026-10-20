@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cdc53a7f-59b1-485f-8f1a-297eecb7c700",
+    "mediaTitle": "Diablo tarot Raider west Arcano",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 08:24:49.069008-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Diablo tarot Raider west Arcano del ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

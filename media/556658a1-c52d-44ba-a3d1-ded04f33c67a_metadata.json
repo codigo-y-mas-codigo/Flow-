@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "556658a1-c52d-44ba-a3d1-ded04f33c67a",
+    "mediaTitle": "Anime band performing in cityscape",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "11-ago, 12:29 a.m.",
+    "projectId": "2b29700b-03b8-4695-b4b6-ad1f191b98c3",
+    "createdAt": "2026-08-10 23:31:59.907851-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s an image prompt for your energetic anime rock opening cover, translated to English:\n\n**Image Prompt:**\n\nAn anime-style illustration of a dynamic scene. In the foreground, a passionate male vocalist with spiky, vibrant hair is mid-song, microphone in hand, with a determined expression. Behind him, a powerful electric guitar player is shredding, their guitar glowing with energy. The drums are a blur of motion, sticks a streak of light. The background explodes with a stylized, colorful anime cityscape at dawn, with streaks of light and energy radiating outwards. The overall mood is high-energy and epic, with a sense of urgency and celebration. The color palette is bright and saturated, with strong contrasts.\n\n**Specific elements to consider for the \"energetic anime rock opening\" feel:**\n\n*   **Character Design:** Exaggerated features, dynamic poses, flowing hair, and stylish outfits.\n*   **Lighting:** Dramatic lighting with lens flares, glowing effects, and sharp highlights.\n*   **Composition:** Angled perspectives, a sense of movement, and a feeling of being in the middle of the action.\n*   **Visual Effects:** Speed lines, energy bursts, and abstract patterns that convey sound and emotion.\n\n**Regarding text:**\n\nSince the original prompt did not include any specific text to be rendered in the image, the entire prompt has been translated to English.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

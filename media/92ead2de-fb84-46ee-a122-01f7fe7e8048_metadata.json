@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "92ead2de-fb84-46ee-a122-01f7fe7e8048",
+    "mediaTitle": "Transforming image sequence inst…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 03:17:14.190881-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "4s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

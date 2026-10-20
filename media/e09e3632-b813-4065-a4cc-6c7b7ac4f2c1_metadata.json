@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e09e3632-b813-4065-a4cc-6c7b7ac4f2c1",
+    "mediaTitle": "Orange juice product poster design",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 07:55:22.777945-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "rompt;\n\nDesign a \u00274:5\u0027 product poster for an \u0027orange\u0027 juice 3d bottle using playful inflatable-plastic packaging surrealism where the bottle behaves like a squeezed toy object mid-pressure. The poster should communicate juiciness, tension, and tactile freshness through a bottle that visibly bulges, stretches, and compresses like a soft object being squeezed from the inside out.\n\nSUBJECT:\n\nA single bottle dominates the center-left, illustrated in a semi-3D stylized form (not photoreal). The bottle is visibly distorted—its midsection bulges outward while the neck is slightly compressed, as if internal juice pressure is pushing against the container walls. The liquid inside exaggerates this effect, forming rounded convex surfaces pressing against the plastic. The cap is slightly tilted from pressure. The bottle feels elastic, alive, and reactive rather than rigid.\n\nCOMPOSITION:\n\nThe composition mechanic is “internal pressure distortion”. The eye enters through the most inflated part of the bottle (center bulge), then follows curved tension lines outward toward stretched typography on the right side. The camera uses a slightly low, close-up perspective with mild fisheye distortion, amplifying the sense of pressure and expansion. The bottle leans diagonally into the frame as if pushing against invisible resistance. Negative space on the right is intentionally stretched and warped, echoing the bottle’s deformation.\n\nTYPOGRAPHY:\n\nHeadline: “SQUEEZE BACK” in thick, rounded, inflated lettering that mimics air-filled plastic. The type is physically distorted—letters stretch horizontally near the bottle and compress toward the edges, as if affected by the same pressure force. The headline sits to the right of the bottle but partially overlaps its bulging edge. Subheadline: “Juice that pushes back.” in a narrow condensed sans, straight and rigid, contrasting the soft headline. Small circular microcopy labels (e.g., “100% organic”, “no added sugar”) appear like printed stickers slightly warped by the surface tension.\nLIGHTING / GRAPHIC TREATMENT:\n\nSoft studio lighting adapted for stylized rendering—broad diffused highlights across curved surfaces, subtle specular streaks that follow the deformation. No realistic reflections—only controlled, simplified highlight bands that emphasize volume and elasticity.\n\nCOLORS:\n\n\u0027orange\u0027 juice bottle color and 3d header text. Small accents of \u0027bright lime green\u0027 for sticker elements. High contrast between glowing orange and dark surroundings.\n\nBACKGROUND:\n\nA smooth dark gradient field with subtle radial tension lines expanding outward from the bottle, like invisible pressure waves. No texture clutter—clean but dynamically warped space.\n\nSTYLE:\n\nNeo-pop surreal product illustration with inflatable material logic, playful distortion, and high-impact commercial clarity.\n\nFINISH:\n\nSoft plastic-like rendering, clean edges, controlled gradient transitions, no noise or grain, polished but intentionally stylized surface behavior.\n\nFOOTER:\n\nA compact floating sticker cluster in the bottom-right corner containing a small brand placeholder, a circular “fresh batch” seal, and minimal product info arranged like packaging labels.\n\nNEGATIVE:\n\nAvoid realistic photography, static bottle poses, generic splash effects, centered symmetry, rigid typography, template layouts, clutter, excessive gloss, low detail, and stock advertising aesthetics.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

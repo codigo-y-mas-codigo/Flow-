@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "da6f7513-39b0-46e4-bb1e-70259e560128",
+    "mediaTitle": "Put them on background",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-07-30 09:03:30.411933-07",
+    "modelName": "Nano Banana 2 Lite",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

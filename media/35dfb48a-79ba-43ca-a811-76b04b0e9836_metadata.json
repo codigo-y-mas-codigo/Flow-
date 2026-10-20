@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "35dfb48a-79ba-43ca-a811-76b04b0e9836",
+    "mediaTitle": "1777354604135.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:06:54.102554-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"all of yellow make it look like a woman and everyone should look like young adults.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "bfd70353-171e-4506-bec7-093fc3c26376"
+    }
+  }]
+}

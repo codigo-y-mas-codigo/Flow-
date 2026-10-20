@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ad8cbe19-e568-4393-98bc-3578e6f2613f",
+    "mediaTitle": "image.png_202609070509.jpeg_20260909233843.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 21:00:21.921865-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "manten su rostro identico misma semplante posicion, solo cambia su posicion de su cuerpo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "657f7888-7138-461d-9137-ffa5deae7d47"
+    }
+  }]
+}

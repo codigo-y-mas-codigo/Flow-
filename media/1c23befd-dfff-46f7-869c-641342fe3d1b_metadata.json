@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1c23befd-dfff-46f7-869c-641342fe3d1b",
+    "mediaTitle": "captura_011_[3-20].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:55:19.635352-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"erase all the texts and distribute the rest of the stickers in that space.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "07f75cae-de07-43b0-9a6d-d2d0e0bb7614"
+    }
+  }]
+}

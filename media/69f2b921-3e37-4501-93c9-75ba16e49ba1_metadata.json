@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "69f2b921-3e37-4501-93c9-75ba16e49ba1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 04:01:05.634790-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Person and lion resting together at dawn, side by side, golden horizon, wide shot, painterly cinematic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

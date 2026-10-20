@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5c50f311-bed8-4a18-904c-b64bfe85a77f",
+    "mediaTitle": "Megazord standing in rain",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:39:14.412859-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A dramatic cinematic design for a shower curtain. The colossal silhouette of the Megazord standing tall in the distance during a misty rain storm in Angel Grove at night. Subtle city lights, reflections on wet streets, vertical composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

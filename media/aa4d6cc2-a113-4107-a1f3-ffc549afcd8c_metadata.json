@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aa4d6cc2-a113-4107-a1f3-ffc549afcd8c",
+    "mediaTitle": "Masaje",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:31:41.282362-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "le esta dando un masaje ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

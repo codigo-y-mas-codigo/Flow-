@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "13b0ed20-78c3-462a-9743-02e2d4641f20",
+    "mediaTitle": "Demonic man ritual snakes candles",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-06-22 00:40:55.075098-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Muscular demonic man with shaved head, glowing intense green eyes, black ritual face paint and cracks, long forked tongue out, wearing leather harness and collar, standing powerfully over live snakes and burning black candles, dark cracked wall with dripping pentagram in background, black and white with green neon accents, evil sinister smile, gooner possessed energy, sweaty oiled skin, dramatic low angle shot, PixVerse.ai style, dark satanic ritual atmosphere, #666",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

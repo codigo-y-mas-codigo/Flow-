@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "27efb19e-eab5-4394-985c-d0e534cd22bd",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 23/11/25",
+    "projectId": "15e7db74-90b4-4fb6-82dd-e8c63e324e8e",
+    "createdAt": "2025-11-23 16:50:18.685123-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "las letras mac deben estar pegadas juntas sin espacios ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

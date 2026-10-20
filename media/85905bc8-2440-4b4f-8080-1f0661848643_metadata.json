@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "85905bc8-2440-4b4f-8080-1f0661848643",
+    "mediaTitle": "Abstract fluid art red black",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-04 23:33:18.652924-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Abstracto/sensorial\n**Prompt (EN):**\nAbstract fluid art, deep red and black liquid swirls merging together, sensual and organic shapes, glossy texture, dramatic lighting, album cover style\n\n**Texto (ES):** una sola palabra grande, minimalista.\n\n---",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

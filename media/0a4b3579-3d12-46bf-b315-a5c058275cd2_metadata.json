@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0a4b3579-3d12-46bf-b315-a5c058275cd2",
+    "mediaTitle": "Removing text and frame",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 20:46:38.740146-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra el espacio blanco.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f286b36d-cfb7-4b73-91a3-c40d6e079f8a"
+    }
+  }]
+}

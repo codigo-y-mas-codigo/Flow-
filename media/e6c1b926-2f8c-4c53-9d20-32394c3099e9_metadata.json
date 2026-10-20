@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e6c1b926-2f8c-4c53-9d20-32394c3099e9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 04:14:56.553475-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Person looking at reflection in dark still water, introspective, moody cinematic lighting, symbolic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

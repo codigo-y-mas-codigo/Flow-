@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8fd8d99a-a307-4bc5-ba45-4a64c955f085",
+    "mediaTitle": "Se guardó el fotograma de Headphones with animated sound wave",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-09-17 03:07:55.621800-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "no text",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "e8701298-a504-4421-bdcf-99432f62874c"
+    }
+  }]
+}

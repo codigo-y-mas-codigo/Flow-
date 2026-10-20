@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "adeb6946-554e-42d8-aa25-d05e23d181d6",
+    "mediaTitle": "Create visual tarot storyboard grid",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "createdAt": "2026-09-01 01:59:35.311886-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 1-column by 6-row grid layout of vertical 9:16 panels. \n\nSTYLE: Signature Pamela Colman Smith artistic illustrative style. Richly detailed pen and dark black ink line art with organic contours. Soft watercolor and gouache washes with visible paint-pooling borders. Vintage Edwardian folk-art and late nineteenth-century Art Nouveau aesthetic. Palette of saturated jewel tones (deep indigo, saffron yellow, madder red, moss green, terracotta). Rendered on heavy, off-white historic watercolor paper with a delicate tooth and subtle texture. \n\nGRID LAYOUT INSTRUCTIONS:\n- The image is a single vertical composite divided into 6 equal vertical panels.\n- Each panel has a small, clearly legible blue ink circle in the top-left corner with the panel number (1 to 6).\n- Thin black ink borders separate each panel.\n- Elegant historic hand-lettered calligraphy at the top or bottom of each panel.\n\nPANEL CONTENTS:\n- Panel 1 (Top): A vintage \u0027XV\u0027 tarot card sliding over dark textured velvet. Hand-lettered \u0027PEOR CONDENA\u0027 at the bottom.\n- Panel 2: A close-up of an artist\u0027s hand using a dip pen to ink delicate tarot lines on aged parchment. Hand-lettered \u0027CLAVE OCULTA\u0027.\n- Panel 3: Symmetrical shot of two robed figures looking up at a high ancient stone pedestal. Hand-lettered \u0027DOS FIGURAS\u0027 at the top.\n- Panel 4: Extreme close-up of a loose golden circular ribbon on a robed figure\u0027s neck; it is clearly wider than the head. A red hand-drawn arrow points to the gap. Hand-lettered \u0027ARGOLLAS SUELTAS\u0027.\n- Panel 5: Wide angle. A majestic winged figure seated on a tall stone pedestal. A golden flame glows below in a hearth. Symmetrical. Hand-lettered \u0027TU PROPIO MIEDO\u0027.\n- Panel 6 (Bottom): Symmetrical composition. The two figures walking forward away from the pedestal into a lush garden of white roses under a rising sun. Hand-lettered \u0027SUELTA TODO\u0027 at the bottom.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "76ce3bbe-08a0-4121-a63b-ddeaab833e4a",
+    "mediaTitle": "Laptop showing digital design ma…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 03:20",
+    "projectId": "5ea84ca6-81ae-4ce4-9ea9-b141ea2c7836",
+    "createdAt": "2026-09-17 02:21:12.393004-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A clean 2D cartoon illustration with a flat digital style, matching the same visual look as the reference: flat colors, solid fills, crisp edges, uniform line weight, clean readable composition.\n\nSubject: single laptop on a simple desk showing a digital design marketplace with a newly purchased design notification.\n\nScene/Setting: small bedroom home office, daytime, soft natural window light.\nCamera: extreme close-up, slightly angled view, tight framing, shallow visual focus on the laptop screen.\n\nForeground elements: laptop, small drawing tablet, stylus and a few simple design sketches.\n\nMaterial/style notes: flat digital illustration, minimal details, no realism, no 3D look, no brush texture, no paper texture, no painterly shading, no watercolor effect.\n\nKey details to include: colorful digital artwork on screen, clear visual indication of a completed sale, drawing tablet beside laptop, stylus, clean simple desk.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

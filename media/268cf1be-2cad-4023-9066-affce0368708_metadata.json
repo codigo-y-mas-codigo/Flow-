@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "268cf1be-2cad-4023-9066-affce0368708",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:19:15.162663-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Adapt the logo to include the word \"lamp\", a part of the original logo must be visible.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "435bcbf3-0acc-4244-9498-bb0176c782eb"
+    }
+  }]
+}

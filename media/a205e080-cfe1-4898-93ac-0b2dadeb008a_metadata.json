@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a205e080-cfe1-4898-93ac-0b2dadeb008a",
+    "mediaTitle": "Man in racing suit squirting liq…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-18 11:25:27.008047-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\nMexican man of normal build, face similar to the reference (goatee, black hair), wearing a black and white racing motorcycle suit. He is in the middle of a group of friends in a workshop. The friends are jokingly holding him down while he makes a face of extreme pain and effort. A strong jet of white liquid (like milk or thick cream) shoots out from the lower part of his suit, splashing everywhere. Chaotic and funny scene, photorealistic, sweat details, 8K. No text, no watermarks.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

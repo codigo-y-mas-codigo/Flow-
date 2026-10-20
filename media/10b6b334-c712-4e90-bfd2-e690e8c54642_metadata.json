@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "10b6b334-c712-4e90-bfd2-e690e8c54642",
+    "mediaTitle": "Modifying wall color and screen",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-12 06:35:57.392554-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "la pared debe ir de color rosa, cambia a las personas sentadas deben parecer las personajes de la imagen adjunta. mantén la misma posición que la imagen uno y haz un 100% más grande la pantalla de su tamaño actual, debe tener el ancho de la mesa.  tanaño gigante que casi cubre toda la pared . La pantalla debe estar libre, es decir las cabezas no deben taparla.  borra las plantas. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

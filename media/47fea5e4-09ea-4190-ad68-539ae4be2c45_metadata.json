@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "47fea5e4-09ea-4190-ad68-539ae4be2c45",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-08-04 03:12:41.439917-07",
+    "modelName": "Nano Banana 2 Lite",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

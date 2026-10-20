@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d931aaa5-c125-4986-a044-a4dc5e183b67",
+    "mediaTitle": "Drag queens posing in studio",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "oct 03 - 11:56",
+    "projectId": "7060e30d-dfbe-4b70-8dc4-27d0e6241f06",
+    "createdAt": "2026-10-03 10:58:54.249497-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "6s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

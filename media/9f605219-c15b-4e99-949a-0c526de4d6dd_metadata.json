@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9f605219-c15b-4e99-949a-0c526de4d6dd",
+    "mediaTitle": "Making fruit shiny and new",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:43:09.911592-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make the fruit look shiny and new.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

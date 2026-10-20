@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "06c16f82-9776-49cd-a611-258ff1d2f4ee",
+    "mediaTitle": "Dinozords on white background",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:30:23.109397-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "The 5 original Dinozords (prehistoric creatures) from Mighty Morphin Power Rangers are:\n\nTyrannosaurus Rex (Red Ranger)\n\nMastodon (Black Ranger)\n\nTriceratops (Blue Ranger)\n\nSabre-Toothed Tiger (Yellow Ranger)\n\nPterodactyl (Pink Ranger)\n\non a white background for an original t-shirt design.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE"
+    }
+  }]
+}

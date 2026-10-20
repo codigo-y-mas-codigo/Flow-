@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e51403d0-db38-4445-936d-6e393db76141",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 20:49:10.465441-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "extrae el texto de the fool en fondo blanco al centro ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

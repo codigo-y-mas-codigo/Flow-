@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7781f783-bb61-4ea3-a90f-0b4e4eca241a",
+    "mediaTitle": "Man with mud on chest",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-24 05:55:24.272194-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "A person removes a worm walking on their abdomen with their mouth.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "dbed036b-32dc-4aef-ae48-f9eee6f9f494"
+    }
+  }]
+}

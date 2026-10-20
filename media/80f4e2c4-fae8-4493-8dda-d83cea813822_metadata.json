@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "80f4e2c4-fae8-4493-8dda-d83cea813822",
+    "mediaTitle": "Tunee_Mejor_hazme_IA",
+    "mediaType": "VIDEO",
+    "source": "uploaded",
+    "project": "15-may, 09:04 p.m.",
+    "projectId": "953251ce-0900-418e-addb-214ae2d3e96c",
+    "createdAt": "2026-07-03 03:16:31.820602-07",
+    "dimensions": {
+      "width": 1280,
+      "height": 2274,
+      "duration": "29.990s"
+    },
+    "videoOffset": {
+      "endOffset": "30.100341s"
+    }
+  }]
+}

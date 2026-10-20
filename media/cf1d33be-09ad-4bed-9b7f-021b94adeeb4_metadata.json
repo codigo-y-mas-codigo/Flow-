@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cf1d33be-09ad-4bed-9b7f-021b94adeeb4",
+    "mediaTitle": "Man exhaling thick vapor",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:21:43.718239-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "A shirtless muscular Latino man (Luis Ángel from Ref 1), in his 38s, NO TATUADOS, wearing a black cap backwards, eyes closed in pleasure, exhaling an extremely massive, thick, dense cloud of white and purple vapor/smoke from his mouth and nose. The huge volumetric smoke billows out dramatically. Background is a high-tech geek sanctuary with sleek server racks, holographic AI displays, glowing circuitry patterns, blue and cool white neon lights, tech-inspired lighting, cinematic, highly detailed, realistic skin texture.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR"
+    }
+  }]
+}

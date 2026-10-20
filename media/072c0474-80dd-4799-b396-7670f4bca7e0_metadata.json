@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "072c0474-80dd-4799-b396-7670f4bca7e0",
+    "mediaTitle": "Luchador enviando mensaje en tel…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 13:58:07.070160-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "6s"
+    },
+    "generationInputs": {
+      "prompt": "El luchador sentado en el sofá está concentrado enviando un mensaje en su teléfono. Mientras escribe, las palabras \u0027EL DESPERTAR COMIENZA EN EL RING\u0027 aparecen flotando en el aire, disolviéndose una por una cada segundo en partículas de luz. Estilo cinematográfico con acentos de neón rojo y azul.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

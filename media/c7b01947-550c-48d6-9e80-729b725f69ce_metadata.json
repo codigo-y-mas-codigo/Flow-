@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c7b01947-550c-48d6-9e80-729b725f69ce",
+    "mediaTitle": "Ranger team battle stance abstra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:33:24.993032-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Make it in vectorized foreground.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "6b65e1d4-7daa-4d25-9592-0e5afb72288b"
+    }
+  }]
+}

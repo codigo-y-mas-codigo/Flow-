@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4873c0ca-9c21-4104-bf1e-1cb818f7b1cc",
+    "mediaTitle": "Removing text and frame",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-11 10:29:44.544741-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nAdd a paragraph with 4 sentences. Make the bottom left corner small.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4a2abb88-60c9-4b0b-a077-014b86b11aa5",
+    "mediaTitle": "Storyboard for synth-pop music v…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "15-may, 09:04 p.m.",
+    "projectId": "953251ce-0900-418e-addb-214ae2d3e96c",
+    "createdAt": "2026-07-03 03:21:29.411130-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard for the synth-pop music video \u0027Mejor hazme robot\u0027 in a 2x3 grid layout (2 columns, 3 rows). \n\nGRID LAYOUT: 6 panels in a single 9:16 composite image. Thin white borders.\n\nSTORYBOARD FRAMES:\nPanel 1: Jonas in a linen shirt looking at a mirror in warm amber light, weary expression.\nPanel 2: Jonas putting on the white armor from reference image 1. The helmet is on, and the visor is a digital screen displaying a simple green pixelated smiley face :).\nPanel 3: Half-armored Jonas touching a record player that is glitching into green voxels. Background is a retro apartment melting into code.\nPanel 4: Fully armored Jonas (from reference) with the digital smiley visor :) floating in a white digital void with data streams.\nPanel 5: The armored character with smiley visor :) in a vibrant neon green grid dimension, looking powerful.\nPanel 6: The armored character with smiley visor :) standing next to a flickering, low-res human ghost. Visor displays a wink emoticon ;)\n\nCONSISTENCY:\n- Use the white and green armor from reference image 1.\n- MANDATORY: Instead of showing the human face under the armor, the helmet visor MUST always be a digital screen showing a green pixelated smiley face :) throughout the transformation.\n- Transition from warm amber/film style to sharp neon green digital style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

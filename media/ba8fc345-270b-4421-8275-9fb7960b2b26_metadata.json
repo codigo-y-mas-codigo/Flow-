@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ba8fc345-270b-4421-8275-9fb7960b2b26",
+    "mediaTitle": "1777356262145.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-08-23 23:09:21.335152-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "cambia el personaje de la secuencia por el de la imagen adjunta debe de contar un día siendo spider-man como pooldancer",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "c131e0d4-7823-41cb-ba9d-2a547873c0cd"
+    }
+  }]
+}

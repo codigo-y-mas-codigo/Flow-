@@ -1,0 +1,17 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6ac2cd21-e346-4b6f-a562-2e00f6364454",
+    "mediaTitle": "Create alphabet and numbers typo…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 20:49:07.662282-07",
+    "modelName": "Nano Banana Pro",
+    "isFavorited": true,
+    "generationInputs": {
+      "prompt": "extrae el texto de the fool en fondo blanco al centro ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

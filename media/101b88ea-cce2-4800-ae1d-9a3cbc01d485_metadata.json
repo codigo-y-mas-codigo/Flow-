@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "101b88ea-cce2-4800-ae1d-9a3cbc01d485",
+    "mediaTitle": "Delete circle make lightning bigger",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:08:14.194353-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"delete the circle and make the lightning bolt bigger and in the center.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

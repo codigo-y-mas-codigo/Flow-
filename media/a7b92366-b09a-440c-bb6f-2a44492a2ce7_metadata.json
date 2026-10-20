@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a7b92366-b09a-440c-bb6f-2a44492a2ce7",
+    "mediaTitle": "Demonic man ritual snakes candles",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:09:52.701-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Haz que se parezca a la foto adjunta ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ac1a7d8b-073b-4f6d-9938-7a76d1e55a60"
+    }
+  }]
+}

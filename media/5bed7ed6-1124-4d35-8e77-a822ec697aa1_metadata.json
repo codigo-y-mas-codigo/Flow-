@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5bed7ed6-1124-4d35-8e77-a822ec697aa1",
+    "mediaTitle": "Create sock print pattern",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 14:00",
+    "projectId": "8d5e264d-bb6f-4673-9ec2-c6626894eaa1",
+    "createdAt": "2026-09-21 13:44:54.082176-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "Create a new sock print pattern featuring a character with multiple expressions. Include a mix of large and small expressions scattered in a playful, unaligned, and random layout.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR"
+    }
+  }]
+}

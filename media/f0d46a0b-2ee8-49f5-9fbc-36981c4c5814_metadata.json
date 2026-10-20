@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f0d46a0b-2ee8-49f5-9fbc-36981c4c5814",
+    "mediaTitle": "Three models presenting outfit c…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 22:45:12.067036-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "\nSUBJECT: A full-length studio lineup grid of 3 identical female models standing side-by-side in a straight row, representing the exact same person presenting 3 different outfit challenge looks.\nSCALE \u0026amp; ALIGNMENT: Strictly uniform height, scale, and body proportion across all 3 models. All 3 figures are aligned on the exact same horizontal ground plane baseline from head to toe. No size variations or height differences.\nCOMPOSITION \u0026amp; POSE: Full-body shot, front-facing eye-level view. All3iterations maintain the exact same facial structure, skin tone, makeup, wig styling, and identical neutral standing posture. Empty hands at sides, no props, no held objects, no umbrellas, no accessories.\nBACKGROUND \u0026amp; LIGHTING: Seamless neutral flat white studio backdrop with clean, soft, realistic contact shadows under their feet. Even, neutral commercial studio lighting.\nREALISM: Photorealistic fashion catalog aesthetic, authentic skin texture. Strictly no beautification filters, no digital skin smoothing, no face-tuning.\nOUTFITS: Each of the 3 iterations wears a unique outfit, while keeping physical features, height, proportions, hands, and pose strictly identical and empty across the whole lineup.\n\n```\n\n\n**Negative Prompt** (como SD, Midjourney `--no`, etc.), agrega lo siguiente:\n\n\u0026gt; `umbrella, parasol, holding objects, props, size variation, uneven height, floating, perspective distortion, different scale````\n\nIMPORTANTE MANTEN LAS POSICIONES ACTUALES, NO LAS CAMBIES, HAZLAS DE CUERPO COMPLETO , CON UNA PROPORCION IGUAL EN LAS TRES PERSONAJES. ES IMPORTANTE TENGAN LA MISMA POSICION QUE LAS FOTOS ORIGINALES. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

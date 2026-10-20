@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "be0dde27-2ed6-459e-b9a4-1a63f7684373",
+    "mediaTitle": "ponlos juntos en cama",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 13:31:12.733878-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "cambia los dibujos que estan detras por otro tipo de luchadores y de estilo mas  artistico abstracto ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "0148880c-b6c1-42cb-b97f-9322dfbc88e3"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f7cb49aa-1f91-40ed-86ad-478aff56e446",
+    "mediaTitle": "Real estate brand identity",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2026-08-14 14:53:16.903078-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt:\n\n\"It is a real estate administration brand identity.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

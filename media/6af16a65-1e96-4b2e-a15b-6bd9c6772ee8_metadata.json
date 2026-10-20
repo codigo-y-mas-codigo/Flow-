@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6af16a65-1e96-4b2e-a15b-6bd9c6772ee8",
+    "mediaTitle": "Man\u0027s hand cartoon style",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:46:18.187246-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Change to a man\u0027s hand.. they are rings put them in cartoon style.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

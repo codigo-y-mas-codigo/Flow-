@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6e0c907d-fa19-496c-b32c-fbf55e160195",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 02:55:19.630205-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Serene woman gently touching a lion\u0027s face, soft golden hour light, painterly illustration, Rider-Waite tarot style, symbolic art",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

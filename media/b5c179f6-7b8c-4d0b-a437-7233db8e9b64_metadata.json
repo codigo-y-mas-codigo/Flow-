@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b5c179f6-7b8c-4d0b-a437-7233db8e9b64",
+    "mediaTitle": "Erase texts combine images white…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-08-23 23:04:42.910950-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "haz una pieza promocional para esos stickers de WhatsApp de hachi el malchi .idioma español. orientado a los amantes de los lomitos y que les gusta expresarse con stickers , incluye lo que sería un eslogan o algo así como por ejemplo un sticker dice más que mil palabras o uno que suene bien. debe lograr que cuandobl veas quieras descargarlos y usarlos ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "1c3c6ac4-4c99-4a54-ba59-d4b09f507685"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5e2c5ffd-c927-45cd-bd49-7ae07e2619f3",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 03:05:32.672519-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Change gyagada to GYARADA.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "c0d7963e-825d-4ef6-9fe5-cfa8a6288f23"
+    }
+  }]
+}

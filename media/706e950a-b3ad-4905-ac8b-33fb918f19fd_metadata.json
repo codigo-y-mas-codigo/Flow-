@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "706e950a-b3ad-4905-ac8b-33fb918f19fd",
+    "mediaTitle": "Men kissing on motorcycle",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-18 11:34:18.956399-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Mexican man of normal build, face similar to the reference, wearing a tight black leather biker suit. He is reclining or sitting while another man is squeezing his chest and the lower part of the suit tightly with his hands. Expression of intense pleasure. Details of shining leather, photorealistic, soft lighting, 8K.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "dfd8ff89-6062-45eb-8e63-7b01c38cf20c"
+    }
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a5a71177-c68a-430d-a4aa-e72861fc75d1",
+    "mediaTitle": "Woman talking to her photos",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-07 05:12:43.147370-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2f255084-efef-4c8f-a4de-7928c9f28fe9",
+    "mediaTitle": "The Fool font alphabet",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 21:08:09.647875-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "**Title: The Fool Font**\n\nHere is the complete alphabet and numbers 0-9 in the style of \"the fool\" font, creating a typography in the style of that word.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

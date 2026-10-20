@@ -1,0 +1,78 @@
+{
+  "scenes": [{
+    "sceneId": "4b2427f1-ac23-4de9-8ec4-9c68ad9c9bfc",
+    "name": "Untitled Scene 09-14 12:04:33",
+    "aspectRatio": "SCENE_ASPECT_RATIO_PORTRAIT",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 05:04:33.451946-07",
+    "isFavorited": false,
+    "clips": [{
+      "mediaTitle": "Paper collage documentary animation",
+      "mediaId": "e34b2291-667b-4558-831f-8f80b313c8af",
+      "position": 0,
+      "duration": "10s",
+      "endTime": "10s"
+    }, {
+      "mediaTitle": "Charros featured in UNESCO docum…",
+      "mediaId": "0cc36aaa-8974-4a0b-a055-ca1765cd6230",
+      "position": 1,
+      "duration": "10s",
+      "endTime": "10s"
+    }, {
+      "mediaTitle": "Charro outfit paper collage anim…",
+      "mediaId": "df98e78d-d6e1-4d01-a8e1-5e235af4dd8a",
+      "position": 2,
+      "duration": "10s",
+      "endTime": "10s"
+    }]
+  }, {
+    "sceneId": "dc26da61-eaa1-47ae-aa36-dbd426df7a08",
+    "name": "Untitled Scene 09-20 19:35:55",
+    "aspectRatio": "SCENE_ASPECT_RATIO_PORTRAIT",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-09-20 12:35:55.906518-07",
+    "isFavorited": false,
+    "clips": [{
+      "mediaTitle": "Perrito en departamento CDMX",
+      "mediaId": "f9eb91d5-48a2-4004-9bf0-360f53685876",
+      "position": 0,
+      "duration": "10s",
+      "endTime": "10s"
+    }, {
+      "mediaTitle": "Perrito en departamento CDMX",
+      "mediaId": "bb4c9a74-5719-4cad-9ab0-e4dd32c564b1",
+      "position": 1,
+      "duration": "10s",
+      "endTime": "10s"
+    }]
+  }, {
+    "sceneId": "24c70fa6-3734-46c9-8758-44ac7d098422",
+    "name": "Untitled Scene 09-01 09:21:15",
+    "aspectRatio": "SCENE_ASPECT_RATIO_LANDSCAPE",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "createdAt": "2026-09-01 02:21:15.742013-07",
+    "isFavorited": false,
+    "clips": [{
+      "mediaTitle": "Dos figuras al pie trono",
+      "mediaId": "223f0767-48ac-4e7e-9673-48c11b3ef5ec",
+      "position": 0,
+      "duration": "10s",
+      "endTime": "10s"
+    }, {
+      "mediaTitle": "Winged figure near stone hearth",
+      "mediaId": "23e630c7-3817-48eb-825c-94029e9a2fbd",
+      "position": 1,
+      "duration": "10s",
+      "endTime": "10s"
+    }, {
+      "mediaTitle": "Two figures walking in garden",
+      "mediaId": "b36147fa-b595-43e6-bd40-445f79b254e1",
+      "position": 2,
+      "duration": "10s",
+      "endTime": "10s"
+    }]
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bf59df11-c3b5-4afe-a43d-dfa8604ccc39",
+    "mediaTitle": "Screenshot_2026-04-16-05-10-33-439_com.google.android.apps.photos-edit.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:09:07.368717-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Create a character sheet with front, top, bottom, left, and right views. Full body. This will be used to create the character sheet to maintain character consistency. Do it in the same non-realistic style, keeping its features identical. Hyper-mega-realistic cinematic 8k full HD mode.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR",
+      "parentMediaId": "e8e9890d-479b-4ae1-8716-d75baa9715b5"
+    }
+  }]
+}

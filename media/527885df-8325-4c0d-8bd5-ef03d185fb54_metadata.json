@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "527885df-8325-4c0d-8bd5-ef03d185fb54",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 03:56:55.949093-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Ancient white flowing dress fabric detail, soft light, texture close up, photorealistic, ethereal",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "04aab032-b313-4a7f-98af-6cecae569eb8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2025-11-22 04:48:10.677378-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "agrega la foto del hombre en el grupo de personas ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

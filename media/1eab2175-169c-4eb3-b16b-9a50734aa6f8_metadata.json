@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1eab2175-169c-4eb3-b16b-9a50734aa6f8",
+    "mediaTitle": "1777355863256.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 00:50:32.864242-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Divide into 3x3 and create more parody sequences.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f4500819-4e3e-48c0-95e6-6d39c83eaa7d"
+    }
+  }]
+}

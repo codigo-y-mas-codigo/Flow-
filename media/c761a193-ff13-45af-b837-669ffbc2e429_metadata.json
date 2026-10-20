@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c761a193-ff13-45af-b837-669ffbc2e429",
+    "mediaTitle": "Add song lyric to image",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-11 10:34:33.924156-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Nuevela. On the left, add a song lyric.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

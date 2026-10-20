@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c66e4597-5adc-44f1-8680-d7c60951f988",
+    "mediaTitle": "Shower curtain design Zordon Alp…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:36:28.752051-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A minimalist conceptual design for a vertical shower curtain. Zordon\u0027s glowing blue cylindrical energy tube centered, with the back silhouette of Alpha 5 working at a console. Surrounded by soft atmospheric fog and moody blue lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

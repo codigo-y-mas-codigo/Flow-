@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "45d52984-be6f-4f82-8a0a-86dd24f0fb5b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 04:19:28.703662-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Flower crown close up, white and yellow flowers, soft bokeh background, photorealistic detail",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

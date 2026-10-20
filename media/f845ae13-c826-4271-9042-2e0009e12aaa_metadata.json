@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f845ae13-c826-4271-9042-2e0009e12aaa",
+    "mediaTitle": "Change background of image",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-06 14:27:09.833641-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Change the background of image 1 to the background of image 2.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

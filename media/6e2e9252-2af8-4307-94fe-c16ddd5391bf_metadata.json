@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6e2e9252-2af8-4307-94fe-c16ddd5391bf",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:11:12.608160-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Place it on a neutral white background, keep the rest exactly identical, do not beautify the character, use the same makeup, wardrobe, everything the same.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "0d94deca-72a7-4c77-ba4e-5a2fa1ec3b3b"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "96a68093-cf91-4282-90a8-239d506a40eb",
+    "mediaTitle": "Man walking unstopped journey",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-11 10:40:14.918328-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "[Intro: Bright accordion and pizzicato strings, soft wind chimes]\n\n[Verse 1]\nRed shoes on wet earth\na hat full of wind and salt\nhe doesn\u0027t ask where the map begins\nbecause the river teaches him to ford\n\n[Verse 2]\nThey shout \"Beware of the precipice!\"\nbut he smiles without ever stopping\nhis backpack smells of freshly cut grass\nand of promises no one made him keep\n\n[Chorus]\nTHE PATH IS BORN WHERE I PLACE MY FOOT!\nTHERE IS NO TOMORROW THAT CAN STOP ME!\nThe only certainty is this moment\nand the sun that follows me out of curiosity\n\n[Inst: Lively accordion solo with light string plucks and distant flute echoes]\n\n[Verse 3]\nHe carries no watch, counts no coins\nhe only keeps a flower between his fingers\nthe whole world fits in his laughter\nas he jumps over the pebbles of yesterday\n\n[Chorus]\nTHE PATH IS BORN WHERE I PLACE MY FOOT!\nTHERE IS NO TOMORROW THAT CAN STOP ME!\nThe only certainty is this moment\nand the sun that follows me out of curiosity\n\n[Bridge: Strings swell gently, accordion shifts to sparse single notes]\nPerhaps I will fall, perhaps I will fly\nperhaps the path will disappear as I pass\nbut today I am zero and everything is possible\nlike the first breath of the universe\n\n[Chorus]\nTHE PATH IS BORN WHERE I PLACE MY FOOT!\nTHERE IS NO TOMORROW THAT CAN STOP ME!\nThe only certainty is this moment\nand the sun that follows me out of curiosity\n\n[Outro: Accordion and strings fade slowly with soft breeze sounds]\n(whispered)\nzero steps… zero fears… infinity ahead….",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

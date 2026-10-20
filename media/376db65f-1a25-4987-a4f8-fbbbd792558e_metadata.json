@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "376db65f-1a25-4987-a4f8-fbbbd792558e",
+    "mediaTitle": "Man walking replacing woman",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:35:21.844940-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Put the man\u0027s full face and body instead of the woman\u0027s. He should be as if he were walking.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

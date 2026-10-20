@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6dd9fdb6-0448-4586-867a-952f443f2008",
+    "mediaTitle": "captura_014_[4-20].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:52:43.956708-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the specified text in its original language:\n\nConcept:\nInternet dog culture,\nWhatsApp stickers,\nDiscord culture,\nBrainrot Meme,\nvisual essay,\ncorporate collapse and office workers (godínez),\nreverse Tamagotchi,\nempathy engineering,\nMexican dictionary of emotions,\nexperimental motion graphics,\n2000s MTV,\nThe slides are structured as a meme channel, internet culture show, and visual essay.\nHachi (Maltese dog with apple-head chihuahua, messy fur, disproportionately large eyes due to neoteny, tongue out) is the protagonist and narrative Trojan horse.\nThe visual narrative mixes the chaos of public transport, KPI saturation, and office existentialism with PNG cutouts, WhatsApp/Discord stickers, visible HTML/CSS code, and stress metrics.\nCanvas:\nRatio: \"16:9\"\nMood:\n- Internet\n- Chaotic\n- Godínez Survival\n- Cathartic\n- Youthful\n- Graphic\n- Experimental\n- Playful\nTemperature:\nOverall: Energetic and Saturated\nColor Palette:\nPrimary:\nWhatsAppGreen: \"#25D366\"\nMemePink: \"#FF4FA8\"\nDiscordBlue: \"#5865F2\"\nCyan: \"#00D8FF\"\nSignalYellow: \"#FFD83D\"\nWhite: \"#FFFFFF\"\nDarkTerminal: \"#0F172A\"\nBackground:\n- White\n- Bright color blocks\n- Flat gradients\nTypography:\nStyle:\n- Bold grotesk\n- Meme subtitles (Impact or Arial Black)\n- Massive editorial headlines\n- Tiny interface labels\nTreatment:\n- Oversized headlines\n- Rotated labels\n- Vertical text\n- Outlined text (thick white outline)\n- High-contrast hierarchy\nLayout:\nComposition:\n- Asymmetrical editorial grid\n- Moderate overlapping layers\n- Stress thermometers in corners\n- Dynamic diagonal composition\nFrame:\n- Thin borders\nPhotography:\nStyle:\n- Hachi reaction memes\n- Expressive rescue dog (Hachi el Malchi)\n- Transparent PNG cutouts with thick white borders (sticker aesthetic)\n- Pixelated or high-contrast office environments in the background\nImage Treatment:\n- Very thick white sticker outline\n- Transparent PNG cutouts\n- Hard drop shadow (unblurred)\n- Editorial cropping\nEffects:\n- Moderate massive layered stickers\n- Rough print texture\n- Subtle visual noise\n- Transparent overlays\nComposition:\nCharacteristics:\n- Pop culture editorial poster\n- Large hero images\nDesign Rules:\n- Hachi is the absolute hero; apply extreme neoteny (focus on eyes and tongue).\n- Treat the reaction dog as a reverse tamagotchi that absorbs visual fatigue.\n- Alternate between full-bleed hero images and technical collage compositions with stress levels.\nAvoid:\n- Corporate consulting or sales presentation layouts\n- Clean minimalism\n- Corporate glassmorphism",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "d0461a6f-5bf4-46d9-bb35-6c28d1646e01"
+    }
+  }]
+}

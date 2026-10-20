@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2b64605c-ce8f-4350-9ec4-772c7b4f3de6",
+    "mediaTitle": "Luxury pattern for bathroom fabric",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:38:22.245528-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A luxury repeating seamless pattern for a bathroom fabric curtain. Gold metallic Power Coin ancient animal symbols printed on a deep forest green matte background. Sophisticated high-end designer textile style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

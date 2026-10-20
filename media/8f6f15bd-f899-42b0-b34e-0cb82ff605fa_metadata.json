@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8f6f15bd-f899-42b0-b34e-0cb82ff605fa",
+    "mediaTitle": "Teddy bears having tea",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 07:58:42.354152-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A meticulously detailed, handcrafted needle-felted wool diorama featuring two anthropomorphic teddy bears in a tea party scene. One bear is made of sculpted brown felt with fine stitch details and button eyes, sitting in a miniature knitted blue armchair. The other bear, made of beige felt, sits opposite. On a tiny, polished walnut wood table rests a meticulously sculpted blue ceramic teapot with gold felt applique and miniature felt teacups. The scene is lit with soft, warm studio directional light, emphasizing the intricate textures of the chunky cable-knit wool cardigans the bears are wearing and the soft, tactile felt surfaces. Macro photography, shallow depth of field with the background blurring into a soft, fibrous, pastel-pink felt texture. Ultra-high resolution, artisanal, cozy and whimsical atmosphere. --ar 16:9",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

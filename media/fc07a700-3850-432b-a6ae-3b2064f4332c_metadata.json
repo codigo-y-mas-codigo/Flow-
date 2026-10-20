@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fc07a700-3850-432b-a6ae-3b2064f4332c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 16:07:35.266170-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "\n\u003e *\"Photorealistic live-action portrait of [NOMBRE DEL ARCANO, ej: The Magician] as a modern human character, fashion editorial photograph, style of a dark chamber (Cámara Oscura), high-fashion grade, punchy but natural contrast, refined filmic color science, subtle halation and lens bloom, controlled highlights, soft roll-off, realistic skin pores and texture, lifelike hair strands, premium fabric rendering, studio-quality lighting with natural depth, cinematic composition, no text, no logo.\"*\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

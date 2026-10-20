@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a41c3ce9-1f94-43b0-ba82-a271c4a0d401",
+    "mediaTitle": "Man throwing punch",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 13:35:58.706235-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

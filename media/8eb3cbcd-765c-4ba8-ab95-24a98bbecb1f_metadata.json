@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8eb3cbcd-765c-4ba8-ab95-24a98bbecb1f",
+    "mediaTitle": "Robot and dogs orbit chamber",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:44:25.794810-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a cinematic 9:16 vertical storyboard grid (3x3 layout) showing a 9-second orbital sequence in a white zero-G chamber. \n\nGRID LAYOUT INSTRUCTIONS:\n- SINGLE composite image divided into a 3x3 grid of 9 vertical panels (9:16).\n- Use reference f2a48ab3-c040-4086-a831-c684440684c3 for the robot and white room style.\n- Use reference 6951ae05-a417-4f6e-b3f1-69b834ebe402 for the man\u0027s face.\n- Use references b97200b2-7b7e-4d68-9bfb-408d51a0d678 and 616b1273-b63d-4271-afb7-299e983bf389 for the 7 dogs, maintaining their exact fur textures and features.\n\nPANELS (1 panel per second):\n- Panel 1: Unit-7 Robot (green smiley visor) alone, camera starts clockwise orbit.\n- Panel 2: Camera spirals up; the first few dogs (chihuahuas) drift into the frame.\n- Panel 3: More dogs join the orbit as the camera continues to rotate and rise.\n- Panel 4: The group of dogs expands, circling the robot gracefully.\n- Panel 5: The camera reaches the side, showing the fluffy white dogs from image 616b1273-b63d-4271-afb7-299e983bf389 joining.\n- Panel 6: High-angle orbital shot looking down at the robot and all dogs circling.\n- Panel 7: The camera spirals further up; the ensemble moves as a majestic vortex.\n- Panel 8: Unit-7 Robot starts to remove its helmet with its hands.\n- Panel 9: The helmet is off, revealing the man with the goatee (from image 6951ae05-a417-4f6e-b3f1-69b834ebe402) looking at the camera, surrounded by the 7 dogs in zero-G.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "10f2c158-4c44-41a7-b1d0-136aa62a2a73",
+    "mediaTitle": "Close-up shot of woman\u0027s face",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 00:38:19.266364-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Make a close-up shot of the female character\u0027s face, keep her exact same expression, makeup, demeanor, clothing, colors, hairstyle, wig, accessories, keep the exact same gestures, do not beautify, of the first participant from left to right.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE"
+    }
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c9cfd6eb-ce26-4bf8-81f0-fb10687ebcb7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:44:43.021872-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "--chaos 20 --ar 3:4 --sref 1499108675 --sw 500 --stylize 500",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

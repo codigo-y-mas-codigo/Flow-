@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c4247517-6e40-4bef-bb7f-dbc736d5cda1",
+    "mediaTitle": "Deporte nacional",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 07:08:50.308989-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "el texto de no es el gutbol ponlo abajo y arriba esta bien el deporte nacional. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

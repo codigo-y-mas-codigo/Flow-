@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e0059683-b946-4f3f-bec4-180e29970d11",
+    "mediaTitle": "Change typography and coffee rel…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:26:23.382333-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"Change the typography to a less cliché, more original style that looks like a logo. Change the style of the man\u0027s hand with different personalities, making it look like a man with and without rings, but with the same gesture. And change the coffee to something related to eating.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

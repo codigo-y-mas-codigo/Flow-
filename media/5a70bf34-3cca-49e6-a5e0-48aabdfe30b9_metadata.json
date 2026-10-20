@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5a70bf34-3cca-49e6-a5e0-48aabdfe30b9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2025-11-22 05:48:45.706044-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An image with a large, modern condominium building in the background, featuring five business professionals in the foreground. The professionals are standing outdoors, possibly on a balcony or patio, with a glass railing visible in the lower part of the image. The sky is overcast or white.\n\nIn the foreground, from left to right:\n1.  **A man** with a light skin tone, dark hair, and a dark beard is wearing a light gray suit jacket over a white shirt. He is looking down and pointing at a tablet held by the woman next to him. He appears to be in his 30s.\n2.  **A woman** with a light skin tone and dark hair tied back is wearing a white collared shirt and dark trousers. She is holding a tablet and smiling, looking at the man next to her. She appears to be in her 20s or early 30s.\n3.  **A woman** with a light skin tone and long dark hair is wearing a dark blazer over a white top and dark trousers. She is smiling and looking towards the right, engaging with the people next to her. She appears to be in her 20s or early 30s.\n4.  **A man** with a light skin tone and dark hair is wearing a light blue collared shirt and dark trousers. He is smiling and holding a dark folder or clipboard. He is looking towards the man on the far right. He appears to be in his 30s.\n5.  **A man** with a light skin tone, dark hair, and a neatly trimmed dark beard is wearing a dark blue suit jacket over a white shirt. He is smiling and looking at the man next to him. He is holding a clipboard or folder. He appears to be in his 30s.\n\nThe group is engaged in a discussion, suggesting a professional meeting or collaboration.\n\nOverlaid on the top of the image are two lines of text in a large, light green, sans-serif font:\n\"EMPODERE A SU\nCONSEJO DIRECTIVO\"\n(Empower your Board of Directors)\n\nBelow this, in a smaller white font:\n\"APRENDA A SER UN LÍDER EFECTIVO EN\nEN CONDOMINIOS\"\n(Learn to be an effective leader in\nin condominiums)\n\nAt the bottom center of the image is a logo in green and white text: \"MAC 360 GESTIÓN ADMINISTRATIVA\".\n\nIn the bottom right corner, there is another logo with the text \"hotmart USA\" in white and orange.\n\nThe building in the background is a multi-story, modern structure with a grid of windows, balconies, and gray and white facade elements. The overall atmosphere is professional and corporate. QUIERO A LAS PERSONAS DE MI IMAGEN BASE Y EL EDIFICIO ROJO DE LADRILLO ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

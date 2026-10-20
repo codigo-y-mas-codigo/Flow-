@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f40b26fc-151a-4d1f-bcc0-a1a149b1232d",
+    "mediaTitle": "Black mug with energy graphic",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:50:21.704036-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A product photo of a black ceramic mug on a wooden table. The mug shows a glowing neon blue energy tube graphical interface filling up with energy, with technical text that reads \u0027Morphing Grid: Loaded 100%\u0027.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f0c376a4-6b8c-4212-99d6-13bf4ff6a10d",
+    "mediaTitle": "Adáptalo a tamaño horizontal ",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-04-28 03:30:03.930682-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Adáptalo a tamaño horizontal ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

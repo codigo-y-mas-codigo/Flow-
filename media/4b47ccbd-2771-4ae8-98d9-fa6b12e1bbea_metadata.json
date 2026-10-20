@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4b47ccbd-2771-4ae8-98d9-fa6b12e1bbea",
+    "mediaTitle": "Unfolding paper map highlights r…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-15 00:10:43.458512-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "prompt": "SCENE_06. Style: Vox editorial paper collage. Motion: lateral tracking slide across a wide paper map unfolding to highlight bamboo regions with yellow marker sweeps. Typography: \"DIECIOCHO DE SEPTIEMBRE\" snaps on. Audio: paper unfolding, marker squeaks, faint print-shop room tone. No voice, no music.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

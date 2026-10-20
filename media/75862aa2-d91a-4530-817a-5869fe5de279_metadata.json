@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "75862aa2-d91a-4530-817a-5869fe5de279",
+    "mediaTitle": "Personajes con cuernos y serpientes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:08:14.027328-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "El fondo obscurevcelo y que lo verde parezca fuego verde . Y el arcano original tienenunido a los personajes por medio de una cadena. Hazla visible . Agrégale cuernos y birra las serpientes. Las colas parece tienen fuego y la otra una fruta. Y ponlos de pie ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

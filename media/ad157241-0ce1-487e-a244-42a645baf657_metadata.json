@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ad157241-0ce1-487e-a244-42a645baf657",
+    "mediaTitle": "3D emoji style typography",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:39:39.384053-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make the fruit have a glow like a radiance.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "a2243e0a-9557-4e21-8b0f-450b1670377f"
+    }
+  }]
+}

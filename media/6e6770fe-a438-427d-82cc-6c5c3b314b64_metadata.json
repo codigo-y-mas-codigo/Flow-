@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6e6770fe-a438-427d-82cc-6c5c3b314b64",
+    "mediaTitle": "Slow camera tilt rightward",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:23:07.559051-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

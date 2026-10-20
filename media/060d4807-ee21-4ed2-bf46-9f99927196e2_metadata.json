@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "060d4807-ee21-4ed2-bf46-9f99927196e2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 03:56:38.392133-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "4:10Number eight formed by flowing golden light, dark background, mystical, minimalist symbolic art",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

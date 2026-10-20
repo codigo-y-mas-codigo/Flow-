@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bfd2e2f0-ae26-4dfd-8990-8270d84749a4",
+    "mediaTitle": "Add character watching TV",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-06 14:19:45.126796-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "add another character to the photo where they are watching TV",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

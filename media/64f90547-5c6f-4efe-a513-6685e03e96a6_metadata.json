@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "64f90547-5c6f-4efe-a513-6685e03e96a6",
+    "mediaTitle": "image.png_202609070510 (2).jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-09 22:22:36.425850-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "extrae la imagen de la derecha, no embellezacas, manten la misma posicion exacta maquillaje todo igual, en 9:16",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "e493fb59-870a-4ff3-a012-aca8298b5928"
+    }
+  }]
+}

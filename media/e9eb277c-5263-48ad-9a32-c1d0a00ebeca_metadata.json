@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e9eb277c-5263-48ad-9a32-c1d0a00ebeca",
+    "mediaTitle": "Remove two standing people",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2026-07-27 16:25:44.016507-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Remove the two people who are standing.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "7f66764e-7f4d-4db7-8f0f-f13e858463f2"
+    }
+  }]
+}

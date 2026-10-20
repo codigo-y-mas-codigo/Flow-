@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "53b61407-7edb-422b-a539-1e978021e2b7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 02:55:49.399949-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Powerful lion with calm eyes, golden light, close up portrait, symbolic, painterly, cinematic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

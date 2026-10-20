@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ccea670d-774c-46d3-9b7a-8dd375c1c0ea",
+    "mediaTitle": "Headphones musical staff flowing…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-04-27 22:12:14.746063-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Seamless infinite loop animation, perfectly centered composition. The white-lined headphones remain completely static. The golden musical staff, notes, and subtle dust particles flow smoothly outward in a continuous, gentle motion. The heart shape at the end of the staff remains completely static, unlit, and without any glowing or pulsing effects. Deep dark background, clean 2D motion graphics style, perfectly loopable.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

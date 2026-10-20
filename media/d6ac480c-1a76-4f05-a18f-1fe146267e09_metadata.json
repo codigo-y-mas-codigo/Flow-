@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d6ac480c-1a76-4f05-a18f-1fe146267e09",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:22:35.054707-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Change \"gemini notebook\" to \"Luis Angel Maciel\" using the same typography.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "64e8b1ee-cd36-4101-9889-bdf98220e5fd"
+    }
+  }]
+}

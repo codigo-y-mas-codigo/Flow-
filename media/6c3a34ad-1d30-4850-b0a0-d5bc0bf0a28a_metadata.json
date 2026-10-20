@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6c3a34ad-1d30-4850-b0a0-d5bc0bf0a28a",
+    "mediaTitle": "Frame is second give life",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-26 00:53:03.915869-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

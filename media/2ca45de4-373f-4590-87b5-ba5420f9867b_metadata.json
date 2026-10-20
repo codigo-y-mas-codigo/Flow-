@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2ca45de4-373f-4590-87b5-ba5420f9867b",
+    "mediaTitle": "Ceramic mug with blueprint graphic",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:57:35.941216-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A product photo of a matte dark gray ceramic mug featuring a clean white and yellow technical blueprint graphic of a Megazord interface, with gauges pointing to \u0027Caffeine Levels\u0027 and a big \u0027Morfosis\u0027 button.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

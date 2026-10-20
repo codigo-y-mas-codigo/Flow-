@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "af49fb75-e3fa-4096-90fd-7d98ecde1fab",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 05:08:17.382685-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "se ve al leon enfrente de ella, ella camina hacia el ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

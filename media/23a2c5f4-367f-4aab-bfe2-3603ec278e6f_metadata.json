@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "23a2c5f4-367f-4aab-bfe2-3603ec278e6f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:29:30.671166-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Person casting a shadow shaped differently than themselves, dramatic side lighting, surrealist symbolic art",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

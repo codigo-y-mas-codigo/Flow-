@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "054bbaf3-d937-4d61-85e1-b6ebac8c4eb7",
+    "mediaTitle": "Black snapback cap abstract design",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:12:29.470923-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A high-quality product photo of a black snapback cap, slightly angled upwards to reveal the underside of the visor. The under-visor features a sharp geometric abstract neon red and yellow line design. High-end techwear style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

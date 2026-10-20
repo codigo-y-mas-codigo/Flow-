@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bbcd01ed-890b-4897-9f01-228f7208d5ed",
+    "mediaTitle": "Adáptalo a tamaño horizontal ",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-08 12:17:26.932229-07",
+    "modelName": "Omni Flash",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

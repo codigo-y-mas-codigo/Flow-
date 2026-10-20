@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5997c553-db9d-4048-a881-c240aa61dcc4",
+    "mediaTitle": "Visual storyboard grid layout tarot",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "createdAt": "2026-09-01 01:48:57.850436-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 1-column by 6-row grid layout of vertical 9:16 panels. \n\nSTYLE: Classic early 20th-century Rider-Waite-Smith tarot illustration style, in the signature artistic style of Pamela Colman Smith. Distinct hand-drawn black ink outlines, flat and highly symbolic color washes (rich golden yellows, deep lapis lazuli blues, warm organic greens, and brilliant vermilion reds) on aged parchment paper background with subtle paper fiber texture. Symmetrical and theatrical compositions. No modern digital gradients, no 3D elements.\n\nGRID LAYOUT INSTRUCTIONS:\n- The image is a single vertical composite divided into 6 equal vertical panels.\n- Each panel has a small, dark blue ink circle in the top-left corner with the panel number (1 to 6).\n- Thin black ink borders separate each panel.\n\nPANEL CONTENTS:\n- Panel 1 (Top): A vintage tarot card with Roman numeral \u0027XIII\u0027 sliding open over dark textured velvet. Hand-lettered text \u0027TEMOR MEDIEVAL\u0027 at the bottom.\n- Panel 2: An ancient parchment scroll unrolling to reveal a blank tarot card with Roman numeral \u0027XIII\u0027. Hand-lettered \u0027ARCANO SIN NOMBRE\u0027.\n- Panel 3: Side-by-side comparison. Left: skeletal robed figure with wooden scythe. Right: majestic knight in dark grey plate armor on a white horse with a black banner. Text \u0027EL GRAN ERROR\u0027.\n- Panel 4: Close-up of an armored hand holding a black banner with a beautiful five-petaled white rose in the center. Text \u0027ROSA MISTICA\u0027.\n- Panel 5: Landscape with a brilliant golden sun rising between two tall grey stone towers under a warm sky. Text \u0027SOL NACIENTE\u0027.\n- Panel 6 (Bottom): Knight in dark plate armor riding a white horse forward, leaving a dark path behind into a glowing horizon. Hand-lettered \u0027NUEVA VIDA\u0027.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ac7f13b3-5ce8-4c24-8c02-84d7858e0831",
+    "mediaTitle": "Translate image prompt to English",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:45:34.244610-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"16:9. Apply the following edit: Translate the following image prompt to English. If the image prompt below asks for any text to be rendered in the image, then keep that text portion in the native language that was originally input, in all other cases translate to English.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

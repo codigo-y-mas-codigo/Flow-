@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "77a06a61-31cb-4fb1-b43f-ca7a31f2eac5",
+    "mediaTitle": "Borra los libros ",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:20:02.776114-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra los libros ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "1b664bb4-d222-4b2b-b604-361871a4ec9b"
+    }
+  }]
+}

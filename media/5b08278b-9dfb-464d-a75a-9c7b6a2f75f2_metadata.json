@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5b08278b-9dfb-464d-a75a-9c7b6a2f75f2",
+    "mediaTitle": "Adding text to violin",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:40:45.468114-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\nAdd the text effect that says \"así suena el pop en violín \" centered on the small violin.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

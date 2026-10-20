@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "abb294a6-5b9b-44b1-9fc0-5801a9d6823d",
+    "mediaTitle": "Birthday cake celebration illust…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:55:24.052118-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the Spanish text as requested:\n\n\"A vibrant, colorful, and playful illustration of a birthday party scene. 🥳 The main focus is a delicious-looking birthday cake 🎂 with lit candles, surrounded by confetti 🎉 and balloons 🎈. In the background, there are smiling cartoon characters 🧑‍🎨, presents 🎁, and streamers 🎗️. The overall mood is joyful and celebratory. The text \u0027¡Feliz Cumpleaños!\u0027 should be prominently displayed on the cake or in the scene.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

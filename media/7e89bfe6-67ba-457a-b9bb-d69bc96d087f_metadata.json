@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7e89bfe6-67ba-457a-b9bb-d69bc96d087f",
+    "mediaTitle": "Megazord standing in rain",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:45:04.125531-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the bathroom curtain design.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "d1c87e66-b735-432f-8b7a-022809e0f2c7"
+    }
+  }]
+}

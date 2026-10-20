@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a0ec8417-d2c8-44a3-97e7-3107802cb4e4",
+    "mediaTitle": "Crear videoclip musical profesional",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 17:26:36.963973-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

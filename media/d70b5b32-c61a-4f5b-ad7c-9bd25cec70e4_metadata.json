@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d70b5b32-c61a-4f5b-ad7c-9bd25cec70e4",
+    "mediaTitle": "Symphony orchestra playing instr…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:57:31.285677-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Put an instrumental symphony orchestra.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

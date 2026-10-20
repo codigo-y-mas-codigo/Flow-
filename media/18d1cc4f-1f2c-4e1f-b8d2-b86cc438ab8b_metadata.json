@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "18d1cc4f-1f2c-4e1f-b8d2-b86cc438ab8b",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 16 - 01:38",
+    "projectId": "122401e3-570f-4e50-8846-0e5465adb5f7",
+    "createdAt": "2026-09-16 01:02:24.997585-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "A clean architectural photo of the multi-story apartment building in image_adffbb.jpg from the exact same camera angle and perspective. The building features a bright orange ground floor and a beige upper facade with rectangular window columns. Remove all foreground trees, foliage, parked cars, power lines, and screenshot UI overlays, revealing the full building structure on a clean street under a clear sky. No textos ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "dd762f16-d3a9-4c82-90b6-07698e63f60a"
+    }
+  }]
+}

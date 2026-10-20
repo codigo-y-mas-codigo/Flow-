@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "951cb28d-e176-4239-b80e-5307bca9973f",
+    "mediaTitle": "Change image text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:52:18.371911-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "Change the colors to make them look aesthetic, maybe purple instead of gray.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE",
+      "parentMediaId": "f2ec98ba-bf32-4a37-bd97-21a39afd578d"
+    }
+  }]
+}

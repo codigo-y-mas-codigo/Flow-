@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1641700a-c645-4eca-8e11-60cc5cd824b4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 03:48:16.998213-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "0:45Close up of woman\u0027s serene face with flower crown, eyes closed, soft golden light, photorealistic, cinematic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

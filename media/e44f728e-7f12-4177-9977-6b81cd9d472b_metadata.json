@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e44f728e-7f12-4177-9977-6b81cd9d472b",
+    "mediaTitle": "Lips near ear whispering",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-05 01:57:59.409542-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Oil painting style album cover, chiaroscuro lighting like a Baroque portrait, close-up of lips near an ear whispering, rich burgundy and gold tones, classical fine art aesthetic, tasteful and elegant\n\n**Texto (ES):** serif clásica dorada, como firma de cuadro.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

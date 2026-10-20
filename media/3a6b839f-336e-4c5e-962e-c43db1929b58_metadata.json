@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3a6b839f-336e-4c5e-962e-c43db1929b58",
+    "mediaTitle": "Charros archival photograph pape…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 04:47:56.191325-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary. Archival duotone photograph of charros with a UNESCO emblem stamped onto warm cream textured paper, attached with masking tape cutouts. Soft realistic drop shadows. Heavy condensed sans-serif ALL CAPS typography with black ink stamp effect: \"PATRIMONIO MUNDIAL\". Palette: warm cream, charcoal black, deep navy.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

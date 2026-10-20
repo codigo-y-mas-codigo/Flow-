@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "41e8986a-1924-429b-af2b-0357b739145b",
+    "mediaTitle": "Borra arnés pon cuernos fuego",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:05:49.870881-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra el arnés y ponle unos cuernos el pentagrama de atrás bórralo y agrega fuego en la parte detrás ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

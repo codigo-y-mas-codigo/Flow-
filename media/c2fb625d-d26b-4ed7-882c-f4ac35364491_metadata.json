@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c2fb625d-d26b-4ed7-882c-f4ac35364491",
+    "mediaTitle": "Change can to one",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:49:28.092140-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Change the can to one.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

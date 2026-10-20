@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8d85c72f-c1cb-4f9d-898d-90709eaa2e2c",
+    "mediaTitle": "Personas decidiendo dirección y …",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-06 14:35:16.040717-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

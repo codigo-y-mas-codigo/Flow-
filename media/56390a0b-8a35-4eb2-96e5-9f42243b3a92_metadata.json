@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "56390a0b-8a35-4eb2-96e5-9f42243b3a92",
+    "mediaTitle": "Diorama photo animation and typo…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 03:20",
+    "projectId": "5ea84ca6-81ae-4ce4-9ea9-b141ea2c7836",
+    "createdAt": "2026-09-17 02:47:51.925514-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "```\nSTYLE — 3D DIORAMA STOP-MOTION \u0026amp; DYNAMIC PHOTO EVOLUTION\nCinematic 3D tactile miniature diorama set. Handcrafted 3D resin and clay stop-motion characters and environments on a detailed mini stage. Rich volumetric studio lighting with dramatic rim light, vibrant saturated color palette, and subtle tilt-shift depth of field. \n\nPHOTO TRANSITION EFFECT:\nArchival photographic elements begin in high-contrast black-and-white duotone, instantly shift into warm vintage Kodachrome color tones, and finally morph into crisp, hyper-realistic modern render within the scene.\n\nTYPOGRAPHY:\nLarge, bold 3D kinetic typography with logo-quality custom letterforms, textured in solid glossy or matte color, casting realistic soft shadows on the diorama background. Text snaps into place on the beat with stop-motion timing.\n\n```",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

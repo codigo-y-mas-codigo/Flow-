@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "84caabe6-0415-4964-9746-225b4cdacb44",
+    "mediaTitle": "K-pop orchestral performance fut…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-09 12:35:35.996024-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "studio lighting, --ar 3:2 --stylize 160 --v 8.1 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "8a89c523-9862-43fa-ba5b-740a486b3a1d"
+    }
+  }]
+}

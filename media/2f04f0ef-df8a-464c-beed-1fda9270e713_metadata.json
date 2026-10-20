@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2f04f0ef-df8a-464c-beed-1fda9270e713",
+    "mediaTitle": "Luis Ángel Maciel professional p…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 08:01:06.401173-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The most professional relaxed 3/4 pose that inspires confidence and security.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "013c8a94-20f2-4759-8d08-72cc3d7061de"
+    }
+  }]
+}

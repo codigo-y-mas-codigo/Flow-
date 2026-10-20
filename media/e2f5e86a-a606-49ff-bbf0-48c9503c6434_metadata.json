@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e2f5e86a-a606-49ff-bbf0-48c9503c6434",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 16 - 01:38",
+    "projectId": "122401e3-570f-4e50-8846-0e5465adb5f7",
+    "createdAt": "2026-09-16 00:52:08.754364-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "limpia de arboles, y carros y todo aquello que parezca captura de pantalla , quiero ver el edificio sin modificaciones, ni cambios en la estructura. desde el mismo angulo mismo enfoque, no alteres la toma. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "47d87658-b92a-4227-a20b-e9e358df74ad"
+    }
+  }]
+}

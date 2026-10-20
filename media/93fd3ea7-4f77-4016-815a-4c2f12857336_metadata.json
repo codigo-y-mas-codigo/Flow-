@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "93fd3ea7-4f77-4016-815a-4c2f12857336",
+    "mediaTitle": "Professional advertising product…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-10 20:56:46.622794-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"It is a professional advertising piece for a product launch.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

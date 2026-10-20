@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "02550686-30b8-45db-9377-130737a3a903",
+    "mediaTitle": "captura_001_[0-00].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 00:58:20.051911-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"delete the rest of the texts, make the text \u0027ingenieria del cansancio\u0027 large in a typography that looks like it has movement and style. change the emojis to those in the image and remove the bulging eyes.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "43a2dfe5-fe32-4f99-bb0f-f7fdff49706e"
+    }
+  }]
+}

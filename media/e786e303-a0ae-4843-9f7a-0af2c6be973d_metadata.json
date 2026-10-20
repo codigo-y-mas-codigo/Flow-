@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e786e303-a0ae-4843-9f7a-0af2c6be973d",
+    "mediaTitle": "Silk slip dress flowing color",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:00:35.385633-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A studio fashion photo of a luxurious flowing silk slip dress with a smooth color gradient from glowing light blue to deep indigo. Iridescent fabric that gently shifts color in the light, minimalist and ethereal silhouette.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

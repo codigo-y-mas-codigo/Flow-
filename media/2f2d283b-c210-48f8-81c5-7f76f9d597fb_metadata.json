@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2f2d283b-c210-48f8-81c5-7f76f9d597fb",
+    "mediaTitle": "Profile view from behind",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:00:36.761872-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt:\n\n\"From behind, profile view.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

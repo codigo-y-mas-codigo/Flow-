@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a2977a5c-be4c-4124-bcd8-807ff5a12251",
+    "mediaTitle": "Storyboard for synth-pop music v…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "15-may, 09:04 p.m.",
+    "projectId": "953251ce-0900-418e-addb-214ae2d3e96c",
+    "createdAt": "2026-07-03 03:19:31.935741-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard for a synth-pop music video titled \u0027Mejor hazme robot\u0027 as a SINGLE IMAGE arranged in a 2x3 grid layout (2 columns, 3 rows). \n\nGRID LAYOUT INSTRUCTIONS:\n- The image must be a single composite image divided into a 2x3 grid of 6 vertical panels (9:16 aspect ratio for each panel).\n- Panels are numbered 1-6, left to right, top to bottom.\n- Each panel should have a thin white border separating it from adjacent panels.\n- Maintain the character from reference images (man with dark hair and goatee in a sleek white and green armored suit).\n\nThis storyboard has EXACTLY 6 frames:\n\nPanel 1 (Intro/Verse 1): Tight Close-up of Jonas (the man from reference images) in a linen shirt, looking into a cracked mirror in a dimly lit room with warm amber lighting. He looks weary and is touching a wrinkle on his face.\n\nPanel 2 (Chorus 1): Medium shot. Jonas is putting on the sleek white armor from the references. The green LEDs on the chest plate are starting to pulse with an emerald glow. \n\nPanel 3 (Verse 2): Jonas, now half-armored, reaches out to a record player that is glitching into green voxels and digital code. The background is a mix of a retro apartment and digital patterns.\n\nPanel 4 (Bridge): Dramatic full-body shot. Jonas is now fully encased in the white and green armor from references, floating in a white void. Green data streams surround him. His visor is shut and glowing.\n\nPanel 5 (Final Chorus): Dynamic tracking shot of the armored character in a vibrant digital dimension with neon green grids and euphoric lighting. He looks powerful and pristine.\n\nPanel 6 (Outro): Medium shot. The armored character stands next to a low-res, flickering digital ghost of his older human self. The armor\u0027s visor displays a green pixelated smile emoticon. Dark background.\n\nSTYLE CONSISTENCY:\n- Use the character and suit design from references (white plating, glowing green accents).\n- Transition from warm, grainy film style (Panel 1) to a crisp, high-contrast digital electropop aesthetic (Panels 5-6).\n- 9:16 overall aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

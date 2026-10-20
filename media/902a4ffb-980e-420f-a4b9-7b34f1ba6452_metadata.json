@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "902a4ffb-980e-420f-a4b9-7b34f1ba6452",
+    "mediaTitle": "Red ceramic coffee mug graphic",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:58:10.235100-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nExtract the design of the mug.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "a83d4959-d9d0-46a2-a8b4-d21e523bd3ad"
+    }
+  }]
+}

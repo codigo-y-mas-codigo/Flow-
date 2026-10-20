@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a24896d8-21e1-4d7d-a543-69210aedf9e5",
+    "mediaTitle": "Anime rock band performing",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "11-ago, 12:29 a.m.",
+    "projectId": "2b29700b-03b8-4695-b4b6-ad1f191b98c3",
+    "createdAt": "2026-08-10 23:33:56.834290-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt, keeping the specified text in its original language:\n\n**\"In live-action style. Apply the following edit: Translate the following image prompt to English. If the image prompt below asks for any text to be rendered in the image, then keep that text portion in the native language that was originally input, in all other cases translate to English.\"**",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "e7ebb565-24f1-44af-98a9-024b3866ee71"
+    }
+  }]
+}

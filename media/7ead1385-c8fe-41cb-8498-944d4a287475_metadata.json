@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7ead1385-c8fe-41cb-8498-944d4a287475",
+    "mediaTitle": "Me gusta fondo imagen elementos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:37:22.335725-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Las deben estar sujetas al aero que están en el centro de la base donde está el diablo borra el arnés del diablo",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "b78e25cc-53fc-4418-93d2-15715bbad040"
+    }
+  }]
+}

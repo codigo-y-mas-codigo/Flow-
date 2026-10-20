@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "92e194a0-56ab-4aca-84b5-da959bb976e0",
+    "mediaTitle": "Storyboard of tarot panels",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 sept, 02:42",
+    "projectId": "452812c5-880d-49c0-a182-214636bf9c77",
+    "createdAt": "2026-09-01 01:58:05.464175-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 1-column by 6-row grid layout of vertical 9:16 panels. \n\nSTYLE: Signature Pamela Colman Smith artistic illustrative style. Richly detailed pen and dark black ink line art with organic contours. Soft watercolor and gouache washes with visible paint-pooling borders. Vintage Edwardian folk-art aesthetic. Palette of saturated jewel tones (deep indigo, saffron yellow, madder red, moss green, terracotta). Rendered on heavy, off-white historic watercolor paper with a delicate tooth and subtle texture. \n\nGRID LAYOUT INSTRUCTIONS:\n- 1 column, 6 rows. \n- Each panel has a small, clearly legible blue ink circle with its number (1 to 6) in the top-left corner.\n- Hand-lettered calligraphy at the top or bottom of each panel.\n\nPANEL CONTENTS:\n- Panel 1: A vintage \u0027XV\u0027 tarot card sliding over dark textured velvet. Hand-lettered \u0027PEOR CONDENA\u0027.\n- Panel 2: An artist\u0027s hand using a dip pen to ink a tarot illustration on aged parchment. Hand-lettered \u0027CLAVE OCULTA\u0027.\n- Panel 3: Symmetrical shot of two robed figures looking up at a high ancient stone pedestal. Hand-lettered \u0027DOS FIGURAS\u0027.\n- Panel 4: Extreme close-up of a loose golden circular ribbon on a robed figure\u0027s neck; it is wider than the head. A red hand-drawn arrow points to the gap. Hand-lettered \u0027ARGOLLAS SUELTAS\u0027.\n- Panel 5: Wide angle. A majestic winged figure seated on the tall stone pedestal. A golden flame in a hearth glows below. Symmetrical. Hand-lettered \u0027TU PROPIO MIEDO\u0027.\n- Panel 6: Symmetrical composition. The two figures walking forward into a lush green garden of white roses under a warm rising sun. Hand-lettered \u0027SUELTA TODO\u0027.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

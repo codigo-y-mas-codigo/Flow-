@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "60ea1e31-9500-4d71-b99c-c9be6f948dbe",
+    "mediaTitle": "Power Coin symbols gold lines",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:59:28.932153-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A minimalist graphic design focusing on the ancient Power Coin symbols. Elegant thin gold vector lines depicting a stylized Tyrannosaurus emblem on a solid matte black background. High contrast, luxury aesthetic, clean composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

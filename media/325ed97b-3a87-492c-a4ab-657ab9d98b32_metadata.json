@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "325ed97b-3a87-492c-a4ab-657ab9d98b32",
+    "mediaTitle": "Erase_texts_combine_images_white…_202607231444.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-08-23 22:47:02.546938-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "todos los stickers deben de tener el mismo estilo y ese será el de los dos que están al centro grandes ese es el estilo que quiero para todos los demás que están en pequeños alrededor. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "a523911e-f09e-4b37-ab6c-3b160de48d13"
+    }
+  }]
+}

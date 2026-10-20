@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a2d5620d-95d2-451a-8368-f2f538157f07",
+    "mediaTitle": "Cheer up image Apply edit",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-04-27 21:55:54.348564-07",
+    "modelName": "Veo 3.1 - Fast",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

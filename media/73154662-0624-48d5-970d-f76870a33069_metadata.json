@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "73154662-0624-48d5-970d-f76870a33069",
+    "mediaTitle": "Ranger team battle stance abstra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:05:26.243658-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A geometric abstraction of the Ranger team in battle stance. Sharp minimalistic silhouettes using only their signature colors (red, blue, black, yellow, pink) arranged in a rhythmic diagonal composition on an off-white background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

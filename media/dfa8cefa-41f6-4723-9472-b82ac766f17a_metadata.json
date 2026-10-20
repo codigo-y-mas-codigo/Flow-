@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dfa8cefa-41f6-4723-9472-b82ac766f17a",
+    "mediaTitle": "Couple touching foreheads silhou…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-05 01:57:35.110435-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The faces in the profiles should be those of these two men.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "b45f17fd-a964-44f8-a41d-5cf932d04453"
+    }
+  }]
+}

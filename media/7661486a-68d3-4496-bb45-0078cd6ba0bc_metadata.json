@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7661486a-68d3-4496-bb45-0078cd6ba0bc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:17:11.967406-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "3:10Delicate flower garland connecting two figures, soft watercolor realism, warm golden light, symbolic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

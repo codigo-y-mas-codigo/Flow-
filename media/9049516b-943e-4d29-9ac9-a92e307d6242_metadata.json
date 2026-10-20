@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9049516b-943e-4d29-9ac9-a92e307d6242",
+    "mediaTitle": "Chart comparing carbon absorptio…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 10:16:10.718786-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "SCENE_04. Style: Vox-style editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn edges on a warm cream textured paper background. Archival photographic cutouts, hand-drawn annotations. Typography: \"ABSORCION CARBONO CUATRO X\" in heavy condensed sans-serif all caps, navy ink. Scene: Hand-drawn bar chart comparing carbon absorption levels with highlighter yellow marker accents. Soft realistic drop shadows. palette: cream, navy, charcoal, brick red, highlighter yellow. No index numbers.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

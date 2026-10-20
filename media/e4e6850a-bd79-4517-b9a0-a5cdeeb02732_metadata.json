@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e4e6850a-bd79-4517-b9a0-a5cdeeb02732",
+    "mediaTitle": "Man exhaling smoke",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-08-23 23:07:36.607607-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A shirtless muscular Latino man (Luis Ángel from Ref 1), in his 38s, NO TATUADOS, wearing a black cap backwards, eyes closed in pleasure, exhaling an extremely massive, thick, dense cloud of white and purple vapor/smoke from his mouth and nose. The huge volumetric smoke billows out dramatically. Background is a high-tech geek sanctuary with sleek server racks, holographic AI displays, glowing circuitry patterns, blue and cool white neon lights, tech-inspired lighting, cinematic, highly detailed, realistic skin texture.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

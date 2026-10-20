@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1e015ccb-35ea-4a0f-85d4-fc0839997acb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:39:35.414434-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a 3×3 grid photo collage with high-contrast black-and-white aesthetics.\n\nFace Reference:\n\nStrict face preservation.\n\nUse the uploaded reference for exact facial features.\n\nKeep the face identical across all nine frames.\n\nGrid Composition:\n\n3×3 layout.\n\nPose variety:\n\nIntense direct stare\n\nSilhouette backlit\n\nHands covering face with one eye peeking\n\nStrong side profile\n\nFull-body power stance\n\nEyes-only close-up\n\nMotion blur\n\nContemplative downward gaze\n\nLaughing candid\n\nSubject:\n\nSame person as the reference.\n\nSimple black turtleneck.\n\nTimeless, artistic presence.\n\nEnvironment:\n\nMinimal studio.\n\nGrey gradient or geometric background.\n\nDramatic directional lighting with hard shadows and extreme contrast.\n\nImage Quality:\n\n8K color\n\nFine-art film grain.\n\nEditorial portrait style inspired by Irving Penn and Richard Avedon.\n\nNegative Prompt:\n\nFlat lighting\n\nDifferent face\n\nAltered facial features\n\nOutput:\n\n3×3 grid\n\n9:16 aspect ratio\n\nImportante Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

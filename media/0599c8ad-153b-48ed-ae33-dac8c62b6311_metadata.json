@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0599c8ad-153b-48ed-ae33-dac8c62b6311",
+    "mediaTitle": "K-pop orchestral performance fut…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 08:55:53.840601-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic vertical shot of a massive energetic K-pop orchestral performance on a glowing futuristic stage, sweeping violinist leading with glowing bow, lush string section, powerful brass accents, punchy orchestral drums, dancers in colorful outfits, bright golden and neon lights, festive uplifting atmosphere, dynamic motion, sparkling particles, hyper-detailed, modern polished production --ar 9:16 --stylize 200 --v 8.1 --q 2  --stylize 180-250",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

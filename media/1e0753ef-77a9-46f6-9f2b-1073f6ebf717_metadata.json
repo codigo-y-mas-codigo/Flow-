@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1e0753ef-77a9-46f6-9f2b-1073f6ebf717",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 04:13:45.703438-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Fire contained inside a glass jar, calm hands holding it, symbolic still life, dramatic lighting",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

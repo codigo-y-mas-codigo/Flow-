@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "94fcfed8-4a56-42f2-bb73-1d53d3f73f68",
+    "mediaTitle": "The Magician tarot diorama",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 04:14",
+    "projectId": "18470725-d3a5-4073-a01d-b5867cff4899",
+    "createdAt": "2026-09-17 03:20:29.544848-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "GLOBAL SPEC v2 — STYLE: 3D DIORAMA TAROT STOP-MOTION \u0026 DYNAMIC PHOTO EVOLUTION. Cinematic 3D tactile miniature diorama set based on the Rider-Waite-Smith (RWS) Tarot. Handcrafted 3D resin, clay, polished wood, and heavy paper stop-motion figures placed on a mini theatrical stage. Professional studio lighting with dramatic rim lighting, volumetric shadows, rich saturated color palette, and subtle tilt-shift depth of field.\n\nSCENE SPECIFIC: A 3D miniature diorama of The Magician (RWS Tarot). A handcrafted resin figure of The Magician stands behind a mini wooden altar. On the table, miniature 3D objects (a sword, a cup, a pentacle, and a wand) rest in fine detail. Above his head, a glowing 3D infinity symbol (∞) floats with a subtle golden glow. The card illustration background transitions from flat black-and-white line art to warm vintage color, fully expanding into a volumetric 3D stage.\n\nTYPOGRAPHY: Bold 3D golden serif text reading \"EL PODER CREATIVO\" resting on the lower third of the stage floor, casting soft shadows. Aspect ratio 9:16 vertical format.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

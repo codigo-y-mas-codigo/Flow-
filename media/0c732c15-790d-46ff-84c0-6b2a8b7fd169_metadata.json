@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0c732c15-790d-46ff-84c0-6b2a8b7fd169",
+    "mediaTitle": "Soccer ball revealing charro cutout",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 04:47:56.025987-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary. Hand-cut paper cutout of a soccer ball being pulled away on warm cream textured paper with visible newsprint fibre and scanned-print grain, revealing an archival charcoal grayscale cutout of a Mexican charro on horseback. Soft realistic drop shadows. Heavy condensed sans-serif ALL CAPS typography with black ink stamp effect: \"EL DEPORTE NACIONAL\". Palette: warm cream, off-white, deep ink navy, charcoal black, muted terracotta red. Hand-drawn annotation marks.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2c838a36-b597-4939-aaab-9c60b06eda3e",
+    "mediaTitle": "Neon typography album cover pink…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-04 23:31:54.706288-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Bold neon typography album cover, glowing pink and purple gradient letters, dark background, R\u0026B album aesthetic, minimalist, no people\n\n**Texto (ES):** \"ESA LENGUA DULCE\" — efecto neón/glitch como elemento principal.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

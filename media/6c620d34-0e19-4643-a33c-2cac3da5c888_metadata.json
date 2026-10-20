@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6c620d34-0e19-4643-a33c-2cac3da5c888",
+    "mediaTitle": "Playing a violin.",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:54:55.342287-07",
+    "modelName": "Nano Banana 2",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

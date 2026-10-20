@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "11851200-20ed-4482-bf9a-3145af7726ab",
+    "mediaTitle": "Tarot diorama stop-motion evolution",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 04:14",
+    "projectId": "18470725-d3a5-4073-a01d-b5867cff4899",
+    "createdAt": "2026-09-17 03:24:41.658199-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "GLOBAL SPECIFICATION — STYLE: 3D DIORAMA TAROT STOP-MOTION AND PHOTOGRAPHIC EVOLUTION\n\n3D miniature tactile stage based on the Rider-Waite-Smith Tarot. Handmade figures and environments in 3D resin, clay, and heavy paper inside a mini theatrical stage. Studio lighting with dramatic rim light, volumetric shadows, rich and saturated color palette, and a subtle tilt-shift depth of field effect.\n\nPHOTOGRAPHIC AND CARD EVOLUTION EFFECT:\nThe Rider-Waite-Smith tarot illustrations and historical photos start in high-contrast black and white, instantly shift to warm Kodachrome/lithographic-style vintage color tones, and finally transform into a hyper-realistic, volumetric 3D render inside the diorama.\n\nTIPOGRAFÍA Y SÍMBOLOS EN ESPAÑOL:\nLarge 3D kinetic typography in Spanish with editorial-style mystical serif lettering, featuring a solid matte finish or gold leaf, casting soft shadows on the diorama background. The text snaps into place with a stop-motion animation rhythm.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

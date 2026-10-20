@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "570e52b9-7ae1-4efa-9cee-cd03794e7f49",
+    "mediaTitle": "chaos ar exp sref profile hd…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:41:19.651952-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "--chaos 40 --ar 16:9 --exp 10 --sref 2772119896 3888626301 659225806 3028591755 3653447092 3672684701 1321317334 1545023487 620950423 3810920131 4206129922 1368399776 --profile igusadc --hd en tamaño vertical ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

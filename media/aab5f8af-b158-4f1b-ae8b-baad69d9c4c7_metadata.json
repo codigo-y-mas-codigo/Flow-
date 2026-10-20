@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aab5f8af-b158-4f1b-ae8b-baad69d9c4c7",
+    "mediaTitle": "Male pilot character sheet",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-27 00:50:00.065454-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a highly detailed character sheet for a stoic, experienced male pilot in his mid-38s, ultra-realistic cinematic style. He has sharp, determined facial features, short dark hair with some gray strands, intense dark eyes, light stubble, and a calm but battle-hardened expression. Athletic build, wearing a fitted dark tactical pilot suit with subtle cybernetic/mechanical accents, harnesses, and high-tech details.\nInclude multiple angles: front, side, 3/4 view, close-up of face showing stoic expression, full body in cockpit pose, and action pose climbing on a transforming mech.\nEmphasize his grumpy, no-nonsense personality through expression and posture. Cinematic lighting, ultra-realistic details, photorealistic, 8k, dramatic atmosphere suitable for epic robot transformation scenes in a modern city. Style: ultra-realistic visuals with unmatched detail and creativity.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

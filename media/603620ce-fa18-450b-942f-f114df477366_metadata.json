@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "603620ce-fa18-450b-942f-f114df477366",
+    "mediaTitle": "Man in leather suit pleasure",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-24 05:52:46.697641-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "It helps you take off your shoes.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "977f6ebb-6d42-42de-8c41-740de2db3249"
+    }
+  }]
+}

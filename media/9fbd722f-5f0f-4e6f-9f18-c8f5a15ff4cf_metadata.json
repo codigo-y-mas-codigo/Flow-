@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9fbd722f-5f0f-4e6f-9f18-c8f5a15ff4cf",
+    "mediaTitle": "Three dogs in chamber",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:36:21.955595-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A cinematic 9:16 vertical storyboard grid (3x3 layout) using the three dogs from the reference image—the white Chihuahua, the tan Chihuahua with its tongue out to the side, and the fluffy white Maltese-type dog. \n\nGRID LAYOUT INSTRUCTIONS:\n- SINGLE composite image divided into a 3x3 grid of 9 vertical panels (9:16).\n- Each panel shows the dogs levitating in a clinical white futuristic chamber.\n- Maintain their EXACT fur textures, features, and expressions from reference b97200b2-7b7e-4d68-9bfb-408d51a0d678.\n\nPANELS:\n- Panel 1: Unit-7 Robot (white/black, green smiley visor) floats alone in the chamber.\n- Panel 2: The white fluffy Maltese-type dog floats alone, legs paddling slightly.\n- Panel 3: The white Chihuahua floats alone, looking stoic.\n- Panel 4: The tan Chihuahua with its tongue out to the side floats alone.\n- Panel 5: All three dogs from the reference—Maltese, white Chihuahua, and tan tongue-out Chihuahua—levitate together in a row.\n- Panel 6: Close-up on the tan Chihuahua\u0027s face, tongue lolling out, in zero-G.\n- Panel 7: Close-up on the fluffy white Maltese-type dog\u0027s face as it drifts upside down.\n- Panel 8: Unit-7 Robot and the three dogs floating together in a group.\n- Panel 9: A wide cinematic vertical shot of the robot and all three dogs orbiting gracefully in the glowing white void.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

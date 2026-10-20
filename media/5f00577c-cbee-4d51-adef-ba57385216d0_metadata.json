@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5f00577c-cbee-4d51-adef-ba57385216d0",
+    "mediaTitle": "Person changing outfit with fing…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:09:47.713526-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

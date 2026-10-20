@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "657f7888-7138-461d-9137-ffa5deae7d47",
+    "mediaTitle": "image.png_202609070509.jpeg_20260909233843.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 20:56:38.363320-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "fusiona la imagen , que se vea en una sola pieza y borra el resto de textos. manten el mismo misma posicion, semblante, maquillaje peinado acceorios forma del rostro, no alteres al personaje,  no embellezcas, centra al personaje. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "5f33c527-0c7d-436c-8dfc-e9261315b4c7"
+    }
+  }]
+}

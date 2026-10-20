@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "07979dce-5e2f-448f-b934-4046755397eb",
+    "mediaTitle": "Cinematic realistic Kodak Portra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:17:11.982549-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the original language for any text that might be rendered in the image:\n\n\"Make it cinematic realistic Kodak Portra 100T studio lighting, --ar 3:2 --stylize 160 --v 8.1\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "53d444d6-1c11-410c-ac71-466706b2f12a",
+    "mediaTitle": "Giant robot shadow cast city",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:21:48.882413-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A low-angle perspective from a dark alleyway in a city at sunset. A colossal shadow of a giant mechanical robot (Zord) is cast across towering brick buildings and streets, capturing immense scale, mystery, and dramatic golden hour lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

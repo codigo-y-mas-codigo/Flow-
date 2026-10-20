@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6d554c42-dad5-44be-9159-916950c50e71",
+    "mediaTitle": "People surprised by news",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-04-28 04:45:20.207884-07",
+    "modelName": "Veo 3.1 - Fast",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7868170a-7eb2-4a5a-8d0e-09f68a461ee5",
+    "mediaTitle": "Socks with neon stripes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:05:59.593269-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A high-quality product photo of a pair of combed cotton socks on a neutral light background. The socks are matte charcoal gray with five thin, clean horizontal neon stripes of red, blue, black, yellow, and pink around the top cuff. Modern minimalist design.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

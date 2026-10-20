@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "00ac9e07-703f-44a8-bbaf-5d3dc540f154",
+    "mediaTitle": "Imagen animada bucle infinito color",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 06:08:19.284296-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

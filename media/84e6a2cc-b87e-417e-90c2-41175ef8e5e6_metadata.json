@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "84e6a2cc-b87e-417e-90c2-41175ef8e5e6",
+    "mediaTitle": "1777354604135.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:29:08.272326-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make them dressed as the Power Rangers.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "eeccf334-5641-4830-b25a-2f79713cbc18"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4ed91e42-2885-41db-9e0d-a76dbd31fdb8",
+    "mediaTitle": "Street art mural robotic assistant",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:16:29.709356-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A vibrant street art mural painted on a textured brick wall. A large stylized graphic graffiti portrait of a robotic assistant (Alpha 5) surrounded by dripping neon spray paint, bold black outlines, urban splatters, high-energy composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d446cd14-2ea3-446f-b8bb-9cd6bce86033",
+    "mediaTitle": "Smartphone chat with chihuahua s…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-04-30 12:48:01.905082-07",
+    "modelName": "Veo 3.1 - Fast",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b17dff27-3653-45eb-ad8f-dc1543de5c9f",
+    "mediaTitle": "Man exhaling toxic green smoke",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 09:12:33.448448-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Yoma desde arriba abajo del lado derecho ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "de6580c1-3748-496a-a7e0-558310fd1cd4"
+    }
+  }]
+}

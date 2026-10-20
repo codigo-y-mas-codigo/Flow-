@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "41e04267-6eba-46bb-afea-8a15dbf12061",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2025-11-22 04:57:29.412181-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Potencia tu Mesa Directiva: Aprender a Ser un Líder Efectivo en Condominios. texto grande  en español. Personas mexicanas. portada de curso hotmart ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

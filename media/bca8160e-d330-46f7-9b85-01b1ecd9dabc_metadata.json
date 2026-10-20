@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bca8160e-d330-46f7-9b85-01b1ecd9dabc",
+    "mediaTitle": "Characters deciding direction an…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-06 14:43:53.311426-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ebd6c4bd-e72e-4ed4-ba17-fe503453ea35",
+    "mediaTitle": "Demonic man with snakes candles",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 08:18:04.414205-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Una toma desde arriba el mira arriba también  ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "a0c78d30-0f3d-4f14-99ee-8857094ff1a7"
+    }
+  }]
+}

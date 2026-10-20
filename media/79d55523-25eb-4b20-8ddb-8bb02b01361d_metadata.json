@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "79d55523-25eb-4b20-8ddb-8bb02b01361d",
+    "mediaTitle": "Character viewing marketplace sales",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 03:20",
+    "projectId": "5ea84ca6-81ae-4ce4-9ea9-b141ea2c7836",
+    "createdAt": "2026-09-17 02:22:25.115850-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A clean 2D cartoon illustration in a simple, minimal cartoon style with a flat digital look.\n\nScene: same small bedroom home office, daytime, soft natural window light.\nCamera: over-the-shoulder shot, slightly elevated angle, laptop and character clearly visible.\n\nCharacters: 1 stick-figure character with a BIG ROUND HEAD that is ALWAYS PURE WHITE, tiny dot eyes, minimal simple mouth. The body is simple and minimal. Arms, legs, and hands are BLACK stick-line outlines, not filled. Clothes and accessories are simple flat shapes with solid fills: blue hoodie, dark pants, black headphones.\n\nAction: the young man scrolls through an online marketplace showing several of his designs being purchased, mood is amazed and encouraged.\n\nBackground: simple clean shapes, flat muted colors, solid fills, crisp edges, uniform line weight, no visible brush strokes, no paper texture, no sketchy lines, clean readable composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

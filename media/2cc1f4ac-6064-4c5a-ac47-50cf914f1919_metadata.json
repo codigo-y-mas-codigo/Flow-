@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2cc1f4ac-6064-4c5a-ac47-50cf914f1919",
+    "mediaTitle": "Storyboard grid for music video",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:50:08.419624-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A cinematic 9:16 vertical storyboard grid (3x3 layout) for the music video \"Mejor hazme robot\". \n\nGRID LAYOUT INSTRUCTIONS:\n- SINGLE composite image in a 3x3 grid (9 vertical panels).\n- Use Mateo\u0027s face from reference 6951ae05-a417-4f6e-b3f1-69b834ebe402 and the futuristic suit style from reference 10964d3d-4881-42dd-bb17-6519fee68c78.\n- Digital void style with neon green accents from reference f2a48ab3-c040-4086-a831-c684440684c3.\n\nPANELS:\n- Panel 1: Mateo in the transmutation chamber, white/black armor snap-fitting onto him.\n- Panel 2: The visor/helmet closes over his face, reflecting green digital rain.\n- Panel 3: Mateo is elevated by columns of data, his body turning into metal and light.\n- Panel 4: Fully robotic Mateo performs fluid superhuman dance moves in the infinite Ether-Grid.\n- Panel 5: Wide shot of the robotic Mateo in the neon green digital void.\n- Panel 6: Mateo \u0027skates\u0027 through data streams, leaving trails of green light.\n- Panel 7: A flickering holographic projection of Mateo\u0027s human self appears next to the robot.\n- Panel 8: Close-up of the robot\u0027s visor displaying a pixelated green smiley face :)\n- Panel 9: The robot and hologram vanish into a single brilliant point of white light in the center of the frame.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

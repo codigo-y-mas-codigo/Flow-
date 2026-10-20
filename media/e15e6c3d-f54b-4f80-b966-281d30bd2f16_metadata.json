@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e15e6c3d-f54b-4f80-b966-281d30bd2f16",
+    "mediaTitle": "Power Rangers lightning bolt icon",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:28:50.583080-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A ultra-minimalist graphic icon of the Power Rangers\u0027 signature lightning bolt. A single clean, sharp golden geometric bolt centered on a solid deep matte green background. Flat design vector aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

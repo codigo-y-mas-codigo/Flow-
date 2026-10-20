@@ -1,0 +1,23 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d8e2ff91-041d-41d2-9c66-8cd8d4346cef",
+    "mediaTitle": "image.png_202609070510 (1).jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "character": "MiaSnatch",
+    "characterId": "ae0db27d-9c37-4b46-9835-50e8e9be98a8",
+    "createdAt": "2026-09-20 01:30:26.553379-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Change the background to a neutral white, do not embellish, keep the exact same position, makeup, and everything else the same, in 9:16 format.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "1822ce0e-e6db-4d9b-8ae3-127ca9445302"
+    }
+  }]
+}

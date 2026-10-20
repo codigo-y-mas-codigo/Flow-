@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e976b1e2-5c37-4b8c-b34d-7a8cf1f35ece",
+    "mediaTitle": "Cute orchestral pop Spanish vocals",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-27 01:13:00.062752-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt, keeping the Spanish text as requested:\n\nkawaii pop, love cinematic, J-pop inspired, cute orchestral pop, Spanish female vocals, Spanish Lyrics, sparkling synth melodies, gentle strings, light piano, soft chimes, sweet female vocals, romantic, dreamy, mid-tempo, polished sparkling production",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

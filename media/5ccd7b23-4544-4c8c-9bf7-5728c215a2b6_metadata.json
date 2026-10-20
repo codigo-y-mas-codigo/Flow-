@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5ccd7b23-4544-4c8c-9bf7-5728c215a2b6",
+    "mediaTitle": "User requesting dark background …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:29:41.848116-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated prompt with the requested style:\n\nDo it using dark background colors.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

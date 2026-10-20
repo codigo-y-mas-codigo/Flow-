@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2da24319-d429-4c00-aaae-7ee99cef2a4f",
+    "mediaTitle": "Anima la imagen xxx prohibido",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 20:37:27.235188-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

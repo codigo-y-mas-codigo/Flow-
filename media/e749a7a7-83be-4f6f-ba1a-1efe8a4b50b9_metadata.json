@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e749a7a7-83be-4f6f-ba1a-1efe8a4b50b9",
+    "mediaTitle": "Extract cyperbpunl logo design",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:27:04.774675-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Extract the design of the cyperbpunl logo without makeup, including the chip-type background that has the background.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE"
+    }
+  }]
+}

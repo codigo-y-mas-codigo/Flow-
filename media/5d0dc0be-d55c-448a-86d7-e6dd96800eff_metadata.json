@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d0dc0be-d55c-448a-86d7-e6dd96800eff",
+    "mediaTitle": "captura_017_[5-20].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:09:09.282672-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"erase the colored texts, hachi brodcast\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "88f32061-6529-41b3-b2c7-274d15d6e748"
+    }
+  }]
+}

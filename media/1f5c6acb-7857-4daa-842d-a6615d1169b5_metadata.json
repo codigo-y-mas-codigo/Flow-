@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1f5c6acb-7857-4daa-842d-a6615d1169b5",
+    "mediaTitle": "Character sheet for consistency",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 13:15:07.210678-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the character sheet for consistency, translated into English:\n\n**Character Sheet for Consistency**\n\n**Character Name:**\n\n**Concept/Archetype:**\n\n**Appearance:**\n*   **Physical Description:** (Height, build, hair color/style, eye color, distinguishing features, etc.)\n*   **Clothing/Attire:** (Style, colors, any specific accessories)\n*   **Overall Impression:** (What vibe does the character give off?)\n\n**Personality:**\n*   **Core Traits:** (List 3-5 key personality traits)\n*   **Motivations/Goals:** (What drives them? What do they want to achieve?)\n*   **Fears/Weaknesses:** (What are they afraid of? What are their shortcomings?)\n*   **Quirks/Habits:** (Any unique behaviors or mannerisms?)\n*   **Alignment (if applicable):** (e.g., Good, Neutral, Evil; Lawful, Chaotic)\n\n**Background/History:**\n*   **Origin Story:** (Brief summary of their past, key events that shaped them)\n*   **Family/Relationships:** (Important people in their life, past or present)\n*   **Key Experiences:** (Significant events that influenced their development)\n\n**Skills/Abilities:**\n*   **Primary Skills:** (What are they good at? What do they excel in?)\n*   **Secondary Skills:** (Other useful abilities)\n*   **Special Abilities/Powers (if applicable):** (Any unique talents or supernatural gifts)\n\n**Equipment/Possessions:**\n*   **Key Items:** (Important objects they carry or own)\n*   **Weapons/Tools:** (If applicable)\n\n**Notes/Other:**\n*   (Any additional details or reminders to maintain consistency)",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "251261d9-c23c-408c-b5d5-9b871e79ee75",
+    "mediaTitle": "Creating drone video of building",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 16 - 01:38",
+    "projectId": "122401e3-570f-4e50-8846-0e5465adb5f7",
+    "createdAt": "2026-09-16 01:52:01.062421-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

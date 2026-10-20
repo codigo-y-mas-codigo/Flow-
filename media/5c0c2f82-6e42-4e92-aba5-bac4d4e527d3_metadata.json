@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5c0c2f82-6e42-4e92-aba5-bac4d4e527d3",
+    "mediaTitle": "Man looking in cracked mirror",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "15-may, 09:04 p.m.",
+    "projectId": "953251ce-0900-418e-addb-214ae2d3e96c",
+    "createdAt": "2026-07-03 03:25:06.341667-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

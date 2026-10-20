@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6fc3735d-5c5b-4073-a814-65b323f0f256",
+    "mediaTitle": "Gemini_Generated_Image_xf2qoyxf2qoyxf2q.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:19:19.473884-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here are 5 design options for notebooks, t-shirts, and screen printing, respecting the original icon but changing its designs, textures, and styles:\n\n**Option 1: Minimalist Geometric**\n*   **Description:** The icon is rendered with clean, sharp geometric lines. Textures are subtle, perhaps a matte finish or a very fine grain. The style is modern and sleek.\n*   **Color Palette:** Monochromatic (black, white, grey) or a single accent color.\n\n**Option 2: Vintage/Retro Embossed**\n*   **Description:** The icon has a raised, embossed effect, reminiscent of old stamps or seals. Textures are tactile, with a slightly worn or aged feel. The style is classic and nostalgic.\n*   **Color Palette:** Earthy tones, sepia, muted blues and greens.\n\n**Option 3: Watercolor Splash**\n*   **Description:** The icon is depicted with soft, flowing watercolor brushstrokes. Textures are organic and fluid, with subtle color bleeding. The style is artistic and expressive.\n*   **Color Palette:** Vibrant, blended colors, or pastel washes.\n\n**Option 4: Bold Outline \u0026 Fill**\n*   **Description:** The icon features a thick, prominent outline with a solid, contrasting fill. Textures are flat and graphic. The style is impactful and eye-catching, perfect for screen printing.\n*   **Color Palette:** High contrast combinations, primary colors, or neon accents.\n\n**Option 5: Textured Grunge/Distressed**\n*   **Description:** The icon is overlaid with distressed textures, scratches, or a halftone dot pattern. Textures are rough and imperfect. The style is edgy and urban.\n*   **Color Palette:** Dark, muted colors, with occasional pops of bright, distressed color.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "c1b2c2fb-c82b-4d30-8a40-58e093aa1434"
+    }
+  }]
+}

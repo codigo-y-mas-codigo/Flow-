@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "417c8532-0935-4cd2-b724-65d0e3cb5bcf",
+    "mediaTitle": "Making tickles on feet",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:39:36.831594-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "le esta haciendo cosquillas en los pies ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

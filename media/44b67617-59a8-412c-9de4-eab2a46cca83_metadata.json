@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "44b67617-59a8-412c-9de4-eab2a46cca83",
+    "mediaTitle": "Estilo agfa Vista 400 \n",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:00:03.377829-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Estilo agfa Vista 400 \n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

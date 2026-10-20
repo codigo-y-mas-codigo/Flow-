@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9d2444dc-e24c-4049-8e59-56a24e963355",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:00:30.479734-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "6:30Person taking deep breath, eyes closed, soft natural light, peaceful expression, photorealistic portrait",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

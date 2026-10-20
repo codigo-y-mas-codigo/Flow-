@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "31e6089f-1c55-4e01-904a-df9ac9b6956b",
+    "mediaTitle": "Expressing time and emotion with…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-09-02 23:39:13.586147-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "1ca37034-947b-4354-9fdb-09d4b8e5f7d4"
+    }
+  }]
+}

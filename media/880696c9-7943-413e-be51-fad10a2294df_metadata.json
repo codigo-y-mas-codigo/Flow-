@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "880696c9-7943-413e-be51-fad10a2294df",
+    "mediaTitle": "1777359698080.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 02:36:03.240202-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Change the screen game to that of a 90\u0027s Mario Bros. game.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "d128f644-67ff-44b8-9ed0-a6799c6eb45a"
+    }
+  }]
+}

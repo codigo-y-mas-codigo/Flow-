@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a5958c66-bc18-4bc7-a2b7-d742e6767303",
+    "mediaTitle": "Ranger team battle stance abstra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:32:03.809358-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the Spanish text as requested:\n\n\"Make it without it looking like too much.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "6b65e1d4-7daa-4d25-9592-0e5afb72288b"
+    }
+  }]
+}

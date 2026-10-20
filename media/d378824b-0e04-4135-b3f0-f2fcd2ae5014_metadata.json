@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d378824b-0e04-4135-b3f0-f2fcd2ae5014",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 03:31:24.900925-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Convert this tarot illustration into a photorealistic live-action scene, cinematic photorealistic style, high-fashion grade, punchy but natural contrast, refined filmic color science, subtle halation and lens bloom, controlled highlights, soft roll-off, realistic skin pores and texture, lifelike hair strands, premium fabric rendering, studio-quality lighting with natural depth, 8k, a young woman with pale skin, late teens or early twenties, serene expression, short light brown or blonde curly hair, wearing a delicate wreath, dressed in a long, flowing white gown with wide sleeves, a garland of red and green leaves or flowers draped around her waist. She is bent slightly, gently holding open the jaws of a large, deep solid red lion with a thick curly mane and tail. A black ink infinity symbol rests slightly offset to the left above her wreath. The scene is set on a light green grassy field with darker patches. The background features a range of stylized blue mountains with white peaks across the horizon, a band of bright green trees below, all set against a solid, bright yellow sky. The lion stands submissively on all fours.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

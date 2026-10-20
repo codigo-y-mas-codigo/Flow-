@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "268aff8a-57e6-463b-927d-4d38e424f88b",
+    "mediaTitle": "Bamboo and steel beam animation",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 10:51:01.145292-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "prompt": "SCENE_01. Style: Vox editorial paper collage. Motion: paper cutouts of bamboo stalk and crossed-out steel beam snap into frame one by one with stop-motion cut-on-twos timing, each landing with a soft shadow on cream textured paper. Typography: \"AMENAZA VEGETAL SILENCIOSA\" snaps on as a whole line. Audio: sparse paper slides, soft thuds, faint print-shop room tone. No voice, no music.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

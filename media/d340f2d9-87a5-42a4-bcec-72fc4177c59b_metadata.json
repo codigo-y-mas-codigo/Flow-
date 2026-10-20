@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d340f2d9-87a5-42a4-bcec-72fc4177c59b",
+    "mediaTitle": "borra a la mujer ",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:45:04.669381-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "borra a la mujer ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

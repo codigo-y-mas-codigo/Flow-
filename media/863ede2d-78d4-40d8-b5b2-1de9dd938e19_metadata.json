@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "863ede2d-78d4-40d8-b5b2-1de9dd938e19",
+    "mediaTitle": "Merging characters from two images",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 13:22:04.467332-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "What would the character from the second image look like in the position of character number one?",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

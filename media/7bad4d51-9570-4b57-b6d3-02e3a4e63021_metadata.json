@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7bad4d51-9570-4b57-b6d3-02e3a4e63021",
+    "mediaTitle": "lo abraza ",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:44:53.297668-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "lo abraza ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e41b62f7-44d4-4799-ade1-8ae4443ae1a9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:00:20.911786-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Tarot card face down on stone surface, single candle, dramatic shadow, moody cinematic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

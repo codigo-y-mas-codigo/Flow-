@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7bcfe603-ca24-4913-803b-f96f2f5d36ac",
+    "mediaTitle": "Charro outfit paper collage anim…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 05:00:11.230514-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn edges, warm cream textured paper background with newsprint fibre. SCENE: Charcoal cutout of a charro outfit with hand-drawn red ink annotations circling the lasso and hat details. MOTION: Hand-drawn red annotation lines draw themselves on in stop-motion. AUDIO: Narration: \"Y no es solo ponerse un sombrero elegante. La charrería es un arte ecuestre de alta precisión que sobrevivió a la urbanización.\" Subtle paper sound design.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

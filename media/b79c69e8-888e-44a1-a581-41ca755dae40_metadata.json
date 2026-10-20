@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b79c69e8-888e-44a1-a581-41ca755dae40",
+    "mediaTitle": "Man leaning on railing looking",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:10:31.507277-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Nighttime beachwear.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "1ce5366c-6f52-4ce3-8149-09f8edad1f63"
+    }
+  }]
+}

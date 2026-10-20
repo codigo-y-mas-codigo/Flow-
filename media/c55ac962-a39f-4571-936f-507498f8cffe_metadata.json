@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c55ac962-a39f-4571-936f-507498f8cffe",
+    "mediaTitle": "Man laughing with three dogs",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 14:19:38.028910-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic vertical shot (9:16) of Mateo (dark hair, goatee) sitting on a vintage bed, laughing and playing happily with his three dogs: the white Chihuahua, the tan Chihuahua with its tongue out, and the fluffy white Maltese-type dog from reference e4aeafcb-e868-4639-a821-e3ff6ef6e8b8. Warm natural sunlight fills the room, creating a nostalgic and joyful atmosphere. High-end cinematic style, sharp focus on the characters\u0027 expressions, rich fur textures.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

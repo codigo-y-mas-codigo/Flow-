@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d74af38c-8d9b-4454-b139-51c2201df32f",
+    "mediaTitle": "captura_005_[1-20].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 00:55:42.596432-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nLeave only the puppy in the center, delete the rest of the text. Only put HAchi survivor. and survival emojis around.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "ead35c37-6e0d-4fa2-aa3a-8d6d834f5227"
+    }
+  }]
+}

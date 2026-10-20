@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6876f359-802f-4e60-89c9-57880cf288f7",
+    "mediaTitle": "Giant snake attacks Manhattan sk…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-26 02:00:24.106971-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

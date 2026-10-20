@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ddb346e2-a452-45d0-8e13-336451b54b9e",
+    "mediaTitle": "Leave one lightning bolt",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:12:35.584839-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Leave one lightning bolt and make it bigger and in the center. Use the same style of the lightning bolt it has, do not modify it. Just leave one lightning bolt and make it bigger in the center.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

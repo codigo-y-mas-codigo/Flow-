@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e581d581-881b-48b0-8235-135fba7dbe29",
+    "mediaTitle": "Cyberpunk duel flooded subway st…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-27 00:23:30.748067-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "en una imagen de 3x3\n\n16:9 aspect ratio, 15 seconds total duration, 6-shot cinematic sequence, Hollywood blockbuster cyberpunk neon duel trailer style, photorealistic 8K, ultra-detailed textures, dramatic flickering neon signs and pulsing red emergency lighting, reflective flooded water, heavy chromatic aberration, glowing reflections, realistic physics, slow-motion water explosions, bullet-time camera movement, sparks and dripping water particles.\n\nShot 1 (0-3s): Dramatic camera drop from a broken ceiling through floating sparks and dripping cables into an abandoned flooded subway station, ankle-deep reflective water everywhere, two fighters standing ready — a masked woman with katana on one side and a male opponent on the other, neon ads flickering on wet walls, intense volumetric lighting and red emergency glow.\n\nShot 2 (3-5s): First explosive clash in extreme slow-motion — katana strikes send massive water explosions upward, camera circles around them in bullet-time, water droplets suspended in air, heavy motion blur on blades and sparks flying, neon reflections dancing on the flooded floor.\n\nShot 3 (5-7s): Dynamic tracking shot as the masked woman slides beneath an incoming blade, katana scraping along the flooded floor creating bright sparks and heavy chromatic aberration, ghost-like delayed reflections of the fighters attacking from shattered train windows, brutal close-range combat between rusted pillars.\n\nShot 4 (7-9s): Rapid whip-pan sequence through derailed subway cars and flooded tracks, both fighters exchanging fast katana strikes and punches, water splashing violently with realistic physics, flickering neon lights creating colorful lens flares and glowing reflections on wet surfaces.\n\nShot 5 (9-12s): Epic low-angle shot as both fighters leap onto opposite roofs of derailed subway trains, camera tilting upward through rain leaking from the tunnel ceiling, dramatic slow-motion mid-air clash with water droplets frozen around them and a powerful ripple pulse expanding across the entire flooded station.\n\nShot 6 (12-15s): Final wide cinematic pull-back shot — they land silently on opposite sides of the tracks, water rippling between them, neon signs flickering intensely, red emergency lights pulsing, sparks slowly falling, intense standoff with glowing reflections in the flooded water, hyper-real cyberpunk masterpiece, photorealistic 8K, ultra-detailed, cinematic perfection.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

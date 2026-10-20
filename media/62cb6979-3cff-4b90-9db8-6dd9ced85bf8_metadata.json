@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "62cb6979-3cff-4b90-9db8-6dd9ced85bf8",
+    "mediaTitle": "Ideas para video viral de terror…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-23 07:42:29.295632-07",
+    "modelName": "Veo 3.1 - Lite",
+    "isFavorited": true,
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

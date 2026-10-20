@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e464704c-1f45-44fd-acef-fb527e9c9be4",
+    "mediaTitle": "Translating prompt to Spanish",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 21:00:37.734988-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translation of your prompt into Spanish:\n\n**Traduce el siguiente prompt de imagen al español. Aplica la siguiente edición: Traduce el siguiente prompt de imagen al inglés. Si el prompt de imagen a continuación solicita que se renderice algún texto en la imagen, entonces mantén esa porción de texto en el idioma nativo en el que se ingresó originalmente, en todos los demás casos traduce al inglés.**",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

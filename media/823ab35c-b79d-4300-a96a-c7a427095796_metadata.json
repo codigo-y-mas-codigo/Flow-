@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "823ab35c-b79d-4300-a96a-c7a427095796",
+    "mediaTitle": "Empatía Estratégica presentation…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:18:54.464921-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Presentation slide with the title \u0027Empatía Estratégica\u0027, following the visual style of the first reference image. Tarot card aesthetic, cream-colored textured background, ornate gold borders, and decorative celestial motifs. Hand-drawn watercolor style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

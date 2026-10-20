@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d6d58a72-987a-48f0-a9a7-26525acba3da",
+    "mediaTitle": "Man in racing suit squirting liq…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-24 05:54:14.325676-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The three men holding the protagonist wear balaclava masks to hide their identity.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "a7515e5a-fc80-42b3-8482-506094c816d0"
+    }
+  }]
+}

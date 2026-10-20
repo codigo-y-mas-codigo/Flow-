@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b4367366-d071-4fe7-8500-445be09b6ff6",
+    "mediaTitle": "Number 2009 landing on map",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 10:16:09.981767-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "SCENE_03. Style: Vox-style editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn edges on a warm cream textured paper background. Archival photographic cutouts, hand-drawn annotations. Typography: \"DIA MUNDIAL DOS MIL NUEVE\" in heavy condensed sans-serif all caps, navy ink. Scene: Giant cutout number \"2009\" landing over a world map cutout on cream paper. Soft realistic drop shadows. palette: cream, navy, charcoal, brick red, highlighter yellow. No index numbers.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

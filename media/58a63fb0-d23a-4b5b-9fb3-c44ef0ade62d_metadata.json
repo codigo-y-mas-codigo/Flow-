@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "58a63fb0-d23a-4b5b-9fb3-c44ef0ade62d",
+    "mediaTitle": "Storyboard for El Despertar cont…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 13:54:28.751128-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard for the continuation of \u0027El Despertar\u0027 as a SINGLE IMAGE arranged in a 2x4 grid layout (2 columns, 4 rows).\n\nGRID LAYOUT INSTRUCTIONS:\n- The image must be a single composite image divided into a 2x4 grid of 8 equal panels.\n- Panels are numbered 1-8, left to right, top to bottom.\n- Each panel should have a thin border separating it from adjacent panels and its frame number in the corner.\n- All panels must be in vertical 9:16 aspect ratio.\n\nThis storyboard has EXACTLY 8 frames:\n\nPanel 1: The Weigh-in. Vertical Medium Close-up. Mateo (stoic, defined muscles) and Viktor (shaved head, aggressive) face-off under harsh, cold white fluorescent lights.\nPanel 2: Extreme Close-up of Mateo\u0027s unwavering, intense eyes reflecting the cold lights.\nPanel 3: Vertical Close-up of Mateo\u0027s hands pulling white cotton bandages tight across his knuckles. Warm, moody lighting.\nPanel 4: Vertical Medium Shot side profile. Coach\u0027s hand applying oil to Mateo\u0027s muscular shoulders, dramatic side lighting highlighting skin texture.\nPanel 5: Vertical Low-angle shot. Mateo sits on a locker room bench with eyes closed in meditation under a single overhead spotlight.\nPanel 6: Vertical Wide Shot from behind. Mateo\u0027s silhouette walking through a dark concrete tunnel towards a wall of blinding white light.\nPanel 7: Vertical Low-angle front shot. Mateo emerges into the stadium light, thousands of camera flashes in the background.\nPanel 8: Vertical Medium Shot through ring ropes. Mateo stands in the center of the ring, raising one fist, sweat glistening, intense stare at the camera.\n\nSTYLE CONSISTENCY:\n- Maintain a consistent visual style (cinematic, high-contrast, atmospheric) across all panels.\n- Ensure the fighter Mateo Ramos looks consistent (defined build, short dark hair, stoic expression) using the reference images provided.\n- Color palette: Shifts from cold blues/whites in the weigh-in to warm ambers in the ritual, ending in high-intensity stadium whites/blues.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

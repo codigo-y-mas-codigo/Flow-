@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f4c5e6ee-cb42-4ec8-9f0b-27edb2c1c60f",
+    "mediaTitle": "Robot and dogs in zero-G",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:30:41.511648-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 3x3 grid layout (3 columns, 3 rows) showing a 9-second cinematic sequence. \n\nGRID LAYOUT INSTRUCTIONS:\n- The image must be a single composite image divided into a 3x3 grid of 9 equal panels.\n- Maintain a consistent visual style, soft diffused lighting, and cinematic atmosphere across all panels.\n- Characters and settings must look consistent from panel to panel.\n\nSCENE DETAILS (using reference image f2a48ab3-c040-4086-a831-c684440684c3 for robot and white room):\n- Character 1: White and black futuristic robot with green glowing smiley face visor.\n- Character 2: One large fluffy white dog wearing a long teal silk scarf.\n- Character 3: Three small identical white fluffy dogs.\n- Character 4: One tiny brown chihuahua with its tongue out to the side.\n\nFRAMES:\nPanel 1: The robot floats alone in the minimalist white zero-G chamber.\nPanel 2: The large white dog with the teal scarf drifts gracefully into the frame from the right.\nPanel 3: One small white fluffy dog floats up from the bottom of the frame.\nPanel 4: A second small white dog joins from the left side, levitating naturally.\nPanel 5: The third small white dog enters from the top, completing the white dog group.\nPanel 6: Close-up on the tiny brown chihuahua drifting near the camera with its tongue out.\nPanel 7: The entire group (robot, large dog, 4 small dogs) orbits slowly together in a wide shot.\nPanel 8: A dynamic orbital camera view capturing the motion of the floating ensemble.\nPanel 9: A final symmetric tableau of all characters perfectly positioned in the glowing white void.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

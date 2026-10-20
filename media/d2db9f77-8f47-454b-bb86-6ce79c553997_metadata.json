@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d2db9f77-8f47-454b-bb86-6ce79c553997",
+    "mediaTitle": "Organic pattern inspired by skin…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:38:36.493560-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "An abstract organic pattern inspired by the Putty Patrol\u0027s skin texture. Gritty gray clay, deep stone wrinkles, and rocky obsidian fragments. Minimalistic macro shot, heavy side lighting casting dramatic shadows, high-contrast texture design.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

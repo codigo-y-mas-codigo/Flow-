@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f825ae93-d1fd-4342-8a0e-cff5a010d8bc",
+    "mediaTitle": "Fabric print vertical stripes de…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:03:56.764809-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A seamless fabric print design featuring a repeating pattern of elegant vertical stripes. Thin stripes of red, blue, black, yellow, and pink separated by fine gold metallic lines over a soft off-white cream background. Vintage high-end designer textile.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

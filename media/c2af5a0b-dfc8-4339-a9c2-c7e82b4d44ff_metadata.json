@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c2af5a0b-dfc8-4339-a9c2-c7e82b4d44ff",
+    "mediaTitle": "1777354363262.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-09-17 03:09:33.886603-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "remove the texts and change the frequency of the lines as if they had continued",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "dbfd06b0-b90d-4a31-88ee-25bb4bb877d0"
+    }
+  }]
+}

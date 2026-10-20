@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4cc62d57-11b2-4cdd-98a4-e5ff2b525aa9",
+    "mediaTitle": "Put them on background",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-07-30 09:02:43.687826-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Make them neutral.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "8619601d-0e93-4a36-9e72-f92d6d62f524"
+    }
+  }]
+}

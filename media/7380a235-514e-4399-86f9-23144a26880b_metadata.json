@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7380a235-514e-4399-86f9-23144a26880b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:30:57.746936-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Fire energy inside human silhouette,  dark background, orange and black",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

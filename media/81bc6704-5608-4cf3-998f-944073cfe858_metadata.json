@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "81bc6704-5608-4cf3-998f-944073cfe858",
+    "mediaTitle": "Characters entering room and sit…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-06 14:52:21.547796-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

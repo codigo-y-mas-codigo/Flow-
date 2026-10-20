@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3380ac97-f360-47d7-8b19-b1bc726857a3",
+    "mediaTitle": "Two intertwined figures illustra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-13 11:57:39.986063-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Two male silhouettes change.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "440a7d91-169b-4bbb-8365-99b54d27c212"
+    }
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6d820c05-b70e-48b1-916f-7d4a068b8ebe",
+    "mediaTitle": "Animated man reacting in restaurant",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 20 - 07:11",
+    "projectId": "4d056b7f-87e0-451f-83fb-904cb1286e8f",
+    "createdAt": "2026-09-20 06:33:57.545615-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

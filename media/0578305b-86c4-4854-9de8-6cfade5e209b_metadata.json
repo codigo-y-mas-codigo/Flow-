@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0578305b-86c4-4854-9de8-6cfade5e209b",
+    "mediaTitle": "Translating image prompt text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:29:16.848971-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt with the specified text replacements:\n\n\"In the silence after the letter put \u0027Aquí va el titulo\u0027 and in La breva oculta change it to \u0027Aquí va el subtitulo\u0027.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

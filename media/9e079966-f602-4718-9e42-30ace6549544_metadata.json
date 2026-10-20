@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9e079966-f602-4718-9e42-30ace6549544",
+    "mediaTitle": "Bamboo storyboard panels",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 09:52:10.542455-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A single 9:16 vertical storyboard sheet containing 6 numbered panels arranged in 1 column x 6 rows.\n\nSTYLE:\nEarly 2000s cartoon network animation style. Thick expressive line art, bold saturated colors with cell shading, slightly exaggerated proportions. The aesthetic is clean, digital, and dynamic, reminiscent of iconic early 2000s Saturday morning cartoons. \n\nPALETTE:\nVibrant colors, high contrast. Neon greens, electric blues, bold reds, and bright yellows.\n\nTYPOGRAPHY:\nBold, bubbly, or jagged 2000s-style title fonts. Large, easy-to-read, and dynamic.\n\nGRID LAYOUT:\nArranged in 1 column x 6 rows. Each panel is numbered 1-6 in a stylized cartoon star or bubble in the corner.\n\nPanel 1:\nText: \"AMENAZA VEGETAL SILENCIOSA\"\nVisual: A giant, cool-looking bamboo stalk with a smirk standing next to a broken, cartoonish steel beam with an \u0027X\u0027 on it.\n\nPanel 2:\nText: \"RED SUBTERRANEA IMPATABLE\"\nVisual: Stylized underground view showing bamboo roots glowing and snaking like circuit lines beneath a cartoon city street with cracks.\n\nPanel 3:\nText: \"DIA MUNDIAL DOS MIL NUEVE\"\nVisual: A shiny, metallic-textured \"2009\" logo falling from the sky like a giant meteor onto a colorful cartoon world map.\n\nPanel 4:\nText: \"ABSORCION CARBONO CUATRO X\"\nVisual: A cartoonish bar graph where the bamboo bar is a giant green character sucking up \u0027CO2\u0027 clouds like a vacuum.\n\nPanel 5:\nText: \"REEMPLAZO INDUSTRIAL MASIVO\"\nVisual: A classic grey cartoon factory being quickly overgrown and transformed into a lush green bamboo fortress.\n\nPanel 6:\nText: \"DIECIOCHO DE SEPTIEMBRE\"\nVisual: A dynamic, unfolding cartoon map with a giant yellow highlight mark over a forest, surrounded by action lines.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

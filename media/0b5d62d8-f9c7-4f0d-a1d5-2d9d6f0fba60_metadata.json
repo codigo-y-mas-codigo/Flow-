@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0b5d62d8-f9c7-4f0d-a1d5-2d9d6f0fba60",
+    "mediaTitle": "Cambia de rojo a morado",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 06:00:14.788638-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cambia de rojo a morado",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "26b4d73c-6e5c-4b63-b811-88315c33d5ab"
+    }
+  }]
+}

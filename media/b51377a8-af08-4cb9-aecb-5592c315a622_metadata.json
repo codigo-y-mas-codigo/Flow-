@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b51377a8-af08-4cb9-aecb-5592c315a622",
+    "mediaTitle": "Mechanical warrior battles sea d…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:14:19.826505-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A traditional Japanese woodblock ukiyo-e print depicting a giant mechanical warrior battling a serpentine sea dragon. Wave patterns inspired by Great Wave off Kanagawa, dynamic ink brush strokes, aged paper texture, subtle muted color wash.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

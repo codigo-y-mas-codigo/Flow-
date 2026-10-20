@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b488b8be-faf3-416e-94fc-d3e7e0daf6a0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 20:31:37.980771-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Personaje al borde de un abismo, mirando al cielo, estilo artesanal de 1910, líneas audaces. Incluye el texto en español visible: \"CONFÍO EN EL PASO, AUNQUE NO VEA EL SUELO.\" en español  incluye el logo parte del diseño en en la parte inferior izquierda ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "94296bde-486f-4a0f-8658-705526506699",
+    "mediaTitle": "Ernesto\u0027s Juice Bar logo design",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:50:25.246889-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A retro 90s graphic logo design for \u0027Ernesto\u0027s Juice Bar\u0027. Pastel teal and peach color scheme, hand-drawn tropical fruits, a subtle silhouette of a battle robot in the background pattern, vintage screen-printed texture on fabric.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

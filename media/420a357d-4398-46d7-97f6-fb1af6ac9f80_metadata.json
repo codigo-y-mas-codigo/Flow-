@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "420a357d-4398-46d7-97f6-fb1af6ac9f80",
+    "mediaTitle": "Fool standing on cliff edge",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 04:14",
+    "projectId": "18470725-d3a5-4073-a01d-b5867cff4899",
+    "createdAt": "2026-09-17 03:34:12.442566-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Full-bleed 9:16 vertical illustration in the exact authentic 1909 Rider-Waite-Smith tarot style by Pamela Colman Smith. No card frames, no outer borders, edge-to-edge artwork. In the foreground, The Fool in iconic patterned tunic with a bundle on a stick and a white dog at his feet, smiling at the edge of a high cliff. The background comes alive with atmospheric motion: majestic snow-capped mountains under a radiant, pulsating golden sun, moving wind trails, and deep canyon mist. Classic RWS color palette: bright yellow sky, vibrant red feather, cobalt blue accents, and aged paper texture. At the bottom, a clean, bold banner displaying the exact iconic hand-drawn RWS serif typography reading \"THE FOOL\" in large, crisp, ultra-legible black capital letters with strong contrast.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1ea5228e-70cb-4eb0-938d-8572ec2906da",
+    "mediaTitle": "Delete texts combine images",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 13:18:44.676715-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Delete the texts and combine all the images into one image with a white background.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

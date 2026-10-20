@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9695c0fc-30a7-403e-862f-326a5895eb3b",
+    "mediaTitle": "Man in a style",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-09-02 23:35:01.543704-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 912,
+      "height": 1172
+    },
+    "generationInputs": {
+      "prompt": "Debe estar viéndose a si mismo, solo que no lo veo de ropa negram ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "fcd2e1de-3031-4e3c-b283-f5f306e5cd0e"
+    }
+  }]
+}

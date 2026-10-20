@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a569d6cc-e5af-4742-a108-4f1307825a1c",
+    "mediaTitle": "Alinear personas en imagen dos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 22:43:49.115727-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "presentame la imagen uno, con las posiciones de la imagen dos. es decir quiero esten en el mismo margen alineacion estatura tamaño uigual que la imagen 1 los de la imagen 2 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

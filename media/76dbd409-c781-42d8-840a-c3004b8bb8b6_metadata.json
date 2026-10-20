@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "76dbd409-c781-42d8-840a-c3004b8bb8b6",
+    "mediaTitle": "luis-angel-maciel.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:18:17.380687-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A 3x3 grid storyboard collage showing a sequence of 9 panels. The main character is the exact man from the reference photo: Latino man in his early 30s, dark messy medium-length hair, dark eyes, thin goatee and stubble, friendly smile, wearing black t-shirt.\n\nSequence of him exhaling massive clouds of thick white and purple vapor/smoke:\n\nTop row:\n1. Close-up of huge dense smoke being exhaled\n2. Medium shot of the man starting to blow a giant cloud\n3. Wide shot: enormous volumetric smoke filling the colorful psychedelic room\n\nMiddle row:\n4-6. Side profile and three-quarter views of the man (same face as reference) powerfully exhaling thick smoke, eyes slightly closed in pleasure, smoke swirling around his face and body\n\nBottom row:\n7. Room almost completely filled with dense fog, only his face partially visible\n8. Man smiling through the thick smoke\n9. Final shot: man looking at camera smiling as smoke surrounds him\n\nRoom setting: psychedelic bedroom with neon blue and pink lights, rainbows, stars and moons on the walls, string lights, dreamy atmosphere. Highly detailed volumetric smoke, cinematic lighting, realistic skin texture and face matching the reference exactly, high resolution, clean comic-style grid with thin white borders and numbers 1-9 in each panel corner.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "92dc26de-3f7f-449b-8ba0-3d471b6c92ed"
+    }
+  }]
+}

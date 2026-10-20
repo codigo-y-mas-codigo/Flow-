@@ -1,0 +1,22 @@
+{
+  "mediaEntries": [{
+    "mediaId": "018ad578-7866-4dd7-aeaf-66d41a2a0093",
+    "mediaTitle": "Gemini_Generated_Image_ (2).png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 04:14:07.943026-07",
+    "modelName": "Omni Flash",
+    "isFavorited": true,
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Adaptala a tamaño vertical 9 16 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ead19cc4-0452-4a2c-8441-6e426b9a360b"
+    }
+  }]
+}

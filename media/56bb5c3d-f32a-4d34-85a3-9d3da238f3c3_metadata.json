@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "56bb5c3d-f32a-4d34-85a3-9d3da238f3c3",
+    "mediaTitle": "Man donning superhero suit",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 10:26:22.291628-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

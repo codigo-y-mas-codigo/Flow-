@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8db12e67-98eb-47e1-88b2-ce436b481ecb",
+    "mediaTitle": "captura_007_[2-00].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:22:10.809306-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"delete all texts and dogs\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "425f3210-a4ea-4291-b730-890e6addf334"
+    }
+  }]
+}

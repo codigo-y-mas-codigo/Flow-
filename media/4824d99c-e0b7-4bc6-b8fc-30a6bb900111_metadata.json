@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4824d99c-e0b7-4bc6-b8fc-30a6bb900111",
+    "mediaTitle": "Man leaning on railing looking a…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:09:44.886274-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nMake him leaning on the railing looking at the sea.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

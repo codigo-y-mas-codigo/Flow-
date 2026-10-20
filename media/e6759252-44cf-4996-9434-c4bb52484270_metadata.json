@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e6759252-44cf-4996-9434-c4bb52484270",
+    "mediaTitle": "Text changing to purple black",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 05:10:19.373264-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "Change the yellow to purple and the black lettering to a light grayish-white.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE",
+      "parentMediaId": "687229b7-9b36-42db-84b2-eeaa3259db17"
+    }
+  }]
+}

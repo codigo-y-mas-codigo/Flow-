@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e5ed8119-84c7-4be9-b040-7cd26533f581",
+    "mediaTitle": "Most loved color film stocks",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-08-04 02:44:00.115585-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the specified text in its original language:\n\n\"Definitive The most loved, used, and recommended color film stocks by photographers and creators. Ordered by popularity and visual character. 01. Cinestill 800T 02. Kodak Portra 800 03. Kodak Portra 400 04. Kodak Portra 160 05. Lomography Color Negative 800 06. Fujifilm Pro 400H 07. Kodak Ektar 100 08. Kodak Ektachrome E100👈🏻👈🏻👈🏻 09. Fujifilm Superia 400 10. Lomography X-Pro 200 11. Kodak Gold 200 12. Fujifilm Velvia 50 13. Kodak Ultramax 400 14. Cinestill 50D 15. Fujifilm Pro 400H (2nd mention) 16. Lomography Color Negative 400 17. Kodak Vision3 500T 18. Kodak Vision3 250D 19. Agfa Vista Plus 200 20. Fujifilm Superia X-Tra 400 21-50 (Continuation): 21. Revolog Kolor 22. Adox Color Implosion 23. Lomography Redscale 24. Cinestill 400D 25. Kodak Portra 800 (push) 26. Fujifilm 400H 27. Kodak Gold 100 28. Polaroid Color 29. Fujifilm Instax (color) 30. Kodak Ektachrome 100 31. Lomography Diana F+ Color 32. Rollei Color 33. Kodak Aerochrome (color infrared) 34. Fujifilm Velvia 100 35. Kodak Portra 100T 36. Cinestill 800T (expired) 37. Agfa Vista 400 38. Lomography Metropolis 39. Kodak Vision3 50D 40. Fujifilm Provia 100F 👉🏻👉🏻👉🏻 make the nuenron40.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

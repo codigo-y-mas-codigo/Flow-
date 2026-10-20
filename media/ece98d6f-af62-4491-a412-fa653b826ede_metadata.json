@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ece98d6f-af62-4491-a412-fa653b826ede",
+    "mediaTitle": "Top 50 Color Film Types",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 09:07:13.403300-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "TOP 50 Color Film Types – La Lista Definitiva   Los stocks de película color más queridos, usados y recomendados por fotógrafos y creadores. Ordenados por popularidad y carácter visual.  01. Cinestill 800T\n02. Kodak Portra 800\n03. Kodak Portra 400\n04. Kodak Portra 160\n05. Lomography Color Negative 800\n06. Fujifilm Pro 400H\n07. Kodak Ektar 100\n08. Kodak Ektachrome E100\n09. Fujifilm Superia 400\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "92a81406-4886-43b1-8524-4a17358ddcbe",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 03:50:51.167949-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Human hand gently touching a lion\u0027s jaw, soft golden light, close up detail, photorealistic, symbolic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

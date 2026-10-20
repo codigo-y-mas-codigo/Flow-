@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ad8457bf-0493-4640-801e-0eecf740d287",
+    "mediaTitle": "Translated prompt scrobe about i…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:14:12.917506-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"scrobe about the image the prompt that should be used to create that style.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

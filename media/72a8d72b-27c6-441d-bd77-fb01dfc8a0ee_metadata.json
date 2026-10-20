@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "72a8d72b-27c6-441d-bd77-fb01dfc8a0ee",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:57:04.465091-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "expande el humo y fuego ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

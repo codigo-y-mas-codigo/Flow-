@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c87db731-a69a-415d-9d9a-748a0b0f49d6",
+    "mediaTitle": "Stick figure discovering digital…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 03:20",
+    "projectId": "5ea84ca6-81ae-4ce4-9ea9-b141ea2c7836",
+    "createdAt": "2026-09-17 02:22:32.043736-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A clean 2D cartoon illustration in a simple, minimal cartoon style with a flat digital look.\n\nScene: small bedroom home office, daytime, soft natural light coming through the window.\nCamera: medium shot, eye-level angle, centered framing.\n\nCharacters: 1 stick-figure character with a BIG ROUND HEAD that is ALWAYS PURE WHITE, tiny dot eyes, minimal simple mouth, simple eyebrows showing surprise. The body is simple and minimal. Arms, legs, and hands are BLACK stick-line outlines, not filled. Clothes and accessories are simple flat shapes with solid fills: blue hoodie, dark pants, simple black headphones. Laptop and small desk.\n\nAction: the young man sits at his desk looking at his laptop with a surprised and excited expression after discovering that people are buying digital designs online, mood is curious, hopeful, and excited.\n\nBackground: simple clean shapes, flat muted colors, solid fills, crisp edges, uniform line weight, no visible brush strokes, no paper texture, no sketchy lines, clean readable composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

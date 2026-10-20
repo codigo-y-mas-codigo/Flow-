@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bf245464-ed6b-4435-97af-c7f63fdefc18",
+    "mediaTitle": "Diablo con cuernos y humanos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:14:11.632058-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra el arnés que tiene el diablo y la cadena debe unir a los humanos y el centro está amarrado en la base donde está el diablo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "0f84268a-c88d-444f-8c75-3c9f63b52a9f"
+    }
+  }]
+}

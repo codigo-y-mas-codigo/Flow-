@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3e90c96d-a9e3-4952-9e13-44aa21149ebc",
+    "mediaTitle": "Charros featured in UNESCO docum…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 05:00:11.179437-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn edges, warm cream textured paper background with newsprint fibre. SCENE: Archival duotone photograph of charros with a UNESCO emblem stamped onto textured paper, taped with masking tape. MOTION: Paper layer lifts slightly to reveal the UNESCO emblem underneath, handmade stop-motion movement. AUDIO: Narration: \"Por esa riqueza viva, la Unesco la declaró Patrimonio Cultural Inmaterial de la Humanidad en dos mil dieciséis.\" Subtle tape peel sound design.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

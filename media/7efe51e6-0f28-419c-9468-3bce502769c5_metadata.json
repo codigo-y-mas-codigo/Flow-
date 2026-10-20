@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7efe51e6-0f28-419c-9468-3bce502769c5",
+    "mediaTitle": "Magazine collage album cover",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-05 02:00:02.516070-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vintage magazine collage style album cover, cut-out paper textures, retro pink and red color blocks, 1970s soul album aesthetic, torn paper edges, playful and tactile\n\n**Texto (ES):** letras recortadas tipo collage, desordenadas pero legibles.\n\n---",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

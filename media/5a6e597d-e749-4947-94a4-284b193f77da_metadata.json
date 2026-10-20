@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5a6e597d-e749-4947-94a4-284b193f77da",
+    "mediaTitle": "Bamboo roots cracking open factory",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-15 00:29:27.081998-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vox-style editorial paper collage on textured cream paper. Monochrome archival photo cutout of an industrial factory being cracked open from underneath by vibrant green and dark navy paper cutouts of bamboo roots spreading out like a subterranean network. Accented with a saturated highlighter-yellow marker sweep. On-screen heavy condensed all-caps text in Spanish: \"CRECE 1 METRO AL DÍA\". High contrast, clean negative space.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

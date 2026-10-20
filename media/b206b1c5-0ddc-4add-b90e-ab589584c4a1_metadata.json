@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b206b1c5-0ddc-4add-b90e-ab589584c4a1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:16:19.134511-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Haz una ficha de personaje diablo como la del ejemplo adjunto \n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bd5bce53-22b5-4760-998e-9d14169ae856",
+    "mediaTitle": "Serpiente verde y personaje",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:13:24.775735-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Haz una ficha de personaje como la del ejemplo adjunto ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "072b2761-ae65-4f3d-90fd-4887041a8211"
+    }
+  }]
+}

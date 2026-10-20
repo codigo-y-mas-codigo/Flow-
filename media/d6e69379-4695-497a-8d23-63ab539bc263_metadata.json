@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d6e69379-4695-497a-8d23-63ab539bc263",
+    "mediaTitle": "Lips near ear whispering",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-13 11:55:07.433715-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the adapted prompt in English, with the style name identified:\n\n**Prompt:**\n\nAdapt to horizontal format and in silent music, change to the style of the image. The visual style is called **Neo-Mughal**.\n\n**Explanation of the Style:**\n\nNeo-Mughal is a contemporary artistic style that draws inspiration from the rich visual heritage of the Mughal Empire. It often incorporates elements such as:\n\n*   **Intricate patterns and geometric designs:** Echoing the detailed ornamentation found in Mughal architecture and miniature paintings.\n*   **Vibrant color palettes:** Utilizing jewel tones, rich blues, greens, reds, and golds.\n*   **Figurative elements:** Often featuring stylized human figures, animals, and floral motifs, reminiscent of Mughal miniatures.\n*   **A sense of grandeur and opulence:** Conveying a feeling of luxury and historical depth.\n*   **Modern interpretations:** While rooted in tradition, Neo-Mughal art often reinterprets these elements with a contemporary sensibility, sometimes blending them with modern aesthetics or techniques.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "a61cda1f-4cfc-446a-aa76-6510cf1af456"
+    }
+  }]
+}

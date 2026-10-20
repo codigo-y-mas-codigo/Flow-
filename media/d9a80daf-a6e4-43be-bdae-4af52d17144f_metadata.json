@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d9a80daf-a6e4-43be-bdae-4af52d17144f",
+    "mediaTitle": "Lightning bolt in center",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:11:19.605951-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Leave a lightning bolt and make it bigger and in the center.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

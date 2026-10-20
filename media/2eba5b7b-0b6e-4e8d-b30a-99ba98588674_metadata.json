@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2eba5b7b-0b6e-4e8d-b30a-99ba98588674",
+    "mediaTitle": "Gemini_Generated_Image_xf2qoyxf2qoyxf2q.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:17:18.985962-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Extract the logo design and improve the typography with a more original, non-cliché font.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "ab688c83-0724-4ecc-85b7-69d18b2ed392"
+    }
+  }]
+}

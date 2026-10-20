@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "21ffaf57-fb5a-4a11-ae0c-0faf5978621c",
+    "mediaTitle": "Complete alphabet and numbers ty…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 21:04:01.596929-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Please complete the alphabet and the numbers from 0 to 9 with the same typography as \"the fool,\" so that the typography is in the style of that word.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

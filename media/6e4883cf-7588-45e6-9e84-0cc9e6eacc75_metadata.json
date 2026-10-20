@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6e4883cf-7588-45e6-9e84-0cc9e6eacc75",
+    "mediaTitle": "Two intertwined figures illustra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-04 23:56:57.359092-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "**Prompt (EN):**\nSingle continuous line art illustration of two intertwined figures, minimalist black line on cream background, elegant and sensual, modern art gallery poster style\n\n**Texto (ES):** manuscrita fina, parte inferior.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

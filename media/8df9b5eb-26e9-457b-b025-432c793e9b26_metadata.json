@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8df9b5eb-26e9-457b-b025-432c793e9b26",
+    "mediaTitle": "Generate model images with consi…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 22:04:44.503908-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "pon en una imagen a cada modelo, en blanco neutro,  no embellezcas, manten la misma posicion exacta maquillaje, peluca, vestuario,  complexión, deben ser iguales a las imagenes adjuntas. Cabe destacar que es la misma persona en distintos retos de outfits , por lo tanto tiene la misma altura y complexión fisica. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

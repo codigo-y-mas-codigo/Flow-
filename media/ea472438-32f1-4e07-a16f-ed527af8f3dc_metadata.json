@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ea472438-32f1-4e07-a16f-ed527af8f3dc",
+    "mediaTitle": "Gemini_Generated_Image_qwfs2kqwfs2kqwfs.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 17:56:37.588026-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A single large lightning bolt centered within the ornate circular frame, rendered in a glossy plastic leather style. Replace the three original lightning bolts with this single prominent one. Keep the deep textured navy blue background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f817b2c1-c1ab-4817-bd92-a28b33239b6c"
+    }
+  }]
+}

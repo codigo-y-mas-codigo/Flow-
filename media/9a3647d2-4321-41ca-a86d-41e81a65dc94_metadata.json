@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9a3647d2-4321-41ca-a86d-41e81a65dc94",
+    "mediaTitle": "Man playing violin",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:36:17.369306-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"Put the full face and body of the man instead of the woman. He should be as if he were playing a violin.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

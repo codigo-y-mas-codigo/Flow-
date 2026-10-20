@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d10a31d2-6a8c-4d18-a542-7628d21fa01a",
+    "mediaTitle": "Designing character pattern socks",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 14:00",
+    "projectId": "8d5e264d-bb6f-4673-9ec2-c6626894eaa1",
+    "createdAt": "2026-09-21 14:13:04.412523-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "Make the top part have the little face and the rest be the body, and the other half of the socks have the character\u0027s pattern in small and large, etc.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR"
+    }
+  }]
+}

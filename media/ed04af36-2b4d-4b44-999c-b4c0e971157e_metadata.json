@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ed04af36-2b4d-4b44-999c-b4c0e971157e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:14:28.846428-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "vestido blanco con flores en la cintura ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

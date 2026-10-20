@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3908cb41-44d9-4c20-abfd-8b9db7bfd4c8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:31:24.976793-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Ponlonde rodillas con los codos abajo mirando a la camara wlncuerpoyestabde frente al yñtv",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

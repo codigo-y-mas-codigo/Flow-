@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e88e6012-08f6-416c-a80c-ed41572eed61",
+    "mediaTitle": "1777355863256.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 00:47:02.789173-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the rewritten prompt in English, adapted for a vertical 9:16 aspect ratio and incorporating the requested edits:\n\n**Rewritten Prompt:**\n\n\"I want you to replace the face of the man in all instances with the face from the attached image. First, rewrite the prompt and then work on it. Adapt it to a vertical 9:16 aspect ratio and create several parodied scenes from the Titanic.\"\n\n**Working on the Prompt (with the face replacement and Titanic parodies):**\n\nImagine a series of vertical 9:16 images, each depicting a humorous and parodied scene from the Titanic. In every scene where a male character is present, his face should be replaced with the face from the attached image. The overall tone should be lighthearted and comedic, playing on iconic moments from the film.\n\nHere are some scene ideas:\n\n*   **The \"I\u0027m the King of the World!\" Scene:** The man from the attached image stands at the bow of the ship, arms outstretched, but instead of a triumphant roar, he\u0027s making a silly face or perhaps holding a rubber chicken. The background is a slightly distorted, cartoonish ocean.\n*   **The Drawing Scene:** The man from the attached image is depicted as Jack, sketching Rose (who could be a caricature of a famous person or a funny character). The drawing itself is comically bad or features the man\u0027s face again in a self-portrait.\n*   **The \"Nearer, My God, to Thee\" Scene:** A group of people, including the man from the attached image, are gathered on the deck as the ship sinks. Instead of solemnity, they are all doing a silly dance or singing a ridiculous song.\n*   **The Iceberg Collision:** The man from the attached image is at the helm, looking utterly bewildered as the ship narrowly misses a giant, cartoonish iceberg shaped like a banana or a giant rubber duck.\n*   **The Lifeboat Scene:** The man from the attached image is desperately trying to get into an overcrowded lifeboat, perhaps wearing a ridiculous hat or struggling with an oversized life vest.\n\n**Key elements to maintain:**\n\n*   **Vertical 9:16 aspect ratio.**\n*   **Face replacement:** The face from the attached image must be consistently used for all male characters.\n*   **Parodied Titanic scenes:** The scenes should be recognizable as from the Titanic but with a humorous, exaggerated twist.\n*   **Comedic tone:** The overall feeling should be lighthearted and funny.\n\n**Note:** Since I cannot actually \"see\" or \"attach\" an image, the instruction to replace the face relies on your ability to provide that image to the AI generation tool. The prompt is structured to guide the AI in performing that specific edit.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "4cb14d6c-607a-4476-81cd-8a1234148dc6"
+    }
+  }]
+}

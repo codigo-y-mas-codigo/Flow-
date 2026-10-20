@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "74558056-8d15-4b2f-a6be-299a51a27aba",
+    "mediaTitle": "Change to supermodel pose",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 03:19:45.892428-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Change to a more supermodel pose, do not beautify, keep the exact same makeup, wardrobe, accessories, and hairstyle.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

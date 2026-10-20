@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4c842427-4745-44d1-9c98-95e1c3b194f8",
+    "mediaTitle": "captura_007_[2-00].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:25:55.915704-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"erase the dogs and texts except for the title and subtitle.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "a6ba9d4b-dc69-4c70-a2ab-9a5e5a01dd57"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aea3f6ad-c34c-4eaf-be94-3b2a3273c2cf",
+    "mediaTitle": "Empty bedroom home office illust…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 03:20",
+    "projectId": "5ea84ca6-81ae-4ce4-9ea9-b141ea2c7836",
+    "createdAt": "2026-09-17 02:21:23.761938-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A clean 2D cartoon illustration with a flat digital style, matching the same visual look as the reference: flat colors, solid fills, crisp edges, uniform line weight, clean readable composition.\n\nSubject: empty bedroom home office.\nScene/Setting: small bedroom with a desk, laptop, drawing tablet, chair, simple wall decorations and a window, daytime, soft natural light.\nCamera: wide establishing shot, eye-level angle, full room framing, clear spatial depth.\n\nForeground elements: simple desk with laptop and drawing tablet, chair, a few design sketches.\n\nMaterial/style notes: flat digital illustration, minimal details, no realism, no 3D look, no brush texture, no paper texture, no painterly shading, no watercolor effect.\n\nKey details to include: laptop displaying digital artwork, drawing tablet, blue hoodie hanging on chair, window with soft daylight, clean modest bedroom workspace.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

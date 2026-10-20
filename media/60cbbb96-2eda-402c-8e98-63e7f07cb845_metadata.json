@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "60cbbb96-2eda-402c-8e98-63e7f07cb845",
+    "mediaTitle": "Adapt image format",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:14:26.593644-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Adapt image number 1 to a 9:16 format using the typography from image 2.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

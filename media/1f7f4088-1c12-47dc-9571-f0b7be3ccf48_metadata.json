@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1f7f4088-1c12-47dc-9571-f0b7be3ccf48",
+    "mediaTitle": "Couple falling from cliff",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-03 02:31:23.308494-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "el audio debe ser en español y en formato vertical 9:16 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "c5656a55-c212-4639-8043-9ae944126bbf"
+    }
+  }]
+}

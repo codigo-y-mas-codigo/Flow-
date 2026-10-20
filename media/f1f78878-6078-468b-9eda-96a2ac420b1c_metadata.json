@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f1f78878-6078-468b-9eda-96a2ac420b1c",
+    "mediaTitle": "1777355855776.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 00:43:06.659049-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the adapted prompt for vertical size, with the translation applied:\n\n**Original Prompt (assumed, as it wasn\u0027t provided):**\n\n\"A majestic dragon soaring through a vibrant, sunset-lit sky, with a medieval castle nestled in the mountains below. The dragon has scales that shimmer with iridescent colors, and its wings are spread wide, catching the last rays of the sun. The castle is ancient and imposing, with tall spires and battlements. The sky is a canvas of oranges, pinks, and purples, with a few wispy clouds.\"\n\n**Adapted Prompt (Vertical Size \u0026 Translated):**\n\n\"A majestic dragon soaring through a vibrant, sunset-lit sky, with a medieval castle nestled in the mountains below. The dragon has scales that shimmer with iridescent colors, and its wings are spread wide, catching the last rays of the sun. The castle is ancient and imposing, with tall spires and battlements. The sky is a canvas of oranges, pinks, and purples, with a few wispy clouds. **Aspect ratio: 9:16**\"\n\n**Explanation of Changes:**\n\n*   **Vertical Size Adaptation:** I\u0027ve added \"**Aspect ratio: 9:16**\" to the end of the prompt. This is a common way to specify a vertical aspect ratio for image generation.\n*   **Translation:** The entire prompt has been translated into English.\n*   **Text in Image Handling:** Since the original prompt (as assumed) did not contain any specific text to be rendered *within* the image, the entire prompt was translated. If there had been text like \"Welcome to Dragon\u0027s Peak,\" that text would have remained in its original language.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ad18ac62-18e1-4077-908a-f5860530131a"
+    }
+  }]
+}

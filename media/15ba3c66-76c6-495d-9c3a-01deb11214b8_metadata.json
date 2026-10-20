@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "15ba3c66-76c6-495d-9c3a-01deb11214b8",
+    "mediaTitle": "Man waiting at metro platform",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-09-20 05:23:37.005541-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the English translation of your top-ranked prompt, **Prompt 1 (\"El último tren\")**, maintaining all the technical and emotional details for your AI image generator:\n\n***\n\n**Title:** Esta vez\n\n**Prompt (ENGLISH):**\n\nUse the attached reference sheet as absolute identity reference. Consistently preserve the exact face, beard, hairstyle, skin tone, and facial proportions.\n\nHyperrealistic cinematic style photography, 9:16 vertical format.\n\nA man stands completely motionless on the platform of the Mexico City Metro during the blue hour, while a train speeds by creating an intense motion blur. He is wearing a simple black t-shirt, with a melancholic yet hopeful expression, as if waiting to see the love of his life again.\n\nThe metro lights softly illuminate his face. The wind gently moves his hair. In the background, the train creates streaks of red and white light.\n\nThe scene conveys regret, second chances, and the promise never to let go of the one he loves.\n\nColor palette: Deep blues, warm amber, red reflections from the metro.\n\nStyle: Cinematic, Kodak Vision3, depth of field, anamorphic lens, volumetric lighting, ultra-realistic, editorial photography, restrained emotions, 8K.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

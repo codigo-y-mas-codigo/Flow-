@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cb7228b7-e54a-4dcb-9c12-1ef52161e4c1",
+    "mediaTitle": "1777359170747.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:42:17.661938-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"faceswap and change the poster to one from the early days of Dragon Ball.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR",
+      "parentMediaId": "aab56eea-e422-4f0a-9f77-e457361a3df5"
+    }
+  }]
+}

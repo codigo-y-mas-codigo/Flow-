@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4ac82ff6-e6fa-41d4-97b6-c5c68fc7d100",
+    "mediaTitle": "Change text of image one",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:45:30.793551-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated prompt in English, with any text to be rendered kept in its original language:\n\n\"Change the text of image one to that of image two.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE"
+    }
+  }]
+}

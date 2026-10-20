@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "52a32a16-505b-45d1-9940-5f3af321550e",
+    "mediaTitle": "Man reaching for holographic con…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:59:50.328645-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A cinematic vertical (9:16) image based on reference 7b290b76-a2a0-461f-969a-4a932be2ffe4. Mateo (the man with dark hair and a goatee) is lying in bed in a dimly lit vintage room, appearing weak and suffering from illness. He is wearing the black t-shirt from the reference. He reaches out with a trembling hand toward a glowing green holographic contract floating above him. On the hologram, the signature \u0027Luis Angel Maciel\u0027 is seen halfway written in glowing green script. The scene captures human vulnerability and the act of signing for digital immortality. High-end cinematic style, soft diffused lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

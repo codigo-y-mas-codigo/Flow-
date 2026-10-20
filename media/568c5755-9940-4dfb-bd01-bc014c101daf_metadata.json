@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "568c5755-9940-4dfb-bd01-bc014c101daf",
+    "mediaTitle": "Character extraction from image",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 00:16:11.775820-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt in English:\n\nExtract the character from the left image, do not embellish, keep the same makeup, clothing, hairstyle, accessories, expression, countenance, position, colors. Center the image. Erase texts, no texts, no logos, no watermarks.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

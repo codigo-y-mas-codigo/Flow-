@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1e154b12-f399-4818-b19a-e418b2c683bd",
+    "mediaTitle": "Paper collage of Mexico map",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 04:47:56.676869-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary. Vintage textured paper map of Mexico with archival charcoal grayscale cutouts of traditional rural haciendas sliding into position. Warm cream textured paper background with newsprint fibre. Soft realistic drop shadows. Heavy condensed sans-serif ALL CAPS typography with black ink stamp effect: \"CATORCE DE SEPTIEMBRE\". Palette: warm cream, charcoal black, deep navy.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

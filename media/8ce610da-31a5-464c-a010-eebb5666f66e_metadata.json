@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8ce610da-31a5-464c-a010-eebb5666f66e",
+    "mediaTitle": "Adapt prompt to horizontal size",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-13 11:56:39.746991-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nChange it for the man.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "1b0fd87a-d9f8-4dec-8c33-778b72c12dc0"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "80c7339a-d2e7-4c40-92cd-48884459feb4",
+    "mediaTitle": "Convert image to vertical art",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 04:13:51.231553-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Adapt image 1 to vertical, using the art style of image 2.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

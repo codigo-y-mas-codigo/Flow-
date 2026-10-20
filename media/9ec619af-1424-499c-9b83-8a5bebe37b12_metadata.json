@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9ec619af-1424-499c-9b83-8a5bebe37b12",
+    "mediaTitle": "Person playing the violin",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:21:55.902845-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

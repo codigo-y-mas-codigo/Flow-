@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "12518d72-20ad-422a-ac8b-4f9a8986f9ea",
+    "mediaTitle": "Agrega rostro a cuerpos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:40:07.245599-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "agrega el rostro de la persona de forma natural en los diversos cuerpos ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

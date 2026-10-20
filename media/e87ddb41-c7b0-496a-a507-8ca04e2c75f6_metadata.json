@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e87ddb41-c7b0-496a-a507-8ca04e2c75f6",
+    "mediaTitle": "Cinematic realistic Kodak Portra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:18:02.081534-07",
+    "modelName": "Nano Banana 2 Lite",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

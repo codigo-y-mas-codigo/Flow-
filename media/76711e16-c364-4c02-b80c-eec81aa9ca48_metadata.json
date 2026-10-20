@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "76711e16-c364-4c02-b80c-eec81aa9ca48",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:52:24.852767-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra los textos la parte inferior y el texto de ricasbarmoniasnybtromoetas brillantes ponlo abajo de \"la esperanza\" ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

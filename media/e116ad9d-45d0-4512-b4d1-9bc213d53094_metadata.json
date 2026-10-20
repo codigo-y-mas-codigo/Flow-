@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e116ad9d-45d0-4512-b4d1-9bc213d53094",
+    "mediaTitle": "captura_007_[2-00].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:23:12.430161-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Delete the code texts, the English ones, the thermometer ones, and the WhatsApp messages. Delete only Neotecnia and the subtitle.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "220d3ba4-ab82-484d-908b-dddba552c124"
+    }
+  }]
+}

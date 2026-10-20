@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2c6ef206-8730-4e4e-bb35-20395fa2ed01",
+    "mediaTitle": "Gemini_Generated_Image_xf2qoyxf2qoyxf2q.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:20:07.501079-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"extract the vintage retro style\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "6fc3735d-5c5b-4073-a814-65b323f0f256"
+    }
+  }]
+}

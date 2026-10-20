@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "825ecb34-dcb0-42dd-8812-7dae6cba2459",
+    "mediaTitle": "Model consistency across outfit …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:08:19.450204-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "pon en una imagen a cada modelo, en blanco neutro,  no embellezacas, manten la misma posicion exacta maquillaje, peluca, vestuario,  deben ser iguales a las imagenes adjuntas. Cabe destacar que es la misma persona en distintos retos de outfits ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

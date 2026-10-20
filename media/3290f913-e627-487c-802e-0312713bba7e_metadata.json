@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3290f913-e627-487c-802e-0312713bba7e",
+    "mediaTitle": "Horizontal size translation",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:43:17.024892-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Change the rose for a hole emoji and make the fist in emoji style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "53ce6f1e-95db-426e-b4af-f3aaf995f20e"
+    }
+  }]
+}

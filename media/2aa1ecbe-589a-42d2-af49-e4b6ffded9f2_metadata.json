@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2aa1ecbe-589a-42d2-af49-e4b6ffded9f2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 23/11/25",
+    "projectId": "15e7db74-90b4-4fb6-82dd-e8c63e324e8e",
+    "createdAt": "2025-12-03 02:46:13.017932-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "A logo design featuring a combination of text and graphic elements, set against a white background. The primary colors used are various shades of green and dark gray.\n\nThe graphic elements are centered around a large, irregular hexagonal shape, which is outlined in a dark, medium green. This hexagon encloses the main text.\n\nBehind the hexagon, there are five stylized representations of houses or buildings, suggesting a real estate or property management theme. These houses vary slightly in size and height:\n1.  A smaller, light green house on the far left.\n2.  A medium-sized, slightly darker green house to the left of the center.\n3.  A large, prominent, dark green house directly behind the top center of the hexagon.\n4.  A medium-sized, slightly darker green house to the right of the center.\n5.  A smaller, light green house on the far right.\nAll the houses have a simplified, classic roofline with a chimney (except for the smaller side ones) and white rectangular windows.\n\nThe text inside the hexagon is stacked in two lines using a bold, sans-serif typeface in a dark gray color:\n1.  The top line reads \"MAC\".\n2.  The bottom line reads \"360\".\nThere is a thick, light gray horizontal line separating \"MAC\" from \"360\". The text \"MAC\" is slightly larger than \"360\".\n\nBelow the main graphic (the hexagon and houses), there are two lines of text, also in the dark gray color, serving as a tagline or descriptor, using a different, slightly condensed sans-serif font:\n1.  The first line reads \"GESTIÓN\".\n2.  The second line reads \"ADMINISTRATIVA\". This line is slightly larger and bolder than the first line.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

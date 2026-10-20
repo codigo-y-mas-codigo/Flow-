@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "604e19d2-a3a4-4193-989a-007855c468c9",
+    "mediaTitle": "Comparing carbon absorption levels",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 10:21:05.732110-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "borra el texto de la parte supeior derecha ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "878562fc-d202-4368-b12e-55b5eba68ff1"
+    }
+  }]
+}

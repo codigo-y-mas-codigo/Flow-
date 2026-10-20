@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9dac7832-7b53-4d0e-8688-3afbe7ef7aa0",
+    "mediaTitle": "Modifying seated people and screen",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 22:49:33.297681-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "cambia a las personas sentadas deben parecer las personajes de la iamgen adjunta. manten la isma posicion que la imagen uno. La pantalla debe estar libre, es decir las cabezas no deben taparla.  y haz un 5% más grande la pantalla ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

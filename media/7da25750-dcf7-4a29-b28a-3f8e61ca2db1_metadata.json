@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7da25750-dcf7-4a29-b28a-3f8e61ca2db1",
+    "mediaTitle": "image.png_202609070510 (2).jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 20:32:49.808188-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "extrae la imagen de la izquierda de enmedio la que esta arriba del nombre de lennoz, de cuerpo completo, no embellezacas, mantén la misma posición exacta maquillaje todo igual, en 9:16",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "e493fb59-870a-4ff3-a012-aca8298b5928"
+    }
+  }]
+}

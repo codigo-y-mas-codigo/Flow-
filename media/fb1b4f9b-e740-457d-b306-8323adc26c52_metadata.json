@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fb1b4f9b-e740-457d-b306-8323adc26c52",
+    "mediaTitle": "Man exhaling thick vapor",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:24:59.147146-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"erase the tattoo and change the room to a minimalist one.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR",
+      "parentMediaId": "42087a96-dd45-4134-91a9-420a54cfa166"
+    }
+  }]
+}

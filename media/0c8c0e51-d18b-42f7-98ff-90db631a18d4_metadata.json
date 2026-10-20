@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0c8c0e51-d18b-42f7-98ff-90db631a18d4",
+    "mediaTitle": "Ceramic mug with blueprint graphic",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:01:17.015619-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "extract the mug design",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "a8a3b67a-6941-4432-926b-30f2f0df24d5"
+    }
+  }]
+}

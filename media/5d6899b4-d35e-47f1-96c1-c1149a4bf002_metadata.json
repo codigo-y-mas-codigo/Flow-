@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d6899b4-d35e-47f1-96c1-c1149a4bf002",
+    "mediaTitle": "Zoom in on face",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 13:55:55.569294-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated prompt in English, keeping any original text instructions intact (none were present in the prompt):\n\n\"Zoom in on his face, keep it identical, do not beautify, keep the same expression, hairstyle, tattoos, tongue, do not alter the character.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE"
+    }
+  }]
+}

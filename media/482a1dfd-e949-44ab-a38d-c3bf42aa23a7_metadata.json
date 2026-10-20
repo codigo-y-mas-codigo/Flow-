@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "482a1dfd-e949-44ab-a38d-c3bf42aa23a7",
+    "mediaTitle": "Surreal apocalyptic Mexico City …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:06:00.160406-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "8f59b155-2398-4acb-b4c9-bf00195f2bd7"
+    }
+  }]
+}

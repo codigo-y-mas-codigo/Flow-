@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dafcdec8-6a16-406b-b508-b3b6cc68fafa",
+    "mediaTitle": "Apply image style to another",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:15:38.198848-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Apply the style of image 2 to image 1",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

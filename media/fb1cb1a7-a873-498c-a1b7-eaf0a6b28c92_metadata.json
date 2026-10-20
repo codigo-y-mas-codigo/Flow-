@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fb1cb1a7-a873-498c-a1b7-eaf0a6b28c92",
+    "mediaTitle": "Factory overlaid with bamboo spr…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 10:16:10.382653-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "SCENE_05. Style: Vox-style editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn edges on a warm cream textured paper background. Archival photographic cutouts, hand-drawn annotations. Typography: \"REEMPLAZO INDUSTRIAL MASIVO\" in heavy condensed sans-serif all caps, navy ink. Scene: Archival monochrome photo cutout of a factory overlaid with paper bamboo sprouts. Soft realistic drop shadows. palette: cream, navy, charcoal, brick red, highlighter yellow. No index numbers.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

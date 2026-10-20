@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9df7139e-75ea-4ac6-8f2e-ddd063fba5a5",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 04:15:03.484534-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "A symbol creates one, but make it look like the letters \"lamp\" in the same style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "435bcbf3-0acc-4244-9498-bb0176c782eb"
+    }
+  }]
+}

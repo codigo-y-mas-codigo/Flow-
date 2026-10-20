@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2bbe3e57-df72-4f0d-926b-1fe46f29303b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:58:30.602956-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "un acercamiento al la mujer desde arriba ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

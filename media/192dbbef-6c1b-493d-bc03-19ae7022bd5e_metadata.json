@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "192dbbef-6c1b-493d-bc03-19ae7022bd5e",
+    "mediaTitle": "Mariachi Pop song lyrics",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:46:45.575053-07",
+    "modelName": "Omni Flash",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

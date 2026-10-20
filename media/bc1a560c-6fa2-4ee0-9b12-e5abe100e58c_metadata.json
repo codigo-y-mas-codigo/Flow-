@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bc1a560c-6fa2-4ee0-9b12-e5abe100e58c",
+    "mediaTitle": "The man plays a violin.",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:15:39.900864-07",
+    "modelName": "Nano Banana 2 Lite",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

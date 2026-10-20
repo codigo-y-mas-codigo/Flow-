@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f2036b4f-6dc7-4775-a9a3-7b5bee4ce599",
+    "mediaTitle": "1777355863256.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:01:53.884352-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"Keep the same image, just change the character to the one in the attached image faceswap.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "ee06a15d-9abc-4125-a041-44b72dd2992f"
+    }
+  }]
+}

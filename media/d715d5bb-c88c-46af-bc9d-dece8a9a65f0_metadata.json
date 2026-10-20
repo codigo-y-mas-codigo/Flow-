@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d715d5bb-c88c-46af-bc9d-dece8a9a65f0",
+    "mediaTitle": "Geometric shield icon Megazord c…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:30:41.416139-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A modern geometric shield icon representing the Megazord\u0027s chest crest. Simple symmetrical flat shapes combining red, blue, and yellow on a dark gray textured background, vector logo style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

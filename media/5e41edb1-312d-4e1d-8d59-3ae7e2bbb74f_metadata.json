@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5e41edb1-312d-4e1d-8d59-3ae7e2bbb74f",
+    "mediaTitle": "image.png_202609070510 (2).jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-11 20:33:30.992597-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "haz un acercamiento a su rostro en 1x1 . manten el mismo maquillaje peinado acceorios forma del rostro, no alteres al personaje,  no embellezcas, ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "0049238b-f340-4cc4-b260-d9021d84e9f5"
+    }
+  }]
+}

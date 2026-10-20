@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a0af79e3-529f-41b0-983d-6b66f10b5b27",
+    "mediaTitle": "Girl walking in dream video",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 07:56:16.874445-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A Beautiful Cinematic Dream Where Forgotten Memories Slowly Come Alive Through Moonlight Oceans Whales And Human Emotions\n\nMade with Happy horse on @ImaStudio_ai\n#IMAStudio\nPrompt+ tutorial  \n\nCreate a 12-15 second cinematic dream video inspired by the image collage “Photos from Forgotten Dreams”.\n\nSTART (0s - 5s):\nBegin with a black screen that slowly fades into a glowing sunset sky. Soft piano music begins. The camera gently zooms in on the collage, focusing first on the girl on the balcony, her face calm, hopeful. Birds fly gently across the sky.\n\nMIDDLE (5s - 10s):\nTransition to the floating staircase scene. The steps softly animate upward, clouds swirl. The girl’s figure walks upward, and the whale scene emerges. The whale slowly glides through the water, with a subtle whale call sound in the background.\n\nENDING (10s - 15s):\nThe camera pans back slowly, the girl fades into the dreamlike environment. Floating lanterns rise as the music swells. The screen fades to black, leaving a soft golden glow.\n\nMood:\nEmotional, nostalgic, and magical—like forgotten dreams coming alive.\n\nLighting:\nWarm sunset glow, soft moonlight, reflective water surfaces.\n\nMusic:\nSoft piano, ambient whale sound, gentle wind noises.\n\nQuality:\nUltra-HD 4K resolution, smooth transitions, and realistic facial continu",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "69011b9c-9b42-4d87-94d5-071b100d4e2b",
+    "mediaTitle": "Extract image from left",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 03:07:46.225226-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the image on the left from the middle, above where it says VICH, do not beautify, keep the exact same position, makeup, and everything the same, do not change the position.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

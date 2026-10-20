@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4e805eac-e74b-4503-814f-491a958df653",
+    "mediaTitle": "Man lying on bed shorts",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-05-10 03:25:26.367585-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "pon al de negro acostado en la cama en shorts ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

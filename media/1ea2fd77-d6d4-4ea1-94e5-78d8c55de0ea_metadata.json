@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1ea2fd77-d6d4-4ea1-94e5-78d8c55de0ea",
+    "mediaTitle": "1000635982.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:03:58.817851-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Haz un acercamiento ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "3aeff99c-aafd-48ee-b64e-da4e26375c90"
+    }
+  }]
+}

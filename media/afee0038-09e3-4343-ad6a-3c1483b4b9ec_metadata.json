@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "afee0038-09e3-4343-ad6a-3c1483b4b9ec",
+    "mediaTitle": "Modificar pared personas y pantalla",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-12 06:28:56.368974-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "la pared debe ir de color rosa, cambia a las personas sentadas deben parecer las personajes de la imagen adjunta. mantén la misma posición que la imagen uno y haz un 50% más grande la pantalla.  La pantalla debe estar libre, es decir las cabezas no deben taparla.  adaptada a tamaño vertical ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

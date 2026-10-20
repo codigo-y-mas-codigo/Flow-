@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9fe52973-a5fc-473c-a45c-5fbdcede0b3e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2025-11-22 04:50:04.587178-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Potencia tu Mesa Directiva: Aprender a Ser un Líder Efectivo en Condominios. texto en español. Personas mexicanas. portada de curso hotmart ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

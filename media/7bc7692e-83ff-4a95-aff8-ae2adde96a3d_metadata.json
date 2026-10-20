@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7bc7692e-83ff-4a95-aff8-ae2adde96a3d",
+    "mediaTitle": "Underground root networks diagram",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 10:16:09.803762-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "SCENE_02. Style: Vox-style editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn edges on a warm cream textured paper background. Archival photographic cutouts, hand-drawn annotations. Typography: \"RED SUBTERRANEA IMPATABLE\" in heavy condensed sans-serif all caps, navy ink. Scene: Felt-tip arrow diagram showing underground root networks beneath a paper road cutout. Hand-drawn circles and highlighter sweeps. Soft realistic drop shadows. palette: cream, navy, charcoal, brick red, highlighter yellow. No index numbers.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

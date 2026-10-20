@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "52648876-3529-4e99-9fcd-106578fc351d",
+    "mediaTitle": "Resume poster for Senior Brand D…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 10:30:36.019463-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "High-density archival editorial layout for a Senior Brand Designer resume poster. Asymmetric two-column grid. On the left: Large black and white cropped portrait of Luis Ángel (Ref 1) entering from the top, sharp outlines, dissolving into a milky white fog at the bottom. Behind him, thin-line symbols and enlarged letters are partially visible. A vibrant, high-purity accent color (electric blue) is used for a handwritten signature over the fog area. Below the portrait: Bold geometric sans-serif title \u0027LUIS ÁNGEL\u0027 and light italic subtitle \u0027Senior Brand Designer\u0027. \n\nOn the right and bottom: Compact, left-aligned modules of text. Section headers are bold. Body text is a rounded geometric sans-serif. Experience sections separated by thin dashed lines and short paragraphs. Skill levels shown with symbolic abbreviations and small hollow circles. Contact info marked with small filled square icons. \n\nThe color palette is a bright, neutral low-saturation background with monochrome black/grey text. Electric blue accent color only on small details: signature, years, dots, and icons. Matte fibrous paper texture with fine grain and scan-like irregularities. Open dashed-line positioning frames in the four corners. Clean, rational, professional archival aesthetic. 9:16 vertical format.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

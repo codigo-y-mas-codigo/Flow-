@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "45818247-53e8-45f6-b74e-5dbd0e4e1fd0",
+    "mediaTitle": "Chihuahua puppy sitting in flowers",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:52:35.802995-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt in a kawaii style, with the raccoon replaced by a brown Chihuahua puppy:\n\n\"A super cute and fluffy brown Chihuahua puppy, with big, sparkling eyes and tiny paws, wearing a little pink bow. The puppy is sitting in a field of pastel-colored flowers, with tiny hearts floating around its head. The overall style is soft, dreamy, and incredibly kawaii.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "067059a4-2441-4095-84b8-b5c4fca6cb95",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2025-11-22 05:55:51.291453-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Aprender a Ser un Líder Efectivo en Condominios. texto en español.DEBE LEERSE CLARO ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

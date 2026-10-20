@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "29f14615-2a51-43ca-8570-665438806fbb",
+    "mediaTitle": "Cambiar color pared y pantalla",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-12 06:26:51.021968-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "la pared debe ir de color rosa, cambia a las personas sentadas deben parecer las personajes de la imagen adjunta. mantén la misma posición que la imagen uno y haz un 5% más grande la pantalla.  La pantalla debe estar libre, es decir las cabezas no deben taparla.  ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

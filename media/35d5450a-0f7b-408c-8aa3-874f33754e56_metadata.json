@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "35d5450a-0f7b-408c-8aa3-874f33754e56",
+    "mediaTitle": "Pink t-shirt flatlay mockup",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 14:00",
+    "projectId": "8d5e264d-bb6f-4673-9ec2-c6626894eaa1",
+    "createdAt": "2026-09-21 13:11:11.219209-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "product photography style, photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting. 9:16 vertical. A flatlay mockup of a pastel pink t-shirt on a clean studio background. The t-shirt features a graphic design of a cute amorphous pink creature (Ditto) adorned with asymmetrical Y2K pastel ribbons and a classic pearl necklace. The creature has a strict closed-mouth smile (sonrisa de labios cerrados). The design includes the letters \"LAMP\" stylized as a tiny pearl charm. Text on the image if any must be in Spanish.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR"
+    }
+  }]
+}

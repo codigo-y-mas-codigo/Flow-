@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4ac9cc18-bcd9-451a-a67f-6dbde46b9107",
+    "mediaTitle": "Man reaching for holographic con…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:58:24.105339-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "6s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

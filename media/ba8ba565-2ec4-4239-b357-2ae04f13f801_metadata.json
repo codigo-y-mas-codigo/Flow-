@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ba8ba565-2ec4-4239-b357-2ae04f13f801",
+    "mediaTitle": "Transforming jet to robot battle",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-27 00:51:28.927844-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "\n\n\"From epic robots to cinematic action scenes, create ultra-realistic visuals with unmatched speed, detail, and creativity, all in just a few clicks.\n\n\nPrompt: \n15 seconds | Transforming Jet | Single continuous take. Camera tightly tracking the man at all times, Seamless mid-air transformation sequence.\n\n0-1s Medium shot, The jet morphs while flying between iconic Mexico City buildings in dense urban traffic,\n\n1-7s A man climbs out of the jet main cockpit, runs across the moving metallic parts of the transforming mech, the jet suddenly begins to violently disassemble and reassemble from the inside out in seamless mid-air transformation sequence. It transforms into a grumpy, evil cybertronian giant mechanical robot.\n\n7-9s The man enters a top-mounted gunner turret as the mecha makes a heavy superhero landing in a wide avenue with the Torre Latinoamericana and the Angel de la Independencia prominently visible in the cloudy background, dramatic CDMX skyline.\n\n9-12s The man fires a multi-barrel gatling gun from the turret, while the mecha walks and shoots at a giant alien beast on the streets of CDMX until it collapses near historic buildings.\n\n12-14s The man climbs out of the gun turret and traverses the mecha\u0027s exterior to enter the cockpit. The mech folds back into its jet form as it continues to fly over the city.\n\n14-15s Cut to an interior close-up shot inside the cockpit, showing the man\u0027s stoic face as he pilots the jet, with Mexico City skyline visible through the canopy.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

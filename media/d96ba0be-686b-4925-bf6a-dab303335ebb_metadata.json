@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d96ba0be-686b-4925-bf6a-dab303335ebb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 03:29:00.515806-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Use this exact composition and pose. Convert to photorealistic style. Woman standing, leaning forward, hands gently on lion\u0027s mouth, lion crouching low at her feet, full body shot, flower crown, white dress, floral garland, glowing infinity symbol above head, golden meadow, blue mountains, warm golden sky, 8k cinematic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

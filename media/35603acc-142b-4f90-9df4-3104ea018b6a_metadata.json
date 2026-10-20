@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "35603acc-142b-4f90-9df4-3104ea018b6a",
+    "mediaTitle": "Man breathing blinking serious e…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 20:21:46.800345-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

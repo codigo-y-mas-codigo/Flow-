@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6a7df96c-7ce3-449d-acf5-d1330f721819",
+    "mediaTitle": "Superhero flying with dogs Mexico",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-07-30 08:55:14.726814-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

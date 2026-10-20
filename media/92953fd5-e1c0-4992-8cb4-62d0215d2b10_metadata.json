@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "92953fd5-e1c0-4992-8cb4-62d0215d2b10",
+    "mediaTitle": "Two intertwined figures illustra…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-13 12:21:39.758231-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Quebla hug backwards.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "647b6e75-9f45-42c5-adef-21a89a7d6bbc"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2ddb4bf4-2f01-4ca5-9bfc-388f362b33db",
+    "mediaTitle": "Male demon speaking to camera",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-08-04 02:57:58.579837-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt, as requested:\n\n\u003e **Prompt:** A cinematic vertical 9:16 TikTok video of a charismatic male demon character inspired by image_0. The character has black demonic horns, pointed elf-like ears, pale skin, dark black eye makeup with tear-like trails, a lean muscular build, wearing a black leather chest harness and black jeans. He has a long split snake-like tongue. The lighting is cinematic, moody dark aesthetic with glowing neon emerald green accents and subtle dark smoke in the background. The demon is speaking directly to the camera in Spanish with dramatic expressions, subtle cheeky smirk, and realistic facial lip-sync. Ultra-realistic, 8k resolution, photorealistic, viral TikTok style depth of field.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

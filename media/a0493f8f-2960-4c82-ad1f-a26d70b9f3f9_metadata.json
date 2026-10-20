@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a0493f8f-2960-4c82-ad1f-a26d70b9f3f9",
+    "mediaTitle": "Girl asking tarot reader about l…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 26 - 04:30",
+    "projectId": "fc43e9fa-e286-4a18-9a26-39b625c2811b",
+    "createdAt": "2026-09-26 19:55:41.638987-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

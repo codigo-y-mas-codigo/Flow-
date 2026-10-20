@@ -1,0 +1,17 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9e10867f-eb95-41fd-9559-882a6495a5d5",
+    "mediaTitle": "imagen_20260920023104.jpeg",
+    "mediaType": "IMAGE",
+    "source": "uploaded",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "character": "MiaPorrista",
+    "characterId": "d107329a-0a5e-4ad6-95c8-72fea3e8ad80",
+    "createdAt": "2026-09-20 01:31:35.813894-07",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    }
+  }]
+}

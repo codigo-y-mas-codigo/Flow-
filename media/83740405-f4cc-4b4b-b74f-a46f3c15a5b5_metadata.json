@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "83740405-f4cc-4b4b-b74f-a46f3c15a5b5",
+    "mediaTitle": "Erase_texts_combine_images_white…_202607231444.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-08-23 22:38:20.752309-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "haz una pieza promocional para esos stickers de WhatsApp de hachi el malchi .",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "526c8baf-e92b-4612-9c11-dd86a42251cc"
+    }
+  }]
+}

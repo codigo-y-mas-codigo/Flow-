@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d0a4d064-7c3a-4cdc-8469-6d39a84616f2",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 16 - 01:38",
+    "projectId": "122401e3-570f-4e50-8846-0e5465adb5f7",
+    "createdAt": "2026-09-16 00:56:09.562209-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "limpia de arboles, y carros y todo aquello que parezca captura de pantalla , quiero ver el edificio sin modificaciones, ni cambios en la estructura. desde el mismo angulo mismo enfoque, no alteres la toma. cables de luz, . no cambies el angulo , mantenlo exacto. se fiel a la iamgen del edificio  , no inventes ni agreges elementos extras. no cambies de enfoque angulo . ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "47d87658-b92a-4227-a20b-e9e358df74ad"
+    }
+  }]
+}

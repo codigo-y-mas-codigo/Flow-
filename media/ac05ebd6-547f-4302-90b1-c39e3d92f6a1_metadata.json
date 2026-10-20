@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ac05ebd6-547f-4302-90b1-c39e3d92f6a1",
+    "mediaTitle": "Comparing character positions",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 13:19:52.387396-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "What would the character from image two look like in the position of character number one?",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

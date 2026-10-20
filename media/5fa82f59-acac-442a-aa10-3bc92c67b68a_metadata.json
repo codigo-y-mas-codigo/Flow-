@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5fa82f59-acac-442a-aa10-3bc92c67b68a",
+    "mediaTitle": "Adapting prompt for horizontal b…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-13 11:09:54.344976-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt, adapted for a horizontal banner:\n\n**\"Adapt it to horizontal size, it will be a banner.\"**",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

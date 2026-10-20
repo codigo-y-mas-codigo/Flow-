@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d9ee89a5-2710-4087-877c-a2325f1e74aa",
+    "mediaTitle": "1075ea8c-61ec-41ad-816d-526fe561df66-1_all_66678.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-06-22 00:55:23.691839-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Handsome muscular man with short hair, shirtless, exhaling thick glowing green toxic vapor from mouth, neon green glowing eyes with energy cracks spreading on face and chest, intense gooner expression turning demonic, tongue out with drool, then putting on gas mask with glowing green eyes visible through lenses, warm indoor lighting turning into cyber-demonic, sweat and shiny skin, high detail energy effects, PixVerse style, lustful evil transformation",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "6ce4e3f7-97cc-48ee-87fa-63f91b852023"
+    }
+  }]
+}

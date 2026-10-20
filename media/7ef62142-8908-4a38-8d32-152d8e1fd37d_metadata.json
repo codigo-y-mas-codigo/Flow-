@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7ef62142-8908-4a38-8d32-152d8e1fd37d",
+    "mediaTitle": "Man exhaling toxic vapor gas mas…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-06-22 00:52:03.286882-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

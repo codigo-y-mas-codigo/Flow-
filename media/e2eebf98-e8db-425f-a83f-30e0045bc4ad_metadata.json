@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e2eebf98-e8db-425f-a83f-30e0045bc4ad",
+    "mediaTitle": "Black mug with energy graphic",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:51:00.625149-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "extract the mug design",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE",
+      "parentMediaId": "93c93c30-12eb-4b7c-a96e-ea3c007e61e8"
+    }
+  }]
+}

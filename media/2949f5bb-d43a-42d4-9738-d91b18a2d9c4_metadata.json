@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2949f5bb-d43a-42d4-9738-d91b18a2d9c4",
+    "mediaTitle": "Extracting image from position",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 02:47:58.662817-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the image from the upper left, middle, do not beautify, keep the exact same position, makeup, and everything the same.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

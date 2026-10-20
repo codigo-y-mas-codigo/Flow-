@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d8cbe992-07a5-4a31-bb8f-eee3bd5674fe",
+    "mediaTitle": "Adapt it to horizontal size",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 04:37",
+    "projectId": "e409cd8c-246c-4004-843c-ff0793156b9d",
+    "createdAt": "2026-10-07 03:47:04.967345-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Adapt it to horizontal size",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

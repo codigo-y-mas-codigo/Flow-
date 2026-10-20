@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "80fca83c-e5b2-4807-bdce-034bd23dd9df",
+    "mediaTitle": "Surreal apocalyptic Mexico City …",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:20:28.605312-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

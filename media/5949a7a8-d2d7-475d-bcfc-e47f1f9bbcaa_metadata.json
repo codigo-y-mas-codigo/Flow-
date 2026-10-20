@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5949a7a8-d2d7-475d-bcfc-e47f1f9bbcaa",
+    "mediaTitle": "Red ceramic coffee mug graphic",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:48:51.756701-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A high-quality product photo of a minimalist matte red ceramic coffee mug. On the side, a clean golden metallic lightning bolt graphic merging with a coffee cup icon. Sleek, high-contrast, studio lighting, white background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

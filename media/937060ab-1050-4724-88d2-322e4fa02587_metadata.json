@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "937060ab-1050-4724-88d2-322e4fa02587",
+    "mediaTitle": "Leave center lightning bolt erase",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:08:32.496579-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nLeave the center lightning bolt, erase the other two.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

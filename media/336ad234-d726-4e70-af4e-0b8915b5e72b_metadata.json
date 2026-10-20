@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "336ad234-d726-4e70-af4e-0b8915b5e72b",
+    "mediaTitle": "Kodak Portra 100T studio lighting",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:47:46.770150-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Kodak Portra 100T studio lighting, --ar 3:2 --stylize 160 --v 8.1 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

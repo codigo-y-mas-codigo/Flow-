@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dab3ad61-07b7-4db6-afa1-801877a21a86",
+    "mediaTitle": "Man\u0027s hand breaking diet",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-04 02:50:50.083042-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Change the fonts to be more original, making them look like they have movement or resemble logos. The style should be emoji-like. In relation to breaking diets.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "9b49e3e8-ead2-4ec3-8cf2-3c28b3fd0a99"
+    }
+  }]
+}

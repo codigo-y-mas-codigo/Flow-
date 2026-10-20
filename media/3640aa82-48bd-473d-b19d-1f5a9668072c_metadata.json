@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3640aa82-48bd-473d-b19d-1f5a9668072c",
+    "mediaTitle": "Man in leather suit pleasure",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-27 00:42:38.013276-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "The standing person unzips the seated person.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "c3b743f9-a5bf-4999-a825-ba651e5a5d54"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c0bad12f-46d1-4549-9dae-e19409062387",
+    "mediaTitle": "Moon with dark palace painting",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:27:14.443421-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "An atmospheric oil painting depicting a close-up of the moon featuring Rita Repulsa\u0027s dark palace. Rendered in the swirling post-impressionist style of Van Gogh\u0027s Starry Night, deep blues, vibrant yellow swirls of starlight, textured heavy impasto brushstrokes.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

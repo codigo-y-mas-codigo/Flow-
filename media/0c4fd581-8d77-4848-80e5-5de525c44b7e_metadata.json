@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0c4fd581-8d77-4848-80e5-5de525c44b7e",
+    "mediaTitle": "Person expressing frustration",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:50:38.461845-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "\"I am this close to getting a slam\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

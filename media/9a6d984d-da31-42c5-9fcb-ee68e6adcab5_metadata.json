@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9a6d984d-da31-42c5-9fcb-ee68e6adcab5",
+    "mediaTitle": "Me gusta fondo imagen elementos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:39:41.076266-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Kodak Portra 100T",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ed10c709-85fb-4115-bf02-de4530608b8a"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "53eb3ebd-89db-4e5f-bda5-4e0c3571d78b",
+    "mediaTitle": "Storyboard for synth-pop music v…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "15-may, 09:04 p.m.",
+    "projectId": "953251ce-0900-418e-addb-214ae2d3e96c",
+    "createdAt": "2026-07-03 03:23:00.587174-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard for the synth-pop music video \u0027Mejor hazme robot\u0027 in a 2x3 grid layout (2 columns, 3 rows). \n\nGRID LAYOUT: 6 panels in a single 9:16 composite image. Thin white borders.\n\nSTORYBOARD FRAMES:\nPanel 1: The man from the reference image, wearing a simple linen shirt, looking at himself in an old mirror. Melancholic amber lighting.\nPanel 2: The man from the reference image putting on the specific white and green armor from the reference image. The helmet is on, and the visor shows a green pixelated smiley face :).\nPanel 3: The man half-armored reaching out to an object that is glitching into digital voxels.\nPanel 4: The man fully encased in the reference armor, visor showing a smiley face :), floating in a white digital void with neon green data streams.\nPanel 5: The man in full armor with the smiley visor :) in a vibrant digital dimension with neon grids.\nPanel 6: The armored character with smiley visor :) next to a flickering digital ghost of his human self.\n\nCONSISTENCY:\n- Use the EXACT man (dark hair, goatee) and EXACT armor (white/gray with green accents and chest emblem) from the reference image provided. Do not alter his features or the suit design.\n- The only change is the addition of the pixelated smiley face :) on the visor once the helmet is worn.\n- 9:16 overall aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

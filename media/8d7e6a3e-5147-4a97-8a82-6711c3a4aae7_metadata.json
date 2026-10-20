@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8d7e6a3e-5147-4a97-8a82-6711c3a4aae7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 20:44:57.342920-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "necesito el abecedario completo con con la tipografia the fool, arma el abecesario en mayuscula completo e incluye los numeros , como titulo ponle Font Raider West Smith by Luis Angel Maciel . en fondo blanco ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

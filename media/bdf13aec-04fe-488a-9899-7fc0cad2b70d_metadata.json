@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bdf13aec-04fe-488a-9899-7fc0cad2b70d",
+    "mediaTitle": "1777358970114.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 01:28:38.496087-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Change the game of Minecraft to one of Mario Bros.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "97160bed-f77c-4d91-9af3-7ac1cd3a255d"
+    }
+  }]
+}

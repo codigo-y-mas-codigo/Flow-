@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "94e61b9d-8e43-4abd-89ec-a4f7694c30e8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 21:34:37.014330-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "I need the complete alphabet in The Fool font. Create the complete uppercase alphabet, including numbers. Use the title \"Font Raider West Smith by Luis Angel Maciel\" on a white background. It\u0027s important that the letters resemble those in The Fool; use that style for all of them.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

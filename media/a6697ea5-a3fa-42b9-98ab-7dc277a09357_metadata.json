@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a6697ea5-a3fa-42b9-98ab-7dc277a09357",
+    "mediaTitle": "I\u0027m about to slam.",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:48:39.828109-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "I\u0027m about to slam.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

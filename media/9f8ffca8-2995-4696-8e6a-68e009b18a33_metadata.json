@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9f8ffca8-2995-4696-8e6a-68e009b18a33",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 03:31:24.689240-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Cinematic photorealistic style, high-fashion grade, punchy but natural contrast, refined filmic color science, subtle halation and lens bloom, controlled highlights, soft roll-off, realistic skin pores and texture, lifelike hair strands, premium fabric rendering, studio-quality lighting with natural depth, 8k. A real human young woman with pale skin, late teens to early twenties, short light brown or blonde curly hair, wearing a delicate wreath, dressed in a long, flowing white gown with wide sleeves and a red and green floral garland around her waist. She is bent at the waist, gently holding the upper and lower jaws of a majestic, solid red lion with a thick curly mane and tail, standing submissively on a light green grassy field. A black ink infinity symbol floats above and slightly to the left of her wreath. The background features stylized blue mountains with white peaks across the horizon, a band of bright green trees, and a solid bright yellow sky.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

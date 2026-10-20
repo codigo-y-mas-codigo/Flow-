@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6075331b-7252-4a0d-94fa-5b624d87bbdc",
+    "mediaTitle": "Storyboard 3x3 grid layout",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:33:51.022432-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Create a visual storyboard as a SINGLE IMAGE arranged in a 3x3 grid layout (3 columns, 3 rows) in 9:16 vertical format.\n\nGRID LAYOUT INSTRUCTIONS:\n- The image must be a single composite image divided into a 3x3 grid of 9 equal panels.\n- Each panel is vertical (9:16).\n- Maintain a consistent visual style, soft diffused lighting, and cinematic atmosphere across all panels.\n\nCHARACTERS (using reference f2a48ab3-c040-4086-a831-c684440684c3 for robot and environment):\n1. Unit-7: White and black robot with green glowing smiley visor.\n2. Casper: Large white dog with a long teal silk scarf.\n3. The Clouds: Five identical small white fluffy dogs.\n4. Pico: Tiny brown chihuahua with tongue out to the side.\n\nFRAMES:\nPanel 1: Unit-7 robot floats alone in the minimalist white chamber.\nPanel 2: Casper the large white dog with teal scarf floats individually.\nPanel 3: The first small white fluffy dog floats alone.\nPanel 4: The second small white fluffy dog floats alone.\nPanel 5: The third small white fluffy dog floats alone.\nPanel 6: The fourth small white fluffy dog floats alone.\nPanel 7: The fifth small white fluffy dog floats alone.\nPanel 8: Pico the tiny brown chihuahua floats alone with his tongue out.\nPanel 9: The full ensemble (Robot + all 7 dogs) floating together in a coordinated vertical composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

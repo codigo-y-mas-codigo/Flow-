@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "757290d9-06e2-48c9-8dfc-c496f63ac715",
+    "mediaTitle": "Storyboard showcasing bamboo and…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 10:00:50.585173-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A single 9:16 vertical storyboard sheet containing 6 numbered panels arranged in 1 column x 6 rows.\n\nSTYLE:\nHyper-realistic cinematic photography. High-detail textures of bamboo wood grain, earth, and foliage. Natural organic aesthetic with a professional documentary feel. Soft natural sunlight, deep shadows, and shallow depth of field.\n\nPALETTE:\nOrganic earthy tones: forest greens, bamboo wood yellows, rich soil browns, and slate greys.\n\nTYPOGRAPHY:\nNatural, elegant serif or hand-lettered ink style. The text looks like it was carefully written or printed on high-quality paper. Understated and integrated into the scene.\n\nGRID LAYOUT:\nArranged in 1 column x 6 rows. Each panel features a subtle, minimalist number in the corner.\n\nPanel 1:\nText: \"AMENAZA VEGETAL SILENCIOSA\"\nVisual: A sharp macro shot of a green bamboo stalk standing powerfully next to a rusted, industrial steel I-beam in a forest.\n\nPanel 2:\nText: \"RED SUBTERRANEA IMPATABLE\"\nVisual: A cross-section view of the earth showing thick, gnarled bamboo rhizomes (roots) snaking through the soil beneath a cracked asphalt road.\n\nPanel 3:\nText: \"DIA MUNDIAL DOS MIL NUEVE\"\nVisual: A close-up of a weathered stone or wooden plaque with \"2009\" engraved on it, resting on a bed of bamboo leaves with a world map background.\n\nPanel 4:\nText: \"ABSORCION CARBONO CUATRO X\"\nVisual: A beautiful shot of a dense bamboo forest with visible sunbeams (Tyndall effect) filtering through a light mist, symbolizing fresh air.\n\nPanel 5:\nText: \"REEMPLAZO INDUSTRIAL MASIVO\"\nVisual: A juxtaposition of modern bamboo construction materials (laminated beams, flooring) sitting in front of a blurred, distant industrial skyline.\n\nPanel 6:\nText: \"DIECIOCHO DE SEPTIEMBRE\"\nVisual: A close-up of a high-quality paper map with a single, real bamboo leaf resting over a highlighted geographic region.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

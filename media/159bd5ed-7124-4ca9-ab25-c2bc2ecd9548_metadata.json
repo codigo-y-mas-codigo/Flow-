@@ -1,0 +1,16 @@
+{
+  "mediaEntries": [{
+    "mediaId": "159bd5ed-7124-4ca9-ab25-c2bc2ecd9548",
+    "mediaTitle": "Animate image.",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-04-28 00:02:48.528357-07",
+    "modelName": "Veo 3.1 - Lite",
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "2da839c1-f415-4c50-8ae2-23d07d1ec2af"
+    }
+  }]
+}

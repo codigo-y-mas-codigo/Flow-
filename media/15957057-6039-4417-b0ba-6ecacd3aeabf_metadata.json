@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "15957057-6039-4417-b0ba-6ecacd3aeabf",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "oct 07 - 05:04",
+    "projectId": "5d6d2a66-8437-4083-a8c1-547e9a2d7256",
+    "createdAt": "2026-10-07 05:25:52.060605-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Make the logo more aesthetic and present 5 options in the same image.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "2878551a-c7a5-4f1a-a4bf-60c0c15aac71"
+    }
+  }]
+}

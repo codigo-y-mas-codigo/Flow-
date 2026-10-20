@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "41d83fbc-3e6c-420c-9871-ea303cb6cfd2",
+    "mediaTitle": "Black cap with gold lightning bo…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:10:06.140984-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A high-quality product photo of a black 5-panel streetwear cap on a neutral light background. On the side-front panel, there is a tiny, delicate, clean gold embroidered lightning bolt. Sleek, high-contrast, studio lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

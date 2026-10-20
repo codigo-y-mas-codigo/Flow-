@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "90283f34-11ba-4bd6-9e05-0227180af4a5",
+    "mediaTitle": "captura_021_[6-40].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 11:02:52.938012-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Aquí tienes la traducción del prompt de imagen al inglés, manteniendo el texto original en español donde se solicita:\n\nCreate a premium glowing educational bento-grid poster in the style of a soft futuristic glassmorphism interface.\nUse aspect ratio 4:3.\nGenerate a bento grid with exactly 6 tiles.\nUse these exact tile labels: Hierarchy | Contrast | Alignment | Spacing | Consistency | Clarity\nAutomatically calculate the most balanced composition.\nUse semantic_auto mode for colors and VISUALS_MODE \u003d AUTO to create abstract visual metaphors for each principle without extra text.\nBackground: navy.\nMore glow.\nSpanish version.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "ab8ad338-9163-4309-9aa7-73e3ba75679f"
+    }
+  }]
+}

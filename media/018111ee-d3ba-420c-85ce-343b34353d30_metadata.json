@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "018111ee-d3ba-420c-85ce-343b34353d30",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 23/11/25",
+    "projectId": "15e7db74-90b4-4fb6-82dd-e8c63e324e8e",
+    "createdAt": "2025-12-09 10:35:03.014553-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Create a business card with the name Elizabeth Maciel Padilla, phone number, and email address. agrega el sitio web elizabeth.maciel@mac360.com.mx agrega 55 8767 0170  ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

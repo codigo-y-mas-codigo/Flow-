@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8ffdc777-0ee0-4e89-a14b-908089399cba",
+    "mediaTitle": "Cambia de rojo a morado",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 13:07:11.811397-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "0b5d62d8-f9c7-4f0d-a1d5-2d9d6f0fba60"
+    }
+  }]
+}

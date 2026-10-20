@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0b217828-49b0-478d-bfd5-e9732e3f21c9",
+    "mediaTitle": "Modificar pared color rosa y pan…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-12 06:32:37.511572-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "la pantalla hazla mucho mas grande y borra la maceta de plantas que esta en la parte derecha. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "30a9c078-9aa6-4b4d-9518-844b76e4c3e5"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "da77e075-e899-4387-b5d3-73196cc5e011",
+    "mediaTitle": "Mariachi Pop song lyrics",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:56:26.090948-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cambia al personaje por el de la imagen adjunta. Las tipografías hazlas con transparencia y más elegantes ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "52acbb99-ddd9-4100-89b7-bcd8b754e51b"
+    }
+  }]
+}

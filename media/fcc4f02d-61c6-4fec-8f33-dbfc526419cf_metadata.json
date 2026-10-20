@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fcc4f02d-61c6-4fec-8f33-dbfc526419cf",
+    "mediaTitle": "Man\u0027s hand breaking diet",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:46:37.217798-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "I\u0027m this close to slamming my head against a desk.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "dab3ad61-07b7-4db6-afa1-801877a21a86"
+    }
+  }]
+}

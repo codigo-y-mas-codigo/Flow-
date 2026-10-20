@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "902c8ec0-fa0d-4b2d-b968-9283e9149bb3",
+    "mediaTitle": "Character creating digital design",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 03:20",
+    "projectId": "5ea84ca6-81ae-4ce4-9ea9-b141ea2c7836",
+    "createdAt": "2026-09-17 02:22:17.152937-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A clean 2D cartoon illustration in a simple, minimal cartoon style with a flat digital look.\n\nScene: same bedroom workspace, daytime, soft natural light.\nCamera: medium close-up, side angle, focused on the character and drawing tablet.\n\nCharacters: 1 stick-figure character with a BIG ROUND HEAD that is ALWAYS PURE WHITE, tiny dot eyes, minimal simple mouth. The body is simple and minimal. Arms, legs, and hands are BLACK stick-line outlines, not filled. Clothes and accessories are simple flat shapes with solid fills: blue hoodie, dark pants, black headphones.\n\nAction: the young man confidently creates a colorful digital design using a laptop and drawing tablet, mood is focused and motivated.\n\nBackground: simple clean shapes, flat muted colors, solid fills, crisp edges, uniform line weight, no visible brush strokes, no paper texture, no sketchy lines, clean readable composition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

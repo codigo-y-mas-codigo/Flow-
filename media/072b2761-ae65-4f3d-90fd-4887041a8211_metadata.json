@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "072b2761-ae65-4f3d-90fd-4887041a8211",
+    "mediaTitle": "Serpiente verde y personaje",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 08:22:11.092388-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Ponle verde loa estrella de tras y sus ojos normales. La serpiente de color verde y pon cabello al personaje principal ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ee4f5c10-ed94-4a6d-b9a3-20a6f3b78429"
+    }
+  }]
+}

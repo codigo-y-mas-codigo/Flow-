@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b40b3411-862b-4e97-98d2-66c83b0597b0",
+    "mediaTitle": "Erase texts combine images white…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 13:36:46.860100-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Erase the texts and combine all the images into one image with a white background. No text. Improve the quality.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

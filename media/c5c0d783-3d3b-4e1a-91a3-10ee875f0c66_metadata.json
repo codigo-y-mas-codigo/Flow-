@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c5c0d783-3d3b-4e1a-91a3-10ee875f0c66",
+    "mediaTitle": "Extracting design for socks prin…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 14:00",
+    "projectId": "8d5e264d-bb6f-4673-9ec2-c6626894eaa1",
+    "createdAt": "2026-09-21 14:15:26.996614-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "Extract the design, without background, as I need it to print on socks.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2a541481-b6f4-4504-8379-e4ec69f25bdd",
+    "mediaTitle": "Couple touching foreheads silhou…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "05-ago, 12:27 a.m.",
+    "projectId": "20469019-b3d2-4cbc-8091-2e1aee6db5d2",
+    "createdAt": "2026-08-05 02:00:49.265069-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Close-up silhouette of a couple hombre y hombre almost touching foreheads, warm amber and deep red lighting, smoke or steam in the air, shallow depth of field, cinematic album cover photography, moody and intimate, no explicit content\n\n**Texto (ES):** \"Me Vuelves Loco\" — script dorada, esquina inferior.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5b0afa07-ed99-4635-a29f-c66c9291a83e",
+    "mediaTitle": "Orchestra explosion with conduct…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 09:02:06.701641-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1\r\n¿Aprueban este Batman? \r\n\r",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f3e3f435-8968-44e4-ad2c-808da59e145a"
+    }
+  }]
+}

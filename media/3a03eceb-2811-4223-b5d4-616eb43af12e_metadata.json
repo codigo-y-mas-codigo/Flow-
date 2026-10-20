@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3a03eceb-2811-4223-b5d4-616eb43af12e",
+    "mediaTitle": "Gemini_Generated_Image_efb6d1efb6d1efb6.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:23:48.988679-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"extract the design of the cyperbpunl logo without mukpup.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "18f1aace-554f-4548-8ea8-76d2cce3d98b"
+    }
+  }]
+}

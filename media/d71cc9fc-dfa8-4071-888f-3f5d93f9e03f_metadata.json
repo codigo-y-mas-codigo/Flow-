@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d71cc9fc-dfa8-4071-888f-3f5d93f9e03f",
+    "mediaTitle": "Tarot diorama stop-motion evolution",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 17 - 04:14",
+    "projectId": "18470725-d3a5-4073-a01d-b5867cff4899",
+    "createdAt": "2026-09-17 03:16:18.101364-07",
+    "modelName": "Nano Banana 2",
+    "isFavorited": true,
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "GLOBAL SPEC — STYLE: 3D DIORAMA TAROT STOP-MOTION \u0026 DYNAMIC PHOTO EVOLUTION\nCinematic 3D tactile miniature diorama set based on the Rider-Waite-Smith Tarot. Handcrafted 3D resin, clay, and heavy paper stop-motion figures and environments on a detailed mini stage. Studio lighting with dramatic rim light, volumetric shadows, rich saturated color palette, and subtle tilt-shift depth of field.\n\nPHOTO \u0026 CARD EVOLUTION EFFECT:\nArchival Rider-Waite-Smith tarot card illustrations and historical photos begin in high-contrast black-and-white duotone, instantly shift into warm vintage Kodachrome/lithographic color tones, and finally morph into a modern crisp hyper-realistic 3D render inside the diorama.\n\nTYPOGRAPHY \u0026 SYMBOLS:\nLarge, bold 3D kinetic typography with mystical editorial serif custom letterforms (tarot aesthetic), textured in solid matte or gold-foil finish, casting realistic soft shadows on the diorama background. Text snaps into place on the beat with stop-motion timing. Textos en español. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

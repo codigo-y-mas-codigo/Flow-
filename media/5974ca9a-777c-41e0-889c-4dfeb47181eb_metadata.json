@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5974ca9a-777c-41e0-889c-4dfeb47181eb",
+    "mediaTitle": "1777354604135.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 06:27:12.532054-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make the one in yellow taller and change her hairstyle.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "fef37cb5-46b6-43a8-a1aa-a1266627ae71"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "90f217a7-d630-4b5f-aa29-41e316e6b6ca",
+    "mediaTitle": "Vintage repeating pattern pop-art",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 18:48:02.386930-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A vintage repeating pattern, pop-art style. Flat illustrations of iconic 90s items: a leather punk jacket, a spiked bat, retro sunglasses, and a spilled cup of juice. Pastel background, bold outlines, screen print aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

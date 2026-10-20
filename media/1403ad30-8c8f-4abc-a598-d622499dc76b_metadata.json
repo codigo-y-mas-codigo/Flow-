@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1403ad30-8c8f-4abc-a598-d622499dc76b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 03:55:08.271223-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "el vestido blanco y con flores alrededor de la cintura ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "622ceff2-7d37-4752-aa18-f581d90d7bb0",
+    "mediaTitle": "Man transforming into superhero …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 08:12:42.391760-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A 9:16 vertical shot of a Hispanic man with dark hair standing on a rooftop at night. Glowing electric blue lightning surges across his body with a loud electrical spark SFX. In a flash of light, his clothing rapidly morphs into a high-tech superhero suit with glowing blue lines. Dynamic lighting, high-contrast atmospheric sound.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

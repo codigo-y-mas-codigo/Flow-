@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dfcab0f4-c4d5-4b54-a347-49d9358db8c0",
+    "mediaTitle": "Change typography and coffee",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:27:54.024405-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated and edited image prompt:\n\n\"Change the typography to a less cliché, more original style that looks like a logo. Change the hand\u0027s style to a more personalized hand, but with the same gesture. And change the coffee to something referring to having copulatory relations.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

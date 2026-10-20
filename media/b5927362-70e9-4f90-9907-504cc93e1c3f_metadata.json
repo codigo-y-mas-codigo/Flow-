@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b5927362-70e9-4f90-9907-504cc93e1c3f",
+    "mediaTitle": "Changing angle to inside",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 12:02:40.741223-07",
+    "modelName": "Nano Banana 2",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

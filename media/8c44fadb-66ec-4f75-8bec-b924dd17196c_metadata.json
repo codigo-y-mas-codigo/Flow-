@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8c44fadb-66ec-4f75-8bec-b924dd17196c",
+    "mediaTitle": "Diablo con cuernos y humanos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:10:57.920200-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "El fondo obscurecelo y que lo verde parezca fuego verde . Y el arcano original tiene unido a los personajes por medio de una cadena. Hazla visible . Agrégale cuernos grande al diablo y borra las serpientes. Las colas de los humanos, parece tienen fuego y la otra una fruta. ponlos de pie.texto en español ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

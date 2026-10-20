@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0d30fa01-9b06-49cc-94cb-0043f72ffe75",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:55:05.827131-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Tarot cards spread on dark surface, candlelight, hands reaching toward cards, cinematic, mysterious",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

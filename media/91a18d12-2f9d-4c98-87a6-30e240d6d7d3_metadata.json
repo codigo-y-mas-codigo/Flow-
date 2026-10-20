@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "91a18d12-2f9d-4c98-87a6-30e240d6d7d3",
+    "mediaTitle": "Male model reclining in daisies",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 04:41:23.003936-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Prompt:\nUltra-realistic cinematic fashion campaign shot of a handsome male model lying relaxed in a vast blooming daisy field during golden hour sunset. The camera angle is slightly low and close-up, capturing the model reclining naturally among thousands of white daisies with yellow centers. Warm sunlight softly illuminates the face and flowers, creating dreamy highlights and gentle shadows.\n\nThe model is wearing the exact provided oversized white graphic t-shirt from the product image, maintaining the same eagle artwork placement, proportions, fabric texture, neckline, sleeve fit, and overall design without any modifications. Styled with loose black trousers.\n\nExpression is calm andconfident, looking directly toward the camera.\n\nBackground filled endlessly with soft-focus daisies and natural greenery, creating a peaceful editorialluxury aesthetic. Shallow depth of field, soft cinematic bokeh in foreground flowers, muted earthy tones, premium streetwear campaign vibe, highly detailed skin texture, natural hair, realistic lighting, fashion magazine photography, shot on 85mm lens, ultra photorealistic, high-end editorial styling, 1:1 aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

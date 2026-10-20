@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "22196296-3c0e-4f50-aa87-e26083ed665b",
+    "mediaTitle": "Man from reference photo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:42:30.756324-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

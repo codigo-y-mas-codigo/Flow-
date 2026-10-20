@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "06e544f7-f94e-486f-8b53-7e1923998975",
+    "mediaTitle": "Structured geometric cocktail dress",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:59:57.159913-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A fashion product shot of a structured geometric cocktail dress. Features an abstract gold, silver, and metallic charcoal gray pattern inspired by angular mechanical armor panels. Sharp tailoring, Art Deco influences, high-end textile.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

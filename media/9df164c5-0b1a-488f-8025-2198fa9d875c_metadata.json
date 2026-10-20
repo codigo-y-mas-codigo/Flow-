@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9df164c5-0b1a-488f-8025-2198fa9d875c",
+    "mediaTitle": "Luis Ángel Maciel professional p…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 09:19:12.266866-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Change the shirt to a dress shirt.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "013c8a94-20f2-4759-8d08-72cc3d7061de"
+    }
+  }]
+}

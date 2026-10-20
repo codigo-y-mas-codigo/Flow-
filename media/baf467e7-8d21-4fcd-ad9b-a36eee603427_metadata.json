@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "baf467e7-8d21-4fcd-ad9b-a36eee603427",
+    "mediaTitle": "Birthday party elements",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "11-ago, 12:29 a.m.",
+    "projectId": "2b29700b-03b8-4695-b4b6-ad1f191b98c3",
+    "createdAt": "2026-08-10 23:35:52.240901-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Birthday party elements",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

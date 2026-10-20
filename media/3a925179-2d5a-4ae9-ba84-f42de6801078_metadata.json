@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3a925179-2d5a-4ae9-ba84-f42de6801078",
+    "mediaTitle": "Complete alphabet and numbers ty…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-10 21:05:00.439885-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Please complete the alphabet and the numbers from 0 to 9 with the same typography as \"the fool,\" so that the typography is in the style of that word.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

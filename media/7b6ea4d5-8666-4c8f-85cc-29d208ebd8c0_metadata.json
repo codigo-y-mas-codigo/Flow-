@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7b6ea4d5-8666-4c8f-85cc-29d208ebd8c0",
+    "mediaTitle": "Cambia posición hombre mujer",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:19:57.469039-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cambia de posición al hombre y mujer. Y aleja la imagen poco para que puedan tener la misma posición que el arcano original ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

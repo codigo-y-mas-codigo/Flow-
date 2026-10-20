@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a65acfea-47d9-46b3-a972-3617cc262107",
+    "mediaTitle": "Orchestra playing with colorful …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 08:59:31.752415-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "9d3f33f2-44f6-4e3b-84be-92fdfdc277ba"
+    }
+  }]
+}

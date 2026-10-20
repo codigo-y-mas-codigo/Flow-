@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a894f0be-5607-4b88-b601-05c0887d272e",
+    "mediaTitle": "Resume for Luis Ángel Maciel",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-23 07:34:50.950087-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Organize a high-density archival-style visual around the main theme, creating a strong yet contained double reading between the concrete image of the subject and rigorous text modules. Establish the structure with an asymmetrical two-column grid: one side is dominated by a large, cropped black and white image acting as the primary visual anchor. The subject (young man, modern and professional style with a creative touch) enters from the top, with a sharp outline, complete key structural details, and the bottom edge smoothly dissolves into milky white mist that gradually integrates into the paper. Behind him, insert a cluster of enlarged letters or thematic symbols (like UI/UX icons, nodes, or interface elements) drawn with extremely fine lines, showing only fragments hidden by the subject. Over the blurred area, cross a thin handwritten signature with the name “Luis Ángel Maciel”, using a single high-purity accent color (electric blue or modern cyan) to create an emotional memory point. Below this, block the identity with a bold geometric sans-serif title “Luis Ángel Maciel” and a light italic subtitle “Senior UI/UX \u0026 Brand Designer”. The other column and the bottom follow a unified left alignment, with a fixed column width and compact baseline rhythm to organize multiple content modules. Section titles have prominent typographic weight, body text uses a rounded geometric sans-serif in medium-small size. Skills are headed by small hollow circles, mastery level is expressed with rows of dots or abbreviations. Experiences are separated by short paragraphs, years on independent lines, and thin dashed lines. Contact details use small filled square icons to create rhythm. Maintain a clear three-level scale transition between titles, text, numbers, and icons. Leave visible pauses between modules, keeping internal text compact, so that the gaze flows naturally from the subject, signature, and name to the other column and then descends down both. In the four corners of the page, place only open positioning frames formed by short dashed lines and small dots, in diagonal positions. Close the bottom with an extremely fine signature line. Color palette: Main background in a light neutral tone with a slight cool blue or pearl gray tint (high luminosity and clean breathing). Main image and texts in monochrome black to medium gray. Accent color in vibrant electric blue / cyan, applied only in small areas (signature, icons, skill dots, years, and accents). Always maintain the relationship: bright light background, dark structure, few pure color points. The paper surface features a fibrous matte base, with extremely fine gray particles, light mist spots, and irregular scan-like texture. The texture is more visible in the white areas, but remains clean in the text and key details. Maintain the rational and editorial quality of a printable personal archive. The cropped image of the subject, line symbols, signature, and data modules should share the same grid and color rhythm. Theme: Resume / professional poster for Luis Ángel Maciel – Senior UI/UX \u0026 Brand Designer. Light addition: Include 3-4 relevant experience points (UI/UX, Brand Design, Market Research, Digital Projects). Maintain industry keywords. Format: Vertical 9:10.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

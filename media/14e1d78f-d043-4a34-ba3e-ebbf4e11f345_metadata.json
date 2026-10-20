@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "14e1d78f-d043-4a34-ba3e-ebbf4e11f345",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:59:11.178319-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "como si lo viera la mujer, acariciando al leon ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

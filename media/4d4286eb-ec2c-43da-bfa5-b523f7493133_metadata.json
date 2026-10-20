@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4d4286eb-ec2c-43da-bfa5-b523f7493133",
+    "mediaTitle": "1000634396.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 08:21:16.458148-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra los ojos verdes ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "44b01ba6-6faf-49ba-8cd2-23b1a8f23773"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6b9a4672-72bd-4d9a-8d59-23c668a4aefd",
+    "mediaTitle": "Design sock character pattern",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 14:00",
+    "projectId": "8d5e264d-bb6f-4673-9ec2-c6626894eaa1",
+    "createdAt": "2026-09-21 14:13:09.532854-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 896,
+      "height": 1200
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt in English:\n\n\"Make the top part have the little face and the rest be its body, and the other half of the socks have the character\u0027s pattern in small, large, etc.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT_THREE_FOUR"
+    }
+  }]
+}

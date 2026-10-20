@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3d19b9c1-39f4-46bc-a15e-177e11053ec3",
+    "mediaTitle": "Luchador se quita venda mano",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 13:35:58.704693-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "6s"
+    },
+    "generationInputs": {
+      "prompt": "El luchador se levanta del sofá de un movimiento fluido. La cámara, que estaba estática en el plano medio, hace un suave pan (seguimiento) hacia la derecha, revelando el resto del gimnasio. El luchador se quita la venda de una mano con un gesto firme, preparándose.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

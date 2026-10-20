@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3b58c0bb-9194-4396-b5ac-9e24c81b643d",
+    "mediaTitle": "Man standing on urban rooftop",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 08:04:10.931226-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic shot, [Sujeto: hombre joven con camiseta negra] standing on a dark, urban rooftop at night, slightly rain-slicked surface. The camera does a slow zoom-in on [Sujeto: hombre joven con camiseta negra]. Ultra-realistic, 8k, dramatic lighting, detailed facial expressions.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

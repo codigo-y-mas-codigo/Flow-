@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e2f64571-815c-4c3a-96ad-79cd046cd178",
+    "mediaTitle": "Surreal apocalyptic Mexico City …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:13:02.893656-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt, keeping the Spanish text as requested:\n\n\"A vibrant, abstract painting with swirling colors of deep blues, emerald greens, and fiery oranges. In the center, a single, delicate white lotus flower is blooming, its petals unfurling gracefully. The background is a textured canvas with subtle hints of gold leaf. **Flores de la vida** is subtly incorporated into the lower right corner in a flowing, elegant script.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "89d1169c-2a19-47f5-9839-6bf216c28dab"
+    }
+  }]
+}

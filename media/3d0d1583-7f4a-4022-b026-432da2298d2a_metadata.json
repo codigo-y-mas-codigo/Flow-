@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3d0d1583-7f4a-4022-b026-432da2298d2a",
+    "mediaTitle": "Male pilot character sheet",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-27 00:49:35.554907-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "En modo photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at all",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "e9a14fcc-b0df-42b2-b2c3-b23eb5308bd6"
+    }
+  }]
+}

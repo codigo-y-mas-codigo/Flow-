@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fb143b22-24a8-4462-ac0a-7fcff08c1f49",
+    "mediaTitle": "Hombres besándose en moto",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-21 11:29:55.253846-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e288dc45-ee54-4348-9cf0-b50bc585a7bb",
+    "mediaTitle": "Young conductor leading orchestr…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 09:03:35.914605-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A powerful young Korean female conductor with flowing hair, passionately leading a massive glowing orchestra in the sky, sweeping violin lead visualized as bright light trails, lush strings turning into golden energy waves, punchy orchestral drums creating shockwaves, bright brass accents lighting up the scene, festive K-pop energy, modern polished production, vibrant colors, cinematic lighting, particles and sparkles --ar 9:16 --stylize 200 --v 8.1 --q 2",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

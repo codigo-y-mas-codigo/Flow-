@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f1bf2502-5ae0-4c5b-91eb-bda839c4872b",
+    "mediaTitle": "Man in motorcycle suit",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-18 11:22:07.219197-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

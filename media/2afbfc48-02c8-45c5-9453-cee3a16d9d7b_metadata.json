@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2afbfc48-02c8-45c5-9453-cee3a16d9d7b",
+    "mediaTitle": "Commuters waiting at bus stop",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 07:57:43.889406-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Prompt:\nClean minimalist black-and-white vector line art illustration in a modern Japanese/Korean editorial style. Simple continuous thin outlines, white background, friendly characters with soft rounded features, everyday urban life scene. A group of commuters waiting at a bus stop / riding a subway / crossing a street in light rain. Sparse composition with lots of negative space, minimal city skyline in the background, simple trees, transportation signs, umbrellas, bags, smartphones, and daily accessories. Selective soft pastel blue accents on small details such as bags, umbrellas, books, earphones, or signs. Flat 2D design, monochrome ink drawing, clean contour lines, no shading, no gradients, no textures, calm and cozy atmosphere, lifestyle infographic aesthetic, Scandinavian simplicity, modern vector illustration, professional editorial artwork, ultra-clean composition, high-resolution.\n\n\nEsa misma imagen de esa instrucción pero usando  el estilo de la imagen 2.  preséntamelo en formato vertical ideal para positivos móviles tamaño 916",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

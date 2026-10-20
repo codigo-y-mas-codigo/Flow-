@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a4b41ab3-2f37-4230-a325-6659f7e1f00d",
+    "mediaTitle": "Olive green corduroy dad hat",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:11:33.129374-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A fashion product flat-lay of a soft olive green corduroy dad hat. Positioned subtly on the side of the cap is a small, polished brass pin depicting an ancient Power Coin animal symbol. Vintage retro aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

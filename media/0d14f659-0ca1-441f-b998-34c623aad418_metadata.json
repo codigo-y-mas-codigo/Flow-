@@ -1,0 +1,23 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0d14f659-0ca1-441f-b998-34c623aad418",
+    "mediaTitle": "image.png_202609070509 (1).jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "character": "Mia Pop",
+    "characterId": "cb25f0be-2ee2-4703-b4db-e5f8a94032f7",
+    "createdAt": "2026-09-09 22:49:40.088973-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "extrae la imagen de la derecha de arriba, de cuerpo completo, respeta la posicion de la parte superior , no embellezacas, manten la misma posición exacta maquillaje todo igual, en 9:16",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ac1ab70e-984a-4790-8376-ef1894ab82d1"
+    }
+  }]
+}

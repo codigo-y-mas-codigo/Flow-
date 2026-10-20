@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c6a3fe25-e612-43df-904f-4a1435cacae8",
+    "mediaTitle": "Anime rock song lyrics",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "11-ago, 12:29 a.m.",
+    "projectId": "2b29700b-03b8-4695-b4b6-ad1f191b98c3",
+    "createdAt": "2026-08-10 23:37:19.741825-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Apade pastel y globos de fiesta",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "d3277cc0-8ef3-4b33-9607-ba1587d11cfb"
+    }
+  }]
+}

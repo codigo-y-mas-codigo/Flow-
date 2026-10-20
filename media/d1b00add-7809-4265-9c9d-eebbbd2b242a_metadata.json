@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d1b00add-7809-4265-9c9d-eebbbd2b242a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 03:51:20.136178-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Two paths diverging in misty forest, one dark one light, symbolic, contemplative mood, cinematic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "668a8e52-19a2-49c1-bfab-9cca83742293",
+    "mediaTitle": "Megazord standing in rain",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:49:46.411903-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"extract the curtain design and without text.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "0ee135fa-a9d8-43c3-b129-742145c6fad1"
+    }
+  }]
+}

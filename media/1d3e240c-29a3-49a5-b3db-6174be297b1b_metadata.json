@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1d3e240c-29a3-49a5-b3db-6174be297b1b",
+    "mediaTitle": "Man and woman change position",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:24:51.327015-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cambia de posición al hombre y mujer. Borra el arnés. Laca cadena debe estar sujeta en la base donde está el diablo  añade una antorcha en la mano izquierda. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

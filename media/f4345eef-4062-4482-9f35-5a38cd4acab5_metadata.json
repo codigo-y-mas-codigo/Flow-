@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f4345eef-4062-4482-9f35-5a38cd4acab5",
+    "mediaTitle": "Orchestra playing with colorful …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 10:54 p.m.",
+    "projectId": "2718e421-317a-4e0d-be93-bc530b4a524b",
+    "createdAt": "2026-07-08 09:00:22.641218-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "studio lighting, hyper-detailed suits, playful bromance --ar 3:2 --stylize 160 --v 8.1\r\n¿Aprueban este Batman? \r\n\r",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "a65acfea-47d9-46b3-a972-3617cc262107"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c8d02d5b-0fc9-4dc6-9d19-3e512a05adea",
+    "mediaTitle": "Make it in an emoji",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:43:38.785499-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make it in an emoji style 🎨✨😎",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

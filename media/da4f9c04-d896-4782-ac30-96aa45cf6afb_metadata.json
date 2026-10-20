@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "da4f9c04-d896-4782-ac30-96aa45cf6afb",
+    "mediaTitle": "Silk slip dress flowing color",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 20:01:39.653818-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the dress design, I will use it to print the fabric.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "3c4c74c3-297a-40fa-9b26-df75fb3eb3b9"
+    }
+  }]
+}

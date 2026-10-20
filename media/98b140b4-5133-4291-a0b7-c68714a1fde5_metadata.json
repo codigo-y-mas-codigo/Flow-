@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "98b140b4-5133-4291-a0b7-c68714a1fde5",
+    "mediaTitle": "Man exhaling toxic green smoke",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 12:05:58.004068-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Hazlo desde abajo hacia arriba de frente ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "529c60bd-bfd6-4442-8fdd-4dac8e42d036"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3c1aaffa-6b93-4fbe-bd4e-7a244c80cca0",
+    "mediaTitle": "Brandkite improving visual brand…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 22/11/25",
+    "projectId": "ee037ab9-b982-4e37-a933-727acd00b4a0",
+    "createdAt": "2026-08-14 14:48:04.071376-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt, keeping the brand name as requested:\n\n\"Brandkite is the visual branding mark with this art that is presented to you and improve the proposal.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "35cccc75-b6fe-4f15-93a0-14f027302374",
+    "mediaTitle": "Character snaps fingers changing…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-20 01:33:36.863367-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "6s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "70e80617-aaed-4d7d-bc28-f7ef7f4d75d9",
+    "mediaTitle": "Playing a violin.",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:55:25.029178-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Change the angle from top to bottom to the left.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "397c4820-1bd7-4788-a083-7efec30345db"
+    }
+  }]
+}

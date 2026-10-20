@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "53ce6f1e-95db-426e-b4af-f3aaf995f20e",
+    "mediaTitle": "Horizontal size translation",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:41:44.634009-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Change the peach to a red rose and the Pepito to a fist.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "cd433aca-22ca-451c-abd0-43a16545b5f5"
+    }
+  }]
+}

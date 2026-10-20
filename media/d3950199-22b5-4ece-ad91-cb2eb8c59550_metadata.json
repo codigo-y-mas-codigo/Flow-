@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d3950199-22b5-4ece-ad91-cb2eb8c59550",
+    "mediaTitle": "Morphing Grid cross-section diagram",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "01 ago, 18:52",
+    "projectId": "c3c566f6-22e0-4f76-87a2-48a4042c1ec2",
+    "createdAt": "2026-08-01 19:11:42.894669-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A conceptual scientific cross-section diagram of the Morphing Grid. Intricate glowing fiber-optic energy paths in primary colors connecting molecular structures. Stylized technical annotations, dark blueprint aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

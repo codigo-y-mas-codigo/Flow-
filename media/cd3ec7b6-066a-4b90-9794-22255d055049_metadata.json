@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cd3ec7b6-066a-4b90-9794-22255d055049",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:20:25.100977-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Distant blue mountains under golden sky, wide landscape, painterly cinematic, sense of journey completed",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

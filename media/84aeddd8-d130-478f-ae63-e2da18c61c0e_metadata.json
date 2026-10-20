@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "84aeddd8-d130-478f-ae63-e2da18c61c0e",
+    "mediaTitle": "Robot and dogs levitating together",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:40:49.267572-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

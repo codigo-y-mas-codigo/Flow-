@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0148880c-b6c1-42cb-b97f-9322dfbc88e3",
+    "mediaTitle": "ponlos juntos en cama",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-03 03:12:17.025084-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "el piso debe ser de madera, la pared blanca de ladrillso blancos, manteniendo los dibujos que tiene, la cortina debe ser puerta y la cama con una base cuadrada. cambia la mochila por una azul mas sensilla. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "d1019528-05b1-4754-835c-f1cdefe0789c"
+    }
+  }]
+}

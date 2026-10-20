@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dae12952-28d6-4795-a32b-ff2264eefc98",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 03:02:16.307489-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Real woman in ancient white flowing dress, serene expression, eyes closed, gently holding the mouth of a calm red-maned lion, flower crown on her head, infinity symbol floating above, lush green meadow, blue mountains in background, golden yellow sky, photorealistic, hyperrealistic photography, 8k, cinematic lighting, soft golden hour light, painterly realism, no text, no watermark",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8a9ceef3-6410-4583-a4d2-cf2585055b5c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 20:40:20.328051-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "con la tipografia the fool, arma el abecesario completo e incluye los numeros , como titulo ponle Font Raider West Smith by Luis Angel Maciel ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

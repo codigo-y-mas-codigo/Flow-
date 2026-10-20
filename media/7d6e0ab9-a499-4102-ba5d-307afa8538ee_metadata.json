@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7d6e0ab9-a499-4102-ba5d-307afa8538ee",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 12:35:11.230156-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "pon en fondo blanco de estudio, manten las caracteristicas de los perritos identicas ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "850fc00f-051b-4ea0-96a1-182228f7a182"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ae2aec60-1162-4a2e-a89e-2cd016e73115",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 21:34:53.898589-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Huevo de oro en cosmos negro, estética tarot. Texto superior: \"EN EL VACÍO RESIDE TODO LO QUE HA DE NACER\". Esquina inferior izquierda: logotipo estilizado integrado orgánicamente en el grabado. texto en español. importante en español. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

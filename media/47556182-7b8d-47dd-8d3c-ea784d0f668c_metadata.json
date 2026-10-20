@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "47556182-7b8d-47dd-8d3c-ea784d0f668c",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-08 14:03:57.302585-07",
+    "modelName": "Nano Banana 2",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

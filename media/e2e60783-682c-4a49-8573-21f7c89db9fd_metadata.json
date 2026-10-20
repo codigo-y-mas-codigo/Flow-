@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e2e60783-682c-4a49-8573-21f7c89db9fd",
+    "mediaTitle": "párrafo de abajonponlonal centro",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 12:58:03.978990-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "El texto de la izquierda ponlonal centro y el de la derecha abajo centrom ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

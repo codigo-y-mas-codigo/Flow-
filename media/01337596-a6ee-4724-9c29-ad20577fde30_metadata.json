@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "01337596-a6ee-4724-9c29-ad20577fde30",
+    "mediaTitle": "Man interacting with holographic…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "03 jul, 14:27",
+    "projectId": "3cb9293f-ef2b-4473-a784-4376d23ce9ca",
+    "createdAt": "2026-07-03 13:56:28.957670-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "6s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

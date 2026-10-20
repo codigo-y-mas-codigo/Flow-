@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f12cf5e5-877c-41a7-8cda-828ae2110f21",
+    "mediaTitle": "Modificar pared y personajes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-06 14:14:29.566957-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "remove the tv and flowers",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "00f81a07-aa8c-4dab-ba28-6694f9625d0d"
+    }
+  }]
+}

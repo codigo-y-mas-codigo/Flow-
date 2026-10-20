@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f2ec98ba-bf32-4a37-bd97-21a39afd578d",
+    "mediaTitle": "Change image text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:48:26.911158-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "Make it look like it is embroidered in 99% gray color",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE",
+      "parentMediaId": "4e3cf272-49d5-44f4-9301-7ab4778e7ed6"
+    }
+  }]
+}

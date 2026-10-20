@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "06d76e22-5df2-4602-9f09-3b449a195614",
+    "mediaTitle": "Style effect Fujifilm Provia 100F",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-08-04 02:44:43.805431-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Hazlo en color amarillos naranjas.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "75faaf08-42c8-490d-b3c4-2708cc2b8a00"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d133d244-c3c7-4f01-b7f9-a9dea611b19e",
+    "mediaTitle": "image.png_202609070509.jpeg_20260909233843.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-09 22:41:25.638292-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "la imagen que no esta rayada, ponla de cuerpo completo, manten el mismo semblante expresion de la parte superior y vestudiario que usa en la imagen de cuerpo completo.  no embellezacas, mantén la misma posición exacta maquillaje vestuario, en 9:16",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "db33f5f2-19f4-46ef-b3cd-80d75c179d6f"
+    }
+  }]
+}

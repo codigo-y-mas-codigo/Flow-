@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e89f0ded-142f-49f0-b5b6-8abd756d555e",
+    "mediaTitle": "Man in leather suit pleasure",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18-jul, 12:17 p.m.",
+    "projectId": "2c57bbc9-44f5-4a6f-b0e9-ba4ebe2bf3a6",
+    "createdAt": "2026-07-27 00:45:54.757823-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "The standing one pulls up his pants, the sitting one kneels, leaning back on the armchair.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "b9a1f2f9-8a72-42a6-8d3e-cb07a29c8450"
+    }
+  }]
+}

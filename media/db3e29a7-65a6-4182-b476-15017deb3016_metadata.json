@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "db3e29a7-65a6-4182-b476-15017deb3016",
+    "mediaTitle": "Comic book diorama prompt visual…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 21 - 05:17",
+    "projectId": "dadca8ba-c24e-4a02-807a-f84879cfea22",
+    "createdAt": "2026-09-21 07:55:15.779761-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "A fun prompt for visualizing manga and comic books. I tested it with Nano Banana. Not sure if GPT lets me try it :) \n\n2x2 grid, do this for 4 less known hidden gem European manga: class ComicDiorama:\n    def __init__(self, franchise, era, sfx, bg):\n        self.franchise  \u003d franchise   # \"[FRANCHISE]\"\n        self.era        \u003d era         # \"[YEAR]\"\n        self.sfx        \u003d sfx         # \"[ONOMATOPOEIA]\"\n        self. bg         \u003d bg          # \"[BG_COLOR_DESCRIPTOR]\"\n        self.scale      \u003d \"miniature_action_figure_fidelity\"\n        self.base       \u003d \"open_vintage_comic_book_spread\"\n\n    def base_platform(self):\n        cover  \u003d f\"[{self.franchise}] cover art visible at front edge\"\n        pages  \u003d \"yellowed spread, original printed panels showing beneath scene\"\n        bridge \u003d \"3D figures ERUPT upward — page surface is the dimensional floor\"\n        return [cover, pages, bridge]\n\n    def populate(self):\n        hero    \u003d \"[HERO] — sculpted 3D figure, era-accurate costume, action pose\"\n        villain \u003d \"[VILLAIN] — era-accurate, facing hero in shared 3D space\"\n        env     \u003d \"[ENV_PROP] — physical miniature construction rising from page\"\n        return [hero, villain, env]\n\n    def sfx_layer(self):\n        return {\n            \"text\":     self.sfx,\n            \"style\":    \"3D extruded bold comic font\",\n            \"material\": \"high-gloss colored resin\",\n            \"shadow\":   \"hard cast on page below\",\n            \"tilt\":     \"[ANGLE]deg — dynamic, not static\"\n        }\n\n    def badge(self):\n        return f\"YELLOW_RECT | \u0027{self.franchise.upper()} | {self.era}\u0027 | black condensed\"\n\npanels \u003d [\n    ComicDiorama(\"[FRANCHISE_1]\",\"[ERA_1]\",\"[SFX_1]\",\"[BG_1]\"),\n    ComicDiorama(\"[FRANCHISE_2]\",\"[ERA_2]\",\"[SFX_2]\",\"[BG_2]\"),\n    ComicDiorama(\"[FRANCHISE_3]\",\"[ERA_3]\",\"[SFX_3]\",\"[BG_3]\"),\n    ComicDiorama(\"[FRANCHISE_4]\",\"[ERA_4]\",\"[SFX_4]\",\"[BG_4]\"),\n]\n\nrender_grid(\n    panels  \u003d panels,\n    layout  \u003d \"2x2_quad\",\n    medium  \u003d \"3D_photorealistic_diorama_miniature\",\n    lens    \u003d \"45deg_overhead_isometric\",\n    light   \u003d \"studio_softbox + era_color_accent_per_panel\"\n)\n\npower ranger ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

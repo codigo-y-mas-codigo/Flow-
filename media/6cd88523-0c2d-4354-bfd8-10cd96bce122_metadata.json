@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6cd88523-0c2d-4354-bfd8-10cd96bce122",
+    "mediaTitle": "Emoji translation of prompt expl…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-08-10 20:53:46.578808-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the emoji-style translation of your prompt:\n\n✨🖼️➡️🇬🇧\n\n**Explanation:**\n\n*   ✨ (Sparkles): Represents a creative or artistic request.\n*   🖼️ (Framed Picture): Symbolizes an image or image prompt.\n*   ➡️ (Right Arrow): Indicates a transformation or translation.\n*   🇬🇧 (Flag of the United Kingdom): Represents the English language.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

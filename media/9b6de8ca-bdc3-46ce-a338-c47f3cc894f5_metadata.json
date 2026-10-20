@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9b6de8ca-bdc3-46ce-a338-c47f3cc894f5",
+    "mediaTitle": "Create music video image sequence",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 17:39:36.301135-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "In a 3x3 image, create a sequence of a music video scene. Use exclusively the attached images, which should be far shots and close-ups from different angles.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

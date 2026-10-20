@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "78116325-5c70-4077-8a8f-f0517b38d7b4",
+    "mediaTitle": "Make it look like singing",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-08-11 11:29:15.823631-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1372,
+      "height": 784
+    },
+    "generationInputs": {
+      "prompt": "Make it look like it\u0027s singing.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "429467c3-4cb7-4e97-beda-279dcb7f2b51"
+    }
+  }]
+}

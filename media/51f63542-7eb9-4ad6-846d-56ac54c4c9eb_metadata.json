@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "51f63542-7eb9-4ad6-846d-56ac54c4c9eb",
+    "mediaTitle": "Charro outfit paper collage docu…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 05:39",
+    "projectId": "0524bd09-b857-4621-bae3-39513ed0b2d5",
+    "createdAt": "2026-09-14 04:47:56.879895-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Vox-inspired editorial paper collage documentary. Charcoal grayscale cutout of a charro outfit on warm cream textured paper background. Hand-drawn red ink annotations circling the lasso and hat details. Soft realistic drop shadows. Heavy condensed sans-serif ALL CAPS typography with black ink stamp effect: \"MÁS QUE FOLCLORE\". Palette: warm cream, charcoal black, muted terracotta red.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

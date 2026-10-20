@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "412a48e6-2e95-4da3-9403-82d089aa74b8",
+    "mediaTitle": "Change image text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:47 a.m.",
+    "projectId": "5f271068-c189-4e01-b2df-cf755eb848d9",
+    "createdAt": "2026-10-06 04:53:59.353373-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "The green-colored garment and the yellow of a different shade.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE",
+      "parentMediaId": "951cb28d-e176-4239-b80e-5307bca9973f"
+    }
+  }]
+}

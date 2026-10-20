@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4c9f9924-402b-44a7-af80-fc79de58fc17",
+    "mediaTitle": "Storyboard sheet with six panels",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 14 - 09:58",
+    "projectId": "0cc8004e-76ce-46d7-8fae-53ce88ed7fd9",
+    "createdAt": "2026-09-14 09:49:34.932781-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A single 9:16 vertical storyboard sheet containing 6 numbered panels arranged in 1 column x 6 rows.\n\nSTYLE:\nVox-style editorial paper collage documentary animation. Hand-cut paper cutouts with visible torn and scissor-cut edges, layered over a warm cream textured paper background with visible newsprint fibre, subtle halftone dot pattern and light scanned-print grain. Archival photographic cutouts rendered in grayscale or two-tone duotone, printed on paper with a slight registration offset, some held down with short strips of masking tape. Soft realistic drop shadows under every cut layer so the paper thickness reads clearly.\n\nRestrained editorial palette: warm cream and off-white base, deep ink navy, charcoal black, muted brick red, and ONE saturated accent — highlighter yellow — used sparingly and only for emphasis.\n\nHand-drawn annotation marks in felt-tip pen: circles, arrows, underlines, dotted guide lines, quick highlighter sweeps.\n\nDeliberately handmade and slightly imperfect — edges not perfectly aligned, textures not perfectly clean. Editorial, not advertising. Clean composition, generous negative space.\n\nTYPOGRAPHY:\nOn-screen typography, Vox editorial house style: heavy condensed sans-serif, all caps, tight letter-spacing, thick uniform strokes. The text sits directly on the paper collage as if letterpress-printed or cut from a newspaper headline — slight ink texture, faint registration offset.\nColour: ink navy or charcoal printed on the cream paper. \nMaximum four words on screen at any time. Exactly one text element per shot.\n\nGRID LAYOUT:\nArranged in 1 column x 6 rows. Each panel features a small index mark in the upper left corner: a small blue ink circle containing the panel number (1 to 6).\n\nPanel 1:\nText: \"AMENAZA VEGETAL SILENCIOSA\"\nVisual: Bamboo stalk cutout next to a paper steel beam crossed out with brick-red tape on textured cream paper.\n\nPanel 2:\nText: \"RED SUBTERRANEA IMPATABLE\"\nVisual: Felt-tip arrow diagram on paper showing underground root networks spreading beneath a cracked cardboard road.\n\nPanel 3:\nText: \"DIA MUNDIAL DOS MIL NUEVE\"\nVisual: Giant paper cutout number \"2009\" in deep ink navy landing over a world map cutout.\n\nPanel 4:\nText: \"ABSORCION CARBONO CUATRO X\"\nVisual: Hand-drawn bar chart on paper comparing carbon absorption levels, with a yellow highlighter sweep emphasizing the highest bar.\n\nPanel 5:\nText: \"REEMPLAZO INDUSTRIAL MASIVO\"\nVisual: Monochrome archival photo cutout of an industrial factory overlaid with paper cutouts of bamboo sprouts.\n\nPanel 6:\nText: \"DIECIOCHO DE SEPTIEMBRE\"\nVisual: Unfolding paper map with major bamboo regions highlighted in bright yellow ink and felt-tip guide lines.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

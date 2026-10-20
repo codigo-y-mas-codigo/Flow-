@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "79ea19a0-8217-4773-b01b-3816d3f8a529",
+    "mediaTitle": "Extract image from middle",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-10-07 02:49:06.739255-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Extract the image on the left from the middle, above where it says lennox, from the middle, do not embellish, keep the exact same position, makeup, and everything the same, do not change the position.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

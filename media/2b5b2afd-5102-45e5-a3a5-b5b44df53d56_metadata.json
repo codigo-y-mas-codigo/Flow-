@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2b5b2afd-5102-45e5-a3a5-b5b44df53d56",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "4e0bece9-3b8c-4378-b5b4-d1d28a18e629",
+    "createdAt": "2026-04-07 04:02:38.757387-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "el vestido blanco y con flores en la cintura y una transparente lemnistata brillante arriba de su cabez",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

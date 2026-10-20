@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6bfc06a6-885b-4829-93cd-6d94249328c9",
+    "mediaTitle": "Cyberpunk duel flooded subway st…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "10 may, 03:42",
+    "projectId": "0fa32299-22a0-42de-89fb-a6e057745da9",
+    "createdAt": "2026-07-27 00:28:23.731735-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Neutral background, neutral gaze, front profile, full body, Dr. ficha on the left.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "e581d581-881b-48b0-8235-135fba7dbe29"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "34b5adf4-0348-44ba-a7c3-31c1fc805289",
+    "mediaTitle": "Full body image generation instr…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 07 - 05:00",
+    "projectId": "3cf0de53-0fac-42b3-900b-46c0b3bf9088",
+    "createdAt": "2026-09-09 22:43:40.283304-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "hazla de cuerpo completo, , no embellezacas, mantén la misma posición , expresion exacta maquillaje todo igual, en 9:16 (importante la posicion del angulo de la cabeza rostro) ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

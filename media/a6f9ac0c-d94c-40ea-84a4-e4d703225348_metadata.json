@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a6f9ac0c-d94c-40ea-84a4-e4d703225348",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/4/26",
+    "projectId": "6fedfe3a-e72f-4f06-93d2-23446633e1a8",
+    "createdAt": "2026-04-07 03:30:42.825477-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": " a female figure gently engaging with a red lion on a grassy landscape with mountains in the background, all set against a solid bright yellow sky.\n\nThe central female figure appears to be a young woman, perhaps in her late teens or early twenties, with pale skin. Her hair is short and curly, a light brown or possibly blonde color, and she wears a delicate wreath on her head. Above her head, slightly offset to the left, is the symbol of infinity (a horizontal figure eight) in black ink, resting just above the wreath. She is dressed in a long, flowing white gown with wide sleeves that extend to her wrists. Around her waist, a garland of red and green leaves or flowers is draped, adding a touch of color to her garment. She is bent slightly at the waist, looking down at the lion, and her hands are gently holding the lion\u0027s upper and lower jaws open. Her expression is serene and focused.\n\nThe lion, positioned to her right, is a deep, solid red color, with a thick, curly mane and tail. It is standing on all four paws on the green ground. Its posture suggests it is submitting to the woman\u0027s gentle control.\n\nThe background consists of a bright, solid yellow sky that dominates the upper portion of the image. Below the sky, a range of stylized blue mountains with white peaks are visible, stretching across the horizon. In front of the mountains, there is a band of bright green trees or foliage. The foreground is a light green field dotted with some patches of darker green, suggesting grassy terrain. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

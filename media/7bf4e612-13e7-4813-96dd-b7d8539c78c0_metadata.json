@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7bf4e612-13e7-4813-96dd-b7d8539c78c0",
+    "mediaTitle": "Demonic man walking through fog",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-08 05:50:36.690081-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic silhouette shot of a muscular demonic man slowly walking forward through thick glowing green toxic fog, neon green eyes burning brightly as the only clear feature, smoke dramatically swirling around his powerful physique, subtle green energy cracks visible on torso, wearing open harness, backlit by strong red rim light creating halo effect, dark industrial/satanic environment, floating particles and embers, ultra atmospheric, moody and menacing, filmic wide angle, photorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, studio lighting o product photography style Exact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at allPixVerse cinematic masterpiece, #666",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

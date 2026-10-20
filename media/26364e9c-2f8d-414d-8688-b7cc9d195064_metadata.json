@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "26364e9c-2f8d-414d-8688-b7cc9d195064",
+    "mediaTitle": "Surreal apocalyptic Mexico City …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "04-ago, 03:04 a.m.",
+    "projectId": "70aeb053-abf3-4815-a00a-8cdd052dbdbe",
+    "createdAt": "2026-08-04 02:04:19.925257-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "A surreal apocalyptic cinematic sequence where reality folds in on itself, set in Mexico: a colossal tsunami curls into a gigantic ocean vortex with iconic Mexican skyscrapers and colonial buildings (like Mexico City skyline mixed with historic structures) embedded inside its walls. Fires, explosions, and a tilting cargo ship caught in the chaos near the coast. The sky transforms into an upside-down floating metropolis featuring floating Aztec-inspired pyramids, cathedrals, and modern towers, while smoke, clouds, and glowing fires engulf the streets of a Mexican city below. A mirrored version of Mexico City hangs above the skyline as black smoke, falling debris, massive explosions, and volcanic ash connect both worlds. The camera races dynamically through a colossal portal-like vortex formed by curved bridges (inspired by Mexican architecture), swirling oceans, fractured land with cenotes, spinning skyscrapers, and ancient ruins, ending in a blazing fireball at the eye of the storm. Ultra-realistic, hyper-detailed, cinematic lighting, volumetric clouds, dynamic camera movement, epic scale, IMAX quality, 8K. Duration: Exactly 10 seconds, fast-paced and intense.havlan en español, no subtitulos no textos.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

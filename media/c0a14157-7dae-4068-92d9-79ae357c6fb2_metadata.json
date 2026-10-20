@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c0a14157-7dae-4068-92d9-79ae357c6fb2",
+    "mediaTitle": "captura_007_[2-00].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 01:39:26.058607-07",
+    "modelName": "Omni Flash",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

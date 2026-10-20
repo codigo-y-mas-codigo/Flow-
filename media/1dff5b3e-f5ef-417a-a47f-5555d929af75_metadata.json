@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1dff5b3e-f5ef-417a-a47f-5555d929af75",
+    "mediaTitle": "Me gusta fondo imagen elementos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-07-09 11:33:18.381710-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Me me gusta el fondo de la imagen uno pero con todos los elementos de la segunda imagen",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

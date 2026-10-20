@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2330776e-e5ff-4cb6-ac88-b081a314fba2",
+    "mediaTitle": "Ponlo tocando cabeza abajo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-abr, 01:47 p.m.",
+    "projectId": "9fc323ae-fd59-4930-8225-cbdb0fe9f481",
+    "createdAt": "2026-07-09 13:01:21.655538-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "\nPonlo en una posición de tocando cabeza abajo pica luz difuminado el fondo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

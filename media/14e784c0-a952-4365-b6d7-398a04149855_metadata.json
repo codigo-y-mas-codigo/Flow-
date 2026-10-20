@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "14e784c0-a952-4365-b6d7-398a04149855",
+    "mediaTitle": "Replace woman\u0027s face with man\u0027s",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "30-jul, 09:39 a.m.",
+    "projectId": "06872aec-08d3-4f3c-a3f5-fd9196a08d21",
+    "createdAt": "2026-08-09 11:32:56.442851-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Put the man\u0027s face instead of the woman\u0027s.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

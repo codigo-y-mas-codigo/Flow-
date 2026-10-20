@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "22a1c168-8d7b-4498-ab5f-ca94601e40ab",
+    "mediaTitle": "image.png",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 16 - 01:38",
+    "projectId": "122401e3-570f-4e50-8846-0e5465adb5f7",
+    "createdAt": "2026-09-16 01:36:19.106973-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Fotografía arquitectónica limpia del edificio de departamentos de la imagen, tomada desde el mismo ángulo y perspectiva exacta. Conserva la fachada completa con planta baja naranja e historia superior beige. Limpia los árboles en primer plano, vehículos estacionados, cables eléctricos e interfaz de captura de pantalla, mostrando la estructura del edificio sobre una calle despejada",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "88b56bc3-2c7a-4b37-814d-6e7e90c7f8fc"
+    }
+  }]
+}

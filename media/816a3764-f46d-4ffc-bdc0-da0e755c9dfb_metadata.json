@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "816a3764-f46d-4ffc-bdc0-da0e755c9dfb",
+    "mediaTitle": "captura_003_[0-40].jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "27-abr, 11:35 p.m.",
+    "projectId": "7aaf5038-1a88-4740-8d77-06e9e982bb56",
+    "createdAt": "2026-07-24 00:47:06.217338-07",
+    "modelName": "Nano Banana 2",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

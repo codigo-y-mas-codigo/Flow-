@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "05a0cae3-d2b9-46ae-ab84-7ab8e8187e24",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 8/4/26",
+    "projectId": "2de57ca8-dd68-4823-b839-f949f3a7c656",
+    "createdAt": "2026-04-08 20:47:34.249970-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "extrae el texto en fondo blanco al centro arriba. y abajo agrega las letras a e i o u y los numeros del 0 al 9",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

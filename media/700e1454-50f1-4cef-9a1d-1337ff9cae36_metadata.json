@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "700e1454-50f1-4cef-9a1d-1337ff9cae36",
+    "mediaTitle": "Man flexing bicep glowing eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "22-jun, 01:35 a.m.",
+    "projectId": "456cca7d-3c16-4c10-ad9d-31e085637fd4",
+    "createdAt": "2026-06-22 00:45:17.365512-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Muscular athletic man with short dark hair and beard, wearing black tank top and shiny pants, flexing powerful bicep intensely, glowing neon green eyes with electric cracks and sparks on face and arm, particles and energy floating around, confident to evil demonic smile, ruined industrial warehouse background, dramatic lighting, sweat on skin, powerful gooner alpha energy, PixVerse.ai cinematic style, #666",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}
