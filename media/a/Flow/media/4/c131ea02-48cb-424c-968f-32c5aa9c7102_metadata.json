@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c131ea02-48cb-424c-968f-32c5aa9c7102",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-25 04:16:13.143330-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"El Mundo\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Pikachu dancing in a mandorla, with four Tetramorph Pokémon figures in corners. Marsella style.\nKey animation sequence:\n1. The central Pikachu figure is in a continuous, joyful, and graceful dancing or floating motion within the mandorla, perhaps slowly spinning or making elegant arm gestures with its wands. The wands might trail soft, sparkling Marsella-colored light.\n2. The sash/scarf around Pikachu flows and swirls dynamically and elegantly with its every movement.\n3. The mandorla (guirnalda) itself might have a very subtle, rhythmic shimmer or its leaves gently sway as if alive with energy.\n4. Each of the four Tetramorph Pokémon figures in the corners engages in a continuous, characteristic, and celebratory movement throughout the 8 seconds:\n    - Angel/Man: Wings beat slowly and majestically; might be subtly scattering Marsella-colored flower petals or blessings with its hands.\n    - Eagle (Pidgeot/Fearow): Soars in a small, graceful circle within its corner or flaps its wings powerfully as if maintaining a regal hover, its head surveying the scene.\n    - Bull/Ox (Tauros): Paws the ground rhythmically with a front hoof or sways its powerful body gently, perhaps letting out a soft, contented puff of air (stylized).\n    - Lion (Pyroar/Entei): Shakes its magnificent mane slowly, its tail might swish back and forth, and it could let out a silent, majestic roar (muzzle opens and closes gently) or a regal purr-like rumble.\n5. The overall scene feels like a vibrant, harmonious, and ongoing cosmic celebration. A soft, encompassing golden light might subtly pulse across the entire image.\nOverall mood: Utter completion, perfect integration, cosmic harmony, sustained success, joyous and continuous fulfillment, celebration of the universe. Camera: Static, allowing the viewer to absorb the full, dynamic dance of all elements.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

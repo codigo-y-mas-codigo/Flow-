@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0feaacc9-a107-4b5d-8263-c1d9c00812bd",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 12:43:09.634853-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "mejora la tarjeta de presentacion agrega el sitio web https://melaleuca.vercel.app/ ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

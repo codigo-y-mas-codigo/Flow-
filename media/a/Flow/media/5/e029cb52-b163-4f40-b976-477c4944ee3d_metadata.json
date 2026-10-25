@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e029cb52-b163-4f40-b976-477c4944ee3d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:16:39.795848-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "con las rodillas en el suelo, buscando algo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

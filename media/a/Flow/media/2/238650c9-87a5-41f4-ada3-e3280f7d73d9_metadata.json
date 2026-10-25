@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "238650c9-87a5-41f4-ada3-e3280f7d73d9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:59:49.048049-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration in a modern, geometric style with flat, bold colors and sharp, precise shapes depicts a young-adult-appearing man with a light skin tone and curly, light-colored hair visible beneath a wide-brimmed hat. The hat features bold orange and white stripes on the crown and a solid red brim outlined in yellow. He wears a tunic vertically divided into a solid blue section with a yellow sleeve on the viewer\u0027s left, and a solid red section with a blue sleeve on the right. A yellow and blue belt encircles his waist. His legs are clad in solid blue tights and his shoes are solid red.\n\nThe man holds a thin, solid yellow object in his raised right hand. His left hand rests on a light brown rectangular table with four legs. Arranged on the table are a solid yellow cup, a solid red cup, several solid yellow circular discs, two knives with solid black and solid white handles respectively, and a pouch or bag. The background is a simple composition with a flat, light yellow ground, a small solid green plant or bush, and a flat, slightly darker yellow horizontal line indicating the horizon. A solid black border frames the illustration. At the top, the Roman numeral \"I\" is centered below the word \"TAROT\" in smaller, centered, sans-serif black letters. At the bottom, \"EL MAGO\" is written in bold, uppercase, sans-serif black letters. The lighting is flat and even, with no gradients.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

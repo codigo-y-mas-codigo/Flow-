@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "152be36b-30eb-4b21-90b1-58fdf38c256a",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-25 04:03:54.332505-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"El Mundo\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Pikachu dancing in a mandorla, with four Tetramorph Pokémon figures in corners. Marsella style.\nKey animation sequence:\n1. The central Pikachu figure is in a joyful, continuous, slow dancing or floating motion within the mandorla, perhaps turning gracefully. The wands in its paws might trail small sparkles.\n2. The sash/scarf around Pikachu flows and swirls elegantly with its movement.\n3. The mandorla (guirnalda) itself might have a very subtle shimmer or a gentle pulse of light.\n4. Each of the four Tetramorph Pokémon figures in the corners makes a small, characteristic, respectful gesture or movement:\n    - Angel/Man: Slowly bows head or raises a hand in blessing.\n    - Eagle: Spreads wings slightly or turns head regally.\n    - Bull/Ox: Gives a calm snort or a slow, powerful nod.\n    - Lion: Lets out a silent, majestic roar (muzzle opens) or shakes its mane.\n5. The overall scene feels complete, harmonious, and celebratory.\nOverall mood: Completion, integration, cosmic harmony, success, joyous fulfillment. Camera: Static, allowing the viewer to take in the entire harmonious composition and Pikachu\u0027s central dance.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

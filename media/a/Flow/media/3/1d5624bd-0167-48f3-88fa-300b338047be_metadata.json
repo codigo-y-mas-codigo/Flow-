@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1d5624bd-0167-48f3-88fa-300b338047be",
+    "mediaTitle": "Four women dancing in ballroom",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:35:07.076061-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\nThe four women dancing in the ballroom of image two, in total there must be the 6 women. Add a logo that says \"Luces de formentera\" that matches the photograph.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

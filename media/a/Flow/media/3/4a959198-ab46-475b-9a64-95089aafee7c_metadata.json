@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4a959198-ab46-475b-9a64-95089aafee7c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-06-06 13:41:54.589967-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una fotografía profesional y luminosa de una mujer de unos 60 años, con cabello largo y canoso (plateado) recogido hacia atrás, y gafas de montura oscura, impartiendo una clase online sobre nutrición holística desde un estudio o cocina con mucha luz. Mira directamente a la cámara con una expresión serena y profesional. Frente a ella, sobre un escritorio de madera clara, hay un portátil abierto con la pantalla visible justo en frente de ella. A la derecha del portátil, se aprecia un vaso con un batido verde vibrante. A la izquierda del portátil, hay un tazón de cristal con fresas y arándanos, y un cuaderno abierto con un bolígrafo cerca. El fondo está suavemente desenfocado, pero se distinguen estanterías ordenadas con algunas plantas verdes (a la izquierda), frascos de vidrio que contienen semillas y granos (en el centro), y varios libros de tonos naturales (a la derecha). La iluminación es natural y brillante, inundando la escena con una luz limpia, fresca y saludable. La mujer mantiene su pose (sentada frente al escritorio) y vestimenta actual (camisa clara de manga larga). Foto ultra realista, con enfoque nítido en la mujer.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "578ce8f8-5483-4b0d-bf16-92d3a8df97a3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:19:30.699940-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Ultra-premium editorial artistic square thumbnail for exclusive advanced emotional healing tarot program, sophisticated mature audience 32-45, deep psychological transformation vibe, quiet luxury intellectual branding.Editorial photography style: high-end magazine aesthetic, soft natural lighting, clean composition, artistic and minimalist, photorealistic, sophisticated adult feel.Dark elegant palette: deep midnight indigo fading to pure black, subtle aged gold accents and soft ivory.Hero element: artistic editorial photograph of The High Priestess embodied as a powerful real woman (exact classic Rider-Waite-Smith pose: seated with veil flowing, pomegranates, pillars subtly visible), hyper-realistic, elegant and introspective. She holds a massive ancient golden key that is breaking heavy iron chains wrapped around her. The chains have elegant engraved words fading into golden dust: ABANDONO • RECHAZO • TRAICIÓN • INSUFICIENCIA. Large elegant roman numeral II integrated with soft gold detail above her. NO physical card, NO white border, NO frame.Premium gold wax-seal badges in corners (elegant editorial style):Top-left: SISTEMA AVANZADO Y SELECTIVO\nTop-right: INCLUYE PROMPTS\nBottom-left: small elegant headphone icon + text CURSO EN AUDIOS\nBottom-right: PLANTILLAS + TIRADAS AVANZADAS\n\nExtremely large but minimalist elegant Spanish text with refined luxury typography (no heavy glow, just clean and powerful):Top third (clean and authoritative): SISTEMA AVANZADO Y SELECTIVO\nCenter dominant (very large, elegant serif, aged gold with subtle outline): SANACIÓN EMOCIONAL\nBottom third (clean and powerful): Y AMOR PROPIO\n\nText in crisp ivory white with metallic aged gold outline. Generous negative space, high-end editorial composition, soft shadows, sophisticated and emotional impact. The image speaks for itself: “rompo ciclos que nada más pudo romper”.Square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 50 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

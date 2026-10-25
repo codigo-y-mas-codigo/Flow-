@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "96c02fb6-ee19-4089-9fc8-81efb9f1d9bc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-06-11 04:36:54.758338-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "un hombre de 38 años grabando un curso de tarot en linea",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

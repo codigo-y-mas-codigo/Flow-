@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2ec310be-4227-4d49-bdeb-31c85fa5e27c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 12/6/25",
+    "projectId": "082afafb-d9b8-4833-91a6-83ce18daeb7b",
+    "createdAt": "2025-06-12 13:40:37.678609-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un reportero entrevista a tlaloc y responde, yo estoy haciendo mi chamba, ustedes gente sucia que tira basura y no más no aprenden \"Una imagen de tlaloc Dios de la lluvia feliz echando agua en la ciudad de México la torre latinoamericana , explanada zócalo, ángel de la independencia , bellas artes , estilo surrealista hiperreal dark blue cinematográfica magic, full view ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

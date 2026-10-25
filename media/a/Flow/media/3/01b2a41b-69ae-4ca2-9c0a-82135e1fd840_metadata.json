@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "01b2a41b-69ae-4ca2-9c0a-82135e1fd840",
+    "mediaTitle": "Containers assigned to distinct …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:26:52.791714-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Todos todos los contenedores deben de ser como el primero y. Y deben de ser ocupados por cada distinta clon. No se deben de repetir los clones cada uno tiene un número distinto",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

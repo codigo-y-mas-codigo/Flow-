@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1b1f0473-ae4a-48f9-94a0-3545c5af967f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:09:22.363777-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster with a limited red-toned palette on a cream background depicts a dreamlike scene under a stormy, misty night with lightning. The bold headline \"act pas slm ff\" arches across the top in a mid-century serif font, adorned with mid-century sparkle and starburst icons. A stylized, engraved illustration of a luminous, almost weightless pink donut with viscous chocolate dripping from it and a small pinkish-red flower rests upon it, appearing centrally. Tiny, brightly colored, translucent sprinkles are scattered across its holographic icing, and its base is a soft golden hue. Next to it, an eggplant holds a syringe, and a viscous, bright white liquid is present. The overall impression is one of ethereal beauty with a sarcastic undertone, typical of a 1950s beauty ad and a vintage snark poster.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

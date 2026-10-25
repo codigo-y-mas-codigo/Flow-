@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0eb242bc-8b4b-4768-94ef-6066218930f0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 07:40:16.075135-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "The image exhibits a realistic digital painting or photorealistic rendering style with a high level of detail and texture. The lighting is characterized by strong contrast, featuring dramatic chiaroscuro with bright shafts of warm, golden sunlight entering from the left, creating prominent lens flare and atmospheric haze, suggesting a late afternoon or early morning setting. The ambient lighting is generally dim and moody, with deep shadows that enhance the depth and three-dimensionality of the scene. Color hues lean heavily towards warm tones, with rich browns, deep reds, and ochres dominating the overall palette, creating an antique or cinematic feel. The rendering quality is sharp, with a focus on skin and fabric textures, and incorporates a soft glow, particularly around the heads of the subjects, resembling religious iconography or spiritual themes. The overall aesthetic is one of elevated realism mixed with symbolic or mystical elements, achieved through meticulous digital artistry and dramatic, focused illumination.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1bb63226-3acf-48fa-831a-e39436dcb5c8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:46:53.062919-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Ultra-premium editorial artistic square thumbnail for exclusive advanced emotional healing tarot program, sophisticated mature audience, quiet luxury intellectual branding.High-end editorial photography style: soft dramatic lighting, clean minimalist composition, photorealistic, elegant and powerful.Dark palette: deep midnight indigo to pure black, subtle aged gold accents.Hero element: artistic photograph of a powerful woman embodying The High Priestess (exact classic pose: seated, white veil flowing, pomegranates visible), holding two large ancient golden keys that are dramatically breaking heavy iron chains wrapped around her body. The chains have elegant fading golden text: ABANDONO • RECHAZO • TRAICIÓN • INSUFICIENCIA dissolving into golden particles. NO roman numeral II anywhere.Elegant thin gold insignias (luxury minimal style, not wax seals):Top-left: ROMPE TUS PATRONES\nTop-right: INCLUYE PROMPTS\nBottom-left: large clean headphone icon + text CURSO EN AUDIOS (bigger and legible)\nBottom-right: PLANTILLAS + TIRADAS AVANZADAS (bigger and legible)\n\nMain text (minimalist elegant luxury typography, maximum impact):Center dominant (huge size, aged gold with subtle outline): SANACIÓN EMOCIONAL\nDirectly below (clean white, strong weight): Y AMOR PROPIO\n\nCrisp ivory and aged gold text, generous negative space, high contrast, no repetition, no small unreadable text. The image screams transformation and exclusivity at thumbnail size.Square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 50 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

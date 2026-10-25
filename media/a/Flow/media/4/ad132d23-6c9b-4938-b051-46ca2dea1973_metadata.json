@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ad132d23-6c9b-4938-b051-46ca2dea1973",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:47:08.167498-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background depicts a young adult male figure constructed from a reflective, textured golden material. His curly blonde hair also appears as this golden texture, emerging from beneath a wide-brimmed hat striped in shades of reflective gold and hints of lighter yellow, mimicking the original red, yellow, and green. The hat\u0027s edges show a dissolving effect with scattering golden particles. The man\u0027s head is turned slightly right, his mustache and visible hair above his lip rendered in the same golden material. His patterned collar leads to a garment with dissolving edges, sections appearing in reflective blue and red tones, now transformed to darker and lighter shades of gold with a disintegrating effect. The sleeves end in striped cuffs of reflective yellow and blue, now also in gold tones with scattering particles.\n\nHe stands behind a rectangular table with reflective yellow and brown diagonal stripes, now in varying shades of textured gold. His left hand, formed from the golden material, rests on the table near small, round objects and a cylinder, all rendered in reflective gold with disintegrating edges. His right hand holds an upright blue wand, now a reflective gold rod with sparkling golden particles. On the table are various items including a red cup, tan geometric shapes, a beige pouch with a blue top and red strings, and two knives with curved, beige handles and silver blades, all transformed into reflective gold with dissolving edges. The man\u0027s legs wear green and blue vertically striped leggings, now in textured gold, and his feet are clad in pointy yellow shoes, also reflective gold with scattering particles. Below the table, the ground is depicted with curved lines in shades of tan and brown, now in textured gold, with a small yellow flame-like shape between his feet, rendered in bright, sparkling gold. The figure and objects exhibit highlights and shadows from a left light source, enhancing the three-dimensional and luxurious quality.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

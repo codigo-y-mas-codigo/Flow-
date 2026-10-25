@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7c8e55f1-a28b-4400-9ea5-6c71ddb806ec",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:26:30.934922-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra [nombre completo] [fecha de finalizacion y cambia artur chevjos por una letra manustrcita que parezca firma, borra la fecha. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

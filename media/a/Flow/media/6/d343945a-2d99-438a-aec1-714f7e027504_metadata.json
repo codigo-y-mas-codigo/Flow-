@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d343945a-2d99-438a-aec1-714f7e027504",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:30:29.011456-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una ilustración de estilo tradicional que presenta a Pikachu como una figura diabólica. Pikachu tiene cuernos rojos, grandes alas de murciélago rojas y está de pie sobre un pedestal. Una figura masculina (otro Pokémon) y una figura femenina (otro Pokémon) están encadenadas a sus lados, con cadenas rojas alrededor de sus cuellos. Pikachu sostiene una antorcha encendida en su pata izquierda, con una llama naranja. Con su pata derecha, hace un gesto de bendición o dominio. El fondo es oscuro y cavernoso, con un paisaje de rocas grises y llamas rojas y amarillas. Toda la ilustración está delineada con líneas negras gruesas en el estilo de grabado en madera medieval característico, utilizando colores planos saturados sin sombreado ni perspectiva modernos.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "96a6f202-90c6-457f-a062-6dde4ebc1bdb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 02:34:00.592752-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An artistic and dynamic book cover design with fluid, organic lines. The lines curve and intertwine, subtly suggesting abstract male figures in interaction, at times separating and then rejoining to symbolize freedom and reconnections in open relationships. A subtle, elegant \"open heart\" or modified infinity symbol is integrated within the lines. The background is a vibrant gradient from a warm coral at the top to a soft golden yellow at the bottom. The intertwined lines are in off-white, cream, or a very light gray. The title \"La Ciencia de la Atracción\" is clearly readable in a modern sans-serif font, followed by \"La Lealtad y la Felicidad\" and \"en Relaciones Abiertas para Hombres Gay.\" The author\u0027s name, \"Luis Angel Maciel\", is at the bottom in a delicate script font.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

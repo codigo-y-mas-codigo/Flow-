@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aafec115-f427-436a-aa05-7c17c325777b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:28:54.806129-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra la fecha octubre 2023 y borra + bonos VIP exslucivos ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

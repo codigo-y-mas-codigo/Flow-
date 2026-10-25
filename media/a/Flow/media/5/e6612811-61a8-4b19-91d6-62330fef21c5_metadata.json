@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e6612811-61a8-4b19-91d6-62330fef21c5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:57:21.524629-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Create a surreal snark poster about my subjects.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

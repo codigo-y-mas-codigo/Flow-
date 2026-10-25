@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "65946a16-ea1d-41a9-b992-ca92b17389d7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 14:58:57.006292-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration against a white background features three yellow circular emojis interacting near a pile of diamonds. One emoji has closed, curved eyes, a smiling mouth showing upper teeth, and a hand with four fingers touching its left cheek, resting on a white surface with a faint reflection. Another smiling emoji with closed eyes, arched brown eyebrows, and a wide white smile showing upper teeth has a hand raised to its left cheek and wears pink underwear with blue polka dots and a light blue flower. The third round emoji-like character has brown eyes and thick, black eyebrows, looking forward with a blush, its right hand raised to its mouth in a shushing gesture, and two smaller yellow spheres below with a light blue droplet shape between them, all with a slightly textured surface and faint shadows. To the upper right is a digitally drawn pile of sparkling diamonds with soft grey shading and faint swirling lines, all against a plain white background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bf53ce5d-66a6-4ac0-ae4a-de98b8b5548d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 01:48:22.262610-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "quita el borde de la carta y textos ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

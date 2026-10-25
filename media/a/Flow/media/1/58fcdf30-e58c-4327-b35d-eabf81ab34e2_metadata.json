@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "58fcdf30-e58c-4327-b35d-eabf81ab34e2",
+    "mediaTitle": "Goku eats taco al pastor",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 01:49:04.012219-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\nGoku as a professional Triple AAA wrestler, young muscular adult, red and gold mask with spiky black hair sticking out the top, sitting at a tacos al pastor stand on a nighttime street in Mexico City. He eagerly eats a giant taco al pastor, green and red salsa dripping down his mask, onion and cilantro falling. A subtle golden ki aura around his body. Background with a spinning tacos al pastor trompo, red and green neon lights, people passing by, Arena México illuminated in the distance. Slow-motion focusing on the bite, then he stands up energetically and looks towards the arena. Realistic cinematic style mixed with anime, dramatic nighttime lighting, vibrant colors, dynamic camera movement, 8 seconds, high quality, detailed, epic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

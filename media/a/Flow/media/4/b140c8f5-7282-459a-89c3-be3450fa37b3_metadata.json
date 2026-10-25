@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b140c8f5-7282-459a-89c3-be3450fa37b3",
+    "mediaTitle": "Barber chair and walking cat",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:25:42.102983-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "crea iconografia de una silla de estetica barber shop , y un gato caminado. elementos de una barber en el estilo del lgotoipo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

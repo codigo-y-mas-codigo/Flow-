@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ae140067-6a0d-4e23-b8af-495593197970",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:58:08.564710-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration with smooth, glossy surfaces and sharp details in a blend of stylized realism and a cartoonish aesthetic features a male humanoid figure. The figure, rendered with metallic grey and orange robotic body parts exhibiting reflective qualities, appears to be an adult male with medium skin tone and dark hair styled in an upward, spiky fashion with some lighter grey streaks. He has green eyes and wears rectangular black-framed eyeglasses. His facial hair includes a goatee and a short mustache. A piercing is visible in his left earlobe.\n\nHis left arm is entirely robotic, made of segmented grey metal with visible warmer orange and subtle green glowing internal components around the shoulder and elbow joints. The robotic hand holds a warmer orange pencil with a yellow eraser, poised as if drawing or writing in the air. His right arm is also robotic, with similar grey metallic plating and subtle green glowing accents on the shoulder.\n\nAround the figure float several digital icons. To the left, there is a cool light blue calculator icon and a speech bubble. To the right, there is a cool blue folder icon with the letters \"CiW\" in white, and a cool blue silhouette of a bird. Below these, a semi-transparent grey shape with rounded corners and a blurred interior suggests a message or document. The background is a soft gradient from white at the top to a light greyish-blue at the bottom. The lighting is bright and even, minimizing harsh shadows and highlighting the reflective qualities of the materials.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

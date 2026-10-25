@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5a8a020c-4e26-4eec-8d19-905500b009de",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "6fef30b7-74c4-4674-8525-7800bae67883",
+    "createdAt": "2025-06-03 14:48:58.002689-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The video opens with a top-down, wide-angle shot of a clean white surface. The scene begins with a halved avocado, its vibrant green flesh and brown pit facing upwards, gently sliding into the center of the frame from the left. Next, a small cluster of deep blue blueberries smoothly rolls into the frame from the bottom, settling beside the avocado. Following this, several walnuts with their textured shells gracefully glide in from the top, arranging themselves near the blueberries. A raw piece of red steak then enters the shot from the right, landing softly above the avocado. A whole silver fish with visible scales and a glass bottle filled with golden olive oil with a cork stopper smoothly appear from the top right, positioned above the steak. Finally, a slice of raw salmon with distinct pink flesh and white marbling gently slides in from the bottom right, completing the arrangement of ingredients. The camera maintains a static overhead position throughout, with soft, even lighting illuminating all the elements. The movements of the ingredients are slow and deliberate, creating a calming and elegant presentation. A light and relaxing musical background plays throughout the sequence.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

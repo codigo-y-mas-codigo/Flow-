@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c573c763-a2e7-4235-b280-89675237a70b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:33:21.837656-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una ilustración de estilo tradicional que presenta a Pikachu como el personaje principal. Pikachu camina despreocupado hacia la derecha, con la cabeza ligeramente girada hacia arriba, vistiendo una túnica roja con un cuello verde y botones decorativos amarillos, pantalones azules rotos en las rodillas y un sombrero puntiagudo amarillo con una bola roja. Lleva un bastón blanco sobre su hombro derecho, del cual cuelga un pequeño saco beige con una tira roja. En su pata izquierda, sostiene un bastón amarillo que toca el suelo. Un pequeño perro blanco, con collar azul, tira de la pernera del pantalón de Pikachu desde atrás, con la boca abierta. El fondo es completamente blanco. Toda la ilustración está delineada con líneas negras gruesas en el estilo de grabado en madera medieval característico, utilizando colores planos saturados sin sombreado ni perspectiva modernos.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

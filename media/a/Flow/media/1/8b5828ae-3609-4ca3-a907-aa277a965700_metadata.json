@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8b5828ae-3609-4ca3-a907-aa277a965700",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-06-05 22:30:34.741498-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A medium shot shows a man and a woman standing closely behind a silver microphone on a stand. The man is on the left side of the frame, facing forward with his head turned to the right as if whispering into the woman\u0027s right ear. He appears to be in his late 20s or early 30s with dark brown, neatly styled hair, and light skin. He is wearing a white collared shirt and a black suit jacket. The woman is positioned slightly in front and to the right of the man, looking directly at the camera. She also appears to be in her late 20s or early 30s with long, dark curly hair cascading over her left shoulder and light skin. Her left hand is gently placed on the man\u0027s shoulder, while her right hand is raised, with her fingers near her right ear as if she is listening or has just heard something. She is wearing a fitted, long-sleeved blue dress. A long, sparkling earring is visible on her left ear. The silver microphone is positioned between them, slightly closer to the woman.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

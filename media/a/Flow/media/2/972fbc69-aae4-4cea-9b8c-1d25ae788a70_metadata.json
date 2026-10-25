@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "972fbc69-aae4-4cea-9b8c-1d25ae788a70",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-26 19:22:26.501277-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"La Templanza\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Angelic Pikachu pouring liquid between two jars. Marsella style.\nKey animation sequence:\n1. Angelic Pikachu stands serenely, focused on the act of pouring.\n2. The stream of liquid (white/light blue lines) flows continuously and smoothly from the upper jar to the lower jar.\n3. The liquid in both jars subtly shows ripples or movement.\n4. Pikachu\u0027s wings give a very slow, graceful beat or adjust slightly for balance.\n5. A soft, harmonious golden or white light subtly emanates from the point where the liquid meets the lower jar, or around Pikachu itself.\nOverall mood: Balance, harmony, moderation, skillful blending, patience. Camera: Static, focusing on Pikachu and the flow of liquid between the jars.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

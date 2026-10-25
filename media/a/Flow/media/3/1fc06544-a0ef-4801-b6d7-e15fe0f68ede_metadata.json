@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1fc06544-a0ef-4801-b6d7-e15fe0f68ede",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 09:09:46.084719-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A mid-shot shows a male scuba diver, wearing a full black diving suit, gloves, and a reflective silver diving helmet with a clear visor, standing up from a white office chair at a transparent glass table. His left hand is raised in a greeting gesture, and water bubbles are visible above his helmet on the left side of the frame. A silver microphone with a pop filter is on the table in front of him. As he stands, the camera slowly zooms in on his helmet, capturing the intricate details of the gear. The background is a dark blue with neon blue text that reads \"LUIS ÀNGEL MACIEL\" and illuminated lightning bolt graphics on the right side. The scene is lit with bright blue and white neon lights, creating a high-contrast, futuristic ambiance.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

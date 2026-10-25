@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9898e661-31a0-4315-bcf4-c0f935dbdb06",
+    "mediaTitle": "Person holding glowing crystal s…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:18:52.482839-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Al personaje que está escondida , entre sus manos carga una pequeña  esfera de cristal de color naranja con un brillo sutil Qué intenta apagar o esconder con sus manos. Cada uno de los contenedores debe de mostrar a una personalidad distinta. La doctora va caminando revisando que todo esté bien. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

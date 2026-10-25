@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4524e969-264d-4d05-8c3a-e98ee486e672",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 13:39:46.508813-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "A slightly angled, top-down view of a white rectangular piece of paper or card, possibly a postcard or flyer, resting on a plain light gray or white background. The paper casts a soft shadow beneath it, indicating it is slightly raised from the surface. The design on the paper is primarily white in the upper section and features a wave-like design in dark blue and a slightly lighter shade of blue across the bottom. The dark blue color occupies the lower approximately one-third of the paper, rising with a gentle, curved line. Above this dark blue section is a lighter blue curve, which follows the contour of the dark blue, creating a layered, wavy effect. This lighter blue section is thicker on the left and tapers towards the right. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

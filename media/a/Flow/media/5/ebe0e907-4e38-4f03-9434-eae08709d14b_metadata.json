@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ebe0e907-4e38-4f03-9434-eae08709d14b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:59:43.066971-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital painting with sharp, clean lines and smooth gradients depicts a male character with spiky, black hair and fair skin tone, rendered in a three-dimensional style with attention to texture and form. He is shown from the waist up, seated and facing slightly to his left, wearing black-rimmed glasses with warm amber lenses. The right side of his face, neck, and shoulder features smooth, metallic cybernetic components with visible, clean-lined wires and intricate mechanical details. A metallic over-ear headphone with similar robotic elements rests on his right ear. He is dressed in a gray suit jacket, a white collared shirt, and a dark gray tie, all rendered with smooth gradients and minimal harsh shadows. His left hand, also depicted as robotic with multiple articulated joints and metallic surfaces exhibiting a polished look, holds a magnifying glass. The magnifying glass is positioned to his left and shows a blurred image of digital data or technical diagrams on its lens. In front of him is a computer screen displaying similar blurred digital data or technical diagrams. The overall color palette is muted with subtle grayscale variations. The lighting is soft and diffused, contributing to the smooth appearance of all surfaces.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

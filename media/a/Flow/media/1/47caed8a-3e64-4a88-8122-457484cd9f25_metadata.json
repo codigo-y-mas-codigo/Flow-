@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "47caed8a-3e64-4a88-8122-457484cd9f25",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:53:48.506788-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An expressive landscape painting, rendered with thick, visible brushstrokes and significant impasto, depicts a dramatic, rugged scene within a dark room. The room contains a bed adorned with diamonds, and a syringe rests on top, surrounded by smoke and white clouds, conveying a mysterious and luxurious mood. The forms are simplified, with distinct, blocky shapes and masses of thick paint. Strong contrasts between brightly lit planes and deep, shadowy areas are defined by the application of thick, textured color. The color palette uses rich, possibly heightened natural colors: deep blues and teals, earthy browns and vibrant greens, with dramatic yellows or oranges, all applied with tangible thickness.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

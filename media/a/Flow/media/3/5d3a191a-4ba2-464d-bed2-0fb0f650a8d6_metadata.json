@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d3a191a-4ba2-464d-bed2-0fb0f650a8d6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-03 14:09:50.680027-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Hyper-realistic surreal book cover. Hindi script characters in glowing letters transform into vibrant digital hashtag (#). Abstract luminous lines and data streams evoke social media interfaces with subtle bird and music note motifs. Ethereal silhouette of diverse Gen Z youth observes digital evolution, with screen glow reflecting. Background blends faded traditional Indian cultural patterns with modern digital circuit designs and binary streams. Rich tangible textures. Dramatic lighting with neon glows and deep shadows creates depth of field. Unconventional composition juxtaposes ancient culture with cutting-edge technology. Vibrant palette: #FF6B6B, #4ECDC4, #FFE66D, #45B7D1, #1A535C. Title \"Transformación Digital: El Viaje de una Palabra Hindi a las Redes Sociales\" integrated in modern sans-serif font. Author \"Dr. Lingua Digital\" in elegant complementary typeface. Thoughtful, modern mood reflecting digital linguistic evolution.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

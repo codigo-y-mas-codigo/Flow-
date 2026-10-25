@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "16e188b8-8eae-4792-b43f-71c2891147cd",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "535da0aa-83a8-46fa-9b9d-f1f531c9d9f5",
+    "createdAt": "2025-06-06 12:31:48.662940-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Unhombre de 38 años con lentes , dando una clase de nutrición Holística por podcasts con su computadora , en un lugar tipo estudio de grabación ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

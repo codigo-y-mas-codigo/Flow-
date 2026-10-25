@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5e179aa5-e6aa-4224-b74a-3db87a71cbda",
+    "mediaTitle": "Modelo asustada mojada escondida",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:24:20.845509-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Bor borra todos los personajes",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "89949a81-b321-424a-b8f9-21143ccd342b"
+    }
+  }]
+}

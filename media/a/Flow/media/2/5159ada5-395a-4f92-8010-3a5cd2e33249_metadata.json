@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5159ada5-395a-4f92-8010-3a5cd2e33249",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 15:24:45.071633-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "A highly stylized, dark, and symbolic digital painting featuring a central female figure shrouded in white fabric against a deep black background. The overall aesthetic is mysterious and evokes themes of occult, mythology, or secret knowledge, framed by a thin gold border with decorative elements in the corners.\n\nThe central subject is a woman, appearing to be an adult in her 20s or 30s, seated and facing forward. She is completely enveloped in a flowing, white garment that drapes like a toga or a sheet, obscuring her body structure. The most striking element of her appearance is that her face is almost entirely covered by a continuation of the white fabric, acting as a hood or veil. Only the lower part of her face, including her jawline, chin, and lips, is visible. Her expression is neutral or slightly stern. Her skin tone is fair. Her hair color and style are indiscernible beneath the veil.\n\nThe woman is bound across her chest and arms by thick, dark, metallic chains that crisscross multiple times, symbolically restricting her.\n\nShe holds a large, ornate, antique-style golden key in each outstretched hand, positioned symmetrically on either side of her body. The keys are detailed with elaborate swirling bows and long shanks, and they appear to shimmer with a golden, particulate light effect around them, suggesting magic or importance.\n\nPositioned symmetrically just above and behind the woman\u0027s shoulders are two large, deep red pomegranates, providing a stark color contrast against the dark background and the white clothing.\n\nThe background is a pure, inky black, creating high contrast with the white figure and the golden elements. Subtle golden specks or particles of light dust surround the keys and the central figure, giving the impression of an ethereal glow or residual magic. The entire image is bordered by a thin, ornate golden frame, featuring a single continuous line and circular, decorative loops in the four corners. The lighting is dramatic and centralized, spotlighting the figure while leaving the surroundings in darkness.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

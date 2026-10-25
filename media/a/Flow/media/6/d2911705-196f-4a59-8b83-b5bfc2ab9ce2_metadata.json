@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d2911705-196f-4a59-8b83-b5bfc2ab9ce2",
+    "mediaTitle": "1000714536.jpg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:20:50.305463-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Cambia de ropa y peinado maquillaje las expresión debe ser la misma hacia enfrente. Algunas pueden tener lentes otra no y su ropa debe ser según un tipo de personalidad distinto las Cuáles serán. Estrella de pop , rock , actriz doctor y monja ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "75d8f961-997e-4f5c-9bc4-8d11dbbe563c"
+    }
+  }]
+}

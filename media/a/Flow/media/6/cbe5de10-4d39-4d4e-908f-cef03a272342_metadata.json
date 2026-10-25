@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cbe5de10-4d39-4d4e-908f-cef03a272342",
+    "mediaTitle": "Man with intense stare",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:24:26.687312-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Image cteated with Google Gemini Nano Banana Pro\n\nPrompt\nUltra-realistic dramatic portrait of a man (from uploaded image), messy hair over one eye, wearing a black turtleneck, centered with an Intense stare. Bright sharp horizontal red light highlights only the eyes and reflects on the gray wall; rest in deep shadow. Moody, minimalist, cinematic. Importante usa al personaje de la imagen adjunta. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

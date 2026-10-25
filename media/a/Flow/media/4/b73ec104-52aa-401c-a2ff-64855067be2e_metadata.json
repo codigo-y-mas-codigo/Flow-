@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b73ec104-52aa-401c-a2ff-64855067be2e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 11:41:04.258793-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "BORRA TODOS LOS TEXTOS  Y EL ROSTRO HAZLO MAS REALISTA CINEMATOGRSFICO ARTISTICO",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

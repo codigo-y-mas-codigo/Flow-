@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4ddcd461-c2e0-4ccd-b05f-524e093b7f11",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:50:25.516565-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster rendered in the style of an aged sepia-toned technical drawing features a luminous pink donut, an eggplant, and a banana with syringes, all against a dark background. The central element is a luminous pink donut, appearing weightless with a holographic icing effect, from which two female legs clad in black fishnet stockings and black high-heeled shoes emerge. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other grasping a glass pipe, both depicted with sharp, precise ink lines. To the side, an eggplant is depicted holding a syringe, and nearby, a banana also holds a glowing syringe, both subjects rendered with detailed, almost diagrammatic clarity in sepia tones. Viscous white liquid is prominently featured, depicted with the same precise linework. The dark pink background of the donut is rendered in deep brown sepia tones, complementing the overall parchment-like appearance and maintaining a feeling of delicate sweetness and ethereal beauty within the historical artistry.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

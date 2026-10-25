@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b8cab04f-9e4b-42e6-b3e0-27fa8b8809a3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 10:52:51.999141-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Minimalist elegant square cover for premium tarot healing course, deep indigo and soft charcoal gray palette with subtle luxury gold accents, sophisticated high-end wellness spiritual aesthetic, modern adult introspective feel, clean professional composition, no clutter, no crystals, no moons, no angels.Subtle glowing outline of an open Rider-Waite tarot deck on dark wooden surface, one Major Arcana card — The High Priestess — in authentic Rider-Waite style placed prominently in the center, faintly illuminated with soft golden glow. The card must show the exact classic Rider-Waite-Smith illustration of La Sacerdotisa with large roman numeral II at the top in traditional Rider-Waite font and style.Large, elegant, bold text in Spanish with premium gold and white lettering:Top: CURSO TAROT\nCenter large title: SANACIÓN EMOCIONAL\nBottom: Y AMOR PROPIO\n\nTexts very large, highly legible, sophisticated luxury typography, perfect hierarchy for Hotmart thumbnail, strong visual impact.Luxury minimalist, premium branding feel, high contrast, sophisticated lighting, square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 250 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

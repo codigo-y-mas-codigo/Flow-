@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e4b95bee-dd30-4ee1-9597-82e9df60128c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 31/5/25",
+    "projectId": "4651d429-f88e-4781-83f4-6a223f5fe73e",
+    "createdAt": "2025-05-31 20:28:03.527696-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Marca de agua para las páginas interiores\nPara la marca de agua, sugiero:\n\nUn diseño minimalista basado en los tres círculos entrelazados (cuerpo-mente-emoción)\nMuy sutil y ligero (opacidad 5-7%)\nPosicionado en la esquina inferior derecha de cada página\nTamaño discreto que no interfiera con la legibilidad del texto\nColor verde salvia muy claro para mantener la elegancia sin distraer\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

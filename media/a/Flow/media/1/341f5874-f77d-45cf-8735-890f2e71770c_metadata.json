@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "341f5874-f77d-45cf-8735-890f2e71770c",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-20 01:09:24.511704-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Creating an 8-Second Tarot Video\nFor an 8-second video about the love spread, speed and visual clarity are essential. Here are two approaches you can combine or choose from, depending on your desired outcome.\n\nOption 1: Fast Narration and Dynamic Transitions\nThis approach focuses on showing the cards appearing rapidly in their position while a voice-over or on-screen text names them.\n\nScript/On-screen Text (with Spanish card meanings):\n\nSecond 0-1: Title: \"Love Spread\" (image of a tarot card with a heart or love symbol)\nSecond 1-2: Card 1 appears in the center. Text: \"Hoy en tu corazón\"\nSecond 2-3: Card 2 appears crossing the first. Text: \"Lo que te bloquea\"\nSecond 3-4: Cards 3 (left) and 5 (right) appear. Text: \"Pasado y futuro\"\nSecond 4-5: Cards 4 (top) and 6 (bottom) appear. Text: \"Logros y cimientos\"\nSecond 5-7: Cards 7, 8, 9, 10 appear in a side column. Text: \"Emociones, influencias y resultado\"\nSecond 7-8: Final text: \"¿Quieres tu lectura? ¡Pregunta!\" or \"Discover your love\" (with a subtle call to action).\nPractical Tips:\n\nUse inspiring but non-intrusive background music.\nTransitions between card appearances should be very fast.\nEnsure text is large and easy to read. Consider using different colors to highlight each card position.\nIf using a voice-over, ensure it\u0027s concise and clearly articulated.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

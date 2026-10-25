@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5f96e91c-22ea-42c2-8cfd-a76a9830d1e6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 10:20:56.036622-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A full-body image of a person in a deep-sea diving suit and helmet. The person\u0027s hands are extended forward. The suit is dark, with metallic accents on the helmet. The helmet is black with a polarized visor. Behind the person, a glowing blue seahorse is visible. In front of the person, blue neon musical notes emerge from the ground, where a starfish is positioned on a jukebox-shaped rock. Behind the musical notes, electric-like tendrils extend against a dark background. Bubbles are visible near the upper left of the image, suggesting an underwater or liquid environment."
+    }
+  }]
+}

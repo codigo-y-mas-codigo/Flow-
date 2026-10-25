@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8216995a-e053-4529-8de3-263edd630592",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 14:44:33.205131-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el texto de curso en audio y el icono ponlo en transparencia 3d ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

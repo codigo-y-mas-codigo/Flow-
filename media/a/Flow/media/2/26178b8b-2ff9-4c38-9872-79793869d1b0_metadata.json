@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "26178b8b-2ff9-4c38-9872-79793869d1b0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 16/5/25",
+    "projectId": "39c16512-0e76-4240-a91f-3799b3de5e94",
+    "createdAt": "2025-05-16 13:03:33.515609-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Design a set of four minimalist icons that illustrate the key stages of a BDSM session: 1) Preparation (represented by a checklist or a safe word card), 2) Consent (two hands shaking, a contract, or a speech bubble with a heart), 3) Practice (a symbolic item like rope, cuffs, or a blindfold), and 4) Aftercare (a cup of tea, a warm blanket, or a heart being held). Use clean, vector-style design, soft rounded lines, and a muted palette with blues, grays, and pinks. Icons should be clear, calm, non-sexual, and visually cohesive. White background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

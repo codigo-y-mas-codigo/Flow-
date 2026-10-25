@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6d0b2e43-27e7-48a5-aa25-17a2d84d8bbd",
+    "mediaTitle": "Editing image to rearrange women",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:26:19.281489-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"Put the four women in the image one sitting with those on the armchair. And erase the two current ones.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

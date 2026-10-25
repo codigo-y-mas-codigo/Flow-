@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bc5c102d-ea33-437f-ad5c-93997f54f7ed",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:47:08.801279-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vibrant, high-contrast digital illustration with bold outlines and flat or gradient fills, creating a graphic and stylized appearance. The color palette is dominated by warm oranges and cool blues/blacks. A vintage snark poster features a luminous pink donut centrally against a dark pink background, rendered with a holographic effect. Pink liquid and white spilled milk drip from its base. Numerous diamonds and pink sprinkles adorn the donut. Emerging from the donut\u0027s center are two female legs, clad in black fishnet stockings and black high-heeled shoes. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. Above the donut, the headline \"yo pas cl slm ff\" is displayed, and below it, the text \"tu vrgn slm act\" appears. The scene is set on a night with lightning and abundant mist.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

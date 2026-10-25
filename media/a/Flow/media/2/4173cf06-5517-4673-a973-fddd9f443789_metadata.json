@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4173cf06-5517-4673-a973-fddd9f443789",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 04:03:36.577124-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un Pikachu como un esqueleto con una armadura negra, montando un caballo blanco que camina lentamente de perfil hacia la izquierda. Pikachu sostiene una bandera negra con un símbolo de flor blanca estilizada en un palo largo, y la bandera ondea suavemente. En el suelo, en la parte inferior, figuras humanas (esqueletos y partes de cuerpos) yaciendo se disuelven sutilmente. La cámara sigue al caballo mientras avanza. El fondo es completamente blanco y liso. El video mantiene el estilo de grabado en madera medieval con líneas negras gruesas y colores planos saturados, sin sombreado ni perspectiva modernos.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

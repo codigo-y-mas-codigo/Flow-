@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "43b2f108-64cc-4dd9-ba23-7f19cb3c7042",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-03 10:55:51.923350-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A three-dimensional rendering of a yellow circular emoji with wide, round white eyes, black pupils looking slightly upward and to the left, thick black arched eyebrows, and a wide open mouth revealing a pink tongue and dark interior is rotated approximately 45 degrees to its left and sits on a reflective white surface against a stark white background. A small, round, light pink blush mark is visible on its left cheek. The emoji has two small, rounded yellow appendages extending from its sides. The left appendage is positioned near its mouth, with the tips of the digits touching its lower lip. The right appendage is extended slightly behind the emoji. The surface beneath the emoji reflects its form with a subtle gradient, suggesting a light source from above. The background is completely plain and white, and its face has an expression suggestive of wanting to be fed."
+    }
+  }]
+}

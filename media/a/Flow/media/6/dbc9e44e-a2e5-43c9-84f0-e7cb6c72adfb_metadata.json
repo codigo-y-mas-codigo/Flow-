@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dbc9e44e-a2e5-43c9-84f0-e7cb6c72adfb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 16:29:24.933864-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A young Mexican woman with dark, wavy hair and warm brown eyes, initially yawning subtly with tiredness, wearing comfortable casual clothes (like a plain t-shirt and soft pants) in a cozy, slightly dim living room setting. The scene then transitions to the same woman radiating energy and a confident smile, now in bright, activewear (like a turquoise top and black leggings), captured in a well-lit, modern gym or outdoor park. The visual style should emphasize a clear before-and-after transformation in energy levels.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

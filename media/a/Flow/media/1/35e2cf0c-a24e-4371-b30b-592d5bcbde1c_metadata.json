@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "35e2cf0c-a24e-4371-b30b-592d5bcbde1c",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:55:45.813885-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A medium shot with a subtle zoom-in shows a male diver in a chrome-plated helmet and a dark suit, his right hand slowly raising in a wave. The \"NAUTILUS\" text above him blinks erratically, each letter flickering and dimming sequentially until it vanishes into the stormy blue background. Electric blue lightning bolts flash across the dark backdrop, illuminating a glowing blue seahorse to the right of the diver. The diver\u0027s fingers subtly twitch as he waves, his arm slightly bent at the elbow, casting a soft shadow on the transparent table in front of him. The scene is lit with a cool, electric blue light, giving the underwater environment a mysterious and dynamic ambiance. The shot ends with a shallow depth of field, with the focus on the diver and the table, and the seahorse slightly blurred in the background.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

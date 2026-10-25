@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "43d26a92-c8aa-48cb-91d9-3844f0d822fd",
+    "mediaTitle": "Generating a portrait photograph",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 22:36:07.867615-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated prompt in English:\n\n\"Generate a photorealistic cinematic close-up portrait photograph, using the face of the person in the [Face Reference Photo] as the main subject. Completely replace the character\u0027s face in the [Character Reference Photo]. Keep the heroic pose, the textured leather armor, the green screen background, and the dramatic studio lighting of the [Character Reference Photo] identical. Ensure seamless integration of skin texture, adjusting the lighting and skin tone of the new face to perfectly match the environment of the original scene, eliminating any trace of amateur cutting or overlay.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

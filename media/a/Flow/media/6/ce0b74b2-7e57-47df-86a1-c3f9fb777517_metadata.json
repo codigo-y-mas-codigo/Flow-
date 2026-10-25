@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ce0b74b2-7e57-47df-86a1-c3f9fb777517",
+    "mediaTitle": "Kitten crossing frame loop anima…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:57:23.236096-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

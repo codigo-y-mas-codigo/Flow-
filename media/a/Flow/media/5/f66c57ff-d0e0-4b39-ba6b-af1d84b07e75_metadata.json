@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f66c57ff-d0e0-4b39-ba6b-af1d84b07e75",
+    "mediaTitle": "Goku eats taco al pastor",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:00:38.285873-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"Create a character sheet with front, profile, back, full body, and face views. all ultra-realistic cinematic earthy tones. high detail, 8K, premium cinematic grading.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "3e8199ff-0414-47c6-80b9-c1b4b3d290b7"
+    }
+  }]
+}

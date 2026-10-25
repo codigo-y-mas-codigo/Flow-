@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7e09a00b-626e-4c99-8d43-739a15a37968",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:54:21.747812-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una habitación obscuro, con una cama con diamantes y encima una jeringa. Hay humo y nubes blancas para dar misterio y lujo. Una líquido blanco viscoso cubre toda la pared blanca de la habitación. Un hombre adulto de piel clara, con un piercing en la nariz y aretes, tiene los ojos cerrados. Viste una camisa blanca sin mangas, un collar de perlas, una gorra de béisbol blanca y tiene tatuajes en el cuello y los brazos. Está de pie en la habitación.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b56c46b3-4312-4a4c-9bd0-9fab803dd24d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 20:11:50.509184-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A central, vertical, three-dimensional, abstract lightning bolt shape is set against a solid black background. The lightning bolt is composed of a glass-like or iridescent material, which reflects a spectrum of colors, primarily blues, purples, oranges, and yellows, that appear to shift and blend across its surface. The edges of the lightning bolt are sharply defined with a bright, luminous outline that varies in thickness and color, contributing to a sense of depth and glow. The internal areas of the shape are darker, almost obsidian in places, absorbing light, while other parts intensely reflect the colorful spectrum. The overall effect is glossy and smooth, suggesting a polished surface. The lightning bolt is oriented with its jagged points facing right and left, and its main body is vertical in the frame.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

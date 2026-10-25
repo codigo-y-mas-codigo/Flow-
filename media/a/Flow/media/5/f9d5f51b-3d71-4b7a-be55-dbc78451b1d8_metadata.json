@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f9d5f51b-3d71-4b7a-be55-dbc78451b1d8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-06-13 10:07:20.948511-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Stylized text on a black background with orange and light blue abstract graphic elements. The largest text reads \"CHUDÁI\" in bold, orange, sans-serif capital letters. Below this, in a larger white sans-serif font, are the words \"EN LA RED\" stacked vertically. Further down, in a smaller white sans-serif font, is the phrase \"Sexo, Pantallas y el Despertar Digital\". Abstract orange diagonal stripes are in the top left and bottom left corners. Light blue horizontal and diagonal lines are scattered across the top and bottom portions of the background. An orange rectangle is near the bottom.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

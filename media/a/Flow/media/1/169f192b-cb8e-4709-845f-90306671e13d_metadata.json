@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "169f192b-cb8e-4709-845f-90306671e13d",
+    "mediaTitle": "Animal piloting alien spaceship",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:49:33.495370-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "An extremely ordinary, non-artistic selfie photograph, accidentally taken with an iPhone. The image features clumsy composition, slight motion blur, uneven lighting, and an improvised appearance.\n\nThe main subject is the animal from the user\u0027s uploaded reference image, maintaining its exact real-life features. The animal has its mouth open with an exaggerated expression of surprise or a funny scream.\n\nThe animal is sitting inside a futuristic alien spaceship, as if it were the accidental pilot of the vessel. It wears a space helmet or improvised technological accessories. Through the windows, an intense space battle is visible with extraterrestrial ships, lasers, explosions, planets, and meteors. The scene should look chaotic and poorly framed, like an accidental selfie taken in the middle of a galactic war.\n\nHyper-realistic casual selfie aesthetic, imperfect lighting, spontaneous and absurd feel.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

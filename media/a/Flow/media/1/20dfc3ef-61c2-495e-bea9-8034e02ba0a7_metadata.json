@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "20dfc3ef-61c2-495e-bea9-8034e02ba0a7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-06-01 13:22:59.175716-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A minimalist and clean logo design for \u0027Lukanti\u0027, featuring a stylized heart shape formed by interconnected elements of fruits (apple, pear, pineapple, banana), wheat, and various leaves. The entire logo should be in solid white against a pure black background. The design should be simple and clear, suitable for high-quality printing.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

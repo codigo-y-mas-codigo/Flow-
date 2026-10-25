@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b1744b81-a88f-4838-8979-e22c4dae674c",
+    "mediaTitle": "Demonic man with smoke",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 01:51:46.877590-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic full body of muscular demonic man with glowing green eyes, thick black smoke emanating from body, aggressive and dominant pose, dark ruined background, dramatic lighting, high detail muscles and smoke effects, PixVerse.ai, #666 satanic gooner atmosphere",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

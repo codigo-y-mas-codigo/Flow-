@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9df15ea8-0a67-4279-a4a5-ff9ff5761c58",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:24:01.715976-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "cambia la posicion del perro y humano ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

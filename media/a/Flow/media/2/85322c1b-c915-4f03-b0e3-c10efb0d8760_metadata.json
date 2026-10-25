@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "85322c1b-c915-4f03-b0e3-c10efb0d8760",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "adcbbdd1-8206-44be-88f3-e39ab8d87035",
+    "createdAt": "2025-06-24 02:58:39.755773-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A hyperrealistic digital render showcasing several perfect, 1-inch cubes of different food items arranged in a precise, minimalist composition, perfectly centered within the frame. The cubes rest directly on a clean, seamless, matte black background. The composition might feature three cubes in a small row or a tight cluster: one cube of vibrant orange Cantaloupe melon showing its subtle texture, one cube of deep green cucumber revealing its seeds in cross-section, and one cube of marbled white and pink raw tuna (saku block). Each cube is geometrically perfect, with sharp edges and clean faces. Hard, precise studio lighting from the top and side clearly defines the cubes\u0027 forms, highlighting their distinct textures and colors, and casting crisp, dark shadows on the black surface. The focus is incredibly sharp across all visible faces of the cubes, capturing minute details – the melon\u0027s porous texture, the cucumber\u0027s watery seed structure, the fine muscle fibers and fat lines in the tuna. Absolute symmetrical centering of the cube arrangement is essential. Deep depth of field keeps all cubes sharp. The color palette contrasts the vibrant natural food colors (orange, green, pink/white) against the stark black. The mood is clinical, precise, artistic, and slightly abstract, reducing food to pure geometric form and color.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

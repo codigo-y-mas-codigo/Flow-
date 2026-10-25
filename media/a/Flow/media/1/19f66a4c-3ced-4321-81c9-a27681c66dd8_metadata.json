@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "19f66a4c-3ced-4321-81c9-a27681c66dd8",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 03 - 0044",
+    "projectId": "a5f5d34e-a2b2-4d0b-a1c5-32f797c6524e",
+    "createdAt": "2025-06-02 23:51:33.825890-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Hands slowly preparing a vibrant salad with fresh organic ingredients, under natural light in a calm kitchen environment. Focus on the texture and colors of the food.\"",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

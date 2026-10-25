@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bf31a3d7-47f1-4745-8807-65560a6aca8d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:25:05.874144-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration in the style of a Marseille Tarot card with clean, bold black outlines and flat, vibrant primary hues of red, blue, and yellow, along with black and white for contrast and minimal solid black shading, depicts \"El Emperador.\" The composition is symmetrical and frontal, contained within a defined border with text below. Pikachu, rendered in this flat vector style, is the central figure, dressed in royal armor with bold black outlines and flat gold and grey tones, and a vibrant flat red cape outlined in black. Pikachu is seated on a simple, blocky stone throne rendered with flat grey tones and bold black outlines. Pikachu holds a flat gold ankh scepter with a bold black outline. The background is simple and regal, focusing attention on the throne and Pikachu\u0027s authoritative presence, all rendered with flat colors and bold black outlines. The overall dimensions and composition match a traditional tarot card.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

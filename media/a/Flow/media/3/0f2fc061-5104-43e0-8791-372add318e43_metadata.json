@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0f2fc061-5104-43e0-8791-372add318e43",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 00:37:17.768302-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Change the camera angle of this image to a direct frontal view, at eye level with the main subject. Keep the main subject, its pose, and the scene\u0027s elements the same, only altering the viewpoint.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

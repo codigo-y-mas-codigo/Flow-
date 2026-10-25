@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1cbfa257-6d5e-4438-b765-a2035aefda1a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:02:15.087678-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster features a luminous pink donut and an eggplant with a syringe against a dark, foggy background with sparkling diamonds. In a vintage-style poster, a stylized, engraved illustration of a luminous pink donut with a subtle holographic shimmer and tiny, bright, translucent sprinkles, and a barely visible soft golden base, is featured alongside an eggplant holding a syringe. The scene is set against a dark, foggy background with brilliant diamonds on the floor. The poster uses a limited red-toned palette on a cream background. At the top, a large, bold headline reads \"SWEETER THAN YOUR EX, SOURER THAN YOUR LIFE\" in an arched mid-century serif font. Beneath the headline, a tagline in a stylized font states, \"JUST A PINCH OF REALITY.\" A funny footer line at the bottom reads, \"STILL INJECTION-READY.\" Mid-century sparkle icons are scattered around the headline, enhancing the retro print ad aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

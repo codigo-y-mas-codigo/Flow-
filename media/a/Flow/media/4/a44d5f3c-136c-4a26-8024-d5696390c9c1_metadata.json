@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a44d5f3c-136c-4a26-8024-d5696390c9c1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:59:28.433160-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Grainy, high-contrast image emulating a 1960s film photograph with a direct flash. A young-adult-appearing man with light skin tone and curly, light-colored hair emerges from deep shadow beneath a wide-brimmed hat with starkly contrasting, saturated orange and white stripes on the crown and a red brim outlined in yellow. He wears a vertically divided tunic, the viewer\u0027s left side a saturated blue with a yellow sleeve, sharply contrasting with the saturated red and blue of the right side\u0027s tunic and sleeve. A yellow and blue belt encircles his shadowed waist. His legs are clad in saturated blue tights, and his shoes are red.\n\nThe man holds a thin, golden-yellow wand in his brightly lit, raised right hand, creating strong shadows. His left hand rests on a light brown wooden table standing on four legs. The table is partially illuminated, revealing a golden cup, a red cup, several golden coins, a knife with a black handle, and a white-handled knife. A pouch or bag sits nearby, partially obscured by shadow.\n\nThe background is swallowed by darkness, hinting at a light yellow ground and a darker yellow horizon line. A small green plant is barely visible in the shadows. A noticeable film grain permeates the image, and a slight vignette darkens the corners.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

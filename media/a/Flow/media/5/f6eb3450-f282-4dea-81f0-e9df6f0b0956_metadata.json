@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f6eb3450-f282-4dea-81f0-e9df6f0b0956",
+    "mediaTitle": "Designing minimalist Osiris Este…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:14:33.148826-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "una iamgen en español que parezca una estetica (para humanos) , minimalista, debe destacar el logo osiris estetica . incluye la palabra estetica osiris y haz minimalista el logo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

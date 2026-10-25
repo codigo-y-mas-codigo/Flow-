@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b8d5022c-fe2d-4436-8c0e-2f8dd57e7103",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-06-05 18:12:01.755175-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A hyperrealistic image of a young Mexican woman with dark, wavy hair, wearing a plain light grey long-sleeved t-shirt and dark blue jeans, walking on a familiar street in a Mexican neighborhood. The background elements (buildings, trees, street) are subtly tilted and distorted, creating a sense of unreality and disequilibrium. Leaves are floating upwards instead of falling. The lighting is natural but with a slightly eerie, surreal tint.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

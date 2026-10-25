@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b6dd0bd7-dab5-426d-8ce9-00d150b1851b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 13:25:24.287829-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A horizontally oriented digital image of a mock-up business card, presented against a plain white background. The business card features a design in white and deep blue (navy). The top portion of the card is predominantly white, with a large, stylized word \"Renew\" in a dark blue script font placed on the left side. Directly below \"Renew,\" in a smaller, non-script font, is \"LociónRenew.com.\"\n\nOn the right side of the white area, the following contact information is displayed in a dark blue sans-serif font:\n*   ELIZABETH PADILLA\n*   Consultora Independiente\n*   Tel: 555.000.0000\n*   Email: e.padilla@ejemplo.com\n\nThe lower portion of the business card is defined by a dynamic, curving wave pattern in deep blue, separating it from the white top. This deep blue area takes up the bottom third to half of the card. Centered within this deep blue area, near the bottom, is the Melaleuca logo: a small, dark blue stylized leaf or plant image, followed by the text \"Melaleuca\" in a stylized font, and below that, \"The Wellness Company\" in a smaller font.\n\nThe business card is shown slightly angled, suggesting depth and presence on the white background, with a subtle shadow cast beneath it. A small, secondary corner of a similar card peeks out from beneath the bottom right edge of the main card, also deep blue. The overall aesthetic is clean, professional, and focused on wellness and personal consultation services.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

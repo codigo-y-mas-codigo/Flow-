@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7b70c6c6-baac-4efb-9aaa-b4261df55776",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 02:16:28.209750-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "texto grande, estilo editorial. Titulo: La Arquitectura Oculta del Tarot: 4 Secretos Estructurales que lo Cambian Todo. textos en español. text in spanish ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

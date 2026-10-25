@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2e5e63ee-0763-44f3-9009-96b50f7eff30",
+    "mediaTitle": "Three women posing for portrait",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:40:46.310061-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": " \nUltra-premium surreal retro editorial collage inspired by Vogue Italia and luxury 90s fashion campaigns, featuring a breathtaking runway muse stepping out from fragmented vintage magazine covers as if breaking through layers of printed fashion history. Elegant feminine silhouette with classy sensuality, sleek straight dark hair, flawless glowing skin, glossy nude lips, dreamy eyes, and confident couture body language.  \n  \nShe wears a sophisticated satin velvet corset gown with sculptural draping, sheer opera gloves, pearl jewelry, crystal earrings, and luxury heels, styled with old-money European fashion aesthetics. Surround the composition with ripped Vogue pages, floating perfume sketches, lipstick kiss marks, distressed newspaper textures, handwritten French typography, polaroids, transparent tracing paper, ink brush strokes, and layered scrapbook elements arranged with intentional artistic chaos.  \n  \nLuxury cinematic color palette of creamy beige, muted burgundy, dusty rose, antique ivory, mocha brown, champagne gold, and soft espresso tones with slightly desaturated editorial grading. Professional lighting with soft cinematic studio glow, warm golden-hour highlights, glossy magazine reflections, dreamy atmospheric bloom, ambient shadows between collage layers, and rich editorial contrast.  \n  \nInclude realistic analog imperfections like soft 35mm film grain, dust particles, paper creases, faded ink textures, vintage print scratches, subtle lens blur, and old-camera flash atmosphere. Composition should feel visually addictive and professionally art-directed with asymmetrical balance, luxury negative space, strong focal hierarchy, cinematic depth, and premium magazine-cover framing. Ultra detailed, hyper realistic textures, high-end graphic designer aesthetic, luxury couture campaign quality.  \n  \nUsa la imagen adjunta con las hermanas tres mujeres, respeta su color de cabello actual y un maquillaje neutro natural , sin exageración.Incorporará elementos de libros, lentes, perfumes, incluso la rueda de la fortuna. Esto para que se vea más personalizado con elementos que les gusta a las tres. De izquierda a derecha sus nombres son Lizzi, Angylu y Mishell. Las hermanas Maciel Padilla, familia más importante de Puebla. Textos en español. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

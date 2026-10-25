@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4c0fd111-da1c-4839-9bd7-7c87b4869467",
+    "mediaTitle": "Cat walking and product logos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 20:06:47.099885-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "borra el gato y las bolsitas y caja que sean de cuero",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "082a87a3-c5ec-4a7a-bdd4-438e9ac8b6ed"
+    }
+  }]
+}

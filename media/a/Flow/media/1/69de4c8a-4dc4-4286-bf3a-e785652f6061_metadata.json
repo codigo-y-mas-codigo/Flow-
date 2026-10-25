@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "69de4c8a-4dc4-4286-bf3a-e785652f6061",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-25 04:18:28.456188-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"El Sol\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Sun with face, two joyful Pikachus/Pichus below. Marsella style.\nKey animation sequence:\n1. The large Sun with a benevolent face beams brightly. Its golden and red rays pulse gently with warm, vibrant light, perhaps extending and retracting ever so slightly, like a heartbeat of pure energy.\n2. The two small Pikachus/Pichus below are animated with joyful, playful, and innocent movements: they might be holding hands and swinging them, one might offer the other a (Marsella-style) flower that appears magically, or they might be looking up at the Sun with arms outstretched in pure delight.\n3. Their expressions are clearly happy, energetic, and full of wonder.\n4. The colorful droplets (Marsella crimson red, Marsella royal blue, Marsella golden yellow) falling from the Sun descend gently and continuously, like a shower of blessings or dew, perhaps dissolving with a soft sparkle as they near the ground.\n5. The small plant tufts on the ground might appear to grow a tiny bit or become more vibrant under the Sun\u0027s light. The entire scene is bathed in a warm, golden, cheerful glow.\nOverall mood: Pure joy, vitality, success, clarity, optimism, innocent celebration, warmth, enlightenment. Camera: Static, capturing the radiant energy of the scene, allowing the viewer to bask in its positivity.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

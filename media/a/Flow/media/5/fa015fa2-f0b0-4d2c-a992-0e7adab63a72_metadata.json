@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fa015fa2-f0b0-4d2c-a992-0e7adab63a72",
+    "mediaTitle": "Dark retrowave instrumental vide…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 00:43:35.965870-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Añade un efecto que evoque al sonido de Dark retrowave cinematic instrumental. Slow ~100 BPM. Deep dark synth pads, reverb-drenched arpeggios, minimal kick drum, atmospheric pads, moody, nocturnal, midnight city drive. Clean modern production. The melody from the original K-pop track reimagined in a dark, cinematic retrowave style. En vertical 9:16  añade el texto en español de \"Cover instrumental\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

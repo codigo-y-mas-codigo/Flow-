@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2c367cfc-a2fc-4238-9ee6-fe0e7dc8deed",
+    "mediaTitle": "Doctor inspecting clones in tubes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:44:28.244244-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "25 clones congeladas en una habitación de luces blancas futuristas , se encuentran en unos tubos con líquidos transparente se mantienen inertes flotando. Unas luces tienen más brillo que otras unas parecen apagadas. La que está vestida de doctora es la única que está afuera como si estuviera revisando cada una de los clones. Todos tienen un número distinto en la parte inferior de la plataforma del tubo. Una clon  se está escondiendo detrás de un túbo , es la que está vestida de de actriz, se esconde para que no la encuentre la doctora quién pasa desapercibida. Se logran ver el efecto del agua en algunas cabinas. Una escena digna de una película de ciencia ficción futurista. Se deben de ver los 25 clones en toda la imagen. Estilo cinematográfico hiper mega surrealista. Nano Banana 2 \nA slow, smooth cinematic zoom out, pulling away from the subject gently. Handheld vibe. Film texture.180° Giro Lateral Muy Lento  \nToma 1 → Cámara gira 60° hacia un lado (altura fija)  \nToma 2 → Continúa otros 60°  \n Últimos 60° y se detiene o regresa 30° suavementestudio lighting, --ar 3:2 --stylize 160 --v 8.1 allultra realistic cinematic earthy tones.  high detail, 8K, premium cinematic grading, Kodak Portra 100T\"Cinematic sci-fi shot of a human clone experiment floating inside a vertical glass stasis tube filled with bioluminescent water. Hyper-realistic micro bubbles and oxygen effervescence rising rapidly from the bottom, catching the light. Perfect water refraction, caustic light reflections ripples dancing across the clone\u0027s skin. Deep volumetric laboratory lighting, teal and neon green glow, octane render, 8k resolution, ray-tracing, photorealistic texture, masterpiece",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

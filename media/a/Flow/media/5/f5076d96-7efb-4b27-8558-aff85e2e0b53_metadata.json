@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f5076d96-7efb-4b27-8558-aff85e2e0b53",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "2cbfe30a-1c6a-465c-bd6b-2e2e99d63461",
+    "createdAt": "2025-07-03 03:41:17.872933-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A realistic CD jewel case, cleanly lit with soft reflections and light shadows, is placed squarely in the center of a light gray background, showcasing a minimalist, retro-style vector artwork cover. The album art features simplified graphic forms using flat colors and bold outlines. On the left, a multi-faceted, brilliant-cut peach is stylized with bold shapes and thick outlines, surrounded by a cloud of white smoke or vapor with soft, diffused edges. To the right of the peach, an upright, transparent medical eggplant is depicted with clear numerical markings in black. A small amount of clear liquid is inside the barrel, the plunger is white and extended, and the needle cap is light blue. A bold album title in a wide, rounded typeface is present, along with a fictional label name and logo in one corner. The overall composition is polished and editorial, like a clean, conceptual product photo.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

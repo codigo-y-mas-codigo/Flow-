@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9e242b47-b81f-4e0d-ac0a-3e8038f5e136",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-27 05:04:59.454852-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A Valentine\u0027s Day card depicting a layered papercut diorama features a central paper-style peach with pastel orange and light orange gradients and a black outline. From the peach\u0027s center emerges a papercut-style pink clenched fist with visible paper knuckles and fingernails, pointing upwards. Below the fist, within the peach\u0027s cleft, are stylized paper flames or radiating lines in pastel yellow and orange with black outlines. Two green paper leaves are at the top of the peach, along with a short brown paper stem.\n\nThe peach is layered over stylized pastel pink paper blossoms with dark pink paper outlines and green paper leaves peeking out from behind. Scattered around the top half of the peach are four-pointed paper stars with black outlines and white interiors. Below the peach and blossoms, arranged in a semi-circular arc, are the words \"FISTING CONCEPCIÓN\" in black, rounded capital paper letters with a thick white paper outline, all crafted from paper. The scene is set against a dreamy, romantic sunset sky in pastel pinks, purples, and oranges, embellished with glitter and a cute ribbon rim.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "39393941-58ed-4fe9-8f7d-7ef71166f22b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 04:00:39.329490-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vibrant, high-contrast digital illustration in a cartoon vintage 3D snark poster style features a luminous pink donut and various fruits with syringes against a foggy, dark background with glowing diamonds. A luminous pink donut with dripping pink liquid and white spilled milk, adorned with numerous diamonds and pink sprinkles, takes center stage. Emerging from the donut are two female legs in black fishnet stockings and black high-heeled shoes, and two hands, one holding a syringe with glowing liquid and the other a glass pipe. Beside the donut, an eggplant holds a syringe, a banana holds a glowing syringe, and another grouping consists of a banana, a red chili, and a green chili. The scene is set against a dark, foggy background with bright diamonds scattered on the ground, all rendered with bold outlines, flat or gradient fills, and strong highlights and shadows, creating a graphic and stylized appearance with a playful and energetic visual impact.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

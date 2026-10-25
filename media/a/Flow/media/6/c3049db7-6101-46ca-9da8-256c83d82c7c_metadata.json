@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c3049db7-6101-46ca-9da8-256c83d82c7c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 10:48:42.138888-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Tarot para Sanación Emocional y Amor Propio – Sistema Avanzado Exclusivo\n\nMinimalist elegant square cover for premium tarot healing course, deep indigo and soft charcoal gray palette, subtle glowing outline of open Rider-Waite tarot deck on dark wooden surface, one major arcana card like The High Priestess faintly illuminated in center, sophisticated luxury spiritual aesthetic, high-end wellness vibe, clean professional composition, no text overlay, no clutter, no crystals moons or angels, modern adult introspective feel, square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 250 --q 2 agrega \"luxury minimalist, gold subtle accents, premium branding feel\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

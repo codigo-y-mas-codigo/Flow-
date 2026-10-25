@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "36def6ac-921a-4135-8a2b-5445e533093c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:47:08.235046-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background shows a fair-skinned young adult male figure seemingly constructed from or coated in a reflective, textured material of a golden hue, emerging from beneath a wide-brimmed hat that is striped in shades of reflective gold and lighter yellow. The hat\u0027s edges have a dissolving or disintegrating effect, appearing as a scattering of small, sparkling particles in shades of gold and lighter yellow. The man\u0027s head is turned slightly to his right. He has a mustache and a small amount of darker hair visible above his lip. His collar leads to a garment that is divided into sections of solid, reflective colors: a dark sleeve and torso, a lighter gold sleeve and torso, and alternating dark and lighter gold wavy lines at his waist. The sleeves end in striped cuffs of lighter gold and dark.\n\nHe stands behind a rectangular table with diagonal stripes of reflective gold and dark material. His left hand rests on the table, near several small, round reflective gold objects and a lighter gold cylinder. His right hand holds a dark wand or rod upright. On the table are various other items including a reflective gold cup, several tan geometric shapes, a beige pouch with a dark top and red strings, and two knives or tools with curved, beige handles and silver blades.\n\nThe man\u0027s legs are clad in vertically striped leggings of dark and reflective gold, and his feet wear pointy lighter gold shoes. Below the table, the ground is depicted with curved lines in shades of tan and dark, with a small lighter gold flame-like shape between his feet. The illustration is bordered by a dark frame.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

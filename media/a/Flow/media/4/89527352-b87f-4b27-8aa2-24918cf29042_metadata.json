@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "89527352-b87f-4b27-8aa2-24918cf29042",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-05-27 04:45:58.541810-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cartoon drawing shows a man from the side, looking over his right shoulder. The man has light brown skin, short, dark brown hair, and a trimmed dark beard and mustache. His eyes are closed, and he has a slight smile. He is wearing a red baseball cap backwards and grey shorts. He is shirtless, exposing his muscular upper body. His left arm is bent, and he is holding a rectangular object with a black screen up to his face. The background is plain white. Above the man, in a handwritten-style black font, are the Spanish words \"Yo viéndome al espejo después de hacer dos sentadillas...xD\".",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

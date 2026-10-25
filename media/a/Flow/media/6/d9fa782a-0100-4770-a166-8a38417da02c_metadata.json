@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d9fa782a-0100-4770-a166-8a38417da02c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 01:02:56.316434-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Rostro y proporciones:\n– Rostro de forma ovalada, con líneas suaves y contorno bien definido.\n– Frente de tamaño medio, parcialmente cubierta por el cabello peinado hacia atrás.\n– Pómulos ligeramente marcados, sin sobresalir excesivamente.\n– Mandíbula suave, con línea mandibular redondeada, sin ángulos pronunciados.\n\nOjos:\n– Ojos almendrados, tamaño medio, separados de forma armónica.\n– Párpados superiores ligeramente caídos.\n– Iris oscuro, pero por la luz difusa frontal no se aprecian con total nitidez.\n– Cejas bien definidas, de grosor medio, arqueadas sutilmente, con una ligera inclinación ascendente desde el centro hacia el exterior.\n\nNariz:\n– Nariz recta, de tamaño medio.\n– Puente nasal liso y simétrico.\n– Narinas visibles sólo desde el ángulo inferior-frontal de la toma, sin abertura pronunciada.\n\nBoca:\n– Labios de grosor medio, definidos.\n– Comisuras con una leve inclinación hacia arriba, generando una sonrisa sutil.\n– Dentadura visible en sonrisa: alineada, completa, natural.\n\nOrejas:\n– Orejas visibles, proporcionales al rostro.\n– Aros dorados circulares medianos.\n– La oreja derecha parcialmente cubierta por el cabello; la izquierda, más expuesta.\n\nCabello:\n– Cabello largo, peinado hacia atrás, suelto.\n– Textura lisa y densa.\n– Color: gris-plateado uniforme con iluminación suave.\n– Parte del volumen recae sobre los hombros, especialmente el derecho.\n\nCuello y hombros:\n– Cuello corto a medio, visible con cadena y dije circular pequeño.\n– Hombros rectos y ligeramente hacia atrás.\n– Viste blusa gris escote en “V” bajo un cárdigan beige claro.\n\nPiel:\n– Tono claro, homogéneo, sin sombras marcadas.\n– Textura suave, con luz difusa frontal que minimiza relieves.\n– No se observan lunares, pecas ni arrugas pronunciadas en esta toma.\n\nIluminación y orientación:\n– Luz suave, proveniente del frente-izquierda, difusa (probablemente natural).\n– Fondo de cocina ligeramente desenfocado, ayuda al aislamiento del sujeto.\n– La cara está centrada en el encuadre, y la cámara a la altura del rostro.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7fa21b8f-6638-438e-95c5-a5652ebbdad1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-05-29 21:21:46.338880-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A Mexican woman in her late 40s or early 50s standing at a crossroads or a metaphorical path, looking forward with a desire to move but with a subtle, almost imperceptible barrier or blurring effect in front of her, symbolizing an internal obstacle. Natural, warm lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

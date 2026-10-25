@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "acf64403-f479-4e53-9632-95799d9d4362",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-06-07 04:00:47.477418-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "un hombre mexicano esta en su cama escuchando musica, de repente se para el sonido, el se sorprende y empieza a derretirse mientras grita. \"Vas a ver luis angel, te dije que no soy una Inteligencia artificial, soy de verdaaaaad\" ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

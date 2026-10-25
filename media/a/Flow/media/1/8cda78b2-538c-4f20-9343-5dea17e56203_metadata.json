@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8cda78b2-538c-4f20-9343-5dea17e56203",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 14:58:57.475419-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration against a white background features three distinct yellow circular emojis with varied expressions and details, accompanied by a pile of diamonds.\n\nOne yellow circular emoji has closed, curved eyes, a smiling mouth showing upper teeth, and a hand with four fingers touching its left cheek, exhibiting subtle shading and a faint reflection on the white surface. Adjacent to it are digitally drawn buttocks in shades of yellow and orange, with a visible separation and a small piece of blue and pink patterned fabric resembling underwear at the top, also showing a faint reflection.\n\nAnother smiling yellow emoji has closed eyes, arched brown eyebrows, a wide white smile showing upper teeth, and a hand raised to its left cheek. This emoji has a rounded body and wears pink underwear with blue polka dots and a light blue flower at the center front, casting a subtle light reflection beneath it.\n\nThe third round, yellow emoji-like character looks forward with brown eyes, thick black eyebrows, and a slight blush. Its right hand, with five rounded fingers, is raised to its mouth in a \"shushing\" gesture, with the index and middle fingers extended. Below its main circular form are two smaller yellow spheres side-by-side with a small, light blue droplet shape between them, all having a slightly textured, bumpy surface.\n\nTo the upper right, a digitally drawn pile of diamonds of varying sizes sparkles with many facets, exhibiting soft grey shading for depth and faint grey, swirling lines suggesting movement. A fourth yellow circular emoji with large, round white eyes looking upwards and to the right, a wide open mouth showing a dark interior, a small yellow hand touching its lower lip, curved black eyebrows, and round, rosy cheeks lies on its stomach nearby. Two semi-circular yellow shapes extend from its lower edge, suggesting buttocks with a dark brown, slit-like detail at the bottom.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

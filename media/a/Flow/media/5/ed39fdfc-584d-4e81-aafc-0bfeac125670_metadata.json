@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ed39fdfc-584d-4e81-aafc-0bfeac125670",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 15:12:53.165956-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image shows a stylized design incorporating agricultural and botanical elements forming a heart shape. On the left side, a thick, dark green curved line begins at the bottom left, arcs upwards and to the right, and then curves back down and slightly to the left. The right side of the heart is completed by a stylized shaft of wheat, depicted with a golden-yellow color and featuring grains along its length, curving to mirror the green line. Inside this heart shape are a stylized green apple at the top, a yellow banana pointing upwards and slightly to the left, a blue avocado positioned centrally and pointing downwards, and a red leaf shape to the right, oriented horizontally. A thin, light green stem extends from the bottom of the blue avocado and extends downwards, partially obscured by the red leaf. The entire design is set against a plain white background. The style is flat and graphic, with solid colors and no shading or texture visible."
+    }
+  }]
+}

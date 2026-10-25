@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "eadbd8a4-919f-467b-a42c-61a84887bb81",
+    "mediaTitle": "Editing photo with four women",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:32:30.577970-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Place the four women from the first image sitting as they were on the sofa. And erase the two current ones. Add a logo that says \"Luces de formentera\" that matches the photograph.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

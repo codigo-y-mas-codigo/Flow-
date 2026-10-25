@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "75c3b6da-f42b-48ee-a226-081f858a9328",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 04:02:18.568888-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage 3D snark poster logo features a luminous pink donut, an eggplant, two bananas, a red chili, and a green chili against a solid background. The pink donut, centrally placed, appears almost weightless with a holographic icing effect. Pink liquid and white spilled milk drip from its base. It is adorned with numerous diamonds and pink sprinkles. Emerging from the donut\u0027s center are two female legs in black fishnet stockings and black high-heeled shoes. Two hands extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. An eggplant is depicted holding a syringe. One banana is shown with a bright syringe, while another banana is next to a red chili and a green chili.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

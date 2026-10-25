@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2af49ab0-c253-4ee3-881b-589cb492c438",
+    "mediaTitle": "Goku transforming Super Saiyan E…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 04:08:50.276007-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated image prompt:\n\n\"A close-up, high-angle shot of a single, perfectly ripe avocado, sliced in half, revealing its vibrant green flesh and a smooth, dark pit. The avocado is resting on a rustic wooden cutting board, with a few scattered coarse sea salt crystals and a drizzle of olive oil glistening on the surface. The lighting is soft and natural, highlighting the creamy texture of the avocado. The background is slightly blurred, creating a shallow depth of field that emphasizes the avocado.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "568f93bb-a1ef-40ce-88c3-8e2bbe36ffcf"
+    }
+  }]
+}

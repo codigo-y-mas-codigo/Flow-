@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ba65acc7-edb9-44fb-8232-af9c0dc04289",
+    "mediaTitle": "Luchador mexicano transformándos…",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:33:06.054611-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

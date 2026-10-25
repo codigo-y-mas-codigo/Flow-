@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8883957c-42a5-430b-8c24-ae0c3245c711",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 13:13:47.737684-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cinematic, hyper-realistic photo of \"The Fool\" Tarot card reimagined as a real-life character. A young man stands at the edge of a rocky cliff at golden hour, bathed in dramatic sunlight. He wears worn medieval-style clothing with modern eclectic touches — a red feathered cap, a loose tunic, mismatched boots, and a small embroidered satchel slung over one shoulder. His eyes look upward toward the sky with joy and naivety, while his foot hovers just above the cliff\u0027s edge. In one hand he loosely holds a white rose; in the other, a carved wooden staff.\n\nA small scruffy dog leaps playfully beside him, mid-motion. Behind him, storm clouds loom in the distance, while rays of light break dramatically through. The background is surreal and symbolic — snow-capped mountains fade into a dreamlike blur, and faint constellations are visible in the upper sky. The focus is shallow: the subject is in sharp detail, while the world behind him feels vast, timeless, and mystical.\n\nLighting: Golden hour with deep shadows and soft rim light, similar to a Terrence Malick film or “The Revenant.”  \nColor grading: Rich cinematic tones — warm golds and cold blues, high contrast.  \nCamera: Shot on a 50mm lens, slightly below eye level for mythic scale.  \nMood: Majestic, mysterious, free-spirited.  \nExpression: A mix of innocence, wonder, and quiet madness — he smiles slightly, unaware of the drop before him.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

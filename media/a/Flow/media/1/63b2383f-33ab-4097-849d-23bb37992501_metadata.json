@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "63b2383f-33ab-4097-849d-23bb37992501",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:48:34.404125-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background shows a figure constructed from a reflective, textured golden material, hanging upside down. The figure is suspended by its right ankle, which is attached to a thick horizontal branch rendered in the same reflective gold. Highlights and shadows, cast from a light source on the left, define the three-dimensional form of a man with light skin tone. His short, wavy, light brown hair also appears to have a subtle golden sheen. He has a neutral expression. His arms are bent, hands tucked inside the openings of a vest made of the same golden material, with the right side appearing as a darker, shadowed gold and the left as a lighter, highlighted gold, featuring button-like details. Underneath, a shirt with light and dark gold stripes is visible. His legs, clad in bright blue pants that shimmer with a metallic gold effect, are crossed at the knees, and his shoes are a deep, reflective red. The branch is supported by two roughly vertical, stylized tree trunks, also in textured gold, each bearing small, sparkling red leaf-like shapes. At the base of each trunk are indistinct green grass-like forms with a metallic sheen. The top center features the Roman numeral XII in a dark, matte finish, and the bottom center displays the French text \"LE PENDU\" in dark, matte capital letters. The figure\u0027s edges have a dissolving effect, with small, sparkling gold and lighter yellow particles scattering around him.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

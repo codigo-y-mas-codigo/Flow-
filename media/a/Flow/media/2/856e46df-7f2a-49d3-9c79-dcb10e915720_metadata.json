@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "856e46df-7f2a-49d3-9c79-dcb10e915720",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 10:50:57.743716-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Minimalist elegant square cover for premium tarot healing course, deep indigo and soft charcoal gray palette with subtle luxury gold accents, glowing outline of open Rider-Waite tarot deck on dark wooden surface, one major arcana card prominently displayed in the center: La Sacerdotisa (II) in authentic classic Rider-Waite style with large elegant Roman numeral II at the top and the Spanish title \"LA SACERDOTISA\" in large sophisticated serif typography at the bottom of the card, card illuminated with soft mystical glow, sophisticated luxury spiritual aesthetic, high-end wellness vibe, clean professional composition, luxury minimalist premium branding feel, no clutter, no crystals, no moons, no angels, modern adult introspective feel, square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 250 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "859b0d24-1099-440d-8a0b-5f2facdad929",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:00:12.350722-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, inspired by 1950s beauty ads, printed in a limited red-toned palette on a cream background. The poster features a stylized, engraved illustration of a luminous pink donut in the center, looking slightly off to the side with a neutral or sassy expression. The donut has a subtle holographic shimmer on its pink icing, with tiny, brightly colored, almost translucent sprinkles scattered across it. The donut\u0027s base is a soft golden hue, peeking through the translucent icing. At the top, a large, bold headline arches in all caps: \"THIS IS MY EMOTIONAL SUPPORT DONUT.\" Below, a tagline reads: \"No, You Cannot Have a Bite.\" Mid-century sparkle icons are scattered around the headline. Below the donut, a funny footer line states: \"Mentally ooo.\" All fonts are retro vintage print ad style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0cacab22-cd14-4211-adea-f74b6a8860ae",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:35:07.595661-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "In a wide underwater shot, a male diver wearing a full metal diving helmet, a black dry suit, and flippers, swims from the left side of the frame towards a treasure chest on a rock formation on the right, his head facing the chest. His right hand holds a flashlight that emits a bright white beam, illuminating the immediate area in front of him and the chest. The chest is dark and metallic with golden latches and hinges, and a glowing orange microphone icon on its front. A small blue seahorse, positioned above the chest, glows faintly. The underwater scene is filled with subtle air bubbles rising, and a dark blue background with sunlight filtering from above, creating a serene and mysterious atmosphere. The \"NAUTILUS\" text, originally at the top of the frame, slowly dissolves and disappears from the scene as the diver approaches the chest.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

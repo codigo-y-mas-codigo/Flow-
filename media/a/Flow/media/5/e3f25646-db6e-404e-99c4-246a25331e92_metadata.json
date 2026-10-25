@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e3f25646-db6e-404e-99c4-246a25331e92",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 13:28:25.050904-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "extrae unicamente la imagen es que la voy a impirmir . añade https://melaleuca.vercel.app/ y el email es elipadillaj66@gmail.com 56 1454 6123 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

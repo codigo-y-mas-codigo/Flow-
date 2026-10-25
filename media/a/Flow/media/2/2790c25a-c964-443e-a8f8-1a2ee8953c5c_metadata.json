@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2790c25a-c964-443e-a8f8-1a2ee8953c5c",
+    "mediaTitle": "Prompt improvement and character…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:02:41.720976-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Debe debe estar escondida detrás de la payaso y, está pasando lista entrefende cada tuvo. la doctora hasta el extremo de al fondo. La modelo debe estar y totalmente mojada como si lo hubiera n mojado, asustada, por haberse salido vacíot. Antes de responder, reescribe este prompt para que sea más preciso y efectivo. Luego responde usando esa versión mejorada. Hicimos dividida en dos porcuatro. Importante que logre verse a los 25 personajes contando en cuenta los dos que están afuera a la doctora y a la actriz",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

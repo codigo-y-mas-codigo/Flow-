@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c284f58b-1397-4a13-b8bb-db5138327d45",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:26:57.107275-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The ethereal, glowing seahorse gracefully glides through the dark blue depths, its luminescent form casting a gentle light. Streams of bubbles continuously rise from the openings of the antique, ornate treasure chest and from the diver\u0027s helmet. The diver, clad in a full deep-sea suit and wearing flippers, slowly propels forward with a deliberate, rhythmic back-and-forth motion of their flippered feet. The scene is illuminated by the diver\u0027s focused beam of light, which emanates from their helmet and shines into the treasure chest, revealing a soft, warm glow from within the chest. A subtle, cool blue light also emanates from around the base of the treasure chest, highlighting the rocky seabed upon which it rests. The shot is captured with a wide-angle lens, emphasizing the vastness of the underwater environment, with a shallow depth of field to keep the seahorse, diver, and chest in sharp focus against a subtly blurred, dark background.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

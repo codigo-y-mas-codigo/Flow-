@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "663665a3-352c-4d78-9b5d-f3b9f6c2bb90",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 02:18:23.129015-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "A book cover or poster featuring the title \"La Arquitectura Oculta del Tarot\n\" (with \"de el\" possibly being a typographical error for \"del\") prominently displayed in large white serif font within an architectural archway. Below the main title, smaller white text reads \"4 Secretos Estructurales que lo Cambian Todo\"\n\nThe background is dark and moody, resembling the interior of a Gothic or classical structure. The upper part of the image is defined by a pointed arch, resting on two visible columns with detailed capitals (Corinthian or similar style), framing the dark central area where the text is placed. The architectural details, including the arch and columns, are rendered in a pale gray or beige outline.\n\nWithin the dark space, several stylized Tarot cards are visible. Two cards are partially visible near the top corners, slightly obscured by the arch structure. At the bottom, three cards are prominently displayed:\n1.  On the left, partially cut off, is the card labeled \"XII,\" which appears to be The Hanged Man or a similar figure, showing a woman with light blue and yellow robes and a yellow halo.\n2.  In the center, standing upright, is the card labeled \"THE MAGICIAN\" with the Roman numeral \"XI\" (although The Magician is typically I, and XI is Justice or Strength). This card features a figure (possibly female, judging by the long robe) with dark hair, a red and maroon robe, a yellow halo, and holding a staff.\n3.  On the right, partially cut off, is the card labeled \"XI\" (The Tower, which is typically XVI, or potentially Strength, which is typically XI), depicting a tower on a hillside under a yellow sky.\n\nFaintly visible in the background, behind the central text, are blurred, pale outlines of more Tarot cards and possibly architectural elements like pillars or walls, enhancing the depth and mystery of the scene. The overall color palette is dominated by dark blue, white, and the muted colors of the Tarot card illustrations (red, yellow, blue, and brown/beige outlines).\n. textos en español. text in spanish ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

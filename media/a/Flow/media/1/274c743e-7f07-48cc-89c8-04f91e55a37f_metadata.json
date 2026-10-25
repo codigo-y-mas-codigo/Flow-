@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "274c743e-7f07-48cc-89c8-04f91e55a37f",
+    "mediaTitle": "Doctor inspecting frozen clones",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:34:52.491964-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "25 clones congeladas en una habitación de luces blancas futuristas , se encuentran en unos tubos con líquidos transparente se mantienen inertes flotando. Unas luces tienen más brillo que otras unas parecen apagadas. La que está vestida de doctora es la única que está afuera como si estuviera revisando cada una de los clones. Todos tienen un número distinto en la parte inferior de la plataforma del tubo. Si logran ver el efecto del agua en algunas cabinas. Una escena digna de una película de ciencia ficción futurista. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

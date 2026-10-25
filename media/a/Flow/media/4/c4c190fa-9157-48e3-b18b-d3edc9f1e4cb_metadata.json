@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c4c190fa-9157-48e3-b18b-d3edc9f1e4cb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 13:41:02.309020-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el logo y quita el efecto de tarjeta ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

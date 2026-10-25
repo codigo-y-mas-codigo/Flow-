@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "be12402e-ce8e-47ae-a2c0-5de8d9732338",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:58:25.249616-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A monochrome image with a dominating white color hue and bright, even lighting creating a high-key look. The scene features a dark room with a diamond-studded bed, a syringe on top, and an abundance of white smoke and clouds adding mystery and luxury. A man is depicted from the back, with dark hair, dressed in a white swimming suit. The walls are covered in a dynamic pattern, contributing to the clean and minimalistic rendering quality."
+    }
+  }]
+}

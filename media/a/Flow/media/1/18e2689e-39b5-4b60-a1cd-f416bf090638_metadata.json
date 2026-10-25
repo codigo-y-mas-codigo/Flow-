@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "18e2689e-39b5-4b60-a1cd-f416bf090638",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 01:02:50.889089-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A medium, indoor shot shows an older adult woman with fair skin and gray-silver, long, straight hair styled back, wearing glasses, a dark gray V-neck top, and a light beige cardigan. Her oval face has soft lines, a well-defined contour, and a medium forehead. Her medium-sized, almond-shaped eyes with slightly droopy upper eyelids have dark irises. Her medium-thick eyebrows are well-defined with a subtle arch. She has a straight, medium-sized nose with a smooth, symmetrical bridge. Her medium-thick lips have slightly upturned corners forming a subtle smile, revealing aligned, complete, natural teeth. Visible ears are proportionate to her face, adorned with medium-sized gold hoop earrings. A short to medium neck displays a chain with a small circular pendant. Her straight, slightly back shoulders are visible. Her hands rest on a wooden countertop in front of her.\n\nThe countertop holds various food items arranged symmetrically: a wooden cutting board with raw meat, a small wooden bowl of brown grains, a glass of white liquid, green pumpkin seeds in a small wooden bowl, a red bell pepper, a green apple, a red apple, half an avocado, and red strawberries in a small wooden bowl, with yellow bananas extending from behind.\n\nBehind the woman is a slightly blurred kitchen with beige tiled walls and two wooden shelves holding terracotta and ceramic bowls, jars, potted green plants, and a dark mortar and pestle. Soft, diffused light comes from the front-left, and the camera is at face level.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

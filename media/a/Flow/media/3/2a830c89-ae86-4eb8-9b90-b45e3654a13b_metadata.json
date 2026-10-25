@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2a830c89-ae86-4eb8-9b90-b45e3654a13b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:23:16.566685-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration rendered in a highly stylized, exaggerated cartoon aesthetic with thick outlines and simplified forms, using a high-contrast combination of vibrant neon magenta, black, white, and a cool, desaturated cyan or mint green. The scene depicts a muscular man with light brown skin, short, dark brown hair, and a trimmed dark beard and mustache. He is shown from the side, looking over his right shoulder as if viewing his reflection in an unseen mirror. His eyes are closed, and he wears a slight smile. The man is topless, exposing his muscular upper body, and wears grey shorts and a red baseball cap backwards. His left arm is bent, holding a rectangular object with a black screen up to his face, like taking a picture. The background is a plain white field, heavily stylized with thick black outlines and shadows rendered in cyan and black cross-hatching. Above the man, the Spanish text \"Yo viéndome al espejo después de hacer dos sentadillas...xD\" is written in a handwritten-style black font.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "40d6aa50-3c0d-4c57-ab12-e44ca1ae1720",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:11:38.907678-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Ultra-premium minimalist square thumbnail for exclusive advanced emotional healing tarot program, sophisticated mature audience 32-45, deep psychological transformation vibe, quiet luxury intellectual branding.Dark cinematic palette: deep midnight indigo, near-black charcoal, subtle aged gold and cool ivory accents. Dramatic moody lighting with soft volumetric glow and cinematic rim light.Hero element: a large, hyper-realistic semi-transparent holographic projection of The High Priestess floating in the center. The figure is shown exactly as the classic Rider-Waite-Smith La Sacerdotisa (seated woman with veil, pomegranates, pillars, crescent moon at feet), rendered as luminous 3D hologram with glowing edges, soft inner golden light emanating from within her body and veil, highly detailed, ethereal yet photorealistic. Large elegant roman numeral II floating independently above her head with subtle golden glow. NO physical card, NO white border, NO square frame, NO text “High Priestess” or “La Sacerdotisa” anywhere in the image, only the pure figure and the roman numeral II.Extremely large, bold, high-impact Spanish text with premium luxury typography and luminous glow effects for maximum thumbnail visibility and click power:Top third (authoritative): SISTEMA AVANZADO Y SELECTIVO\nCenter dominant (massive size, strongest weight, aged gold with soft outer glow): SANACIÓN EMOCIONAL\nBottom third (powerful and clean): Y AMOR PROPIO\n\nText in crisp ivory white with metallic aged gold outline and subtle luminous glow. Generous negative space, high contrast, cinematic depth of field, subtle film grain. No clutter, no crystals, no moons, no additional symbols. Strong sense of mystery, precision and inner mastery. Premium branding that feels exclusive and transformative.Square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 100 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

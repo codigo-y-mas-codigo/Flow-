@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4b431dca-16d3-4829-95ea-09c559cfd0d9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 02:34:17.453100-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A sophisticated and conceptual book cover design. The central visual is an illustration of multiple interconnected light points, forming a delicate constellation or fluid network. Light emanates softly from the center, casting a gentle glow. The background features a dark gradient, shifting from a deep midnight blue at the top to a muted amethyst or slate gray towards the bottom, creating depth. The light points and lines are rendered in pure white, silver, and a soft golden-yellow, creating a luminous effect. The title \"La Ciencia de la Atracción\" is positioned clearly, followed by \"La Lealtad y la Felicidad\" and \"en Relaciones Abiertas para Hombres Gay.\" The author\u0027s name, \"Luis Angel Maciel\", is at the bottom, all in elegant serif fonts.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

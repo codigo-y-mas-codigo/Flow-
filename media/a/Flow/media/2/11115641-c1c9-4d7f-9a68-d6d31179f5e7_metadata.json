@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "11115641-c1c9-4d7f-9a68-d6d31179f5e7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:29:33.422953-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra la palabra DE FINALIZACION y CERTIFICADO ponlo al centro con una fuente tipografica mas bold ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

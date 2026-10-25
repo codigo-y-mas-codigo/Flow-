@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8c7af6e9-2c3f-454c-9adb-62aeb737caf9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 00:36:08.302397-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A middle-aged woman with long, straight silver-gray hair smiles gently in a warm, naturally-lit kitchen with a rustic Mexican-department style. The woman has a round face, soft cheeks, medium-sized almond-shaped brown eyes framed by arched eyebrows and medium-length eyelashes, and a slightly rounded nose. She wears thin metallic glasses and gold hoop earrings. Her lips are full and relaxed in a light smile, and her skin is light beige with a smooth texture. She has a short, sturdy neck and relaxed shoulders, and she is wearing a light beige cardigan over a soft gray V-neck blouse. In front of her on the kitchen bar, which features a white brick tile backsplash and warm earthy tones with soft shadows from indirect natural light and wooden shelves, are holistic nutrition ingredients: a bunch of bananas, apples, strawberries, a glass of milk, mixed seeds (chia, flax, sunflower), a piece of raw salmon, leafy greens (like kale or spinach), and a few seasonal vegetables (like zucchini or tomato). The scene is captured in a medium shot with the subject in sharp focus and a slightly blurred background, resembling a professional course cover image with an authentic and calm atmosphere and vibrant but realistic colors, taken with a DSLR camera in natural daylight. Hand-thrown ceramic pots are visible in the background, consistent with the pueblo-inspired details.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

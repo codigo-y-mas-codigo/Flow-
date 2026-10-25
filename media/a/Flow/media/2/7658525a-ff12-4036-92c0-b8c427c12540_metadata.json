@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7658525a-ff12-4036-92c0-b8c427c12540",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 4/6/25",
+    "projectId": "058200f1-4aa1-4c2d-9be4-a551075c4a31",
+    "createdAt": "2025-06-04 22:14:46.491049-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Descripción de Imagen para Ilustrar el Informe de VPNs\nFormato: Vertical (Tamaño Carta)\nPaleta de Colores: Neutros cálidos (cremas, grises suaves) como base, con acentos sutiles en color turquesa/verde azulado (teal) y quizás un toque de azul oscuro o verde bosque para la seguridad y la tecnología.\n\nElementos Visuales:\n\nFondo:\n\nUn degradado sutil de colores neutros cálidos, como un blanco roto o un beige muy claro, que se desvanece hacia un tono ligeramente más oscuro en la parte inferior.\nLíneas abstractas y tenues de una red global o un mapa mundial (sin detalles específicos de países, solo para dar sensación de conectividad), en un gris muy claro.\nElemento Central (parte superior-media):\n\nUn escudo estilizado o un candado abierto/desbloqueado en el centro, simbolizando la seguridad y la libertad de acceso (la VPN en sí). Utiliza el color turquesa/verde azulado (teal) para este elemento, dándole prominencia.\nDentro o alrededor del escudo, integra de forma muy sutil un icono de conexión segura (como un checkmark dentro de un círculo o un pequeño enlace).\nIconos Representativos (alrededor del elemento central, más pequeños):\n\nTrabajo Remoto/Productividad: Un icono simple de un ordenador portátil o un escritorio con un símbolo de \"Wi-Fi\" o una flecha ascendente, en tonos grises o azul oscuro.\nAcceso Global/Geo-restricciones: Un icono de un globo terráqueo o un pin de ubicación superpuesto con una flecha circular o un símbolo de \"desbloqueado\", en el mismo tono que el anterior.\nPrivacidad: Un icono de una huella digital o una silueta de persona con un escudo pequeño, o un ojo tachado, en los mismos tonos.\nLíneas de Conexión:\n\nDesde el escudo central, irradian líneas curvas y limpias que conectan sutilmente con los iconos más pequeños, sugiriendo el flujo de datos seguro y la capacidad de la VPN para enlazar diferentes aspectos (seguridad, trabajo, acceso global). Estas líneas pueden ser finas y de un color gris o turquesa muy claro.\nTipografía (minimalista y legible):\n\nEn la parte superior, un título principal: \"Tu Conexión Segura y Sin Límites\" en una fuente sans-serif limpia y negrita (como Inter).\nEn la parte inferior, un lema más pequeño: \"Acceso Global. Trabajo Remoto. Total Privacidad.\" en una fuente más ligera, alineado con el tono informativo.\nSensación General:\nLa imagen debe transmitir una sensación de confianza, modernidad y facilidad de uso. Los elementos visuales son limpios, bien espaciados y no recargados. La paleta de colores aporta calma y armonía, resaltando los beneficios clave de una VPN sin ser abrumadora. El diseño general es profesional e informativo, ideal para una portada o un banner principal. Todos los textos van en español.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

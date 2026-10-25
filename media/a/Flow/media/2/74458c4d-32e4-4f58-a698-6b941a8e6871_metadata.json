@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "74458c4d-32e4-4f58-a698-6b941a8e6871",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 20:56:17.670430-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un diseño de logotipo circular, que presenta una silueta sutil y estilizada de un caballito de mar integrada perfectamente en la forma. Dentro del círculo, patrones intrincados similares al cerebro llenan secciones selectas, creando una sensación de profundidad y complejidad. Una lámpara estilizada, que recuerda a una lámpara de aceite antigua, ilumina una porción del diseño, proyectando un suave resplandor sobre los patrones cerebrales y el caballito de mar. El texto \u0027LAMP Investigación Neurológica\u0027 se incorpora elegantemente, utilizando una tipografía refinada que complementa la estética artística del logotipo. La paleta de colores es una combinación relajante de azules y verdes, lo que realza la naturaleza calmante e intelectual del logotipo. El logotipo sugiere un equilibrio entre la naturaleza, la mente y la iluminación, lo que sugiere una investigación innovadora en neurología.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

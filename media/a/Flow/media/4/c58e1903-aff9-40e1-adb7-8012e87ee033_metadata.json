@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c58e1903-aff9-40e1-adb7-8012e87ee033",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-06 04:25:34.054709-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An 8-second hyperrealistic, cinematic video. The scene opens with a wide shot of a breathtaking, vibrant landscape: a young man, embodying \"The Fool\" from the Rider-Waite Tarot, stands at the edge of a cliff, bathed in the warm light of a rising sun. He is dressed in colorful, slightly tattered clothing, holding a small bundle tied to a stick over his shoulder. His expression is one of innocent joy and anticipation as he gazes upwards, seemingly ready to take a leap of faith. The environment is richly detailed: wildflowers sway gently in the breeze, birds soar overhead, and the distant mountains are rendered with stunning clarity. As he takes a step forward, the camera subtly zooms in, focusing on his face and the hopeful glint in his eyes. Subtle cinematic effects enhance the scene: perhaps a gentle lens flare, a slight depth of field to blur the background, and a color palette that evokes a sense of wonder and adventure. After a few seconds, the scene smoothly transitions to the text \"Tarot Visual\" appearing in a stylish, cinematic font, followed by \"aprenderás a leer el Tarot de forma intuitiva y no de memoria\" fading in beneath it before the 8 seconds are up.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

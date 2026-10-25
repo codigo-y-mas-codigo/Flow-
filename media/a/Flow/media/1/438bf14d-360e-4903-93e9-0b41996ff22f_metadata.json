@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "438bf14d-360e-4903-93e9-0b41996ff22f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-05-29 15:38:57.914350-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una imagen ilustrativa que muestra a una persona concentrada leyendo un documento legal en una tableta digital. El fondo se fusiona con elementos sutiles y abstractos que evocan tanto la nutrición holística (hojas estilizadas, un sol naciente) como el tarot (símbolos de luna y estrellas, siluetas de cartas difusas), representando así las temáticas de los cursos. La paleta de colores es cálida y profesional, sugiriendo un ambiente de seriedad y aprendizaje. La imagen busca transmitir la importancia de la transparencia y la comprensión de los términos legales en el ámbito de la educación digital.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

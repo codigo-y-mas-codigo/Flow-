@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2974bbf6-ae45-4cc8-93ac-1356629e0b64",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 11/5/25",
+    "projectId": "ef5041ec-d23d-43c8-a05c-d8a89f60a84a",
+    "createdAt": "2025-05-14 01:11:39.952927-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally created image features a central illustration of a clenched fist with a light reddish-brown skin tone. Behind the fist is a stylized representation of a brain, divided into two halves. The left half of the brain is outlined in a bright red neon light, while the right half is outlined in a vibrant purple neon light. A rose is shown piercing through a peach, positioned around the fist. Above the brain and fist, the words \"FISTING CIENCIA\" are written in a simple, uppercase white font. Below the brain and fist, the words \"FISTING ONCCENCIA\" are written in the same style. The background is a dark, speckled purple, suggesting a night sky or a cosmic setting with scattered light particles. The overall lighting effect is dramatic, with the neon outlines contrasting against the dark background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

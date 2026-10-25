@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a61dced6-ad78-4367-934e-0c10b4569343",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "814e1589-698d-46a2-b440-bf4a49812b18",
+    "createdAt": "2025-06-07 07:52:22.852502-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A woodcut-style illustration on a white background depicts a skeletal figure rendered with bold black outlines and flat, bright color hues. The figure wears black armor and a helmet with a red plume, and rides a white horse, both colored with flat, solid tones. The horse has a black bridle and saddle. The skeletal rider, turned to the right, holds a black banner featuring a stylized white rose with five petals and a yellow center.\n\nBeneath the horse\u0027s front legs, a young girl with brown hair in pigtails, wearing a blue dress, looks up with clasped hands, all depicted with flat color. To the right, an older male figure with a light skin tone and gray hair wears a yellow and green patterned robe and hat, kneeling with clasped hands in prayer, using the specified flat and bright colors. Further right, another light-skinned figure lies on the green ground, wrapped in a white shroud, with yellow and blue flat details suggesting vegetation and water.\n\nIn the background, a yellow sun rises or sets over a landscape with flat blue water and green land. The overall aesthetic employs bold black linework and minimal shading, characteristic of traditional block printing. The texture appears smooth and matte. The card has a flat light beige border.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

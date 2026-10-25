@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "62605607-bc33-4a94-a0cd-cd8c9da33d0d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 26/12/25",
+    "projectId": "fd97bba3-5557-4bfe-bac7-13cbfa86e28d",
+    "createdAt": "2025-12-26 00:23:02.010740-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "añade un violin a la mujer ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

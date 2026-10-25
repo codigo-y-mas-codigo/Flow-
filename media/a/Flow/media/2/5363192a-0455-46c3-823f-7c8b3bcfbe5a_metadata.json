@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5363192a-0455-46c3-823f-7c8b3bcfbe5a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-27 12:53:10.873556-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image is a modern, geometric digital illustration with flat, bold colors and sharp, precise shapes. A man with light skin and dark hair is riding a red bicycle. The bicycle has a very large wired basket attached to the front, filled with various fruits and vegetables. The bicycle and the man are depicted using bold, flat shapes and a limited color palette. The background is flat and uses the same bold color scheme, creating a vibrant and contrasting minimalist scene with a focus on graphic design elements and uniform, even lighting."
+    }
+  }]
+}

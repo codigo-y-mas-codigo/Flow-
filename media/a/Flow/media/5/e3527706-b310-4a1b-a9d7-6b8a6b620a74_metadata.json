@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e3527706-b310-4a1b-a9d7-6b8a6b620a74",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:59:58.879044-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "In a claymation style, a young-adult-appearing man with light skin tone and curly, light-colored clay hair emerges from beneath a wide-brimmed clay hat. The hat\u0027s crown is striped with cheerful orange and white clay, and it has a vibrant red clay brim outlined in yellow clay. He wears a clay tunic vertically divided into a blue section with a yellow sleeve on the viewer\u0027s left, and a red section with a blue sleeve on the viewer\u0027s right. A yellow and blue clay belt encircles his waist. His legs are clad in blue clay tights, and his shoes are red clay.\n\nThe man holds a thin, golden-yellow clay object in his raised right hand. His left hand rests on a light brown clay wooden table with four legs. On the table are arranged: a golden clay cup, a red clay cup, several golden clay coins or discs, two clay knives (one with a black handle and one with a white handle), and a clay pouch or bag.\n\nThe background is a simple clay landscape with a light yellow clay ground, a small green clay plant or bush, and a slightly darker yellow clay horizon line. The scene is framed by a black clay border. At the top is the Roman numeral \"I\" in black clay centered below the word \"TAROT\" in smaller, centered, sans-serif black clay letters. At the bottom, \"EL MAGO\" is written in bold, uppercase, sans-serif black clay letters. The light is golden and warm, bathing the scene in a gentle glow.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

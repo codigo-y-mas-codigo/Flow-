@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d1abfb12-f7b8-4450-aed1-a9d860082969",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 12/6/25",
+    "projectId": "082afafb-d9b8-4833-91a6-83ce18daeb7b",
+    "createdAt": "2025-06-12 13:33:06.448200-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una imagen de tlaloc Dios de la lluvia feliz echando agua en la ciudad de México la torre latinoamericana , explanada zócalo, ángel de la independencia , bellas artes , estilo surrealista hiperreal dark blue cinematográfica magic",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

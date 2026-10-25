@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c8ccdfd4-562d-4e43-afc9-5d6a2248d23d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 9/7/25",
+    "projectId": "d9f8c2df-88b4-4fbb-a7c7-b2cb6d43b5e8",
+    "createdAt": "2025-07-09 17:33:25.076550-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A modern meme-style 18th-century oil painting, styled like a Renaissance or Rococo portrait, depicts two adult men, appearing to be in their 20s or 30s, from the waist up. Both men have light skin tones, light brown hair, and beards, and are wearing black eye masks with two bright yellow heart shapes over the eyeholes. They are rendered with soft, painterly textures, dramatic lighting, and period fashion.\n\nThe man on the left wears a Renaissance-style light grey long-sleeved shirt and holds a black smartphone in his right hand, angled downwards as if looking at the screen. The man on the right wears a bright yellow collared shirt and also holds a black smartphone, seemingly looking at its screen, which emits a faint yellow glow. His head is tilted slightly down towards the phone. The composition suggests interaction or shared focus on the phones.\n\nOverlaying the center of the image in large, playful, brushstroke-style text is \"SLAY QUEEN\" in a high-contrast pastel color like pink, mint, or butter yellow, with a fun, informal font.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

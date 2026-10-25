@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a86f5930-7a81-4333-afc7-1c6398c2853b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 14:45:51.647047-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el texto de curso en audio y el icono ponlo en transparencia . el texto extralargo super font ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

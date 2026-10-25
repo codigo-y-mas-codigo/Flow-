@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a8e740c5-8609-4d70-b01e-317dddd53565",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 26/12/25",
+    "projectId": "fd97bba3-5557-4bfe-bac7-13cbfa86e28d",
+    "createdAt": "2025-12-26 00:22:48.721010-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "expande la imagen y añadele un violin al hombre",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9fa4a764-e12d-401e-9c59-f29620c4497f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 09:15:54.837446-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra abarrotes san jose y haz mas grande el texto ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

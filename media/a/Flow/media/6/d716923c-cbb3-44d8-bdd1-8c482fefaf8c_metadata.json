@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d716923c-cbb3-44d8-bdd1-8c482fefaf8c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:03:42.302363-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A humorous, vintage-style poster, inspired by 1950s beauty ads, featuring a luminous pink donut and an eggplant with a syringe against a misty, dark background with glittering diamonds on the floor, all in a limited red-toned palette on a cream background. The poster features a stylized, engraved illustration in the center, rendered in a vintage red-toned palette, depicting a luminous pink donut with subtle holographic shimmer and brightly colored, almost translucent sprinkles, with its soft golden base peeking through. Next to the donut is an eggplant, also depicted as a stylized, engraved illustration, with a syringe inserted into it. Above, a large, bold headline in an arched, all-caps, mid-century serif font declares: \"GET YOUR DAILY DOSE OF DELIGHT!\" A tagline below reads: \"OR ELSE.\" Sparkle and starburst icons are scattered around the headline. The background is a misty, dark expanse with brilliant, red-toned diamonds scattered across the floor, fitting the vintage aesthetic. At the bottom, a funny footer line in a retro print ad font reads: \"STILL BATTERED, BUT BEAUTIFUL.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

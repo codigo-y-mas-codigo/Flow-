@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "480b7705-5652-4ec9-85fa-26509dcb5449",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-13 09:50:03.458244-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration in a modern, geometric style with flat, bold colors and shapes depicts a dark blue background featuring a gold ornate decorative frame. Inside the frame are two rows of three tarot cards laid out in a spread. The top row has the gold stylized script \"Tirada tres Cartas\" across the top. The left card displays the Roman numeral XII in the top center, a stylized sun with a face and radiating lines surrounded by stars, and the gold word \"Pasado\" below. The center card has an intricate gold design with circular and floral motifs. The right card features the Roman numeral XI at the top center, a stylized sun with a face, radiating lines, a crescent moon above it, and the gold word \"Presente\" below.\n\nThe bottom row has the gold words \"Pasado\", \"Presente\", and \"Futuro\" below each card. The left card shows the Roman numeral II at the top left, a stylized full moon and crescent moon above a landscape with mountains and water, and a starry sky. The center card displays the Roman numeral XII at the top center, and a stylized standing figure draped in robes, wearing a crown, and holding a staff. The right card features the Roman numeral XIV at the top left, and a stylized drawing of two ornate lamps, a pitcher, and a winding ribbon or stream. Gold ornate designs fill the spaces between the cards and along the top and bottom edges. The color palette uses predominantly red, yellow, blue, and black. The lines and shapes are sharp and precise, with flat and even lighting, creating a crisp and minimalist aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

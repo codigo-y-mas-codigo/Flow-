@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "420c8b3d-2386-458c-9ba9-cd233f7c00c7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:53:18.016917-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una berenjena ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

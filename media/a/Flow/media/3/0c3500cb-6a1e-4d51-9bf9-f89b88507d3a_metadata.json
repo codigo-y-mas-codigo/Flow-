@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0c3500cb-6a1e-4d51-9bf9-f89b88507d3a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-05-27 04:55:32.025970-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An animated, pink starfish-shaped character with blonde, styled hair is sitting on a light brown wooden bench made of planks. The character is wearing a black, strapless top, dark stockings, and dark shoes with heels. Its arms are bent, with one hand resting on the back of the bench and the other resting on its thigh. The character has large, cartoonish eyes with thick black eyelashes and red lips. The background features a sandy surface, a light blue sky with some clouds and bubbles, and various cartoonish elements including a purple and white striped building, a metal sign with \"US\" on it, and a larger, rounded structure in the distance.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

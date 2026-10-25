@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "68400fc0-94eb-4aeb-8214-08d7d5fd64b2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "d25df26b-bfb2-4128-b6e8-e32a927558f9",
+    "createdAt": "2025-06-11 21:43:58.441997-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital photograph, high realism. A warm, softly lit indoor scene showing a mature Mexican woman sitting at a wooden table. She has shoulder-length, thick hair dyed a soft warm blonde with natural gray strands subtly blended in, giving it a soft golden-silver hue. Her hairstyle is voluminous and smooth, styled with backward lift at the crown and parted naturally at the center, framing her face gently and falling over her shoulders. She wears oval, thin metal-rimmed glasses, small gold hoop earrings, and a delicate gold pendant necklace. Her facial expression is calm and neutral, slightly warm. She has medium-light skin tone with a natural, even texture. Her cheeks are slightly rounded and soft with a natural slight sag typical of mature age — not rigid, but gentle. She has visible cheekbone definition and a soft jawline. Her makeup is minimal: subtle natural blush, light foundation, well-defined eyebrows, and a soft rose-colored lipstick that matches her overall serene appearance.\n\nShe is dressed in a beige long-sleeved overshirt, worn open over a white V-neck T-shirt. Her posture is upright but relaxed, one hand resting gently on the table, the other near a small black podcast microphone.\n\nOn the table in front of her: a glass of fresh green juice, a small white ceramic plate with apples, strawberries, and a handful of mixed seeds, and an open notebook or journal. To her left (off frame), her adult son is seated, participating in the podcast.\n\nThe background is softly blurred, revealing a cozy kitchen space that resembles a compact apartment: light wooden cabinets, a small refrigerator, and open shelving with a few kitchen items. The lighting is natural and warm, coming from the side (as if from a window), creating a peaceful and welcoming ambiance that suggests this is the introduction to a holistic nutrition podcast or video.\n\nStyle: high-resolution photo, naturalistic color grading, shallow depth of field (blurred background), photorealistic quality, natural shadows, clean and minimal props.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

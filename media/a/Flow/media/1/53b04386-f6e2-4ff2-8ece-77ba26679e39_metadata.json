@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "53b04386-f6e2-4ff2-8ece-77ba26679e39",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:22:25.826423-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra todos los textos y el icono de audifonos ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

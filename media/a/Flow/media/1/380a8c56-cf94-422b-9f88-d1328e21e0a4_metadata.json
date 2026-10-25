@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "380a8c56-cf94-422b-9f88-d1328e21e0a4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:25:14.055510-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "El arcano del loco de  tarot de marsella , estilo surrealista ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

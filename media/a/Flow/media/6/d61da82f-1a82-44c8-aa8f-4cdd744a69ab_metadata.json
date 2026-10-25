@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d61da82f-1a82-44c8-aa8f-4cdd744a69ab",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "3e07d7f0-d9b5-478c-b945-516e4361a59a",
+    "createdAt": "2025-07-03 05:02:15.225772-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A raw, intimate cinematic still in photorealistic style captures the physical and emotional toll of performance, set in a gritty backstage reality. Three adult males with muscular physiques stand side-by-side. The male on the left, with light brown skin, wears blue briefs and a silver and blue helmet. His left arm is bent, his right arm hangs at his side. The male in the middle, with light brown skin, wears red briefs and a red helmet; his left arm rests on the shoulder of the male to his right, and his right arm hangs at his side. The male on the right, with dark brown skin, wears green briefs and a dark green and silver helmet, with both arms at his sides. The background features harsh, functional lighting contrasting with residual stage glamour, with coiled cables, discarded water bottles, and costume racks blurred in the background. Strong shadows are cast, highlighting the sheen of sweat on their necks and shoulders. The focus is sharp on their forms and the details of their costumes.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

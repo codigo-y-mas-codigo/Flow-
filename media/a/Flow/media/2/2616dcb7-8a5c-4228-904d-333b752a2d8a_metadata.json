@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2616dcb7-8a5c-4228-904d-333b752a2d8a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 07:54:19.433873-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "cambia de gobierno municical 2025-20227 a \"Patrimonio cultural de la humanidad\" en español. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

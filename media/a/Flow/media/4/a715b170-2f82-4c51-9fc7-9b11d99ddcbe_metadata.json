@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a715b170-2f82-4c51-9fc7-9b11d99ddcbe",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 11:07:05.940763-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Ultra-premium minimalist square thumbnail for exclusive advanced tarot emotional healing program, sophisticated mature audience, deep psychological transformation vibe, quiet luxury intellectual branding.Dark cinematic palette: deep midnight indigo, near-black charcoal, subtle aged gold and cool ivory accents. Dramatic moody lighting with soft volumetric glow and cinematic rim light.Hero element: a large, hyper-realistic holographic projection of The High Priestess (La Sacerdotisa) floating in the center of the image. The figure is shown exactly as in classic Rider-Waite-Smith style but rendered as a luminous, semi-transparent 3D hologram with subtle glowing edges, soft inner golden light emanating from within her veil and pomegranates, ethereal yet highly detailed and realistic. Large clear roman numeral II floating above her head in elegant traditional font with soft golden glow. No physical card, no deck, no wooden surface — only the floating holographic arcana.Extremely large, bold, high-impact Spanish text with premium luxury typography and subtle glow effects for maximum thumbnail visibility:Top third (authoritative and sharp): SISTEMA AVANZADO Y SELECTIVO\nCenter dominant (massive size, strongest weight, aged gold glow + subtle outer glow): TAROT PARA SANACIÓN EMOCIONAL\nBottom third (powerful and clean): Y AMOR PROPIO\n\nText in crisp ivory white with metallic aged gold outline and soft luminous glow to create pop against the dark background. Generous negative space, high contrast, cinematic depth of field, subtle film grain for sophistication. No clutter, no crystals, no moons, no additional symbols. Strong emotional pull of mystery, precision and inner mastery. Premium branding that feels exclusive and transformative for those who already did the deep work.Square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 100 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

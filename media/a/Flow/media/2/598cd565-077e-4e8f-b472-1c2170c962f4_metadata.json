@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "598cd565-077e-4e8f-b472-1c2170c962f4",
+    "mediaTitle": "Cambiar logo de imagen",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:20:14.173364-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "centra el logo en la pared y borra los textos pequeños ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "e7d078de-3740-4c15-89a7-88215b8eb38c"
+    }
+  }]
+}

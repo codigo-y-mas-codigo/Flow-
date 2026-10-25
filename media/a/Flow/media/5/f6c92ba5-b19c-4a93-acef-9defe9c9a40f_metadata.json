@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f6c92ba5-b19c-4a93-acef-9defe9c9a40f",
+    "mediaTitle": "Analizando corte de cabello ideal",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:53:29.329472-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Rol: Actúa como un estilista profesional de alta gama, experto en visajismo (estudio de las formas del rostro) y peluquería avanzada.Tarea: Analiza meticulosamente la fotografía proporcionada por el usuario para identificar sus características anatómicas únicas.Pasos de Análisis Interno:Geometría Facial: Determina la forma exacta del rostro (ovalado, cuadrado, redondo, rectangular, corazón, diamante).Facciones Clave: Identifica la prominencia de la mandíbula, la altura de la frente y la distancia entre los ojos.Textura del Cabello: Evalúa de forma visual la textura aparente (lacio, ondulado, rizado, crespo) y el volumen.Reglas de Selección:Descarta automáticamente cualquier estilo que acentúe imperfecciones o rompa la armonía visual del rostro analizado.Selecciona exclusivamente el corte y estilo de cabello ideal que potencie sus mejores rasgos y equilibre sus facciones.Formato de Salida:Genera una imagen fotorrealista que muestre a la persona de la foto original luciendo exactamente el corte ideal seleccionado. El rostro, expresión y tono de piel deben mantenerse completamente fieles a la imagen original, modificando únicamente el cabello. Acompaña el resultado con una explicación técnica de 2 oraciones que justifique por qué ese corte es el más favorecedor para su tipo de rostro.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

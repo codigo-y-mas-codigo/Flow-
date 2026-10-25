@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e25008d5-7346-47d5-8162-deda33247dbc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:56:13.407516-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration with smooth, glossy surfaces and sharp details, exhibiting a blend of stylized realism and a cartoonish aesthetic, depicts a light-skinned man with short, dark hair wearing a dark suit and a light-colored shirt, standing on a sidewalk next to a newsstand. The newsstand is filled with various newspapers and magazines. The color palette features cool blues and grays dominating the urban background, contrasted by warmer oranges and subtle greens emanating from the glowing lights of the newsstand. The lighting is bright and even, minimizing harsh shadows and highlighting the reflective qualities of the newsstand and the man\u0027s attire. The sidewalk and surrounding buildings have a meticulously crafted 3D model appearance with a clean, modern, and slightly futuristic feel.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

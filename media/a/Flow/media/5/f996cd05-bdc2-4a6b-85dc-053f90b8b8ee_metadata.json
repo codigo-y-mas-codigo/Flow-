@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f996cd05-bdc2-4a6b-85dc-053f90b8b8ee",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "83b10ae2-5609-4623-8dbf-89c44855786c",
+    "createdAt": "2025-06-24 02:59:18.052088-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "High-energy, gritty fashion photograph captured with a Canon EOS R5, emulating vibrant street style flash photography in a hyper-stylized underground Tokyo setting, highlighting the outfit\u0027s bold structure. The mood is rebellious, electric, and effortlessly cool. A dynamic Latino model with neon-green dyed hair is caught mid-motion against graffiti-covered metal. He wears a reimagined version emphasizing exaggerated form: an oversized, deconstructed bomber jacket in matte purple nylon defined by its voluminous shape, dropped shoulders, and large, utilitarian orange patch pockets printed with graphic hieroglyphs. Matching extremely baggy cargo pants in the same vibrant orange nylon create a strong, pooling silhouette over chunky, sculptural lime-green high-top sneakers. Hard, directional flash freezes the motion, carving out the jacket\u0027s volume and the deep folds of the trousers against the background, catching reflections. Composition is a slightly Dutch tilt, medium-full shot, conveying raw energy driven by the clothing\u0027s shape. Deep depth of field keeps the model\u0027s structured outfit and the gritty background sharp. The intense color palette (red, purple, neon pink) accents the bold forms.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

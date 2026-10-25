@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6804584f-dd3e-4240-a669-2f914a2b8b17",
+    "mediaTitle": "Doctor checking floating human c…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:52:43.488478-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Debe debe estar escondida detrás de la payaso y la doctora hasta el extremo de al fondo. La modelo debe estar y totalmente mojada como si lo hubiera llovido, asustads, por haberse salido vacío",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "502c74f7-8bdb-40eb-b587-351c182a36d2"
+    }
+  }]
+}

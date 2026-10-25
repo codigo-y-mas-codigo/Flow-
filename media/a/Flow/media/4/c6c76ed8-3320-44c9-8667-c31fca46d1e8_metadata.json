@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c6c76ed8-3320-44c9-8667-c31fca46d1e8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:51:46.739556-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una Pikachu hembra sentada de frente en un trono azul con respaldo alto y reposabrazos con detalles amarillos. Viste una túnica azul oscuro con ribetes rojos en el cuello y las mangas, y una tiara papal blanca de tres niveles adornada con pequeñas cruces doradas en la cabeza. Sostiene un libro abierto de color crema con una tapa amarilla en sus patas, y las páginas del libro se mueven suavemente con una brisa invisible. Una cruz amarilla está visible en su pecho. Dos pilares estilizados, uno blanco a su izquierda y uno negro a su derecha, se mantienen estáticos a ambos lados del trono. El fondo es completamente blanco y liso. El video mantiene el estilo de grabado en madera medieval con líneas negras gruesas y colores planos saturados, sin sombreado ni perspectiva modernos.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

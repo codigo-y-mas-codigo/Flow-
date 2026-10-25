@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "39b4105c-9fb3-4b15-9104-2e039f21a885",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 9/7/25",
+    "projectId": "d9f8c2df-88b4-4fbb-a7c7-b2cb6d43b5e8",
+    "createdAt": "2025-07-09 17:35:20.527213-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A modern meme-style 18th-century oil painting, styled like a Renaissance or Rococo portrait, depicts two adult males indoors. Both males have light skin and dark hair and are wearing black masks with heart-shaped yellow eyes. The young adult male in the foreground, shirtless and in dark shorts, reclines on a white bed, holding a black remote control in his left hand. His right arm rests on his bent right leg. The young adult male in the background is seated in a grey chair, shirtless and in dark trousers, looking down at a black smartphone held with both hands. The room has dark walls and a light-colored ceiling with a recessed light fixture. Soft, painterly textures, dramatic lighting, and period fashion are present. Overlaid across the center of the image in large, playful, brushstroke-style, high-contrast pastel pink text is the phrase \"DON\u0027T TALK TO ME\".",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

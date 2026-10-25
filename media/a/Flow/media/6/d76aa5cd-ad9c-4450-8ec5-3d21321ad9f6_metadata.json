@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d76aa5cd-ad9c-4450-8ec5-3d21321ad9f6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:55:10.440683-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A monochrome image with a dominating white color hue and bright, evenly distributed high-key lighting. The scene features a dark room with a diamond-encrusted bed, upon which a syringe rests. White smoke and clouds add mystery and luxury to the background. The visual characteristics include a dynamic splash pattern of viscous, opaque white liquid with drops and streams covering the walls, appearing to move or drip downwards. The texture is smooth and somewhat reflective, suggesting a wet or freshly applied substance on a matte background. The image has a clean and minimalistic rendering quality, focusing on the abstract forms created by the liquid\u0027s movement.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

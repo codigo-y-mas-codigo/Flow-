@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "37553a80-757c-4b33-97b2-7a67b1d9f60e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:57:54.899934-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Create a cartoon snark poster about my subjects.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

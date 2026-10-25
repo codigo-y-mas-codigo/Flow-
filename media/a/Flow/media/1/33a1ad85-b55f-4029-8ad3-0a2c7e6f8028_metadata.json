@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "33a1ad85-b55f-4029-8ad3-0a2c7e6f8028",
+    "mediaTitle": "Crear iconografía de silla y gat…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:36:53.045672-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "crea iconografia de una silla de estetica barber shop , y un gato caminado. elementos de una barber ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

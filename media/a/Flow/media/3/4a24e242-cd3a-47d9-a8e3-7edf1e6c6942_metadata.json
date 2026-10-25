@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4a24e242-cd3a-47d9-a8e3-7edf1e6c6942",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-29 16:01:57.526688-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A **stylized flat design** image on a white background. In the foreground, a human figure with a glowing, warm heart, surrounded by subtle, clear light blue lines representing stress or resistance fading away. The figure is standing calmly, with roots extending from their feet into the ground, symbolizing security and connection. The colors are **bold flat colors** for the figure and heart (e.g., warm orange/red for the heart, soft skin tones for the figure), and light blue/grey for the fading lines. The overall aesthetic is professional and clean, suitable for a highly reliable educational institution.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

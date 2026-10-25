@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "199e8bf5-068b-4585-baad-db2cf561e5ed",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 15:07:13.201585-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration with clean, sharp lines and flat color fills depicts an abstract logo design for Lukanti\u0027s new holistic nutrition line. The design features a subtle heart shape formed by stylized representations of wheat as curved lines, a banana as a pronounced curve, and an avocado as an ovoid shape. These elements are seamlessly integrated with organic leaf shapes. The color palette consists of soft, flat, earthy tones with no gradients or shading. The leaves are rendered in a graceful, flowing flat style, adding a sense of vitality. The logo utilizes a combination of clean linework and flat color fills, emphasizing natural shapes to create a sense of balance and harmony in a graphic and simplified representation. The overall aesthetic is clean, modern, and stylized.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

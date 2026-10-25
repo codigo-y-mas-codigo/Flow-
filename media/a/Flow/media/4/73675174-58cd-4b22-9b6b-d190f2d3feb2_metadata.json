@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "73675174-58cd-4b22-9b6b-d190f2d3feb2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:11:53.129827-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "QUE PAREZCA TIENE UNA BANANA ENTRE LAS PIERNAS ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

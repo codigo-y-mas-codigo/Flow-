@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "50de515f-780e-4529-8cb3-27fcc6bb64e0",
+    "mediaTitle": "Vampire hugging man cooking",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:35:49.118459-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic funny-erotic scene in modern kitchen: tall muscular vampire with blond hair, black leather cape with red interior, glowing neon green eyes and fangs, hugging from behind a shirtless muscular man wearing only black leather apron who is cooking, both laughing, thick black smoke swirling around them, green energy glow, warm kitchen lighting mixed with dark dramatic effects, PixVerse.ai style, playful demonic energy . el hombre vampiro debe paresewrse al de la iamgen adjunta , su rostro debe ser el mismo no lo modifiques. caracterizalo y que se siga identificando al personaje. la cocina debe ser una tipoca mexicana ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

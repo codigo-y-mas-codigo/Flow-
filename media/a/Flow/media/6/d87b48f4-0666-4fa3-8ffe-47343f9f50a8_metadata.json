@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d87b48f4-0666-4fa3-8ffe-47343f9f50a8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 14:47:23.406809-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A large, round, yellow emoji with a textured surface is centered on a plain white background with soft, light gray shadows underneath. The emoji has wide, open, light brown eyes with large white pupils and thin, dark eyebrows angled slightly inward, suggesting a thoughtful or questioning expression. Small, rosy cheeks are visible below the eyes. A hand with four visible fingers and a thumb extends from the left side of the emoji, with the index and middle fingers raised in a peace sign gesture. Behind and slightly below the main emoji, two smaller, smooth, yellow spheres are positioned, suggesting a rear. A single, light blue droplet appears to be falling from the crevice between the two smaller spheres.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a599f544-1d0d-427e-9a7f-cc8fadb94d9a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:02:15.230024-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster features a luminous pink donut and an eggplant with a syringe set against a misty, dark background with sparkling diamonds on the floor, all rendered in a limited red-toned palette on a cream background. The luminous pink donut, almost ethereal and weightless, has holographic shimmer on its icing and tiny, brightly colored, translucent sprinkles. Its barely visible base is a soft golden hue. Next to it, an eggplant is depicted with a syringe. The scene is set against a misty, dark background, with brilliant diamonds scattered across the floor, all designed with a vintage-style poster aesthetic reminiscent of 1950s beauty ads. The poster includes a large, bold, arched headline at the top in all caps, a tagline below the headline, mid-century sparkle or starburst icons, and a funny footer line, all in vintage-style serif fonts and a limited red-toned palette.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

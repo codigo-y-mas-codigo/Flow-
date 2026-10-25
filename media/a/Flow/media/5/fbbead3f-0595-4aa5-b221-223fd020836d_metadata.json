@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fbbead3f-0595-4aa5-b221-223fd020836d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "814e1589-698d-46a2-b440-bf4a49812b18",
+    "createdAt": "2025-06-07 07:52:46.989459-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A skeletal figure clad in black armor and a helmet with a red plume rides a white horse turned to the right. The figure holds a black banner displaying a stylized white five-petaled rose with a yellow center. The horse has black tack. Under the horse\u0027s front legs, a young girl with brown pigtails, wearing a blue dress with clasped hands, looks up. To her right, an older male figure with a light skin tone and gray hair, wearing a yellow and green patterned robe and hat, kneels with clasped hands. Further right, a light-skinned figure lies shrouded in white on green ground with yellow and blue vegetation and water details. A yellow sun is in the background over blue water and green land. The style suggests a woodcut or block print with bold outlines and flat colors. The image has a light beige border.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

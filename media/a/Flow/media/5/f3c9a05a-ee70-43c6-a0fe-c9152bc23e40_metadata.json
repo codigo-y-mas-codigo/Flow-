@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f3c9a05a-ee70-43c6-a0fe-c9152bc23e40",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-26 19:18:09.702773-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"La Muerte\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Skeletal Pikachu with a scythe in a field of remains. Marsella style.\nKey animation sequence:\n1. Skeletal Pikachu stands, scythe poised.\n2. It makes a slow, deliberate, sweeping motion with the scythe, as if clearing the ground.\n3. As the scythe passes, some of the plant-like tufts or small remains on the ground subtly shift or are \"cleared\".\n4. A cold, faint blue or grey mist very subtly rolls across the dark ground.\n5. The skeletal Pikachu might turn its head slowly, its empty sockets seeming to survey its work.\nOverall mood: Transformation, endings, clearing the old, inevitable change. Camera: Static, medium shot, focusing on the skeletal Pikachu and its action.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

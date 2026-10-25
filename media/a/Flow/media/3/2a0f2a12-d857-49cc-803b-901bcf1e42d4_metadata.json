@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2a0f2a12-d857-49cc-803b-901bcf1e42d4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 12:40:25.199111-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "agrega el sitio web https://melaleuca.vercel.app/ ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

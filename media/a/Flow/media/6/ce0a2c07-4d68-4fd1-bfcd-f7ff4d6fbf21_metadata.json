@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ce0a2c07-4d68-4fd1-bfcd-f7ff4d6fbf21",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 13:26:31.049016-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cinematic, hyper-realistic portrait of \"The Magician\" Tarot card imagined as a real-life scene. A man in his early 30s stands at a wooden table covered with symbolic tools — a golden chalice, a silver sword, a wooden wand, and antique coins — all laid out in perfect ritual symmetry. He wears a deep red velvet robe with gold embroidery and a white linen undershirt. His face is calm but focused, eyes staring directly into the lens with quiet mastery. His right hand points upward to the sky, while his left hand gestures downward toward the table, embodying the \"as above, so below\" principle.\n\nThe setting is an ancient, candlelit stone chamber with shelves full of scrolls, astrological maps, and strange glass apparatuses glowing faintly. A single beam of white light descends through a circular oculus above, illuminating the magician’s face and casting long shadows across the tools.\n\nLighting: Chiaroscuro-style, dramatic side-lighting with golden glow — similar to Caravaggio paintings or *The Green Knight*.  \nCamera: 35mm cinematic lens, medium shot framed with slight depth — subject in center focus, table items in shallow blur.  \nColor palette: Deep reds, golds, ochres, and candlelight white.  \nExpression: Calm, wise, commanding, with a mysterious half-smile.\n\nSurrounding atmosphere: Faint floating motes of dust and glowing magical sigils subtly hovering in the air — giving a surreal, mystical atmosphere while keeping the realism grounded.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

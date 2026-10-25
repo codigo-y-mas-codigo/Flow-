@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "adb22080-0696-4547-b85f-9e2a0df1c6da",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:11:50.026634-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "un logotipo para una editorial de nutrición holistica y herbolaria llamada \"Lukanti\" en fondo blanco, moderno, flat, colores en primer y segundo plano, que pueda ser utilizado en forma vertical, horitontal y en iconos. y sea visualmente atractiva para fondos obscuros con color y en blanco, y cuando sea fondo blanco que sea adaptable a color negro y a colores.  debe incluir algun elemento como manzana platano, aguacate, para que en conjunto tenga la gama de colores que un platno necesita. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

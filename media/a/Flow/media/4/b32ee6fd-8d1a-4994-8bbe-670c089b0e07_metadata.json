@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b32ee6fd-8d1a-4994-8bbe-670c089b0e07",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 11:29:08.851113-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Ultra-premium editorial artistic square thumbnail for exclusive advanced emotional healing tarot program, sophisticated mature audience, quiet luxury intellectual branding, high-end magazine style.Editorial photography style: soft cinematic lighting, clean minimalist composition, photorealistic, elegant and powerful.Dark palette: deep midnight indigo to pure black, subtle aged gold accents.Hero element: artistic editorial photograph of The High Priestess embodied as a powerful elegant woman (exact classic Rider-Waite-Smith pose: seated with flowing veil, pomegranates, pillars subtly visible), hyper-realistic. She holds two ancient golden keys that are dramatically breaking heavy iron chains wrapped around her. The chains have elegant engraved words fading into golden dust: ABANDONO • RECHAZO • TRAICIÓN • INSUFICIENCIA. No roman numeral II anywhere.Elegant minimalist gold insignias (thin, refined luxury style, not wax seals):Top-left insignia: SISTEMA AVANZADO Y SELECTIVO\nTop-right insignia: INCLUYE PROMPTS\nBottom-left: elegant headphone icon + larger text CURSO EN AUDIOS\nBottom-right: PLANTILLAS + TIRADAS AVANZADAS\n\nExtremely large minimalist elegant Spanish text (maximum readability at thumbnail size, no repetition):Center dominant (huge, refined serif, aged gold with subtle outline):\nSANACIÓN EMOCIONAL\nY AMOR PROPIOText in crisp ivory white with metallic aged gold outline. Generous negative space, high contrast, sophisticated editorial feel. The image speaks alone: “rompo ciclos que nada más pudo”.Square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 50 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

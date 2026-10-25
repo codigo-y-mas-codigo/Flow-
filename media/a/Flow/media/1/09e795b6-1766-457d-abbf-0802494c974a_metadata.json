@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "09e795b6-1766-457d-abbf-0802494c974a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:05:58.356396-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image features a minimalist, hand-drawn style with a warm, muted color palette. The background has the texture of thick, cream-colored, lightly textured paper or cardstock, possibly simulating an off-white watercolor or drawing paper. The main visual elements are rendered using simple, continuous lines in a single color—a warm, reddish-brown or terracotta hue, resembling crayon, ink, or colored pencil on paper. The lines are distinct and uneven, contributing to an authentic, slightly rough, handcrafted feel. The overall lighting is even and soft, enhancing the paper-like texture and providing a gentle contrast with the dark red drawing. The aesthetic is clean, flat, and graphic, reminiscent of simple illustration or sketch-style digital art with a distinct analog influence.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

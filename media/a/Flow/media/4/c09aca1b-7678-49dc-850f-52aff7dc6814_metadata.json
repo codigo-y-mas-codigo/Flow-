@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c09aca1b-7678-49dc-850f-52aff7dc6814",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:56:01.411332-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital painting with sharp, clean lines and smooth gradients depicts a man with a light skin tone wearing a dark gray hooded sweatshirt. The rendering is three-dimensional with detailed texture, giving a polished, illustrative look. The color palette is muted grayscale with a soft, diffused lighting that minimizes harsh shadows. The man is standing in a softly lit room with smooth, neutral-toned walls. A warm amber light emanates from a rectangular frame on the wall behind him, casting a subtle glow. The overall scene has a crisp, high-definition quality typical of modern digital artwork.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

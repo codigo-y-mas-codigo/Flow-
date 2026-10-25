@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6f48de4e-b766-46f0-b97c-e288ecbecf74",
+    "mediaTitle": "Filming music video scenes",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:15:57.679531-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

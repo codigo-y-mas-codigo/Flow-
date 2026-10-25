@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cf026cb6-7a2b-4cba-91ed-12dae929d555",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:21:10.604923-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una toma vista desde arriba mostrando unas cartas del tarot y unas manos de una mujer señalando las cartas. Las explica ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

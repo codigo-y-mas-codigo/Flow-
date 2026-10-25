@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7e91adc8-467f-4af3-a6fa-7cd6cda843e0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "814e1589-698d-46a2-b440-bf4a49812b18",
+    "createdAt": "2025-06-07 07:49:56.062448-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A brightly lit, high-resolution photograph taken from a slightly elevated angle captures a shirtless man with light skin standing before a wall tiled with cool white rectangular tiles above a row of blue square tiles. The lighting, a mix of natural daylight and soft artificial light, minimizes harsh shadows, providing a clean, well-defined look. The man has short, dark hair and a short, dark beard. He looks upward with his mouth open, and white smoke emanates from his mouth and nose, softly obscuring the upper part of his face. His left hand is positioned down near his genitals. His right arm is bent at the elbow, with his hand extended to hold a clear glass pipe. A dark tattoo is subtly visible on his upper left chest. The background features warm wood tones and is softly blurred due to the shallow depth of field, ensuring focus remains on the man in the foreground. The overall aesthetic is modern and intimate, characterized by smooth textures and clear details.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

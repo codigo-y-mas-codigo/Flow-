@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b8630c4c-0ab6-4927-9e0f-84b510d1df7a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:27:13.336407-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": " el arcano del loco de  tarot de marsella y yo raider , estilo surrealista vintage dark red",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

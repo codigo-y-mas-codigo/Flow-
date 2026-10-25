@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "00c604b1-329f-46e4-bc4c-92824cb6c7ac",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:03:30.577567-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Líquido blanco viscosos brillante ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

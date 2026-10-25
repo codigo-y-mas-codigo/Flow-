@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "90e18d69-7901-4b1a-ac4f-d8e71254dc27",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:59:28.418859-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Grainy, high-contrast image reminiscent of a 1960s flash photograph: A young-adult-appearing man with light skin tone and curly, light-colored hair is brightly illuminated from a slightly off-center flash, emerging from beneath a wide-brimmed hat with vibrant, saturated orange and white stripes on the crown and a red brim outlined in yellow. His vertically divided tunic features a saturated blue left side with a yellow sleeve and a saturated red right side with a blue sleeve, cinched by a yellow and blue belt. He wears saturated blue tights and red shoes.\n\nThe man holds a thin, golden-yellow object in his raised right hand, catching the bright flash. His left hand rests on a light brown wooden table, also strongly lit by the flash, creating deep shadows underneath. On the table are brightly colored objects: a golden cup, a red cup, several golden coins or discs, two knives (one with a black handle and one with a white handle), and a pouch or bag.\n\nThe background is swallowed by deep shadows, hinting at a light yellow ground and a slightly darker yellow horizon line. A small, indistinct green plant or bush is barely visible in the darkness. A subtle vignette darkens the edges. The overall color palette exhibits a warm, slightly yellowish tint, with noticeable film grain throughout.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

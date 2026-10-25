@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "112b628c-22c3-4ba8-a68c-feedc11b73d5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 15:13:04.818255-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image shows a stylized design incorporating agricultural elements. A thick, dark green shape begins at the bottom left, arcs upwards and to the right, and then curves back down and slightly to the left, resembling the left side of a heart shape or a developing vine. Completing the heart shape on the right is a stylized golden wheat stalk, its head full of grain, curving to meet the green shape at the bottom. Inside this heart shape are a yellow banana pointing upwards and slightly to the left, a blue avocado positioned centrally and pointing downwards slightly to the left, and a red apple oriented horizontally with its stem pointing towards the right. A thin, light green stem extends from the bottom of the avocado and extends downwards, partially obscured by the apple. The entire design is set against a plain white background. The style is flat and graphic, with solid colors and no shading or texture visible."
+    }
+  }]
+}

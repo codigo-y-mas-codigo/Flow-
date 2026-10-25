@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6bd3d843-511d-4385-9623-5bc5cd3cab6a",
+    "mediaTitle": "User imagining character from photo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 22:08:12.310478-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "How would I look as the character in photo 1",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e650a24b-d070-426e-826b-5f24e6cca374",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 09:42:12.481963-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An image of a person in a deep-sea diving suit and helmet, standing and pointing with one hand at a blue neon text that says \"habla de s3-xo con grok\". The suit is dark, with metallic accents on the helmet. The helmet is black with a more polarized visor. The person is standing to the left of a transparent glass desk, which has a silver boom microphone on it. To the right of the desk, there is an empty white office chair. In front of the person, a glowing blue seahorse floats in the air. Behind the seahorse, electric-like tendrils extend from the text against a dark background. Bubbles are visible near the upper left of the image, suggesting an underwater or liquid environment. The shot is pulled back to show more of the scene."
+    }
+  }]
+}

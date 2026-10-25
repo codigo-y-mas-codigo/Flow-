@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "eab8b096-c7c3-4c87-bee5-095f132cde54",
+    "mediaTitle": "Clones congelados en habitación …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:31:02.145133-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "25 clones congeladas en una habitación neutra con luces blancas futuristas , algunas parece las alumbra una luz desde arriba. Todos mantienen una posición. Unas más parecen que están levitando parece una escena de película de ciencia ficción. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

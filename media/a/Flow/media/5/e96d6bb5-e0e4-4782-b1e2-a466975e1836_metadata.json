@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e96d6bb5-e0e4-4782-b1e2-a466975e1836",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2025-06-02 02:42:07.115505-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Ebook cover illustration in a minimalist style with warm, earthy tones including ocher, reddish, and brown. Pre-Hispanic motifs representing corn and other milpa elements are depicted using flat, geometric shapes. The title \"La Dieta de la Milpa\" is presented in an elegant and legible typeface. Details evoking nature and tradition are incorporated as flat, stylized shapes, such as dry leaves and sun rays. The background has a textured appearance suggesting earth, rendered with flat color fields. The overall aesthetic evokes warmth, nostalgia, and authenticity with a slightly vintage, matte feel created through texture overlays and the limited, earthy color palette.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

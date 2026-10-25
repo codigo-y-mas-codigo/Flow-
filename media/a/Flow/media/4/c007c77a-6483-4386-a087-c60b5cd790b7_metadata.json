@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c007c77a-6483-4386-a087-c60b5cd790b7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:23:34.824276-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A blocky, cartoonish illustration in the style of a woodcut or linocut tarot card depicts Pikachu as \"El Emperador.\" Pikachu, rendered with flat, unblended yellow color and bold black outlines, is seated on a blocky grey stone throne. The throne is simply depicted with strong black lines defining its form. Pikachu wears royal armor outlined in black with flat areas of red and blue color fills. A solid red cape with a black outline drapes behind the figure. Pikachu holds a simple, blocky ankh scepter, primarily gold in color with a black outline, symbolizing rule and structure. The background is a flat, unshaded expanse, allowing focus on Pikachu and the throne. The overall composition maintains the traditional vertical orientation and dimensions of a tarot card, with a clear black border defining the edges. The color palette features bold reds, blues, and yellows, consistent with the flat color style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

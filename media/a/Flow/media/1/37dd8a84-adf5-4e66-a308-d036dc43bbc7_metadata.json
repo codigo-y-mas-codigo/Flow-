@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "37dd8a84-adf5-4e66-a308-d036dc43bbc7",
+    "mediaTitle": "Kitten walking among grooming tools",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 20:08:32.778009-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

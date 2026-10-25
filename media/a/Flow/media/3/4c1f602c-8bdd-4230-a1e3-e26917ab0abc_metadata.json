@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4c1f602c-8bdd-4230-a1e3-e26917ab0abc",
+    "mediaTitle": "Person posing with dog",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 22:07:10.160142-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "And how would I look with my dog in a similar situation, the dog\u0027s expression the same as the surprised cat\u0027s and me like I\u0027m enjoying the moment. in 9:16.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "857f555b-4dfb-419f-8603-d9d6403b676f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 26/12/25",
+    "projectId": "fd97bba3-5557-4bfe-bac7-13cbfa86e28d",
+    "createdAt": "2025-12-26 00:57:33.984496-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "A close-up shot features a young adult woman with long, platinum blonde hair, styled straight. Her eyes are dramatically made up with dark eyeliner and a bright yellow or gold pigment highlighting the inner corners of her eyes and under the lower lash line. Her eyebrows are dark and well-defined, contrasting with her light hair. She has a fair to light skin tone. Her mouth is slightly open, suggesting she might be speaking or singing.\n\nA hand, presumably hers, extends toward the viewer in the lower foreground, blurred and out of focus, also with a light skin tone.\n\nThe background is highly blurred (bokeh effect) and features vibrant blocks of color, including a bright lime green/yellow and blue, suggesting a colorful or studio setting, perhaps for a music video or performance. The lighting is focused on her face, creating a dramatic, almost ethereal glow, particularly around her eyes.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

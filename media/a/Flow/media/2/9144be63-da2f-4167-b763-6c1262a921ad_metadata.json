@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9144be63-da2f-4167-b763-6c1262a921ad",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-25 15:12:25.767756-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cinematic drone shot slowly flying through a surreal futuristic metallic landscape of the Bizom Head office, with reflective silver structures curving like waves. The camera glides smoothly above the terrace and sides, capturing the intricate architecture and gleaming surfaces in high detail. The lighting is soft and natural, with moving shadows and reflections enhancing the photorealism. No fast movements. Subtle motion only. A blue seahorse is visible above their head near a dark, rocky formation. In front of the person, blue neon text that says \"estrena tu creatividad, no seas un flojo\" is visible. Behind the text, electric-like tendrils extend against a dark background. Bubbles are visible near the upper left of the image, suggesting an underwater or liquid environment. The shot is pulled back to show more of the scene. Ultra high-resolution, photorealistic rendering, 3D precision.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

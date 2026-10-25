@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8d6cfcf0-9ed0-4529-8eed-e817f53aa61e",
+    "mediaTitle": "Dogs flying in V formation",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "04-may, 07:55 a.m.",
+    "projectId": "c5eb3850-72c6-464f-81ae-cad38f8314e4",
+    "createdAt": "2026-07-21 18:03:25.907628-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f8abc00a-5990-4729-adf2-ab85d116ca41",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 10:50:31.724183-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A square digital illustration in a modern, geometric style with a strong emphasis on flat, bold colors and sharp shapes, featuring a luxury minimalist aesthetic with subtle gold accents and a premium branding feel. The color palette is deep indigo, soft charcoal gray, black, and gold. The composition is clean and professional, centered around a dark wooden surface. A faint, glowing outline of an open Rider--Waite tarot deck rests on the surface, with one major arcana card, The High Priestess, faintly illuminated in the center. The High Priestess illustration is rendered with bold, flat colors and sharp lines, conforming to the deep indigo and charcoal gray palette with gold accents. Large, bold Spanish text overlays the design. The title, \"TAROT PARA SANACIÓN EMOCIONAL Y AMOR PROPIO,\" is prominent, with the subtitle \"SISTEMA AVANZADO EXCLUSIVO\" beneath it. The Roman numeral \"II\" is displayed prominently in a stylized font, corresponding to The High Priestess arcanum. The overall effect is sophisticated, spiritual, and introspective, with high contrast and smooth lines. The illustration is highly stylized, with no clutter, crystals, moons, or angels. Minimalist elegant cover, square 1:1 aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1ac44ad8-0e48-4508-94d0-ee197991f633",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:02:02.283302-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Neblina en un fondo obscuro y diamantes brillantes en el piso ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

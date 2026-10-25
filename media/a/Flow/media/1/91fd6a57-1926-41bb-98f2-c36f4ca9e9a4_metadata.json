@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "91fd6a57-1926-41bb-98f2-c36f4ca9e9a4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 9/7/25",
+    "projectId": "d9f8c2df-88b4-4fbb-a7c7-b2cb6d43b5e8",
+    "createdAt": "2025-07-09 17:33:25.209579-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A modern meme-style oil painting, resembling a Renaissance or Rococo portrait, depicts two adult men, appearing to be in their 20s or 30s, from the waist up. Both men have light skin tones, light brown hair, and beards, and are adorned with floral crowns and pearls. They wear black eye masks with two bright yellow heart shapes over the eyeholes. The men are dressed in Renaissance-style clothing, with soft, painterly textures and dramatic lighting. The man on the left wears a light grey long-sleeved Renaissance-style shirt and holds a black smartphone in his right hand, angled slightly downwards. The man on the right wears a bright yellow collared Renaissance-style shirt and holds a black smartphone, which emits a faint yellow glow. His head is tilted slightly down towards the phone. The composition suggests interaction or shared focus on the phones. A large, playful, brushstroke-style text in a high-contrast pastel color, such as \"SLAY QUEEN\", \"ROYALTY ERA\", or \"DON’T TALK TO ME\", is overlaid across the center of the image, slightly overlapping the subjects. The overall portrait feels painterly and elegant with a touch of modern sass.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

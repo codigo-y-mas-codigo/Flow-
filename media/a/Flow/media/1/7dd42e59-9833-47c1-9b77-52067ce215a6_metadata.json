@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7dd42e59-9833-47c1-9b77-52067ce215a6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "3e07d7f0-d9b5-478c-b945-516e4361a59a",
+    "createdAt": "2025-07-03 04:56:55.541901-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A raw, intimate cinematic still captures the physical and emotional toll of a performance in a gritty backstage setting, rendered in a photorealistic style with harsh, functional lighting contrasting with residual stage glamour. A lone ballet dancer is slumped on a worn wooden bench in a cluttered backstage area immediately after a performance. Their elaborate costume is slightly disheveled, stained with sweat or stage makeup. Their head is bowed low, face hidden or turned away, with their body language conveying utter exhaustion. Pointe shoes are untied, revealing bruised and taped feet resting on the dusty floor amidst coiled cables, discarded water bottles, and blurred costume racks in the background. A single bare bulb overhead or harsh spill from a nearby dressing room mirror casts strong shadows, highlighting the sheen of sweat on their neck and shoulders. The focus is sharp on the dancer\u0027s slumped form and the details of their costume and exhaustion, telling a story of dedication, pain, and the quiet aftermath of applause.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

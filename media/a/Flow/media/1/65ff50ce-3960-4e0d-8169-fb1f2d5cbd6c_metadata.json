@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "65ff50ce-3960-4e0d-8169-fb1f2d5cbd6c",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-07 01:23:35.047878-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "ersona: Act as a highly skilled casting director and film director combined. Your task is to create a digital actor based on a very specific character sheet and direct them in a short scene.\n\nTask: Generate a photorealistic, head-and-shoulders video of a specific woman speaking directly to the camera. The video must be based on the detailed physical description provided and include the specified dialogue with synchronized lip movement.\n\nContext:\n\nCharacter Description (Eli Padilla):\n\nAge and Appearance: A welcoming and professional woman, 58 years old. Based on visual cues, she may be of Latin heritage.\nFacial Features: She has a kind, round face with soft, motherly features and a warm, genuine smile that she maintains throughout. She wears modern, elegant eyeglasses with a thin, light-colored frame. Her eyes are warm, engaging, and friendly.\nHair: Her hair is a mix of ash blonde and natural grey/white streaks, giving it a sophisticated \"salt and pepper\" look. It is styled neatly, is approximately shoulder-length, and is parted slightly off-center.\nBuild: She has a fuller, realistic build, corresponding to a height of approximately 1.60m and a weight around 70kg.\nAttire: She is dressed in a professional yet approachable style: a charcoal grey v-neck shirt worn under a light beige or off-white open cardigan. A simple, elegant silver necklace is visible.\nEnvironment/Scene:\n\nShe is positioned in a modern, clean, and well-lit kitchen. The background features a clean wall with light-colored wooden shelves. On the shelves, there are minimalist ceramic pots and a small green plant. In front of her, on a countertop, a few fresh fruits like apples and oranges are visible but slightly out of focus.\nThe shot is a medium close-up, framing her from the chest up.\nAction \u0026 Expression:\n\nShe looks directly into the camera as if addressing an audience. Her expression is consistently warm and welcoming. Her movements should be subtle and natural: a gentle head nod as she begins to speak, natural eye blinks, and authentic facial shifts that convey expertise and friendliness.\nAudio \u0026 Dialogue:\n\nSpeaker: Eli Padilla (the woman described above).\nDialogue (Spanish): \"Hola, soy Eli Padilla, y les doy la más cordial bienvenida al curso de Nutrición Holística: Alimentación para la Salud y el Bienestar.\"\nTone of Voice: The delivery must be warm, professional, welcoming, and clear (cálido, profesional, acogedor y claro).\nLip-Sync: It is crucial that the lip movements are accurately synchronized with the Spanish dialogue.\nOutput Format: A short video clip (approximately 8-12 seconds long), in 16:9 aspect ratio, 1080p resolution, featuring the described person.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

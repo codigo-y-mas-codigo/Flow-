@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1342fbbf-a702-4673-84db-95d08aee1130",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-06-03 22:39:16.159272-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration against a bright white background displays four parallel decorative borders rendered in flat, solid black lines. The topmost border features a repeating pattern of small, stylized elements: roses, other flowers, leaves, hearts, dots, and two miniature elephants with upward-curving trunks. The second border shows a delicate, wavy vine with small, round berries and pointed leaves. The third border is more structured, with a series of circles connected by a thin, wavy line. Each circle contains a different symbol: a snowflake, a five-pointed star, a leaf, a solid heart, and a crown. Small, leafy sprigs and five-pointed stars extend from the wavy line. The bottommost border presents a flowing, curvilinear line adorned with clusters of circles and dots of various sizes, small hearts, and curled flourishes.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

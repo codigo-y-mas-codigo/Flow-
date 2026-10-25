@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b5b4d929-5b77-4a76-964c-d6409b2aea85",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:05:44.099092-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A humorous vintage-style poster, inspired by 1950s beauty ads, showcases a stylized donut, an eggplant, and a viscous liquid amidst a foggy, dark background with glittering diamonds. The poster, printed in a limited red-toned palette on a cream background, features a large, bold headline arching across the top in all caps: \"THIS IS MY JAM... AND MY JELLY... AND MY DONUT.\"\n\nIn the center, a luminous, almost ethereal pink donut, appearing weightless with a dreamlike, holographic icing, is depicted. Viscous liquid chocolate drips from the donut, and a small pinkish-red flower rests upon it. Tiny, brightly colored, almost translucent sprinkles are scattered across the icing, adding a delicate sparkle. Beside it, an eggplant holds a syringe, and a viscous, shiny white liquid is present. These elements are rendered as stylized, engraved illustrations, subtly adapting to the cream background and red-toned palette. The background features a thick fog, with bright, sparkling diamonds scattered across the ground, all conforming to the vintage aesthetic. The overall impression is one of witty elegance and slightly otherworldly charm.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

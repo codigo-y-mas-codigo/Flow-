@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "84a28b72-5c7b-4e93-a945-943f5b55e011",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 10:10:31.189867-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An image of a person in a deep-sea diving suit and helmet. The person\u0027s hands are covering their ears, and their expression suggests concern. The suit is dark, with metallic accents on the helmet. The helmet is black with a more polarized visor. The person is standing to the left of a transparent glass desk, which has a white and gray boom microphone on it. Behind the person, a glowing blue seahorse is hiding. In front of the person, a blue neon text that says \"y tu leíste el aviso de privacidad de ChatGPT ?\" is visible. Behind the text, electric-like tendrils extend against a dark background. Bubbles are visible near the upper left of the image, suggesting an underwater or liquid environment. The shot is pulled back to show more of the scene."
+    }
+  }]
+}

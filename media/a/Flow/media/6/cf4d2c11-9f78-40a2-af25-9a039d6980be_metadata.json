@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cf4d2c11-9f78-40a2-af25-9a039d6980be",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:04:05.950809-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una ilustración de estilo tradicional que presenta a una Pikachu hembra como el personaje principal. Pikachu hembra está sentada en un trono, vistiendo una túnica azul con ribetes rojos y una tiara/corona papal blanca de tres niveles. Sostiene un libro abierto en sus patas y tiene una cruz amarilla en su pecho. Dos pilares, uno blanco a su izquierda y otro negro a su derecha, aparecen a ambos lados de su trono. El fondo es mínimo con una simple línea de tierra. Toda la ilustración está delineada con líneas negras gruesas en el estilo de grabado en madera medieval característico, utilizando colores planos saturados.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

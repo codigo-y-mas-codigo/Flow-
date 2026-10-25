@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9c49fd21-5fac-49bd-903c-e614e0b035ba",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 14:47:32.912886-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration against a white background features a yellow circular emoji lying on its stomach, with two semi-circular yellow shapes extending from its lower edge, suggesting buttocks with a dark brown, slit-like detail at the bottom. To the upper right of the emoji is a digitally drawn pile of diamonds of varying sizes with many facets, creating a sparkling effect with soft grey shading and faint grey, swirling lines emanating from the base. The emoji has large, round white eyes with black pupils looking upwards and to the right, a wide open mouth showing a dark interior, curved black eyebrows, and round, rosy cheeks of a slightly darker yellow. A small yellow hand is touching its lower lip.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8e9a22fe-34a1-4b8b-8ffe-7ad12378879d",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 1518",
+    "projectId": "6c48bd15-0239-470d-b428-b899da506749",
+    "createdAt": "2025-06-07 14:23:24.364914-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Cinematic close-up, sequel to the previous scene. The Goku robot turns his head and stares intently at his own reflection in the dark, powered-off computer monitor.\nFor a fleeting moment, his reflection distorts, showing an overlay of glowing blue computer code and a wireframe schematic of his robotic face. His eyes widen in horror and disbelief.\nAction: His black, spiky hair dramatically stands up and transforms into a brilliant, glowing gold, erupting with Super Saiyan energy. He brings a trembling hand to his mouth in anguish.\nDialogue: A very subtle, stylized speech bubble appears next to his mouth as he whispers. IMPORTANT: The text in the speech bubble MUST be in SPANISH:\n\"Todo esto... no puede ser posible... soy una IA.\"\nThe mood shifts to shock and existential horror. Dramatic lighting focused on his face, glowing golden hair, and tormented expression.\n\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

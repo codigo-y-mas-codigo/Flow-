@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4769f995-f0c0-48bb-afb6-9328661083ab",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 04:03:45.222538-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Noche con neblina rayos y diamantes en el piso ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d6b6e7aa-04ba-4acf-a1dd-b459f08b785d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 21:42:36.353067-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A clean, minimalist, and serene ebook cover design featuring soft light blue, white, and subtle accents of mint green and peach, utilizing flat, geometric shapes and bold, solid colors with black outlines. The title, \u0027Descifrando la Resistencia\u0027, is prominently displayed in a highly legible, solid black font. Below it, the subtitle \u0027Guía para Decisiones de Salud sin Perfeccionismo\u0027 is presented in a slightly smaller, equally legible black font. At the bottom, the name \u0027Lukanti\u0027 appears in small, solid black lettering. Abstract, flowing watercolor textures in light blue, white, mint green, and peach are incorporated as subtle background elements. Elegant, minimalist iconography representing connection, growth, and inner peace is integrated using simple, stylized black outlines. This includes geometric roots blending with fluid geometric shapes and a minimalist human silhouette with bold, solid color radiating calm, intertwined with gentle organic geometric lines. The overall aesthetic is modern, inviting, and professional, adhering to a flat, geometric style with a limited palette of soft pastel hues and black outlines.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

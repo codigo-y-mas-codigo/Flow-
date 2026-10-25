@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4b8dbf0a-c46d-46ce-977a-ad5e171f4132",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 16:10:07.698785-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A high-quality studio shot of a gold-toned keychain against a clean white background, with a pretty and bright color palette. Dangling loosely from the keychain are several cute, distinct charms. Two charms depict animated male characters in a chibi art style. The first charm is a plushie of a fair-skinned male with spiky black hair, wearing an orange and blue martial arts gi, blue wristbands, and an orange belt. His eyes are wide, looking upwards, and he holds a dark, multi-pronged object. The second charm is a plushie of a fair-skinned male with spiky black hair, wearing a blue jumpsuit with white boots and gloves. His eyes are narrow and determined, and he holds silver scissors with open blades. Both charms have a smooth, opaque appearance. Additional charms, with a textured, reflective quality due to glitter, represent elements from a fantastical landscape: a rolling pink hill with delicate petals, and a cluster of seven round orange balloons each with four red, five-pointed stars. The lighting is even and bright, minimizing shadows and highlighting texture and details with sharp focus.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

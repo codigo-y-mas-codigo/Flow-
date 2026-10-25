@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7b3e18c2-38ee-4953-8d95-54d1ee60ca40",
+    "mediaTitle": "Perro portrait king crown",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "jul 21, 10:55 p. m.",
+    "projectId": "79acf6d0-8fde-47e7-a06c-c77be3dcc573",
+    "createdAt": "2026-07-21 22:46:05.893302-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Perro: [mokona]\nGénero: [ hembra]\n\nUse the exact dog from Image 1, named [Nombre], gender [macho/hembra] as source of truth. Keep identical facial features, fur texture, tongue position. DO NOT beautify.\n\nIf hembra: queen portrait, delicate golden queen\u0027s crown with small pearls.\nIf macho: king portrait, small golden king\u0027s crown.\n\nLazy pose on citrus-orange velvet throne with golden ornaments, chiaroscuro lighting, dark background with green drapery.\n\nMUST include ornate golden baroque frame on all 4 sides. NO TEXT, no watermark. Vertical 9:16.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

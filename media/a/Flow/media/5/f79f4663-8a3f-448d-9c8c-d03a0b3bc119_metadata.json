@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f79f4663-8a3f-448d-9c8c-d03a0b3bc119",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:44:11.336328-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "darkness  dramatic lighting, sun rays, , natural colors, volumetric lighting, shallow depth of field.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

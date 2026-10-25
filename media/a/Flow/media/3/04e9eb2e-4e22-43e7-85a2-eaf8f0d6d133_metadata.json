@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "04e9eb2e-4e22-43e7-85a2-eaf8f0d6d133",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "535da0aa-83a8-46fa-9b9d-f1f531c9d9f5",
+    "createdAt": "2025-06-06 12:44:33.349515-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Toma desde arriba hacia una mesa con cartas del tarot , solo se ven sus manos de un hombre señalando a las cartas",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

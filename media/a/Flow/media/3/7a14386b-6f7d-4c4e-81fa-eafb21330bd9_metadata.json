@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7a14386b-6f7d-4c4e-81fa-eafb21330bd9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:00:18.744508-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Certificado digital elegante y profesional para curso de tarot terapéutico. Fondo blanco o gris claro muy sutil con borde fino dorado o morado tenue. Título central grande: \"Certificado de Finalización\". Subtítulo: \"Sistema Avanzado de Tarot para Sanación Emocional y Amor Propio\". Espacio para nombre del alumno: \"[Nombre Completo]\". Fecha: \"[Fecha de Completación]\". Firma digital abajo a la derecha: \"Artur Chejov – Creador del Sistema\". Texto inferior pequeño: \"Completado con éxito las 15 lecciones + bonos VIP exclusivos. Otorgado el [Fecha]\". Estilo minimalista, moderno, adulto, lujo discreto, sin elementos místicos exagerados (sin lunas, estrellas, cristales). Formato A4 horizontal o cuadrado, alta resolución, espacio editable para nombre y fecha. Colores: negro, gris oscuro, acento morado suave o dorado sutil.\ntextos en español. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

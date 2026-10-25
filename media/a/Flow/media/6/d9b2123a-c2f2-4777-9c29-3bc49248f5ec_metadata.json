@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d9b2123a-c2f2-4777-9c29-3bc49248f5ec",
+    "mediaTitle": "Animal wearing helmet in tank",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:49:22.058217-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt:\n\nAn extremely common, poorly-taken iPhone selfie, completely lacking artistic intent or good composition. The image features an awkward framing, motion blur, and slight overexposure caused by uneven lighting.\n\nThe main subject is the animal from the user-uploaded reference image. The animal retains its real features and has its open mouth in an exaggerated expression of emotion, fright, or a comical scream.\n\nThe animal is sitting inside a military battle tank in the heat of combat. It is wearing a military helmet, and the interior of the tank looks messy and chaotic. In the background, visible through hatches or viewports, there are explosions, smoke, gunfire, and other tanks advancing across the battlefield during daylight.\n\nThe photograph should feel accidental, improvisational, and ridiculously casual, like a selfie taken by mistake in the middle of war.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

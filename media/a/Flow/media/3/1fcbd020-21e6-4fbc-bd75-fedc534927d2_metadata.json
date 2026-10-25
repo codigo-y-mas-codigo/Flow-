@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1fcbd020-21e6-4fbc-bd75-fedc534927d2",
+    "mediaTitle": "3D emoji style no text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-07-17 23:54:24.762988-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The character in blue, should look like the one in the attached image and the one with yellow hair, put black hair on him and change it to suspenders.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "56cbb2d2-1934-4a10-8704-920bdd7af787"
+    }
+  }]
+}

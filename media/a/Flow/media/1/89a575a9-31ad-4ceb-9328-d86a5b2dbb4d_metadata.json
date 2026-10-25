@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "89a575a9-31ad-4ceb-9328-d86a5b2dbb4d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-28 00:30:48.296307-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": " Close-up on the eyes of a professional woman (30-40 years old, diverse ethnicity, realistic appearance, a bit tired look). Then, camera slowly zooms out to reveal her sitting at a desk in a modern, slightly dim office, looking at a computer screen. A half-empty coffee mug is next to the keyboard. Subtle, low-key lighting. Realistic style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

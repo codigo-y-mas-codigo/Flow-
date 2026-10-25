@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6b4df971-24f4-49f4-b489-54b846e21ebe",
+    "mediaTitle": "Certu Tamaño ",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Jun 10 - 0337",
+    "projectId": "f5c59887-459a-4be1-8230-1135fae920e9",
+    "createdAt": "2026-06-23 01:12:06.770527-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Certu Tamaño ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

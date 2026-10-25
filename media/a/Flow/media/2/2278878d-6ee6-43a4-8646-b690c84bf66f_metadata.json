@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2278878d-6ee6-43a4-8646-b690c84bf66f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-19 03:44:29.891537-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A clean white background with an array of natural foods spread across the entire frame. The foods include fresh fruits, vegetables, seeds, nuts, and raw meats, creating a colorful and vibrant arrangement. The image has a healthy, organic, whole-food style with professional lighting and a studio photography look. It is a high-resolution, horizontal layout with a minimalist and modern design."
+    }
+  }]
+}

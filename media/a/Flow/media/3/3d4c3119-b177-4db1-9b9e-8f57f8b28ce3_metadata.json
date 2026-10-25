@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3d4c3119-b177-4db1-9b9e-8f57f8b28ce3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 00:58:11.722893-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A fair-skinned older woman with glasses gently smiles behind a wooden table laden with various food items in a warm kitchen setting. The woman has light gray shoulder-length wavy hair, parted to her left, and wears a gray V-neck shirt, a light beige cardigan, gold hoop earrings, and a thin gold necklace with a small pendant. Her hands rest on the wooden table. The table displays a small wooden bowl of green pumpkin seeds, a red bell pepper, a small wooden bowl of tan grains, a wooden cutting board with raw red meat, a clear glass of white liquid, a red apple, a green apple, a single avocado, a wooden bowl of red strawberries, and a bunch of yellow bananas arranged from left to right. Behind the woman, a kitchen wall with brown and beige square tiles on the lower part and muted beige above features two wooden shelves. The top shelf holds a terra cotta bowl of yellow bananas, a larger terra cotta bowl, and a small terra cotta pot with a green leafy plant, while the lower shelf contains a small terra cotta jar with a lid, a small glass jar, a larger terra cotta bowl, a small potted green plant, and a dark-colored mortar and pestle. A glimpse of another dark object is visible on the countertop to the right.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

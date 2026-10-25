@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c1aa3682-35c2-40e3-be64-9a8ae63a9faa",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "d5985992-122a-417d-b0d3-cbf1fc3c1f8c",
+    "createdAt": "2025-06-24 02:58:13.607233-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "This cinematic image, with its high-end, artistic, and sophisticated appeal, portrays a man\u0027s face, partially obscured by a pane of glass glistening with water droplets. The art style is reminiscent of film noir or a moody, atmospheric drama, employing a shallow depth of field that keeps the subject softly blurred, enhancing the sense of mystery and introspection. The composition is dynamic and deliberately off-center, focusing on the right side of the woman\u0027s face, her features subtly defined beneath the textured condensation. This unconventional framing draws the viewer\u0027s eye, creating a sense of intimacy yet distance. The camera angle is slightly low, looking up towards the subject, adding an element of vulnerability or contemplation. Colors are muted and desaturated, dominated by cool grays and deep blacks, with a striking contrast provided by her deep red lips—the only vibrant hue in the scene. This selective color use emphasizes her presence amidst the somber tones. Light plays softly across the water droplets, creating subtle highlights and shadows that sculpt her features and add depth to the image. The overall effect is one of poignant beauty and quiet emotion, captured through masterful photographic technique that blends texture, light, and composition into a captivating visual narrative.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

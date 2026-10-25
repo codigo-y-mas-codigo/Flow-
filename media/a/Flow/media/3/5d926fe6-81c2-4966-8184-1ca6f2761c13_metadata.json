@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d926fe6-81c2-4966-8184-1ca6f2761c13",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 15:04:54.958142-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An abstract logo design for Lukanti\u0027s new holistic nutrition line, featuring a subtle heart shape formed by stylized representations of wheat (curved lines), banana (a pronounced curve), and avocado (ovoid shape), seamlessly integrated with organic shapes for leaves. The logo is designed for visual appeal in both color and black and white versions, conveying a sense of natural health and well-being. The heart symbolizes nourishment and love, while the wheat, banana, and avocado represent key elements of a healthy diet. The design uses a palette of soft, earthy tones, with a focus on gradients and subtle shading to emphasize the organic nature of the elements. The leaves are rendered in a graceful, flowing style, adding a sense of vitality and freshness to the design. The logo is created using a combination of linework and soft fills, emphasizing natural shapes and creating a sense of balance and harmony. The logo is versatile, adaptable to various mediums and sizes, representing Lukanti\u0027s commitment to providing holistic nutrition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

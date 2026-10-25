@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ce3ca00d-736b-4f66-8763-3730d37b80b3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:09:47.241372-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "QUE PAREZCA BUSCA SU SALCHICHA ABAJO DE LA BANCA RECARGADA DE RODILLAS MIRANDO A LA CAMARA ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

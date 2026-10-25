@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "36880441-ebc2-4c78-aa45-674d1852a444",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:36:27.110860-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una ilustración de estilo tradicional que presenta a una Pikachu hembra como el personaje principal, sentada prominente en el centro. Pikachu hembra está sentada de frente en un trono con un cojín rojo y una base amarilla, ocupando la mayor parte de la parte inferior de la imagen. Viste un vestido rojo con detalles azules en el cuello y las mangas, y una corona dorada con tres puntas adornadas con joyas rojas en su cabeza. Sostiene un cetro dorado con un águila en la parte superior en su pata derecha, elevado verticalmente. En su pata izquierda, sostiene un escudo redondo con un águila dorada. Su postura es regia y confiada. El fondo es completamente blanco y liso. Toda la ilustración está delineada con líneas negras gruesas en el estilo de grabado en madera medieval característico, utilizando colores planos saturados sin sombreado ni perspectiva modernos.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3178055b-0cb7-465a-ba08-9ca60dd9210b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:00:24.004568-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Two muscular men with light skin tones stand facing each other, nearly touching noses. The man on the left has short blond hair, while the man on the right has shorter light brown hair. Both wear black baseball caps, black socks pulled up to their mid-calves, and dark-colored athletic shoes. They are wearing black underwear with a light gray waistband. The man on the left holds a black baseball bat with his right hand, the end resting on the ground near two white baseballs with red stitching. The man on the right wears a black baseball glove on his left hand and holds the other man\u0027s right hand with his bare right hand. Both men have reddish marks or smudges on their cheeks. They are positioned in front of a soft gradient background that transitions from a light pinkish-beige circle behind their heads and shoulders to a light gray at the bottom. The setting appears to be a digitally created, neutral space without specific environmental details.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

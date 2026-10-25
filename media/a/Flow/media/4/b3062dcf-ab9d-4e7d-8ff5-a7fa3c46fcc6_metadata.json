@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b3062dcf-ab9d-4e7d-8ff5-a7fa3c46fcc6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:29:27.186672-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster with a limited red-toned palette on a cream background depicts a luminous pink donut, an eggplant, and a banana under a stormy night sky with lightning and abundant mist. The central subject is a stylized, engraved illustration of a luminous pink donut, appearing weightless, with holographic icing, from which two female legs clad in black fishnet stockings and black high-heeled shoes emerge. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. Dripping from the donut\u0027s base is pink liquid and white spilled milk, and it\u0027s adorned with numerous diamonds and pink sprinkles. To the left, an eggplant holds a glowing syringe, and to the right, a banana also holds a glowing syringe. At the top, in a mid-century serif font, is the bold headline \"YO PAS CL SLM FF\" arched across in all caps, with \"TU VRGN SLM ACT\" as a tagline below it. A few mid-century sparkle and starburst icons are scattered around the headline.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

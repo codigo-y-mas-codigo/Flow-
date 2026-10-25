@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c0a96037-0390-4ab3-b919-b430b91fb443",
+    "mediaTitle": "Cat walking on barber table",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:39:56.614789-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "haz la imagen de un gato, caminando entre los objetos de una barbershop sobre una mesa blanca de pared blanca . se debe ver solo la secadora, tijeras, maquina no incluyas la silla ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

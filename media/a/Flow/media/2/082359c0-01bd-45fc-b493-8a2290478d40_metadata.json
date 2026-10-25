@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "082359c0-01bd-45fc-b493-8a2290478d40",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 02:34:33.250357-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An abstract, minimalist book cover design for a non-fiction book. The main visual features a subtle, abstract representation of a brain or a neural network in the upper section, transitioning seamlessly into organic, fluid lines that intertwine and diverge towards the bottom, symbolizing complex relationships and freedom. The background is a deep navy blue, with the neural elements rendered in soft gold and copper tones. Subtle magenta and orange accents highlight connection points within the lines. The overall style is conceptual and modern. The main title \"La Ciencia de la Atracción\" is prominently displayed in a clean, bold sans-serif font, followed by \"La Lealtad y la Felicidad\" in a slightly smaller, elegant font. Below that, \"en Relaciones Abiertas para Hombres Gay.\" is clearly legible. The author\u0027s name, \"Luis Angel Maciel\", is discreetly placed at the bottom.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

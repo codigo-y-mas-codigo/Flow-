@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8340ebb1-716d-4e09-bc58-1199821a9adf",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:00:25.306119-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A traditional-style illustration features Pikachu as the main character, seated on a throne. Pikachu wears a red tunic with gold trim and a crown. It holds a sword in its right paw and a balance scale in its left paw. The background is a simple landscape consisting of a blue sky and a flat ground. The entire illustration is outlined with thick black lines in a characteristic medieval woodcut style, using flat, saturated colors.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

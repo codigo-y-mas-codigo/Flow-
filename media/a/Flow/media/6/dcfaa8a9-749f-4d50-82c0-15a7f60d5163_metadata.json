@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dcfaa8a9-749f-4d50-82c0-15a7f60d5163",
+    "mediaTitle": "Changing clothes and makeup looks",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:24:48.224119-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Cambia de ropa y peinado maquillaje las expresión debe ser la misma hacia enfrente. Algunas pueden tener lentes otra no y su ropa debe ser según un tipo de personalidad distinto las Cuáles serán. Una bruja ,una payaso, disfrazada de Tatiana, disfrazada como la reina Cleopatra, y de estudiante ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

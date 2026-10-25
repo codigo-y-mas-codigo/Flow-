@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "25231a87-e8d1-4515-a6e5-e72684c94f62",
+    "mediaTitle": "hazlo en estilo 3d metalico",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:07:53.831811-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "hazlo en estilo 3d metalico azul. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

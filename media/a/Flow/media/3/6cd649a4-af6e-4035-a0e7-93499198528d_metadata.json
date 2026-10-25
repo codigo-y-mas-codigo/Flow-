@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6cd649a4-af6e-4035-a0e7-93499198528d",
+    "mediaTitle": "Luchadores comparten taco en ring",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:54:30.999372-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

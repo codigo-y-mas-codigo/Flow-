@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dae36e52-da68-4a6d-9635-51621ab3981f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 00:36:09.288041-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A middle-aged woman with light beige skin and long, straight silver-gray hair stands behind a kitchen bar filled with holistic nutrition ingredients in a warm, naturally-lit kitchen with a rustic Mexican-department style. The woman has a round face, soft cheeks, medium-sized almond-shaped brown eyes framed by arched eyebrows and medium-length eyelashes, and wears thin metallic glasses and gold hoop earrings. Her nose is slightly rounded, and her full lips are relaxed in a light smile. She has a short, sturdy neck and relaxed shoulders, and is wearing a light beige cardigan over a soft gray V-neck blouse. On the wooden kitchen bar in front of her are a bunch of yellow bananas, red and green apples, red strawberries in a wooden bowl, a clear glass of white milk, a small wooden bowl containing mixed seeds (chia, flax, sunflower), a piece of raw salmon on a wooden cutting board, leafy greens (like kale or spinach) in a wooden bowl, and a few seasonal vegetables (like zucchini or tomato) in a small wooden bowl. The kitchen features a white brick tile backsplash and wooden shelves holding hand-thrown ceramic pots and other rustic items, all softly lit by indirect natural light, with the background slightly blurred.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

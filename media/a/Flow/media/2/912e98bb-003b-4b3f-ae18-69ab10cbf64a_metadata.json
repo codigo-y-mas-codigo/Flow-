@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "912e98bb-003b-4b3f-ae18-69ab10cbf64a",
+    "mediaTitle": "Haz secuencia de imagen video",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "04-may, 07:55 a.m.",
+    "projectId": "c5eb3850-72c6-464f-81ae-cad38f8314e4",
+    "createdAt": "2026-07-17 23:39:27.142728-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

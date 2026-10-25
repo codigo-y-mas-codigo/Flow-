@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "06bbe5ee-20db-4300-a061-3ad836a79ab5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:59:58.823605-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "In a claymation style, a young-adult-appearing clay figure with a light skin tone and curly, light-colored clay hair emerges from beneath a wide-brimmed clay hat. The hat features orange and white stripes on its crown and a red brim outlined in yellow. The figure wears a vertically divided clay tunic, with a blue left side and a yellow sleeve, and a red right side with a blue sleeve. A yellow and blue clay belt encircles its waist. The figure\u0027s legs are clad in blue clay tights, and its shoes are red clay.\n\nThe figure holds a thin, golden-yellow clay object, possibly a wand or a rod, in its raised right clay hand. Its left clay hand rests on a light brown wooden-style clay table standing on four legs. Arranged on the table are a golden clay cup, a red clay cup, several golden clay coins or discs, two clay knives (one with a black handle and one with a white handle), and a clay pouch or bag.\n\nThe background is a simple clay landscape with a light yellow clay ground, a small green clay plant or bush, and a slightly darker yellow clay horizon line. The scene is framed with a black border, and at the top is the Roman numeral \"I\" centered below the word \"TAROT\" in smaller, centered, sans-serif black clay letters. At the bottom, \"EL MAGO\" is written in bold, uppercase, sans-serif black clay letters. The lighting is golden and warm, bathing the scene in a gentle glow.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

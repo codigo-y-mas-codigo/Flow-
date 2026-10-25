@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "eea3008d-738c-4324-b849-10cede4ee929",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-27 05:04:59.558564-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A rectangular Valentine\u0027s Day card features a layered papercut diorama of a cute, stylized paper peach with a raised paper fist emerging from its center. The paper peach, outlined in dark pink, displays gradients of pastel orange and light orange paper layers, suggesting form. It has two small paper green leaves and a short brown paper stem. A pink paper clenched fist with visible paper knuckles and fingernails points upwards. Below the fist, within the peach\u0027s cleft, are stylized paper flames or radiating lines in pastel yellow and orange paper layers, outlined in dark pink.\n\nThe paper peach is layered over stylized pastel pink paper blossoms with dark pink outlines and green paper leaves peeking out from behind. Four-pointed paper stars with dark pink outlines and white paper interiors are scattered around the top half of the peach. Below, arranged in a semi-circular arc with a cute paper ribbon embellishment, are the pastel pink paper words \"FISTING CONCEPCIÓN\" in dark pink, rounded capital paper letters with a thick white paper outline. The scene is heavily embellished with glitter, giving it a dreamy and romantic sunset feel with pastel pinks, purples, and oranges dominating the paper sky.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

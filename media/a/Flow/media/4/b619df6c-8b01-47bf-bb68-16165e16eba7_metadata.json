@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b619df6c-8b01-47bf-bb68-16165e16eba7",
+    "mediaTitle": "Six women sitting together",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:05:14.739137-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Place the four women from the first image sitting with those on the armchair. There should be six women in total.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "04460f8a-721b-4553-b640-e8df6dd29ab8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "1cee4ec1-5869-4535-bff4-0196de8719e0",
+    "createdAt": "2025-06-24 03:05:04.157892-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Neon Desert Mirage Vibrant fashion campaign photograph, shot on Fujifilm Velvia 50 film emulation for intense color saturation, capturing bold graphic impact. The mood is confident, high-energy, and surreal. A striking model with a sharp pixie cut stands against the stark geometry of towering, rust-red sandstone formations under a blazing neon-orange twilight sky. She wears a look inspired by the blue/orange reference: a structured, high-neck cropped jacket in intense cobalt blue technical fabric, adorned with intricate, laser-cut linear patterns echoing the orange embroidery, paired with matching wide-leg, voluminous trousers featuring dramatic tiered ruffles at the cuffs. Harsh, high-contrast lighting, mimicking intense sunset and perhaps an off-camera strobe, carves out the outfit\u0027s sharp silhouette and textures against the deep blue shadows cast on the red rock. Composition uses strong vertical lines and a slightly wide angle to emphasize the scale contrast between the model and the environment. Deep depth of field keeps both model and the textured rock face sharp. The dominant colors are cobalt blue and fiery orange-red, creating a powerful complementary clash.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

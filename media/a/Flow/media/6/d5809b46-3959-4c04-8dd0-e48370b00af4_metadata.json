@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d5809b46-3959-4c04-8dd0-e48370b00af4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-13 09:57:42.193358-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration features the word \"PERVERT\" rendered in black capital letters across a tattered pink banner. The banner is draped around two stylized red roses, positioned symmetrically on the left and right sides. Each rose displays numerous layered petals with black outlines and internal shading that implies three-dimensionality. The pink banner has torn and uneven edges, along with visible folds that contribute to its worn and distressed aesthetic. A black outline also defines the perimeter of the banner. The background of the illustration is a solid, unadorned white.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

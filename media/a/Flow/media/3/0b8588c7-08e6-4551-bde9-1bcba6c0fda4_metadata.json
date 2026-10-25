@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0b8588c7-08e6-4551-bde9-1bcba6c0fda4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:06:01.232398-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A woman with light brown skin, appearing to be in her late teens or early twenties, stands on a sandy beach. She has long, wavy dark brown hair that falls past her shoulders. Her facial features include a smile revealing her upper teeth. She is wearing a sleeveless, short white dress with a pattern of large blue floral designs and a defined waistline. The sandy beach appears wet. In the blurred background, the ocean meets the horizon under a gradient sky of orange, pink, and light blue hues, suggesting either sunrise or sunset.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

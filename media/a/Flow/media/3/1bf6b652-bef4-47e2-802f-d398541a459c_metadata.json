@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1bf6b652-bef4-47e2-802f-d398541a459c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2025-06-02 02:43:05.969234-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A layered papercut diorama ebook cover titled \u0027La Dieta de la Milpa\u0027. The scene and all elements are crafted from paper, presented in a \"Layered Wonder\" style with depth and dimensionality. The color palette emphasizes warm and earthy tones: ochre, reddish browns, and deep browns forming the base, accented by muted sunshine yellows and deep teal blues subtly blending into soft lavender skies.\n\nThe composition features multiple paper layers creating depth. The background layer suggests a twilight sky with subtly textured clouds achieved through a dry brush technique. The mid-ground contains intricately cut paper shapes representing pre-Hispanic motifs of corn and other milpa elements in a minimalist style, possibly overlaid with translucent vellum to soften edges.\n\nThe foreground is densely detailed and tactile, with sculpted paper elements evoking nature and tradition, such as dry leaves and subtle sun rays. These elements overlap the mid-ground, creating a sense of depth. The background has a textured appearance evoking earth. The title \u0027La Dieta de la Milpa\u0027 is presented in an elegant and legible paper-cut typeface. A slightly vintage paper texture with a matte finish is applied overall, generating a welcoming and traditional atmosphere. Soft, diffused paper-cut lighting mimics dusk or dawn, with delicate paper-cut shadows emphasizing volume.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

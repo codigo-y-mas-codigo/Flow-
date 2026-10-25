@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ac758ed1-8a47-4855-8969-bd4968c00486",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:50:01.489327-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vibrant, high-contrast digital illustration in a vintage snark poster style features an otherworldly pink donut, an eggplant, a banana, and glowing white viscous liquid. A luminous pink donut, depicted with bold outlines and gradient fills, sits centrally against a warm orange background with cool blue/black accents. Pink liquid and white spilled milk drip from its base. Numerous diamonds and pink sprinkles adorn the donut, rendered with clean, precise edges. Two female legs, clad in black fishnet stockings and black high-heeled shoes, emerge from the donut\u0027s center. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. An eggplant, with a glowing syringe, and a banana, also holding a glowing syringe, are positioned near the donut. Bright, glowing white viscous liquid is present in the scene, contributing to the graphic and stylized appearance.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

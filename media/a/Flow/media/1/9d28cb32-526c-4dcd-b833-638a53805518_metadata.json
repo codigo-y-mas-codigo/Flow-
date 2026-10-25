@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9d28cb32-526c-4dcd-b833-638a53805518",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "d25df26b-bfb2-4128-b6e8-e32a927558f9",
+    "createdAt": "2025-06-11 04:49:40.832461-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A minimalist Mexican apartment kitchen features three individuals: a young woman taking a selfie, a middle-aged woman seated at a desk, and a man looking off to the side near a microphone. In the foreground, a young woman with light-toned skin, light blue eyes, and long, wavy, platinum blonde hair wearing round, thin-rimmed glasses and bright red lipstick takes a close-up selfie; she is adorned with a delicate gold necklace with a dark red heart pendant and a thin, dark red choker, and wears a black top with a hint of red underneath. To her side, a fair-skinned middle-aged woman with shoulder-length gray hair and light-colored framed glasses sits at a light-colored desk, wearing a dark teal button-up shirt under a light beige cardigan with dark circular patterns and a gold-toned watch, her hands clasped over a piece of white paper near a closed white notebook with a black spiral binding and a pen. Nearby, a fair-skinned man with dark brown hair, a sparse goatee, and black-framed rectangular glasses, dressed in a light blue collared shirt under a light-colored suit jacket, gazes to the right next to a microphone on a light gray or silver stand with a round metallic head. The minimalist kitchen setting includes simple countertops and cabinets, suggesting a clean and uncluttered space.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

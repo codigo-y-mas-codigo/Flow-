@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "707acaee-9b49-4193-9359-b77cd7d0d8d5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "0bd31fde-efd6-47a6-a6f2-b468ae8db602",
+    "createdAt": "2025-06-25 23:56:48.997380-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An 8-second hyper-realistic cinematic underwater video shot with a RED V-Raptor cinema camera and 24mm wide-angle anamorphic lens, showcasing a vast, dark cavern. A slow, circular tracking shot orbits a massive, glowing blue quartz crystal formation at the center. The crystal emits powerful, pulsating blue light, casting dramatic, soft-edged moving shadows and shimmering caustic light patterns on cavern walls. Two divers in slightly worn futuristic gear swim gracefully, holding transparent, holographic tablet-like devices. Photorealistic air bubbles rise from their equipment. Visible particulate matter drifts. The scene has a fine layer of cinematic film grain and a deep teal and orange color grade. The audio features immense water pressure, crisp bubble sounds, a bass-heavy hum from the crystal synchronized with its light, and an epic orchestral score with synthesizer and choir, building to a crescendo. 16:9 aspect ratio, 1080p.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f3d9a4e6-38e8-4f8b-9c83-5530b69d40d4",
+    "mediaTitle": "Asignar contenedores a clones ún…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:27:42.383858-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Todos todos los contenedores deben de ser como el primero y. Y deben de ser ocupados por cada distinta clon. No se deben de repetir los clones cada uno tiene un número distinto",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

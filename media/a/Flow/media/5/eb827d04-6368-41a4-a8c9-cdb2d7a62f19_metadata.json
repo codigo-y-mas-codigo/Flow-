@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "eb827d04-6368-41a4-a8c9-cdb2d7a62f19",
+    "mediaTitle": "Demonic man with glowing eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:26:14.483516-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic full body of muscular demonic man with glowing green eyes, thick black smoke emanating from body, aggressive and dominant pose, dark ruined background, dramatic lighting, high detail muscles and smoke effects, PixVerse.ai, #666 satanic gooner atmosphere. usa el rostro de la persona adjutna \nExact same man from the reference photo, identical face, same features, perfect likeness, do not change his face at allultra realistic cinematic earthy tones.  high detail, 8K, premium cinematic grading.  o lo mas parecido al usuario ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

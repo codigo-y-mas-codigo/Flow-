@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "61c03372-b7fb-447b-8fd8-b023d7edcb7f",
+    "mediaTitle": "image.png_20260910190429.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:18:41.976764-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "añade la palabra en español  \"estética\" arriba de osiris. el logo hazlo minimalista deben ser objetos de una estetica de cortes de cabello ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "2bda2c94-6238-4611-ad07-a61f80185e40"
+    }
+  }]
+}

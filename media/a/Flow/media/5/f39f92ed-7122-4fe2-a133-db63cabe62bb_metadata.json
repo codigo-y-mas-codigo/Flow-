@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f39f92ed-7122-4fe2-a133-db63cabe62bb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:02:07.497058-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A young-adult-appearing man with light skin tone and voluminous, stylized light-colored curly hair emerges from beneath a wide-brimmed hat with bold, slightly uneven black outlines. The hat features confident linework and is striped with rich orange and white on the crown with a deep red brim outlined in yellow. He wears a simple tunic with bold black outlines, vertically divided into a deep blue left side with a yellow sleeve and a vibrant red right side with a blue sleeve. A yellow and blue belt with thick black outlines encircles his waist. His legs are clad in blue tights, and his shoes are deep red.\n\nThe man holds a thin, golden-yellow object, possibly a wand or a rod, in his raised right hand with confident black linework. His left hand rests on a light brown wooden table with simple linear perspective and bold black outlines, standing on four legs. On the table, arranged with minimal detail, are a golden cup, a red cup, several golden coins or discs, two knives (one with a black handle and one with a white handle), and a pouch or bag.\n\nThe background is a simple landscape with a flat, light yellow ground, a small, stylized earthy green plant or bush, and a slightly darker yellow horizon line. The overall color palette is rich and saturated with minimal blending, utilizing cel-shading. The card has a black border with bold linework. At the top is the Roman numeral \"I\" centered below the word \"TAROT\" in smaller, centered, sans-serif black letters. At the bottom of the card, \"EL MAGO\" is written in bold, uppercase, sans-serif black letters. The style evokes the nostalgic charm of early to mid-80s anime with distinct blocks of color and minimal texturing.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0e2f7cf1-b1c9-46fc-9e73-668468bec84c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-05-29 21:00:55.843675-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A serene, abstract illustration depicting a human figure (gender-neutral, without distinct features) composed of soft, flowing lines. Ethereal, gentle connecting lines subtly link the head, heart, and abdomen, symbolizing the mind-body-emotion connection. From the figure\u0027s base, strong, grounding roots extend downwards, anchoring into a stable, earthy foundation. The color palette is composed of soft, organic, and calming tones like muted greens, soft blues, warm ochres, and gentle grays, creating a sense of tranquility and holistic balance. The overall atmosphere is contemplative and reassuring.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

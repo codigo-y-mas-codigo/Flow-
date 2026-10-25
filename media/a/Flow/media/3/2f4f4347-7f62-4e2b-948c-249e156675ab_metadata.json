@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2f4f4347-7f62-4e2b-948c-249e156675ab",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 31/5/25",
+    "projectId": "4651d429-f88e-4781-83f4-6a223f5fe73e",
+    "createdAt": "2025-05-31 17:52:40.642079-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Perfecto, Luis Angel. Aquí tienes el **prompt propuesto** para generar el gráfico de dispersión profesional, en español, alineado con el branding anterior (colores, tipografías, estilo limpio y minimalista). Si te parece adecuado, lo generaré:\n\n---\n\n**🎯 PROMPT DE DISEÑO VISUAL – Gráfico de dispersión para PDF de nutrición holística:**\n\nDiseña una infografía en formato carta (A4, vertical) con fondo blanco y estilo limpio y profesional, titulada **\"DENSIDAD NUTRICIONAL DE ALIMENTOS COMUNES\"**. Usa la tipografía *Playfair Display* para el título y *Lato* para el resto del texto. El diseño debe mantener coherencia visual con los colores y estilo de la imagen anterior (branding: #88A47C, #B8C6D1, #D9957E).\n\n🔷 **Gráfico principal**:\nUn gráfico de dispersión (scatter plot) con 4 cuadrantes formados por líneas guía sutiles en color azul lavanda claro (#B8C6D1).\n\n* **Eje Y** (vertical):\n\n  * Etiqueta: **DENSIDAD NUTRICIONAL**\n  * Color de texto y línea: verde salvia (#88A47C)\n  * De baja a alta, va de abajo hacia arriba.\n\n* **Eje X** (horizontal):\n\n  * Etiqueta: **DENSIDAD CALÓRICA**\n  * Color de texto y línea: terracota (#D9957E)\n  * De baja a alta, va de izquierda a derecha.\n\n🔸 **Distribución de alimentos por cuadrante** (con nombre e ícono simple y elegante):\n\n1. **Arriba a la izquierda** (Alta densidad nutricional / Baja densidad calórica):\n\n   * Hojas verdes (espinaca, kale)\n   * Frutos rojos\n   * Verduras no feculentas\n\n2. **Arriba a la derecha** (Alta densidad nutricional / Alta densidad calórica):\n\n   * Nueces\n   * Semillas\n   * Aguacate\n   * Aceite de oliva\n\n3. **Abajo a la izquierda** (Baja densidad nutricional / Baja densidad calórica):\n\n   * Alimentos light o dietéticos procesados\n\n4. **Abajo a la derecha** (Baja densidad nutricional / Alta densidad calórica):\n\n   * Refrescos azucarados\n   * Snacks ultraprocesados\n\n📘 **Leyenda sutil debajo del gráfico** explicando el significado de cada cuadrante con íconos geométricos pequeños y colores coherentes.\n\n📝 **Texto descriptivo al pie de página (en Lato)**:\n*\"Los alimentos con alta densidad nutricional y moderada densidad calórica son ideales para una nutrición equilibrada.\"*\n\n⚙️ **Estilo gráfico general**:\n\n* Íconos vectoriales minimalistas (sin contornos gruesos)\n* Líneas difuminadas para ejes y cuadrantes\n* Proporciones elegantes con buen espacio en blanco\n* Todo el contenido en español\n\n---\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

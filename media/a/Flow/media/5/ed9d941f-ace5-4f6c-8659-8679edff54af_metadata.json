@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ed9d941f-ace5-4f6c-8659-8679edff54af",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 16:54:59.881466-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The scene begins with a medium shot as a young woman with long, dark hair and light brown skin smiles down at a plate of grilled chicken salad with lettuce, tomatoes, and bell peppers, bringing a forkful to her mouth in a brightly lit setting. The camera subtly zooms out and transitions to a bustling local market, where the same woman, now wearing a beige top, gazes with interest at a vibrant display of mangoes, papayas, blackberries, raspberries, and green apples under bright daylight, with blurred figures and market stalls in the background. The scene smoothly shifts to an outdoor setting near calm water and lush greenery, where the woman, dressed in a grey tank top and black leggings, sits in a serene lotus yoga pose with her eyes closed and hands resting on her knees, bathed in soft natural light. The camera slowly zooms in for a close-up shot of her face as she meditates with closed eyes and a peaceful expression in a softly lit, minimalist white room; a subtle, modern white book with a minimalist dark grey \"M\" logo and the words \"NUTRICIÓN HOLÍSTICA\" printed on the cover rests on the white surface in front of her. The overall visual tone remains bright and natural throughout each seamless transition, emphasizing a sense of wellness and mindful living.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

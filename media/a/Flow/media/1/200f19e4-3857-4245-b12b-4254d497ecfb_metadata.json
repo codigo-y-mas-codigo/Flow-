@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "200f19e4-3857-4245-b12b-4254d497ecfb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:34:14.939275-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el parrafo sanacion emocional y amor propio sistema avanzado de tarot ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

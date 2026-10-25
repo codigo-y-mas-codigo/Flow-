@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9b1c90ab-5b87-4133-9990-1a614cb4bc53",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:31:45.430722-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "TThe color palette is dominated by bright, saturated primary and secondary colors, including intense yellow for the sky, deep green for clothing and ground, red accents, and pale yellow-orange skin tones. The lighting is uniformly bright and clear, suggesting a sunny day with no strong shadows, contributing to a flat, two-dimensional appearance. The aesthetic is characterized by flat areas of color (color blocking) within the strong outlines, minimal blending or shading, and a decorative, patterned approach to rendering clothing and foliage. The overall impression is classic, symbolic, and graphically striking. The texture is smooth and polished, typical of high-quality print production.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

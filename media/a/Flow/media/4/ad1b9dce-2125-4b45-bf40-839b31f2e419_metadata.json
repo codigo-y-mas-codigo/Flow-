@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ad1b9dce-2125-4b45-bf40-839b31f2e419",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 9/7/25",
+    "projectId": "d9f8c2df-88b4-4fbb-a7c7-b2cb6d43b5e8",
+    "createdAt": "2025-07-09 17:27:59.827860-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 720,
+      "height": 513
+    }
+  }]
+}

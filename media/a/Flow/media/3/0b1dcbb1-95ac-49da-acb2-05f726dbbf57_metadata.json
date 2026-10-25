@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0b1dcbb1-95ac-49da-acb2-05f726dbbf57",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 20:08:27.374574-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital 3D rendering depicts a humanoid robot resembling Goku. The robot has smooth, rounded metallic armor in white and light gray with green and purple details. A large, stylized letter M is visible on its chest armor. It features spiky, dark hair, framed glasses, and a small, pointed beard only on its chin. The robot is seated at a light-colored desk in front of a computer, with its hands positioned on a mouse and keyboard. A desk lamp is also on the desk. Its expression is happy and content. Behind the desk, a bed is visible. On the bed, there is a small white chihuahua with angel wings and a halo, a small brown chihuahua with its tongue sticking out, and a small white Maltese with its tongue sticking out. The background features transparent colors. The lighting is soft and diffused, creating a clean and polished look with minimal shadows. The overall color palette includes cool tones from the robot and desk against the backdrop with transparent colors, with accents of green and purple on the robot\u0027s armor."
+    }
+  }]
+}

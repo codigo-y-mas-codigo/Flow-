@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2eefb4fe-1d12-412d-8695-bf9a5cd747f4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-29 16:58:51.192399-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized flat design image on a white background. A female figure with bold flat colors for their clothing (e.g., vibrant blue or green) is positioned at the bottom of a staircase, appearing to start climbing. The figure initially shows enthusiasm. However, a few steps up, the figure has stopped and is looking back over their shoulder. Behind the figure is a visible path filled with obstacles such as small rocks and cracks, depicted in muted, clear colors. A subtle, transparent wall or barrier is present, subtly separating the figure from the unseen top of the staircase, which represents their goal. The overall aesthetic is minimalist illustration with clean lines and a vector art style, conveying a sense of internal struggle and external challenges.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

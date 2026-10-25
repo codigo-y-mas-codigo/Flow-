@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3561e09d-eb0a-46da-ac46-25b257f77fb0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:08:35.405971-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "QUE ESTE COMIENDO UN HELADO CON SU LENGUA ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

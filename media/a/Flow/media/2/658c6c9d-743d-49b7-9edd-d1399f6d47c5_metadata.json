@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "658c6c9d-743d-49b7-9edd-d1399f6d47c5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 16/5/25",
+    "projectId": "39c16512-0e76-4240-a91f-3799b3de5e94",
+    "createdAt": "2025-05-16 13:04:15.930644-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Create an infographic titled \u0027Safety Tips for Fisting\u0027. Use calm colors (light blue, beige, soft gray) and divide into 3 sections: Preparation, During, and Aftercare. Use soft icons like gloves, lube bottle, clock, heart, or a checkmark. Each section includes 3 concise bullet points (e.g., \u0027Use lots of water-based lube\u0027, \u0027Agree on a safe word\u0027, \u0027Give time for aftercare\u0027). Clean, minimal layout. No explicit content.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

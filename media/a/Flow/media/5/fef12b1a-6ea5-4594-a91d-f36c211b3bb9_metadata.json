@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fef12b1a-6ea5-4594-a91d-f36c211b3bb9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 00:58:11.756895-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A fair-skinned older woman with gray hair stands behind a wooden table laden with groceries in a warmly lit kitchen. The woman has light gray shoulder-length wavy hair, wears glasses, a dark gray V-neck shirt under a light beige cardigan, and gold hoop earrings with a thin gold necklace. She has a gentle smile and her hands rest on the wooden table. The table displays a symmetrical arrangement of food: a small wooden bowl of green pumpkin seeds, a red bell pepper, a small wooden bowl of tan grains, a wooden cutting board with raw red meat, a clear glass of white liquid, a red apple, a green apple, a halved avocado, a wooden bowl of red strawberries, and a bunch of yellow bananas. Behind her, the kitchen features a lower backsplash of small brown and beige square tiles and muted beige walls above. Two wooden shelves are mounted on the wall, holding a terra cotta bowl of yellow bananas, a larger terra cotta bowl, a small terra cotta pot with a green leafy plant on the top shelf, and a small terra cotta jar with a lid, a small glass jar, a larger terra cotta bowl, a small potted green plant, and a dark-colored mortar and pestle on the lower shelf.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

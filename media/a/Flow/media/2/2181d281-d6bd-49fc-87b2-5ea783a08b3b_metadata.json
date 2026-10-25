@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2181d281-d6bd-49fc-87b2-5ea783a08b3b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "07396ae6-fdea-45ba-b35c-e2733a3752d6",
+    "createdAt": "2025-06-17 19:06:05.043063-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage design features the title \"El se:o no arregla los problemas, pero de cualquier forma ocupo un buen encerron\" in a classic, ornate font. Scattered around the title are various emojis: a dark purple eggplant with two blue teardrops, a light orange peach, a pink pig face with small red devil horns, a yellow winking face with a blue sweat drop, a light pink pig face with closed eyes and a happy smile, a yellow face with its tongue sticking out, a yellow banana, another light pink pig face with its tongue out and a wide smile, a light-skinned fist, a bright blue diamond, a light-skinned bare foot, a small bouquet with a red rose and two yellow sunflowers, another bright blue diamond, a yellow smiling face with closed eyes, a red chili pepper, and a yellow face blowing a kiss. The background features a soft gradient from light purple to light orange, all rendered with a vintage, slightly faded aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

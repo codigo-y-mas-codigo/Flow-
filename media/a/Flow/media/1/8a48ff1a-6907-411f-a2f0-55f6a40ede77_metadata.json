@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8a48ff1a-6907-411f-a2f0-55f6a40ede77",
+    "mediaTitle": "Clones levitating inside tunnel",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:28:51.942660-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Todos todos los contenedores deben de ser como el primero y. Y deben de ser ocupados por cada distinta clon. No se deben de repetir los clones cada uno tiene un número distinto. A que se vean dentro de el túnel de una forma natural como Si estuvieran levitando flotando",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

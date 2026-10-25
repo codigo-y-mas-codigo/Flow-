@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ada674c5-a60e-427a-8f71-404fc1d4babf",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:59:28.605103-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vibrant, high-contrast digital illustration with bold outlines and gradient fills depicts a surreal snark poster set in a mystical, foggy realm with glittering diamonds. A luminous pink donut with dripping pink liquid and white milk stands centrally. Diamonds and pink sprinkles adorn it, while two female legs in black fishnet stockings and black high-heeled shoes emerge from its center. Two hands extend from the donut, one holding a syringe with glowing liquid, the other a glass pipe. Nearby, an eggplant holds a syringe, a banana holds a glowing syringe, and another banana is accompanied by a red chili and a green chili. All elements exhibit sharp edges and a clean, precise rendering quality, with strong highlights and shadows creating volume without subtle transitions. The dark pink background softly complements the donut\u0027s color, maintaining an ethereal beauty, while warm oranges and cool blues/blacks dominate the limited color palette.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

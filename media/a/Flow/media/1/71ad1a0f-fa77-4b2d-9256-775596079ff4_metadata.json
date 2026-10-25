@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "71ad1a0f-fa77-4b2d-9256-775596079ff4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-27 13:26:29.012434-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image is a modern, geometric digital illustration with flat, bold colors and sharp, precise shapes. A man with light skin and dark hair is depicted walking and holding a geometrically stylized basket filled with fruit in front of him with both hands. The man is rendered in simplified geometric shapes and solid colors, primarily red, yellow, blue, and black. The basket and fruit are also composed of flat color blocks. To the right, another man with light skin and dark hair is riding a red bicycle. The bicycle has a significantly larger rack over the back wheel with a geometrically stylized cart on wheels filled with vegetables. The bicycle and the man are similarly depicted using bold, flat shapes and the limited color palette. The movement of the feet of the walking man is not explicitly defined but implied through the overall dynamic composition of the scene. The background is flat and uses the same bold color scheme, creating a vibrant and contrasting minimalist scene with a focus on graphic design elements and uniform, even lighting."
+    }
+  }]
+}

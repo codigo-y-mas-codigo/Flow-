@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ef889009-f724-421c-8d38-e357d37d5132",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-20 01:12:10.546979-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Here, a hand is simulated quickly placing the cards in their positions, giving a more personal and manual feel.\n\nScript/Visual Actions (with Spanish card meanings):\n\nSecond 0-1: View of a hand shuffling or choosing a card. Overlay title: \"Discover Your Love\"\nSecond 1-2: The hand places Card 1 in the center.\nSecond 2-3: The hand places Card 2 crossing the first.\nSecond 3-4: The hand places Card 3 on the left and Card 5 on the right, almost simultaneously.\nSecond 4-5: The hand places Card 4 at the top and Card 6 at the bottom, fluidly.\nSecond 5-7: The hand quickly places Cards 7, 8, 9, and 10 in the side column.\nSecond 7-8: Final shot of the complete spread. Text: \"Tirada del Amor: Resuelve tus dudas.\" or \"¿Tu lectura personalizada?\"\nPractical Tips:\n\nRecord hands close-up for clear details.\nSpeed up the video in editing to fit within 8 seconds.\nYou can overlay brief text on each card appearance, as in Option 1, to reinforce the meaning of each position.\nEnsure good lighting so the cards are clearly visible",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

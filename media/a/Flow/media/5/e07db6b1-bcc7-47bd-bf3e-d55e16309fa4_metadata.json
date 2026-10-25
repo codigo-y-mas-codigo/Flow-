@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e07db6b1-bcc7-47bd-bf3e-d55e16309fa4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2025-06-02 02:25:12.635529-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Ebook cover for \u0027La Dieta de la Milpa\u0027, warm and earthy colors, evoking tradition and health. Illustration with pre-Hispanic motifs representing corn and other milpa elements, minimalist style, ocher, reddish, and brown tones. The title \u0027La Dieta de la Milpa\u0027 is in an elegant and legible typeface, highlighting the artisanal and healthy nature of the proposal. Include details evoking nature and tradition, like dry leaves, sun rays, and a textured background evoking earth. The photographic style should create a sense of warmth, nostalgia, and authenticity. The cover has a slightly vintage texture, with a matte finish, generating a welcoming and traditional atmosphere.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

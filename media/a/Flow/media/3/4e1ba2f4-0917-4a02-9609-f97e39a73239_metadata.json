@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4e1ba2f4-0917-4a02-9609-f97e39a73239",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 26/12/25",
+    "projectId": "fd97bba3-5557-4bfe-bac7-13cbfa86e28d",
+    "createdAt": "2025-12-26 00:56:16.670163-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "carga con la mano un violin lo sujeta de arriba ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

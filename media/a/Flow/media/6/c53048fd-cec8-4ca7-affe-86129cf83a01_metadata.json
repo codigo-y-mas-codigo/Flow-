@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c53048fd-cec8-4ca7-affe-86129cf83a01",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 10 - 0337",
+    "projectId": "f5c59887-459a-4be1-8230-1135fae920e9",
+    "createdAt": "2025-06-10 02:43:15.175269-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "A hyperrealistic digital rendering in a cinematic live-action style, featuring a humanoid robot seated at a modern wooden desk in a well-lit room. The robot is designed with sleek, tech-futuristic armor in light silver and matte gray tones, accented with vivid green and purple lines. On the chest plate is a bold metallic emblem: a capital “M” in purple, with the text “MacielCorp.” beneath it in a futuristic font. The robot’s face is expressive and human-like, with a confident and pleasant look. It has realistic dark brown eyes, full eyebrows, a short pointed beard only on the chin, and wears thin, rectangular eyeglasses.\n\nThe hairstyle is inspired by classic anime heroes: dark, spiky, thick hair that rises upward in dynamic, voluminous spikes — bold and windswept like a protagonist of an animated action series. Behind the robot is a neatly made bed in a cozy, modern room with soft lighting.\n\nOn the bed are three dogs:\n\n\n\nMama Sharito: a white female chihuahua with delicate angel wings and a glowing halo, serene and graceful.\n\nIvisito: a small male chihuahua with light brown fur, tongue out playfully, full of energy.\n\nFifi le Fofoo: a fluffy white female maltese, slightly tousled, with tongue out and a pink bow.\n\nThe background includes soft daylight from a window, two articulated silver desk lamps, a sleek keyboard and trackpad. The scene is rendered in 8K, hyperrealistic texture, cinematic quality, soft shadows and high-gloss polish. No logos or copyrighted characters.\n\n\n\n\n\nPROMPT PARA ESCENA DE VIDEO DE 8 SEGUNDOS\n\nA hyper-realistic animated video scene, 8 seconds long, in cinematic 8K quality and naturalistic lighting. A futuristic humanoid character (Luis Angel Maciel) with spiky anime-style black hair, silver cyber-armor with purple and green accents, and a glowing \"M\" on his chest (with the words \"MacielCorp\" below), is sitting at a desk. He turns slightly to face the camera and says with a friendly voice:\n\n\"Hola, soy Luis Ángel Maciel y aquellos detrás son mis babas: La mama Sharito, El Ivisito y la Fifi le Fofoo.\".\"text in spanish\n\nAs he says each name, the respective dog reacts:\n\n\n\nMama Sharito (the white chihuahua with angel wings and halo) flaps her wings and levitates gently in the background.\n\nIvisito (the small light brown chihuahua) wags his tail and barks cutely.\n\nFifi le Fofoo (the white fluffy maltese) barks with her tongue out and tilts her head playfully.\n\nThe background is a clean modern bedroom with natural daylight coming from a window. The animation is smooth, emotionally warm, and synchronized to the dialogue, lasting exactly 8 seconds.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

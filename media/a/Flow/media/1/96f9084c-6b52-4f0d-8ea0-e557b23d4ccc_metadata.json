@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "96f9084c-6b52-4f0d-8ea0-e557b23d4ccc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:51:42.917722-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "### II. La Sacerdotisa (The High Priestess) - Editorial Mística\nHigh-end editorial photoshoot of a female model portraying The High Priestess Tarot Card. The model is sitting upright on an ornate stone throne, facing directly forward with a serene and enigmatic expression. She holds a half-unrolled parchment scroll in her hands, as if revealing (or concealing) sacred knowledge. She wears a flowing, ethereal blue veil that drapes over her head and shoulders, topped by a stylized silver lunar crown.\n\n**Location:** Positioned between two massive, intricately carved temple pillars (one darker, one lighter). Behind her, a richly textured tapestry adorned with pomegranate patterns hangs, slightly out of focus. A subtle crescent moon symbol is visible near her feet on the stone floor.\n\n**Lighting:** Mystical twilight \"Golden Hour\" light, soft and diffused, creating a luminous rim light around her veil and features. Subtle volumetric haze adding depth, casting gentle shadows.\n**Style:** Cinematic low angle shot (slightly looking up at her), shot on 85mm lens, f/2.0 for a shallow depth of field, hyper-realistic details on the fabric, skin, and stone carvings, inspired by high fashion mystical photography, 8k. --ar 3:4 --stylize 250",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

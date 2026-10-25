@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "75081a4d-b4b9-48dc-9605-733ff3a730f4",
+    "mediaTitle": "Vampire hugging man cooking",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 03:56:23.342077-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "hazlo en estulo \nphotorealistic, hyperdetailed, lifelike, shot on Canon EOS R5, 85mm lens, f/1.4, ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "30efe309-9b29-4c48-b191-482b32acca45"
+    }
+  }]
+}

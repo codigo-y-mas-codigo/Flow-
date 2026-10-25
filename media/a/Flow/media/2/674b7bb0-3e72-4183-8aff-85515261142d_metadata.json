@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "674b7bb0-3e72-4183-8aff-85515261142d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:51:54.691850-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "### VII. El Carro (The Chariot) - El Conquistador Urbano\nHigh-end editorial photoshoot of a male model portraying The Chariot Tarot Card. The model stands tall and commanding within a modern, minimalist chariot structure made of polished steel and dark wood, with a canopy of subtle, glowing star patterns. He is looking directly forward with a determined and confident expression. He wears stylized, futuristic armor with lunar shoulder pads, and a laurel wreath crown. He holds invisible reins, hands slightly open as if controlling by will.\n\n**Location:** An expansive rooftop overlooking a bustling, futuristic city skyline at dusk. Two stylized, almost abstract sphinx-like statues (one dark, one light) are positioned at the front of the chariot.\n\n**Lighting:** Dramatic Golden Hour lighting from the setting sun, casting long shadows across the city and creating powerful rim light on the model\u0027s armor and face. Vibrant orange and purple hues in the sky, with city lights beginning to twinkle.\n**Style:** Cinematic low angle shot, shot on 85mm lens, f/2.8, focus on the intricate details of the costume and the urban backdrop, inspired by sci-fi fashion photography, 8k. --ar 3:4 --stylize 250",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

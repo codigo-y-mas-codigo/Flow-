@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2ffc75d1-f1f5-430b-8c75-625d7ceaff6f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 09:28:44.293925-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A close-up view focuses on the helmet of a person dressed in a deep-sea diving suit. The metallic helmet features a black, polarized visor. In front of the helmet, a silver boom microphone is positioned, with its head pointing towards the helmet. The background is dark, with glowing blue electric-like tendrils visible. Bubbles are present in the upper left and right areas of the image, suggesting an underwater or liquid environment."
+    }
+  }]
+}

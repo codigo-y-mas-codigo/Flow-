@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b644470d-cf7c-4c9d-a7cb-e63634c2e887",
+    "mediaTitle": "Tarot character gains realistic detail",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Nov 22 - 02:08",
+    "projectId": "a414de9e-edb4-44ba-a830-6dc715449870",
+    "createdAt": "2025-11-22 00:15:02.096295-08",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Extreme close-up to medium shot pull back. Texture morphing sequence. Focus on the tarot character\u0027s face: ink lines and flat colors rapidly gain subsurface scattering and realistic skin detail. The illustrated clothes gain fabric physics and weight. Lighting shifts from flat illustration to dramatic golden hour rim light. Cinematic depth of field. High fidelity, VFX heavy.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

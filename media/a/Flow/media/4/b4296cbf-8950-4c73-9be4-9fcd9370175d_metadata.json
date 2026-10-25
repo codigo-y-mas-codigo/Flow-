@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b4296cbf-8950-4c73-9be4-9fcd9370175d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:54:05.651947-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster features a viscous, shiny white liquid, an eggplant, a banana, a red chili, and a green chili arranged in a humorous composition. The poster displays a glossy, viscous white liquid that appears to be dripping or pouring, with a bright sheen. Next to it, a whole eggplant is positioned, its dark purple skin smooth and elongated. A ripe yellow banana, partially peeled, is also present. Completing the arrangement are a vibrant red chili pepper and a green chili pepper, both intact. The overall style of the poster is reminiscent of vintage advertising, with a slightly faded or aged quality, and the subjects are arranged in a way that suggests a humorous or ironic commentary.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

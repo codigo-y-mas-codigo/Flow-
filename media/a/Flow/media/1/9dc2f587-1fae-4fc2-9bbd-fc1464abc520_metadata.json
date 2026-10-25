@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9dc2f587-1fae-4fc2-9bbd-fc1464abc520",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:00:14.770105-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "In the style of an epic comic book with cool pop art flair and bursting with fun colors, envision a depiction of \"El Mago.\" A young-adult-appearing man with light skin tone and curly, light-colored hair emerges from beneath a wide-brimmed hat, now boldly striped with electric blue and shocking pink on the crown, featuring a fiery orange brim outlined in sunshine yellow. He wears a tunic vertically divided between electric blue with a sunshine yellow sleeve and fiery orange with a shocking pink sleeve, cinched with a sunshine yellow and electric blue belt. His legs are clad in electric blue tights, and his shoes are fiery orange.\n\nThe man holds a thin, sunshine yellow object, possibly a wand, in his raised right hand. His left hand rests on a light brown wooden table. On the table, a golden cup, a red cup, several golden coins, two knives (one with a black handle and one with a white handle), and a pouch are arranged. The simple background features a light sunshine yellow ground, a small emerald green plant, and a slightly darker sunshine yellow horizon line, all outlined with thick, confident black lines. Strategic Ben-Day dots add visual texture. The overall composition is energetic and dynamic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

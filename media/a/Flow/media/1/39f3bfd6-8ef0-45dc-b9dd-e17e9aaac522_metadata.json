@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "39f3bfd6-8ef0-45dc-b9dd-e17e9aaac522",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 10 - 0337",
+    "projectId": "f5c59887-459a-4be1-8230-1135fae920e9",
+    "createdAt": "2025-06-10 03:05:23.298602-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "START SCENE]\n\n**SCENE 1**\n\n**INT. WHITE STUDIO - DAY**\n\nA soft, frontal white light illuminates the scene, casting no harsh shadows. The background is completely white and neutral.\n\n**CLOSE MEDIUM SHOT (BUST SHOT)**\n\nWe see LUIS (37), a Mexican man of slim build, with straight black hair styled to the side. He is wearing a long-sleeved gray V-neck shirt and black-framed glasses that give him an intellectual appearance. His gaze is calm and direct at the camera. His skin has a light tan tone, and he has a short, sparse beard. The image is exactly the one previously generated.\n\nHe remains still for a moment, his posture relaxed but upright.\n\n**THE CAMERA INITIATES A SLOW PULL BACK (DOLLY OUT)**\n\nThe camera gently moves away from Luis, revealing more of his body and the surroundings. The movement is smooth and constant. We transition from a medium shot to a MEDIUM LONG SHOT (AMERICAN SHOT) and finally to a **FULL SHOT**.\n\nWe now see Luis in full body. He is approximately 1.60 m tall. His shoulders are narrow, and his posture is relaxed.\n\nOnce the camera stops in the full shot, Luis breaks his stillness. He takes a decisive step forward, shortening the distance with the camera. As he walks, he speaks clearly and directly.\n\n                            LUIS\n                    (With a calm and friendly voice)\n            Hola, soy Luis Ángel Maciel., acompañame...\n\nLuis continues walking towards the camera at a natural pace, and his face, now in motion, fills the frame again as the scene ends.\n\n**FADE OUT.**\n\n[END SCENE]",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

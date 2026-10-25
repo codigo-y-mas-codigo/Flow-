@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a829bf29-2f02-4776-912c-63401d3d6ee4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "LuisEmoji",
+    "projectId": "c34d0acf-9c31-41fe-bd2d-cb5eeba87221",
+    "createdAt": "2025-05-31 03:39:28.537177-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 810,
+      "height": 1734
+    }
+  }]
+}

@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "272c987e-6bf3-4d57-9958-c7cbfe9e551c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 12/6/25",
+    "projectId": "082afafb-d9b8-4833-91a6-83ce18daeb7b",
+    "createdAt": "2025-06-12 13:37:59.313716-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An image of Tlaloc, the rain god, happily pouring water in Mexico City. Dark blue cinematic HD surreal 8K HD hyperreal 5mm"
+    }
+  }]
+}

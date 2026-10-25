@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3bf3455b-8c4b-4cbe-a50d-0bcc5622a1c9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 06:59:09.753039-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A man in a deep-sea diving suit and helmet with glasses on the dark, polarized visor, facing forward and waving with one hand. His face is very faint due to the dark polarization of his helmet, which makes it difficult to see him clearly. The suit is dark, with metallic accents on the helmet. The man is seated at a transparent glass desk. On the desk, there is a silver boom microphone with a white stand. The word \"NAUTILUS\" is spelled out in bright blue neon letters, with electric-like tendrils extending from the text against a dark background. Bubbles are visible near the upper left of the image, suggesting an underwater or liquid environment."
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "00c3799b-5b44-4e35-9221-fcf489e1bed7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 02:47:06.127188-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Santa watching television --ar 3:2 --raw --sref 3978901914 --sw 100 --stylize 300 --v 7",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

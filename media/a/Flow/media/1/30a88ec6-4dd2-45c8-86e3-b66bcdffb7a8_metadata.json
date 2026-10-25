@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "30a88ec6-4dd2-45c8-86e3-b66bcdffb7a8",
+    "mediaTitle": "3D emoji style no text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-07-17 23:58:57.710840-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your prompt:\n\n\"change to a more adult thin body type and another youthful one, and change their positions.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "56cbb2d2-1934-4a10-8704-920bdd7af787"
+    }
+  }]
+}

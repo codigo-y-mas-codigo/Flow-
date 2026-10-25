@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8de17bf4-fb34-43a6-b1ca-d2a624610b4b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-13 09:50:03.742771-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration in a modern, geometric style with flat, bold colors and sharp, precise lines on a dark blue background with a gold ornate decorative frame shows two rows of three tarot cards laid out in a spread. The top row of three cards has the flat gold words \"Tirada tres Cartas\" across the top. The card on the left has the flat gold Roman numeral XII at the top center, a stylized flat drawing of a yellow sun with a face in the black center, and radiating yellow lines extending outwards, surrounded by flat yellow stars. Below the image is the flat gold word \"Pasado\". The center card in the top row has an intricate flat gold design with circular and floral motifs. The card on the right has the flat gold Roman numeral XI at the top center, a stylized flat drawing of a yellow sun with a black face in the center, radiating yellow lines extending outwards, and a flat yellow crescent moon above it. Below the image is the flat gold word \"Presente\". The bottom row of three cards also has the flat gold words \"Pasado\", \"Presente\", and \"Futuro\" below each card respectively. The card on the left has the flat gold Roman numeral II at the top left, and a stylized flat drawing of a white full moon and a white crescent moon above a flat black landscape with dark blue mountains and a dark blue body of water, and a yellow starry sky. The center card has the flat gold Roman numeral XII at the top center, and a stylized flat drawing of a standing figure draped in flat red and yellow robes and wearing a flat yellow crown, holding a flat yellow staff. The card on the right has the flat gold Roman numeral XIV at the top left, and a stylized flat drawing of several flat yellow objects including two ornate lamps, a pitcher, and a winding ribbon or stream. Flat gold ornate designs fill the spaces between the cards and along the top and bottom edges of the dark blue background. The color palette is predominantly red, yellow, blue, and black, creating a vibrant and contrasting visual with a minimalist and abstract, graphic design aesthetic. The lighting is flat and even, with high rendering quality, smooth lines and solid fills.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

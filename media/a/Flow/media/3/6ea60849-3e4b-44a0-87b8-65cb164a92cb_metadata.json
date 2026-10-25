@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6ea60849-3e4b-44a0-87b8-65cb164a92cb",
+    "mediaTitle": "Creating dark retrowave instrume…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 00:46:22.588532-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"Adapt horizontally.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "52304378-018b-4a4b-8d14-3ac9f27a24d8"
+    }
+  }]
+}

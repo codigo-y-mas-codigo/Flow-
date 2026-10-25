@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a5441728-c376-4d31-94de-cdf970998adc",
+    "mediaTitle": "Demonic man with glowing eyes",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 04:02:01.322222-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

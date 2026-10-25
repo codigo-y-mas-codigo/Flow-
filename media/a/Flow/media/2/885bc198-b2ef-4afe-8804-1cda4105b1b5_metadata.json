@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "885bc198-b2ef-4afe-8804-1cda4105b1b5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 17:12:58.379816-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "[A logo design in the style of PHP and Mozilla, showcasing a stylized seahorse with a brain-shaped tail. It features a vibrant blue and teal color palette, reflecting innovation and expertise in hippocampus memory research. The seahorse is depicted with dynamic, flowing lines, embodying the research\u0027s agility and forward-thinking nature. The \u0027investigación profunda\u0027 text is seamlessly integrated using a clean, sans-serif typeface.  The design prioritizes clarity and readability, assuring the message resonates effectively.  The logo\u0027s sleek and modern aesthetic speaks to a dedication to innovation and scientific advancement. The combination of the seahorse and the brain-shaped tail symbolically represents the core focus of hippocampus-related research and memory investigations.]\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

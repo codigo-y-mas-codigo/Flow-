@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7fda78ab-60ec-4920-9e1e-533765511da5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:39:42.145070-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster rendered in a vibrant, high-contrast digital illustration style, featuring a luminous pink donut, an eggplant, and a banana with syringes, set against a stormy night with abundant lightning and fog. The poster includes a headline \"yo pas cl slm ff\" at the top and \"tu vrgn slm act\" at the bottom. The central subject is a luminous pink donut with a holographic effect, dripping pink liquid and white spilled milk, adorned with diamonds and pink sprinkles. Emerging from the donut\u0027s center are two female legs in black fishnet stockings and black high-heeled shoes. Two hands extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. To the side, an eggplant is depicted holding a syringe. Another syringe, glowing brightly, is held by a banana. The background is a dark, stormy night sky with striking lightning bolts and heavy, atmospheric fog, all rendered with bold outlines and flat or gradient fills, emphasizing strong highlights and shadows consistent with a graphic, cartoonish aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

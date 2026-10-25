@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ff090e13-02aa-4b60-a2a0-9d2b21c70dc8",
+    "mediaTitle": "Adapt to vertical size",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2026-07-17 23:47:39.008568-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"Adapt it to vertical size.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "b5fd2a33-cfb0-48c6-aba7-28859f59b446"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6671bcb4-5c99-4ccf-bc91-f1944e50eda6",
+    "mediaTitle": "Adding fisting to title",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 18/3/26",
+    "projectId": "9e1b4c03-15f4-4483-94e0-6908efde722e",
+    "createdAt": "2026-08-10 01:58:06.809675-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the edited image prompt in English:\n\n\"Add \u0027fisting\u0027 to the title so it says \u0027fisting\u0027.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "de2a12f4-5081-4810-a966-c2105c038d01"
+    }
+  }]
+}

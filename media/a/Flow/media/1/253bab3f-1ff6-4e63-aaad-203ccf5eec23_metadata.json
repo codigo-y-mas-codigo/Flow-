@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "253bab3f-1ff6-4e63-aaad-203ccf5eec23",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:32:56.941551-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A dark green heart outline encompasses illustrations of various produce against a white backdrop. Inside the left side of the heart are three red apples with green leaves and brown stems, a cluster of dark blue blueberries with a few green leaves, and two individual dark blue blueberries. The right side of the heart contains four orange carrots with green leafy tops, a bunch of green broccoli, a red chili pepper, and four stalks of wheat with golden grains.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

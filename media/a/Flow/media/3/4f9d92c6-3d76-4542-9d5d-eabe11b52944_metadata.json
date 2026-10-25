@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4f9d92c6-3d76-4542-9d5d-eabe11b52944",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/6/25",
+    "projectId": "08299377-8ec0-4523-8ec2-408d4dadaa19",
+    "createdAt": "2025-06-01 15:51:21.618516-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A balanced scale, with a clear and bright side representing \"Nutrición Basada en Evidencia\"  with images of diverse whole foods like fruits, vegetables, and lean proteins, and scientific symbols (beakers, DNA helix). The other side is darker, representing \"Mitos Nutricionales\" , with blurred, exaggerated, or misleading food items and question marks. In the background, subtly, outlines of people looking confused or making choices. The overall style should be informative and visually clear, with a slight human touch. text only spanish",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

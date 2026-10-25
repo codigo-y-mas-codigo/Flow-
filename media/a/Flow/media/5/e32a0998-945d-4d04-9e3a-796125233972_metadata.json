@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e32a0998-945d-4d04-9e3a-796125233972",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:29:04.487991-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized heart shape, outlined in a thick, dark green line, contains an aesthetically organized collection of botanical elements and food items. On the left side, four colorful leaf shapes – a green leaf angled top left to bottom right, a yellow leaf pointing up and left, a blue leaf pointing down and left, and a horizontal red leaf pointing right – are arranged around a thin, light green stem extending downwards from the blue leaf. The right side of the heart features a visually harmonious arrangement of a red apple, a yellow banana, a green avocado, stalks of golden wheat, and a cluster of purple grapes. The flat, graphic style uses solid colors without shading or texture, set against a plain white background, creating a cohesive and organized presentation of the food items."
+    }
+  }]
+}

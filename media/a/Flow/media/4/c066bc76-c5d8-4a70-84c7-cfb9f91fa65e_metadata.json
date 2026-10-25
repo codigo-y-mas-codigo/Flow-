@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c066bc76-c5d8-4a70-84c7-cfb9f91fa65e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-28 01:00:40.188876-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "the same woman, now with a bright and serene expression, engaging in a peaceful, energetic activity outdoors. Options: walking calmly in a sunny park with green trees, meditating gracefully in a sunlit garden, or preparing a fresh green smoothie in a bright, modern kitchen (focus on hands blending natural ingredients). Camera follows her movement smoothly. Lighting is bright, airy, and natural. Realistic style, emphasizing vitality.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

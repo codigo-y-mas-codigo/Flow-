@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "69594ced-ff5c-4703-a924-31a50e3ce9fb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "da3057da-e49a-481f-a042-cbff1de63b3f",
+    "createdAt": "2025-06-30 22:59:43.205777-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "inematic selfie-style vlog video, handheld and slightly unstable. A young man with medium-length dark hair with volume, styled swept back, and a sparse beard, is holding the camera. He is wearing a red long-sleeve t-shirt, denim jeans, large circular-framed glasses, and black and white sneakers. He is in a room with a desk, a computer, and a black and red gamer chair. On the desk, there are seven orange crystal spheres, each with red stars inside. In the background, his pack of three specific dogs are playing with a large tortoise on the floor: Mamá Sharito, a female white long-legged chihuahua; Ivisito, a smaller male light-brown chihuahua; and Fifi, a messy-haired white Maltese. The man looks directly at the camera with a melancholic and thoughtful expression. He says in a soft, deep voice: En algun universo, una mamá sharito sigue viva, en otros no existe un ivisito ni fifis, incluso en otros ni uno existe o apenas van a existir. Soft indoor lighting. Audio: man\u0027s voice speaking in Spanish, playful barks from the three dogs, ambient room sounds. no subtitles, no text on screen, no captions, no text overlays, no written words. The final video must not contain any form of written text.\n\n\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

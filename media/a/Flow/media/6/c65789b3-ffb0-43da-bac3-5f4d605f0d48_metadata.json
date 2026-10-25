@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c65789b3-ffb0-43da-bac3-5f4d605f0d48",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-06-11 04:29:27.713319-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "un hombre de 38 años en una clase de tarot  frente a 6 alumnos ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

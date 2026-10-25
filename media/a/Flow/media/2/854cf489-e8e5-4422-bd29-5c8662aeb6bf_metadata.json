@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "854cf489-e8e5-4422-bd29-5c8662aeb6bf",
+    "mediaTitle": "Vampire hugging man cooking",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 03:56:43.239694-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "\nstudio lighting, --ar 3:2 --stylize 160 --v 8.1 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "30efe309-9b29-4c48-b191-482b32acca45"
+    }
+  }]
+}

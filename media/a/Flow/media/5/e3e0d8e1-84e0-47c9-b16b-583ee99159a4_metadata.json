@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e3e0d8e1-84e0-47c9-b16b-583ee99159a4",
+    "mediaTitle": "Rearranging women and adding logo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:29:01.302332-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Place the four women from the image on the sofa with the ones on the armchair. Erase the two current ones. Add a logo that says \"Luces de formentera\" that matches the photograph.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

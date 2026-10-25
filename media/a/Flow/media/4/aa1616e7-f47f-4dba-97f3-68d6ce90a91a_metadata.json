@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "aa1616e7-f47f-4dba-97f3-68d6ce90a91a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 20:14:41.685243-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Crea una ilustración de alta resolución de un ícono de los dedo índice. La derecha y l otra haciendo un círculo como estos emojis 👉👌 con estilo de escultura translúcida y brillante. El ícono debe parecer hecho de vidrio curvo y fluido con superficies reflectantes. Infunde la forma con degradados de arcoíris vivos y refractados que se deslizan suavemente por sus contornos. La forma debe ser abstracta pero reconocible, con acabado de alto brillo y reflejos suaves que imitan la refracción de la luz a través de material claro. Centra el ícono sobre un fondo negro sólido. Sin sombras, texturas ni elementos adicionales. \n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

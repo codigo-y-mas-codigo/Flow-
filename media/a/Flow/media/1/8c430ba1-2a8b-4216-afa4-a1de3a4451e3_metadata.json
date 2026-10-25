@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8c430ba1-2a8b-4216-afa4-a1de3a4451e3",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-06-07 03:36:14.411444-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A middle-aged woman with light skin and long, wavy white hair parted slightly off-center smiles at the camera. She is wearing light-framed eyeglasses, gold hoop earrings, and a delicate gold necklace with a small pendant. She has a light gray v-neck top layered under a light beige cardigan. Her lips are slightly parted, revealing her upper teeth. In front of her on a dark gray countertop are three round fruits: one peach with red and yellow tones, one green lime, and one bright orange. To the right of the fruits is a teal bowl with a lighter green interior, holding three light green apples. Behind the woman is a white tiled backsplash. Two light brown wooden shelves are mounted on the wall. The top shelf holds a small terracotta pot with a green plant, a silver cylindrical container, and a larger terracotta pot. The lower shelf holds a white bowl with a green plant and a larger white bowl. To the left is a silver kettle on the countertop and a blurred window or doorway showing greenery. The lighting is soft and diffused, coming from the front.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

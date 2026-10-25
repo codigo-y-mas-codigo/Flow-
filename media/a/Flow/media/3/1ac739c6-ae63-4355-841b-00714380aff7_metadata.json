@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1ac739c6-ae63-4355-841b-00714380aff7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:56:01.530277-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital painting with sharp, clean lines and smooth gradients shows a woman with light skin and long, dark hair styled with a side part. She is wearing a dark, possibly black or deep gray, hooded jacket. The jacket has a visible zipper pull near her chest and a subtle texture rendered with three-dimensional detail. The lighting is soft and diffused, minimizing shadows on her face and the jacket. The color palette is predominantly muted grays and blacks, with the warm amber hue not prominently featured on the subject but present in a blurred, out-of-focus background suggesting an outdoor setting. The background elements are indistinct shapes and light variations in grayscale and amber, maintaining the smooth, polished look of the digital artwork.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

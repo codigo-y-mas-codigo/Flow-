@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7a687fd6-4562-4631-8729-57858bd9c7c2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 09:18:05.366502-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A person in a deep-sea diving suit and helmet is seated in a white office chair on the right side of the image. The diving suit is dark with metallic accents on the helmet, and the helmet features a black, polarized visor. To the left of the chair, there is a transparent glass desk with a silver boom microphone on it. Above the desk, glowing blue lines that simulate the movement of a voice are visible, with electric-like tendrils extending from them against a dark background. Bubbles are visible near the upper left of the image, suggesting an underwater or liquid environment. The shot is pulled back to show more of the scene."
+    }
+  }]
+}

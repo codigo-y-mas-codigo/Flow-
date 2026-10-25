@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5c939615-f204-4270-a4f8-07d6b2602bc1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:13:35.155162-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A traditional-style illustration features Pikachu seated at the apex of a large wheel adorned with ancient symbols. Pikachu, rendered with thick black outlines and flat, saturated yellow color, holds a scepter in its right paw. The wheel, also delineated with bold black lines, is being rotated by symbolic figures. A character with angel wings is positioned on the upper left of the wheel, while an eagle is on the upper right. A lion is depicted on the lower right, and a bull is on the lower left, all consistent with the medieval woodcut style using flat, saturated colors and thick black outlines. The background is a simple blue sky with white clouds, executed in the same flat color and bold outline style characteristic of a medieval wood engraving.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

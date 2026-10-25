@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bf2dab46-32a2-482e-aec2-ede69a2ad0d5",
+    "mediaTitle": "Edit people and add logo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:41:31.247403-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Borra logo vevo",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "f05b1ef6-27a5-4866-9dd9-0dd5c43c925c"
+    }
+  }]
+}

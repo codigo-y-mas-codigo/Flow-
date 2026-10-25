@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "141c31bf-6d3b-4e12-87a8-6ffb50823551",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:31:36.945786-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An underwater scene is shot with a wide-angle lens, capturing a male diver with light skin in a full diving suit, including a helmet, mask, and flippers. He shines a light into an open treasure chest resting on a rock, while simultaneously looking inside as if searching for something. Around the chest, luminous bubbles ascend, and the light emanating from the chest and the diver\u0027s torch intensifies, casting a strong blue glow that ripples through the dark water. To the left of the diver, a glowing, translucent blue seahorse hovers, its form clearly visible. The overall lighting is dim, contrasting with the bright blue light from the seahorse and the chest. The scene is slightly diffused, suggesting deep water. In the top right corner, a white icon resembling a sound wave or podcast symbol is faintly visible.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

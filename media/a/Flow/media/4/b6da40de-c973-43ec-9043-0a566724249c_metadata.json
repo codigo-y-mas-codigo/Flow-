@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b6da40de-c973-43ec-9043-0a566724249c",
+    "mediaTitle": "Modifying characters and contain…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:14:06.179921-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": " cambia la payasa que está arriba por una que parezca estudiante, y a la doctora que está enfrente en el tubo cámbiala por una mujer civil pelirrojo cabello largo. Y a la que está escondida , entre sus manos carga una pequeña  esfera de cristal de color naranja con un brillo sutil Qué intenta apagar o esconder con sus manos. Cada uno de los contenedores debe de mostrar a una personalidad distinta. La doctora tiene un semblante maligno. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

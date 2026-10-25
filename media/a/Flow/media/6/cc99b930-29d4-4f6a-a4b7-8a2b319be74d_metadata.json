@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cc99b930-29d4-4f6a-a4b7-8a2b319be74d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 11:39:32.640470-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "BORRA LOS TEXTOS DEL ESPEJO Y HAZLO MAS REALISTA CINEMATOGRAFICO ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

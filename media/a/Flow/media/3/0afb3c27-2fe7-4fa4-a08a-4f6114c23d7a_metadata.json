@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0afb3c27-2fe7-4fa4-a08a-4f6114c23d7a",
+    "mediaTitle": "Cat walking and logos edited",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:55:56.248601-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "borra la mesa, el gatito de perfil caminando, y los logos de los productos deben ser osirits. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

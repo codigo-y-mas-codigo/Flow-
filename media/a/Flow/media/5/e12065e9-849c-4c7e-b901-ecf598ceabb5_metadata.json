@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e12065e9-849c-4c7e-b901-ecf598ceabb5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 15:01:50.915688-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally drawn illustration with bold black outlines and flat, vibrant color fills on a white background depicts a smiling yellow emoji with closed eyes and arched black eyebrows. The emoji has a wide white smile outlined in black, showing upper teeth. Its round yellow body features a flat pink area with flat blue polka dots at the center, overlaid with a flat light blue flower shape. One of the emoji\u0027s small, rounded yellow appendages, outlined in black, is raised to its left cheek, its black-outlined tips touching the cheek. The emoji is situated on a flat white reflective surface against a stark white background, consistent with modern emoji design. A subtle flat light reflection appears beneath the emoji.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

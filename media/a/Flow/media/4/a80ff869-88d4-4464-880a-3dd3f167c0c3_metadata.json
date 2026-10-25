@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a80ff869-88d4-4464-880a-3dd3f167c0c3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "LuisEmoji",
+    "projectId": "c34d0acf-9c31-41fe-bd2d-cb5eeba87221",
+    "createdAt": "2025-05-31 03:39:32.531897-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A person with light skin tone, appearing to be a young adult male, is lying on a light-colored surface. He has dark brown, shoulder-length hair and a light beard and mustache. He is wearing a black cowboy hat and an open red long-sleeved shirt, revealing his torso. His legs are spread apart. In his left hand, he holds a small, round, metallic object. His right hand holds a lit lighter, positioned near the metallic object on his chest. His mouth is slightly open.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

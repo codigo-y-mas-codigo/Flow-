@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "23e0dec9-e9e8-4136-93d6-17eee9abaa4f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:29:16.625475-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "High-end professional studio portrait of the uploaded person. Preserve facial features, age, gender and skin tone exactly. Subject: adult man. Pose: slight 3/4 turn to camera, eyes engaging, mouth slightly parted, natural relaxed expression. Wardrobe: simple black turtleneck (if not present in photo, use fallback). Lighting: strong warm backlight (orange/yellow gel) creating a glowing hair rim; secondary cool fill light (blue/teal) on face and shoulder for complementary color contrast. \n\nBackground: pure black, seamless, no distractions. Lens: prime 50–85mm full frame look, wide aperture f/1.4–f/2.8 for shallow depth of field and smooth bokeh. Skin and texture: photorealistic skin texture, no plastic smoothing, remove blemishes subtly while preserving pores. Color grading: cinematic warm-cool split toning, subtle film grain, slight vignette. Output high resolution, portrait 4:5 and also export a square 1:1 crop for social. Negative instructions: do not change age or gender, no extra fingers, no text or watermarks, avoid exaggerated retouching. Deliver 3 variations with different contrast intensities.\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

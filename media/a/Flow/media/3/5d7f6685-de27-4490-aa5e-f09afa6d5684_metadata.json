@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d7f6685-de27-4490-aa5e-f09afa6d5684",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Tarot",
+    "projectId": "1628ce0e-ad20-487c-a2fb-412defde4f35",
+    "createdAt": "2025-05-31 00:59:06.220368-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A tarot card stands upright in the center of a dimly lit scene, illuminated by a blue light that also casts a hazy glow on several other translucent, rectangular shapes arranged in a triangular formation behind it. The central tarot card features an illustration of a large, stylized sun with a human-like face at its center, depicted with closed eyes, eyelashes, a nose, and lips. Rays of light emanate outwards from the sun. Below the sun, a landscape is visible, showing what appears to be a low wall or structure, and further down, two small figures holding hands, with another smaller figure to their left. The card has the Roman numeral XIX printed at the top and some text that appears to read \"NITEO SINE\" at the bottom.\n\nBehind the central card and arranged in a triangular shape are several other translucent blue-lit panels, each featuring white line drawings of figures. The top panel shows a stylized figure within a triangle. To the left, a rectangular panel shows a group of small, childlike figures. To the right, a similar rectangular panel depicts two larger, childlike figures, one holding a staff-like object. Further down and to the left, another panel shows a procession of stylized figures of varying sizes. To the right, a panel shows two figures, one seated and one standing. The background is dark, suggesting a nighttime or indoor setting with minimal ambient light. The surface in front of the cards appears to be a dark, textured surface, possibly wood. The overall lighting effect creates a mystical and ethereal atmosphere."
+    }
+  }]
+}

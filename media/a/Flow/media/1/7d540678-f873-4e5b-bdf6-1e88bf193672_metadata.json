@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7d540678-f873-4e5b-bdf6-1e88bf193672",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "d3c4d075-4d1b-4afc-9da0-cfb54e77d3af",
+    "createdAt": "2025-06-17 02:58:02.674395-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Pasarela de moda oscura con luces moradas y blancas, público con máscaras de cartas de Tarot en blanco. Once figuras representando los arcanos mayores del Tarot desfilando: La Justicia (con una balanza), El Colgado (suspendido de un pie), La Muerte (con una guadaña simbólica), La Templanza (mezclando líquidos), El Diablo (con elementos rojos y cadenas), La Torre (con un atuendo que sugiere destrucción), La Estrella (con un cántaro vertiendo agua), La Luna (con elementos lunares y oníricos), El Sol (irradiando luz), El Juicio (con una trompeta), El Mundo (con un aura de plenitud). Cada figura caminando en secuencia, enfocándose en sus vestimentas y el ambiente mágico.\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

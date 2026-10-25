@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6b47e6a6-05ba-4ee9-b3ae-98cfcefd41a2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 15:14:36.107839-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image shows a stylized design incorporating agricultural elements. A thick, dark green curved line begins at the bottom left, arcs upwards and to the right, and then curves back down and slightly to the left, resembling the left side of a wheat stalk or a developing wheat plant. Inside this green line are four individual fruit shapes, each a different color. The top fruit is green and round. Below and slightly to the left of the green fruit is a yellow fruit, also round. A blue fruit is positioned centrally and is round. To the right of the blue fruit is a red fruit, resembling an apple. A thin, light green stem extends from the bottom of the blue fruit and extends downwards, partially obscured by the red fruit. The entire design is set against a plain white background. The style is flat and graphic, with solid colors and no shading or texture visible."
+    }
+  }]
+}

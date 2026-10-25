@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8471b105-20e4-454d-a760-367f8bab61c2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:24:33.751684-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "El arcano del loco de \nL tarot de marsella , estilo como si lo hubiera pintado un frida khalo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

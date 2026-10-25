@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e3b50386-4ea1-4229-b568-806b69a3df53",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:42:25.287584-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "hazlo como minuatura youtbe elegante con el texto \"Por qué las tiradas habituales de tarot no cambian los patrones emocionales que se repiten y cómo armar tu propio chequeo rápido de 3-5 cartas\" ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

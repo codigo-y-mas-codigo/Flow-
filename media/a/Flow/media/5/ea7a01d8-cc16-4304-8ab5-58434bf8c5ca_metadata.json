@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ea7a01d8-cc16-4304-8ab5-58434bf8c5ca",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:02:07.292946-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "In the style of vintage 80s anime with bold, slightly uneven linework and cel-shaded colors, depict a young-adult-appearing man with light skin tone and voluminous, stylized light-colored curly hair emerging from a wide-brimmed hat. The hat features bold orange and white stripes on the crown and a red brim outlined in yellow. He wears a vertically divided tunic with a deep blue left side and yellow sleeve, and a vibrant red right side with a blue sleeve, secured by a yellow and blue belt. His legs are clad in deep blue tights and his shoes are red.\n\nHe confidently holds a thin, golden-yellow wand or rod in his raised right hand. His left hand rests on a simple light brown wooden table with four legs. Arranged on the table are distinct shapes of a golden cup, a red cup, several golden coins or discs, two knives (one with a black handle and one with a white handle), and a pouch or bag.\n\nThe background is a minimally detailed landscape with a flat, earthy green ground, a small, stylized darker green plant or bush, and a slightly darker earthy green horizon line. The overall color palette consists of these rich, saturated hues with distinct blocks of color and minimal blending, evoking a nostalgic anime feel.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

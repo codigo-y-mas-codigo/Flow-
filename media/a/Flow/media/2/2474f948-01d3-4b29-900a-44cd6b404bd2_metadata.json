@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2474f948-01d3-4b29-900a-44cd6b404bd2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 15:03:26.295190-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally drawn illustration with bold black outlines and flat, vibrant color fills on a white background depicts a happy yellow emoji with cartoonish features. The emoji has closed eyes, thick, arched brown eyebrows, and a wide white smile showing upper teeth. One of its rounded arms is bent with the hand raised to its left cheek. It wears pink underwear with flat blue polka dots and a light blue flower at the center front. The background is plain white with a simple, flat light reflection depicted beneath the emoji. The shading on the emoji is minimal and cartoonish, using slightly darker shades of yellow and pink to suggest its rounded form.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

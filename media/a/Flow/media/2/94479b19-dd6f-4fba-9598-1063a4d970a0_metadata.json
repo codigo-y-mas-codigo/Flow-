@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "94479b19-dd6f-4fba-9598-1063a4d970a0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 07:34:29.883583-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "deja un 20% arriba y abajo de blanco y ajusta la imagen",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

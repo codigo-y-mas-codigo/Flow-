@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ecf8ce4d-7e8c-4952-a8f2-06c5e00b33c4",
+    "mediaTitle": "Continuous line drawing prompt t…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:27:01.507366-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "💬Prompt: A minimalist continuous line drawing of a [subject], illustrated in clean 2D flat vector style. Single continuous [color] outline on a pure white background. No fills, no shadows, no textures, no unnecessary details. Simplified silhouette, smooth flowing curves, elegant proportions, modern abstract aesthetic, clean negative space, minimalist logo-inspired design.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

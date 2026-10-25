@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bd9f0172-dec4-4bf5-837d-f8f75568bf18",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 16:10:07.786961-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A high-quality studio shot of a gold-toned keychain with cute, distinct charms, set against a plain white background. Loosely dangling from the singular keychain ring are two animated male characters, rendered as super cute little figures in a chibi art style. The first charm features a male figure with spiky black hair and fair skin, wearing an orange and blue martial arts gi with a blue undershirt, blue wristbands, and an orange belt. He holds a small, dark, multi-pronged object. The second charm depicts a male figure with spiky black hair and fair skin, wearing a blue jumpsuit with white boots and gloves, and a white, sleeveless shirt. He holds silver scissors with open blades. Both figures have bright, wide eyes with small white pupils. Also dangling from the keychain are two small charms representing the background: a small charm of pink rolling hills with delicate petals, and a charm of a pearlescent blue sky with cotton candy clouds. The charms are a mix of metallic and plushie textures, with some featuring rhinestones or glitter. The color palette is pretty and bright, with a shiny, metallic finish for gold and smooth, opaque or textured, reflective qualities for other colors. The lighting is even and bright, with a sharp focus.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

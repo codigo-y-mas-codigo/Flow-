@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "54583a54-4e3d-4873-88bb-4b42aa689383",
+    "mediaTitle": "image.png_20260910190429.jpeg",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:18:29.627076-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "añade la palabra en español \"Estetica\" es que es uina estetica de cabello y haz minimalista el logo . ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "84e708ec-5ae2-411b-ba62-db4d1e926bc4"
+    }
+  }]
+}

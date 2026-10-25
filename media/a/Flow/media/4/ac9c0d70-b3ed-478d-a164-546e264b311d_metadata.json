@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ac9c0d70-b3ed-478d-a164-546e264b311d",
+    "mediaTitle": "Vampire hugging man cooking",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:33:54.087037-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Cinematic funny-erotic scene in modern kitchen: tall muscular vampire with blond hair, black leather cape with red interior, glowing neon green eyes and fangs, hugging from behind a shirtless muscular man wearing only black leather apron who is cooking, both laughing, thick black smoke swirling around them, green energy glow, warm kitchen lighting mixed with dark dramatic effects, PixVerse.ai style, playful demonic energy",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

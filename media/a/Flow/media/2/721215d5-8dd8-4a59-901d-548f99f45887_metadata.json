@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "721215d5-8dd8-4a59-901d-548f99f45887",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/6/25",
+    "projectId": "20fa58e8-2e52-489f-80d5-c712707dd523",
+    "createdAt": "2025-06-13 10:02:18.484022-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Create a travel poster for Edinburgh, Scotland. Style: painterly illustration, warm, inviting colors. Depict Edinburgh Castle on a hilltop, city skyline below.jumbo Text: \" México\" (classic serif font), tagline \"ciudadano History, Beauty, and Magic\" (cript font, bold). Include a thistle, bagpipe player silhouette, and cobblestone street. Art style keywords: Romantic, historical, inviting.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

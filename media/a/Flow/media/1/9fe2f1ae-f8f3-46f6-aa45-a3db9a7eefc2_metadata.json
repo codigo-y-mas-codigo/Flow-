@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9fe2f1ae-f8f3-46f6-aa45-a3db9a7eefc2",
+    "mediaTitle": "Creating dark retrowave music track",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-09 12:33:48.135909-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Añade un efecto que evoque al sonido de Dark retrowave cinematic instrumental. Slow ~100 BPM. Deep dark synth pads, reverb-drenched arpeggios, minimal kick drum, atmospheric pads, moody, nocturnal, midnight city drive. Clean modern production. The melody from the original K-pop track reimagined in a dark, cinematic retrowave style. En vertical 9:16 ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "758d141d-0ef0-4af1-9c93-ad7868ed46a4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 16:53:48.844429-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A seamless transition of images featuring the young Mexican woman. First, she is shown enjoying a vibrant, fresh salad with colorful vegetables and grilled chicken, smiling contentedly. Then, she is seen admiring a display of ripe, colorful fruits (like mangoes, papayas, and berries) at a local market. Following this, she is captured in a serene yoga pose outdoors, perhaps in a garden or by a peaceful body of water, radiating tranquility. Finally, a close-up shot of her face, with eyes gently closed, in a state of calm meditation, perhaps in a softly lit room. The visual style should be bright, natural, and convey a sense of wellness and mindful living. Include a subtle, modern representation of the \"Nutrición Holística\" product, possibly a sleek logo or a minimalist book cover, integrated naturally into one of the scenes (e.g., on a table near her while she meditates, or as a background element).\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

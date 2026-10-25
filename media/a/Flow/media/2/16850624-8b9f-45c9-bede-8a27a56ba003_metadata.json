@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "16850624-8b9f-45c9-bede-8a27a56ba003",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-07 04:20:09.914372-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "De acuerdo. He incorporado todas tus especificaciones en una nueva versión del prompt.\n\nEsta es una escena completamente nueva, olvidando la anterior. El prompt está en inglés, el diálogo que debe decir el personaje está en español (exactamente como lo escribiste), la mujer se llama Elizabet, y toda la secuencia ocurre en un lapso rápido de 8 segundos.\n\nAquí tienes el prompt detallado para generar la escena.\n\nPersona: Act as a visionary film director and a master of special effects. Your task is to generate a surreal and seamless 8-second video clip depicting a woman aging in reverse while her environment\u0027s technology and objects also regress in time at an accelerated pace.\n\nTask: Generate a photorealistic, single-shot video where the character, Elizabet, de-ages from adult to child. The transformation must be swift and continuous, happening in parallel with her environment\u0027s regression.\n\nContext:\n\nCharacter Description (Elizabet):\n\nStarting State: A professional woman named Elizabet, approximately 35 years old.\nEnding State: A young girl, approximately 7 years old.\nTransformation: The change is rapid and fluid. Her features soften, her clothes morph from adult-wear to a child\u0027s dress, and her physical form shrinks.\nEnvironment/Scene:\n\nStarting State: A modern home office with a sleek, modern laptop on the desk and a shelf of professional books in the background.\nEnding State: The same room, but now featuring a bulky, vintage 1990s computer on the desk, and lush green houseplants where the books used to be.\nAction \u0026 Expression Sequence (to occur in 8 seconds):\n\nPhase 1 - The Call (Seconds 0-1): The scene opens on ELIZABET (35). A modern smartphone rings. She picks it up.\nPhase 2 - The Trigger \u0026 Rapid Transformation (Seconds 1-7): As she speaks the dialogue, the surreal time-reversal begins instantly and rapidly.\nElizabet\u0027s Regression: In a seamless, accelerated morph, we see Elizabet age backward through her 20s and teens, swiftly becoming a 7-year-old girl.\nEnvironmental Regression: Simultaneously, the laptop on the desk warps into the vintage computer, and the books on the shelf behind her burst into green foliage, transforming into plants. The entire environmental change must keep pace with her personal transformation.\nPhase 3 - The Conclusion (Second 8): The transformation completes. Elizabet is now a 7-year-old girl holding what has become an old, corded telephone. She decisively hangs up the phone receiver with an audible click, ending the scene.\nAudio \u0026 Dialogue:\n\nSpeaker: Elizabet (her voice rapidly pitches up from adult to child as she speaks).\nDialogue (Spanish): \"hola amaza, como est?\"\nSound Effects: A modern ringtone at the very start, followed by subtle magical sounds during the transformation, and a final, loud \"click\" of the old phone being hung up.\nOutput Format: A short video clip, exactly 8 seconds long, in 16:9 aspect ratio, 1080p resolution, featuring the described scene in a single, unbroken shot.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

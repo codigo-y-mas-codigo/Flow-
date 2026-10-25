@@ -1,0 +1,16 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b5fd2a33-cfb0-48c6-aba7-28859f59b446",
+    "mediaTitle": "Adapt to vertical size",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:21:53.782196-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A blocky, cartoonish illustration in the style of a woodcut or linocut depicts the \"El Mago\" tarot card featuring Pikachu. Pikachu, rendered with flat, unblended yellow color and bold black outlines, wears a large, wide-brimmed hat with orange and white stripes on the crown and a red brim outlined in yellow. Pikachu\u0027s tunic is vertically divided with flat blue and yellow on the viewer\u0027s left and flat red and blue on the viewer\u0027s right, secured by a flat yellow and blue belt. Pikachu\u0027s legs are in flat blue, and the shoes are flat red.\n\nStanding behind a light brown, four-legged table with strong black outlines, Pikachu holds a thin, golden-yellow wand in one paw. On the table, outlined in black, are a golden cup, a red cup, several golden coins or discs, and a knife with a black handle. The background is a simple landscape with a flat, light yellow ground, a small, flat green plant or bush with a black outline, and a slightly darker flat yellow horizon line. The illustration has a black border. \"I\" is centered at the top below \"TAROT\" in smaller, centered black letters, and \"EL MAGO\" is in bold, uppercase black letters at the bottom. The colors are bright and saturated, with no shading or light source, resulting in a flat, two-dimensional appearance.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

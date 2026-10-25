@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b30d2629-6bff-4088-ab89-f1966245fcf1",
+    "mediaTitle": "Cat in fighter jet",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:48:18.413549-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "An extremely mundane and unremarkable iPhone selfie, with no clear subject or sense of composition, looking like a casual snapshot taken on the fly. The photo has slight motion blur and minor overexposure caused by uneven sunlight or indoor lighting. The angle is awkward and the composition chaotic, overall presenting a deliberate sense of mediocrity, just like a selfie accidentally snapped while pulling the phone out of a pocket. The main subject is a black-striped tabby cat. The cat has its mouth open, is wearing an aviator helmet, and is sitting in a fighter jet ejection seat. It is daytime, the location is high up in the sky, and the background is an intense aerial dogfight.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

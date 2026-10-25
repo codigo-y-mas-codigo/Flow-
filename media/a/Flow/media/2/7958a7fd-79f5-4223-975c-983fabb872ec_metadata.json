@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7958a7fd-79f5-4223-975c-983fabb872ec",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 02:59:50.387850-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A witty vintage snark poster features a steampunk fish and a luminous pink donut in a limited red-toned palette on a cream background. The poster, inspired by 1950s beauty ads, showcases a stylized, engraved illustration of a teal metallic steampunk fish with brass gears and glowing yellow eyes, appearing as if swimming, but rendered in a static, poster-like fashion.  Adjacent is a luminous pink donut with holographic shimmer and translucent sprinkles, appearing ethereal and almost weightless. The headline, in a large, bold, arching mid-century serif font, reads: \"LOST YOUR FIN? AT LEAST YOU HAVE DONUTS.\" Below, a smaller tagline adds, \"Some things are just meant to be. Like you, and snacks.\" The background is a cream color, with mid-century sparkle and starburst icons scattered around the headline.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

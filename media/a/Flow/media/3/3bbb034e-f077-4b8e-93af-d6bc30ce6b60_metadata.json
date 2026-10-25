@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3bbb034e-f077-4b8e-93af-d6bc30ce6b60",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:50:09.107476-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un Pikachu de pie detrás de una mesa sencilla y rectangular con patas de madera. Viste un sombrero de ala ancha rojo con un patrón amarillo y una túnica azul con mangas rojas y bordes amarillos. Sobre la mesa, dispuestos de izquierda a derecha, se encuentran: una copa roja, una moneda amarilla, una varita con punta blanca y una pequeña espada con empuñadura dorada. Pikachu sostiene la varita en su pata derecha, con la punta hacia arriba, y un brillo sutil emana de la punta de la varita, como si estuviera invocando algo. Las orejas de Pikachu se mueven ligeramente mientras realiza el gesto. El fondo es completamente blanco y liso. El video mantiene el estilo de grabado en madera medieval con líneas negras gruesas y colores planos saturados, sin sombreado ni perspectiva modernos",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

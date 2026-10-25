@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "01c2566a-66a3-4008-a364-64281bcab305",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:29:04.772188-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra la leyenda de la parte infior derecha ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

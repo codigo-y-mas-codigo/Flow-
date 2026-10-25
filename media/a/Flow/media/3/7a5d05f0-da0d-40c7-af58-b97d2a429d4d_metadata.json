@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7a5d05f0-da0d-40c7-af58-b97d2a429d4d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-06-01 13:08:42.130250-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration with clean, sharp lines and flat color fills in a limited palette depicts an abstract logo for holistic nutrition. A thin dark green heart shape is formed by a curving stylized representation of wheat that begins in the bottom left and sweeps upward and to the right. Emerging from this thin green heart are stylized organic shapes representing leaves and fruit. A bright yellow leaf is positioned on the left, angled slightly upward and to the right. Next to it is a bright blue leaf, slightly larger and oriented diagonally from the lower left to the upper right, overlapping the yellow leaf at its base. Above and slightly to the right of the blue leaf is a green leaf, pointing upwards and angled slightly to the right, with a visible stem connecting it to the main thin green heart shape. To the right and slightly below the blue leaf is a deep red leaf, pointing to the right and angled slightly upwards, partially overlapping the blue leaf. A pronounced curve representing a yellow banana, a segmented shape representing a yellow pineapple, a green ovoid shape representing a pear, and a filled oval shape representing a red apple are integrated into the thin green heart shape, conveying natural health and well-being. The leaves and fruit are rendered in a graceful, flowing style, adding a sense of vitality. The overall aesthetic is clean, modern, and stylized."
+    }
+  }]
+}

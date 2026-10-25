@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e40d7632-b43e-47be-b788-4617ecc70197",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:29:24.013868-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vibrant, modern illustration features a heart shape meticulously crafted from a medley of colorful vegetables: ripe red tomatoes, bright orange carrots, verdant broccoli florets, and deep blue blueberries, intricately intertwined. A graceful heart shape, outlined by lush green leaves, frames the vegetable heart, creating a visually stunning contrast. Beside the main heart, a playful half-heart shape made of the same vegetables adds a touch of whimsy. The whole composition is rendered in a clean, crisp style against a pristine white background, emphasizing the vivid colors and textures of the vegetables and leaves. The illustration is infused with a bright, cheerful energy and evokes a feeling of health and vitality.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cc4a9615-0202-4360-ae25-642525108f6c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:01:07.251494-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image shows a depiction of the Emperor tarot card in a traditional illustration style with a medieval woodcut aesthetic. Pikachu is the central figure, seated on an ornate light brown chair that has an eagle depicted on its lower right side. Pikachu wears a red tunic with gold trim and a crown. It holds a sword in its right paw and a balancing scale in its left paw. The background is simple, depicting a blue sky and a flat ground. The illustration is outlined with thick black lines, characteristic of a medieval woodcut, and utilizes flat, saturated colors. The number \"IIII\" is at the top center, and the words \"EL EMPERADOR\" are at the bottom in black capital letters. A thin black border surrounds the entire image.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ecc1fb11-1928-4c89-8012-9cb85089c52f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-06-03 22:41:54.980188-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Four distinct, decorative borders are arranged in parallel rows against a bright white background. The topmost border features stylized fruits including cherries, grapes, apples, and other round and elongated forms, along with leaves, dots, and whimsical flourishes, all in bold hues such as reds, blues, yellows, and greens. These elements are closely spaced, creating a dense, continuous design with crisp, well-defined outlines.\n\nThe second border consists of a delicate, wavy vine with small, round and oval vegetables such as peas and beans, and pointed leaves branching off, rendered in the same flat color style. The vine undulates gently across the width of the image.\n\nThe third border presents a structured pattern of circles, each containing a different stylized meat product: a whole chicken, a sausage, a steak, and other cuts of meat, all in various shades of red and brown. These circles are connected by a thin, wavy line from which small, leafy sprigs and bone shapes of varying sizes extend.\n\nThe bottommost border showcases a flowing, curvilinear line adorned with clusters of various types of leaves and dots of different sizes, along with small curled flourishes integrated into the wavy structure, all depicted with flat, solid colors and clean outlines in shades of green and yellow.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

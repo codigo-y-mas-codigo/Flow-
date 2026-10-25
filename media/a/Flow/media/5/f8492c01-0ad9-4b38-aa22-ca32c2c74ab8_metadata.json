@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f8492c01-0ad9-4b38-aa22-ca32c2c74ab8",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-07 04:03:43.559360-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Persona: Act as a highly skilled casting director and surrealist film director combined. Your task is to create a digital actor based on a specific character sheet and direct them in a short, horrifying scene.\n\nTask: Generate a photorealistic, dramatic video of a specific man in his bedroom. The scene involves a sequence of actions: surprise, horror, and a surreal melting effect. The video must be based on the detailed character description provided and include the specified dialogue with synchronized lip movement.\n\nContext:\n\nCharacter Description (Javier):\n\nAge and Appearance: A young man, 24 years old. Based on visual cues, he might be of Mexican or Latin heritage.\nFacial Features: He has expressive dark eyes and a face that can quickly shift from relaxed to surprised and horrified. Short, well-kept beard and mustache.\nHair: Short, dark, slightly messy hair, as if he\u0027s been relaxing in bed.\nBuild: A lean, average build.\nAttire: He is shirtless or wearing a simple, plain t-shirt (e.g., grey or black).\nEnvironment/Scene:\n\nLocation: He is in a bedroom, propped up on his bed. The room has dim, moody lighting, perhaps from a single lamp, creating shadows.\nFraming: The shot is a medium close-up, framing him from the chest up.\nAction \u0026 Expression Sequence:\n\nStart: The scene opens with Javier looking relaxed, listening to music on his headphones.\nThe Stop: The music cuts out abruptly. His eyes snap open. He removes his headphones, his expression shifting to confusion and then surprise.\nThe Melting: A look of horror dawns on his face as he notices his hands and arms starting to lose definition, as if digitally distorting or melting like wax. The effect becomes more pronounced, and his facial features begin to droop and lose cohesion in a surreal manner.\nThe Scream: As he melts, his mouth opens in a scream to deliver the dialogue.\nAudio \u0026 Dialogue:\n\nSpeaker: Javier (the man described above).\nDialogue (Spanish): \"Vas a ver luis angel, te dije que no soy una Inteligencia artificial, soy de verdaaaaad\"\nTone of Voice: The delivery must be a desperate, horrified scream, filled with anguish. The voice should sound strained, perhaps becoming slightly distorted as the melting progresses.\nLip-Sync: It is crucial that the lip movements are accurately synchronized with the Spanish dialogue, even as his face distorts.\nSound Effects: Faint muffled music that cuts out suddenly at the start, followed by a moment of silence before the scream.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

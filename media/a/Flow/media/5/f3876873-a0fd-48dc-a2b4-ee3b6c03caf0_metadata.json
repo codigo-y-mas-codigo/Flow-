@@ -1,0 +1,16 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f3876873-a0fd-48dc-a2b4-ee3b6c03caf0",
+    "mediaTitle": "All front labels.",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 18/3/26",
+    "projectId": "9e1b4c03-15f4-4483-94e0-6908efde722e",
+    "createdAt": "2026-03-18 07:48:04.945097-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Borr la granja negra con letras de la parte inferior de la fotografía ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bbb2a3cb-0340-46eb-9bdb-c20417de7ab0",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-07 13:14:40.476428-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "A surreal, cinematic follow-up scene, in a superhero comic book style. The purple-and-green-suited figure stands holding the oversized syringe filled with glowing blue liquid, a speech bubble next to them reads, \"Primero tu y luego yo, va?\". The peach-suited figure has stopped shouting and now looks intently at their partner. They lock eyes, sharing a mischievous, knowing glance that says \"you know\".\n\nThe entire room around them transforms into a chaotic and magical vortex: thick, swirling clouds mix with shimmering smoke, countless sparkling diamonds rain down, and bright, crackling lightning bolts illuminate their faces. The atmosphere is thick with suspense and playful conspiracy. Hyper-detailed, vivid colors, with a sharp focus on their shared expression and the syringe.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

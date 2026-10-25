@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f379ac6a-35cf-454d-adb3-aeba35e480b1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:58:08.551638-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration in a style featuring smooth, glossy surfaces, sharp details, stylized realism, and a cartoonish aesthetic shows an adult male humanoid figure. The figure has metallic grey and orange robotic body parts rendered with reflective qualities and subtle green glowing elements. He has a medium skin tone and dark hair styled upward in spikes with some lighter grey streaks. His green eyes are visible behind rectangular black-framed eyeglasses. He sports a goatee and a short mustache. A piercing is in his left earlobe.\n\nHis left arm is a segmented grey robotic limb with glowing orange and green internal components around the joints; the robotic hand holds an orange pencil with a yellow eraser, as if drawing in the air. His right arm is also grey robotic with glowing green accents on the shoulder.\n\nFloating around him are digital icons: a light blue calculator, a speech bubble, a blue folder with \"CiW\" in white, and a blue bird silhouette. Below them is a semi-transparent grey rounded shape with a blurred interior. The background is a soft gradient from white at the top to a light greyish-blue at the bottom, with bright and even lighting minimizing harsh shadows.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

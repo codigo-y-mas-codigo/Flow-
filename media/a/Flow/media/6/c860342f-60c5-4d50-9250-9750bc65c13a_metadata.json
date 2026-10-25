@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c860342f-60c5-4d50-9250-9750bc65c13a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:59:52.102617-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "\n**Style:** Low angle shot, shot on 85mm f/1.8, focus on the texture of the fabrics and the model\u0027s hopeful expression,  magazine style, ultra-realistic skin texture, 8k. --ar 3:4 --stylize 300",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

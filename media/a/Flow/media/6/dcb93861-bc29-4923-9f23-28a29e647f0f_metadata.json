@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dcb93861-bc29-4923-9f23-28a29e647f0f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:18:18.536944-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized design features a heart shape outlined in a thick, dark green line, containing colorful fruits and vegetables against a plain white background in a flat, graphic style. The green outline begins at the bottom left, curves up and right, then down and slightly left, holding an arrangement of produce. On the left inside the green line, three red apples of varying sizes are clustered with several green leaves and a spray of deep blue blueberries. On the right inside the green line, three bright orange carrots are stacked, the top one with green leafy tops, accompanied by a small red pepper, a sprig of broccoli, several heads of golden wheat extending upwards, and two more deep blue blueberries.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3dbab155-5340-4093-8a49-1b3257a74bf6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 10:51:33.219350-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Minimalist elegant square cover for \"Tarot para Sanación Emocional y Amor Propio – Sistema Avanzado Exclusivo\", deep indigo and soft charcoal gray palette with subtle luxury gold accents, open Rider-Waite tarot deck on dark wooden surface with soft dramatic lighting, the central focus is the La Sacerdotisa card in exact classic Rider-Waite style, large Roman numeral II clearly visible at the top of the card, large elegant Spanish text \"LA SACERDOTISA\" at the bottom of the card, card faintly illuminated with ethereal golden glow, sophisticated luxury spiritual aesthetic, premium high-end wellness branding, clean minimalist composition, modern adult introspective feel, no additional text overlay outside the card, no crystals, no moons, no angels, no clutter, square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 250 --q 2Notas de la refinación:\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

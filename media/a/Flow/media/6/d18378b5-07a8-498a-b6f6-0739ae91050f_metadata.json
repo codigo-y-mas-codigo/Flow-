@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d18378b5-07a8-498a-b6f6-0739ae91050f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-13 09:54:30.842360-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration in a modern, geometric style with flat, bold colors depicts a white and tan Pikachu-like creature in a purple cereal bowl against a black star-scattered background, alongside tarot journal pages and sticky notes on a light brown surface. The white and tan creature, rendered with flat colors and sharp geometric shapes, sits in a purple bowl filled with light brown and white disk-shaped cereal pieces featuring red and black accents. White liquid, depicted with a smooth, solid fill, spills over the bowl\u0027s edge. The creature has solid black geometric shapes for eyes and a jagged black line for a mouth, with long, pointed ears having solid black tips. It appears to wear a draped purple costume with flat color blocks, one arm extending out of the bowl as a solid purple shape. Behind the bowl is a large, flat orange circle. Above the creature, the white letters \"MIMIKYU\u0027S\" with a purple outline and drip effect are rendered as flat shapes. To the right, \"Mola\" is in a cursive purple flat color. To the left, curved white text reads \"THE FAVORITE CEREAL OF YOUR GHOSTS\". A purple starburst with a white outline contains the white text \"FREE DISGUISE INSIDE\". A purple rectangle lists white text for nutritional information. Three yellow square sticky notes with handwritten black marker text are arranged horizontally on a white background, each slightly tilted and casting flat shadows, consistent with the modern, geometric style. The text on the notes is rendered with sharp, clean lines.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

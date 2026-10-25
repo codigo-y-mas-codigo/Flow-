@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d394867-5b79-4870-8953-219decdd209e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "535da0aa-83a8-46fa-9b9d-f1f531c9d9f5",
+    "createdAt": "2025-06-06 12:48:42.464632-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un maestro hombre de 40 años de edad dando una clase de tarot para sus 4 alumnos en México ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

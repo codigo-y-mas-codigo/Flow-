@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "19e34c6d-a558-4ae2-a823-edbbc3dff2d4",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 16:34:21.824825-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The scene opens with a rapid, dynamic montage of various processed foods and their discarded containers, creating a sense of visual overload. Soda cans spin and collide, crumpled chip bags flutter across the frame, and empty fast-food boxes tumble chaotically. The color palette is intensely vibrant and artificial, with saturated reds, yellows, and blues dominating the frame. Interspersed within this whirlwind of unhealthy food imagery are quick, impactful shots of a young woman with medium brown skin and long, dark hair. In one shot, her eyes are wide with frustration as a cascade of cheese puffs overflows a carton in front of her. Another shot shows her rubbing her temples with a look of fatigue while empty soda cans clutter the background. A fleeting close-up captures her grimacing as she picks at greasy french fries in a half-empty box. The camera work is fast-paced and jerky, mirroring the chaotic energy of the montage, with quick cuts and varied angles intensifying the feeling of discomfort and the negative consequences of these eating habits.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

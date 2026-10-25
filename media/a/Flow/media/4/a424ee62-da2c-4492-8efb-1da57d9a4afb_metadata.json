@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a424ee62-da2c-4492-8efb-1da57d9a4afb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:26:14.907625-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "El sombrero loco como el arcano del loco de  tarot de marsella , estilo surrealista ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

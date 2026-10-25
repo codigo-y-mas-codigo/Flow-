@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "65e415af-6aac-448a-9f5b-015d116a3463",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:22:12.005324-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration rendered in a highly stylized, exaggerated cartoon aesthetic with thick outlines and simplified forms. The dominant color palette is a high-contrast combination of vibrant neon magenta for the background and a limited set of black, white, and a cool, desaturated cyan or mint green for the subject. A light-skinned adult woman is wearing a cyan and white dress and a black and magenta hat, holding a black handbag, and looking down at a small, white dog walking on a black leash. The woman has a joyful expression and is positioned on a city street at night, with a brightly lit building in the background featuring magenta and cyan lighting. Black ink is heavily used for defining outlines and major shadow areas, creating a stark, graphic novel feel. The lighting is harsh and theatrical, emphasizing strong shadows. The overall mood is energetic and playful, characterized by a slightly rough, sketch-like quality in the linework.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

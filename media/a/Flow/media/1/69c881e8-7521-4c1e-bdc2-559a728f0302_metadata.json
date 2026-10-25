@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "69c881e8-7521-4c1e-bdc2-559a728f0302",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:38:53.380216-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Cinematic shot, low angle, a young hiker girl looking up at the sky holding a wooden staff, wearing technical trekking gear, standing on a rocky peak next to a fluffy white dog. Majestic snowy mountains in background. Golden hour lighting, strong rim light glowing on hair and fur, warm atmosphere. Photorealistic, 8k, incredibly detailed textures, shot on 85mm lens, f/2.8, National Geographic style, inspirational mood",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

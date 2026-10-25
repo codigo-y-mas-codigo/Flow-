@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b076346f-e748-4cb6-b692-b1b0dc00469f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:20:45.985010-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra la tercera tabla , la que esta abajo desde perfil cmo se veria ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

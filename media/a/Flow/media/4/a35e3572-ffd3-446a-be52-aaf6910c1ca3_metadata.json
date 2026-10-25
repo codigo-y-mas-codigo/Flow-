@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a35e3572-ffd3-446a-be52-aaf6910c1ca3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-03 14:40:03.042468-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "[Prompt en inglés para generar la imagen: An infographic titled \"The Digital Slang Effect on Gen Z\". The design should be modern, clean, and visually appealing, using a color palette of vibrant blues, teals, and soft purples. Incorporate abstract, subtle digital elements like glowing lines or pixelated textures in the background. The main focus will be a central graphic with three distinct sections, each representing a key aspect of slang\u0027s impact.\n\nSection 1: \"Conexión Instantánea\" (Instant Connection)\n\nVisual: Two stylized, diverse Gen Z individuals with speech bubbles containing emojis and short slang terms (e.g., \"LOL\", \"POV\", \"FYP\"). Lines connecting them to symbolize rapid communication.\nText: Small, clear text stating a statistic about speed of communication (e.g., \"75% of Gen Z prefer concise, informal communication\").\nSection 2: \"Identidad y Pertenencia\" (Identity \u0026 Belonging)\n\nVisual: A group of diverse Gen Z individuals forming a loose circle, with a subtle glow or aura around them, representing community. Icons related to social media platforms (TikTok, Instagram) are subtly integrated.\nText: A brief statement about how slang fosters group identity (e.g., \"Slang creates unique tribal codes\").\nSection 3: \"Brecha Generacional\" (Generational Gap)\n\nVisual: Two distinct figures: one representing Gen Z (modern, casual attire) and another representing an older generation (more formal, slightly confused expression). A subtle, almost invisible, barrier or question mark between them.\nText: A statistic about potential misunderstandings (e.g., \"70% of educators note negative impact on formal writing\").\nInclude smaller text boxes with brief examples of slang terms and their meanings (e.g., \"Cringe: vergüenza ajena\", \"POV: punto de vista\", \"De chill: relajado\"). The overall aesthetic should be dynamic and youthful, reflecting the Gen Z demographic.]\n\n\n}\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

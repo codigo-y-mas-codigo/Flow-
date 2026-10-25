@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3a9b116c-548b-4d3c-9639-cae79cbc7e47",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:29:54.949981-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": " el arcano del loco de  tarot de marsella y yo raider , estilo surrealista hiperreal dark red fire pero en vez de um hombre que sea mujer y su perro blanco con la lengua de fuera ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

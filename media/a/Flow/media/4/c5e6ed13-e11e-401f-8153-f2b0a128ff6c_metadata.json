@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c5e6ed13-e11e-401f-8153-f2b0a128ff6c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 08:02:33.645042-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "cambia Abarrotes San José a ABARROTES SAN JOSÉ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

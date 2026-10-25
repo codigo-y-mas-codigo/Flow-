@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a8303d75-ab80-48a2-8d50-ac82ff901514",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 11:16:38.443019-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Ultra-premium cinematic square thumbnail for exclusive advanced emotional healing tarot system, mature sophisticated audience, deep psychological transformation vibe, quiet luxury intellectual branding.Dark dramatic palette: pure black background fading to deep midnight indigo, subtle aged gold and cool ivory accents. Cinematic volumetric lighting with dramatic rim light and inner golden glow.Hero element: hyper-realistic semi-transparent holographic projection of The High Priestess (exact classic Rider-Waite-Smith figure: seated woman with veil, pomegranates, pillars) floating powerfully in center, rendered as luminous 3D hologram with glowing edges. She holds a massive ancient golden key that is actively breaking heavy iron chains wrapped around the scene. The chains have elegant engraved words fading into dust: ABANDONO • RECHAZO • TRAICIÓN • INSUFICIENCIA. Large roman numeral II floating above her with soft golden glow. NO physical card, NO white border, NO frame.Premium gold wax-seal badges in corners: top-left “SISTEMA AVANZADO Y SELECTIVO”, top-right “15 LECCIONES”, bottom-left “PARA QUIENES YA INVERTIERON EN TERAPIA”, bottom-right “RESULTADOS MEDIBLES”.Extremely large bold Spanish text with powerful glow effect:Top (huge): SISTEMA AVANZADO Y SELECTIVO\nCenter massive (strongest weight, aged gold with luminous outer glow): SANACIÓN EMOCIONAL\nBottom (powerful): Y AMOR PROPIO\n\nText in crisp ivory with metallic gold outline. Generous negative space, high contrast, hyper-realistic cinematic style, subtle film grain. The whole image screams “esto corta lo que nada más pudo romper”.Square 1:1 --ar 1:1 --v 6 --stylize 80 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

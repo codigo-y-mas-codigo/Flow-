@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "065f0216-28c1-430b-9f9d-206ee6c2576a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:47:52.398683-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background shows a skeletal figure constructed from or coated in a reflective, textured material of a golden hue, holding a large scythe. Highlights and shadows accentuate the three-dimensional form of the skeleton, which has a skull with visible teeth and empty eye sockets, facing towards the right. Red details are now reflective gold at the neck, hip, and ankle joints. The skeleton wears tattered cloth around the waist, now in shades of reflective light blue and red.\n\nThe golden skeleton is positioned amidst a field of dark foliage. Scattered within are dismembered hands and two human heads, also rendered with a reflective, textured golden material and dissolving edges appearing as sparkling particles. One head, at the bottom left, appears to be that of a young-looking individual with light blonde curly hair and a neutral expression. The other head, at the bottom right, seems older and wears a golden crown, both heads exhibiting the same dissolving effect.\n\nThe large scythe has a long handle in a reflective light yellow gold and a curved blade in reddish-orange gold. The number XIII is printed at the top center of the card. A black border surrounds the white background of the card, and the illustration is contained within this border. The edges of all elements have a dissolving quality, scattering golden particles.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

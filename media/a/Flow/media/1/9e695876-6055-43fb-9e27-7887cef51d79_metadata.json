@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9e695876-6055-43fb-9e27-7887cef51d79",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "814e1589-698d-46a2-b440-bf4a49812b18",
+    "createdAt": "2025-06-07 07:51:53.740637-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A woodcut-style illustration on a white background depicts figures with flat, bright color hues of yellow, orange, green, red, and blue, outlined in bold black linework. A skeletal figure in black armor and a helmet with a red plume rides a white horse with a black bridle and saddle. The figure faces right, holding a black banner with a stylized white five-petaled rose with a yellow center. Beneath the horse\u0027s front legs, a young girl with brown hair in pigtails, wearing a blue dress, looks up with clasped hands. To her right, a light-skinned older male figure with gray hair, wearing a yellow and green patterned robe and hat, kneels with clasped hands. Further right, another light-skinned figure wrapped in a white shroud lies on the green ground with yellow and blue vegetation and water details. In the background, a yellow sun rises or sets over a blue body of water and green land. Shadows are minimal, suggested by hatching, in the style of traditional block printing. The overall aesthetic is naive and stylized, reminiscent of early playing card designs with a smooth, matte texture.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

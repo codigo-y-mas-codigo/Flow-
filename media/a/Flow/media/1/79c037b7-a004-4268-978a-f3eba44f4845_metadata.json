@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "79c037b7-a004-4268-978a-f3eba44f4845",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 20:11:44.551736-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A high-resolution illustration of an insulin syringe icon, crafted in a translucent, glowing sculptural style, is centered against a solid black background. The icon appears to be made from curved, fluid glass with reflective surfaces. Vivid, refracted rainbow gradients, featuring blues, purples, oranges, and yellows, smoothly glide across its contours. The shape is abstract yet recognizable as an insulin syringe, possessing a high-gloss finish with soft reflections that mimic light refraction through clear material. The edges are sharply defined with a bright, luminous outline. There are no shadows, textures, or additional elements present.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

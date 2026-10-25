@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a5f17d28-2d0a-4d4b-b4cc-55210e984a2d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:58:36.290967-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital 3D rendering features a stylized male character with smooth, rounded forms. His dark blue hair is rendered with a polished finish, spiking upwards with slight curves at the tips. He has fair skin and a neatly rendered small goatee. Dark blue, rounded glasses with reflective light blue lenses frame his large, dark eyes. He wears a white, rounded jacket with three dark, smooth buttons over a textured white, high-collared scarf-like garment. His white gloves have smooth, dark accents and rounded metallic detailing at the wrists. A dark strap or harness with a polished surface crosses his chest. In his left hand, he holds a smooth, brass-colored compass with a white and black directional rose under a clear, rounded cover. The compass is slightly angled. Eight smooth, circular icons connected by thin, light blue dotted lines float around him. The icons contain white symbols: a paw print, a compass rose in a circle, a stylized flame, a speech bubble, a play button in a rounded rectangle, a stylized eye, a geometric mask-like shape, and a target symbol. The background is a clean gradient of soft blues and whites with a polished surface.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

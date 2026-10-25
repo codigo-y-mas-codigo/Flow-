@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c1ca54c6-406a-4c71-98c7-4053c49100f0",
+    "mediaTitle": "Creación de póster cinematográfico",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:30:17.472964-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Todos todos los contenedores deben de ser como el primero y. Y deben de ser ocupados por cada distinta clon. No se deben de repetir los clones cada uno tiene un número distinto. A que se vean dentro de el túnel de una forma natural como Si estuvieran levitando flotando. Todo eso será un póster para una película llamada las clones llamada ¿Dónde está lizzi? En español. Una película cinematográfica de alto presupuesto. Los créditos por el nombre de Luis Ángel Maciel Angélica y Lizzy la chatita Michelle y la mamá. Estreno 2027 marzo. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

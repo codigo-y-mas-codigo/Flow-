@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "58470eb6-c9fb-4d95-ae0d-ccb5fab9bce6",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:53:17.487248-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The diver is seated at a glass table with a microphone, raising their right hand in a wave. Bubbles emanate from their hand and ascend towards the top left. The word \"NAUTILUS\" is spelled out in large, glowing blue neon letters above the diver, flickering and slowly fading away, while bolts of lightning appear behind the text. A glowing blue seahorse, positioned to the right of the diver, appears to wave its fin as if in greeting. The background is dark with subtle electrical discharges. Another empty white chair is positioned on the right side of the frame.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d6d00f6-d45d-4e54-ab84-f63950bd9f7b",
+    "mediaTitle": "Cat walking and clearing table",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:53:57.374529-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "borra la mesa, el gatito de perfil caminando, y los logos de los productos deben ser osirits. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

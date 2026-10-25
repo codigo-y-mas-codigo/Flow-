@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "72577088-312b-4821-9ad8-369990a4ccf2",
+    "mediaTitle": "Cute small black cat barbershop",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:52:00.303086-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "incluye mas tipos de peines, tijeras y y resto de accesorios de una barbershop, no incluir silla deben verse bien presentados  y que sea un gato negro pequeño. tierno ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

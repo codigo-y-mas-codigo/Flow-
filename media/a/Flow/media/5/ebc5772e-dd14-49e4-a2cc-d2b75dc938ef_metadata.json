@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ebc5772e-dd14-49e4-a2cc-d2b75dc938ef",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 09:06:29.927699-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "High-security holographic seal, circular design, rainbow foil diffraction, micro-pattern anti-counterfeit textures. Upper arc text: \"POCKET\" in thin sans-serif font. Center text: \"BRISA\" in ultra-bold geometric sans-serif font (Montserrat Black style). Bottom text: \"80 GR\". Clean vector finish, high-definition emboss look.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

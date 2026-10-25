@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e8e95c73-9d08-4e92-bdff-60f0ccbb68d4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 07:26:08.257254-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Un set de seis stickers en 2D, de alta resolución y estilo caricatura, de la [imagen adjunta], cada uno con una expresión y pose graciosa diferente. Fondo blanco, líneas gruesas limpias, colores brillantes, sombreado estilo cómic. Cada sticker tiene un texto humorístico relacionado con su trabajo como profesora y creadora de contenido:\n\n“MODO PROFESORA ACTIVADO” (señalando hacia arriba con confianza)\n“NECESITO CAFÉ…” (cara cansada)\n“SUSCRÍBETE” (pulgar arriba)\n“¡SELFIE TIME!” (sosteniendo un móvil, sonriendo)\n“VOY A CORREGIR ESO” (con una libreta)\n“DEMASIADO FÁCIL” (haciendo el gesto de OK con sonrisa confiada)\n\nTextos en español",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a49a98b3-b470-42a3-921d-6508da9065b8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 04:02:20.268328-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage 3D snark poster logo features a luminous pink donut with female legs, an eggplant, a banana, a red chili, and a green chili, all rendered with a holographic effect. The central element is a luminous pink donut, seemingly weightless, from which two female legs emerge, clad in black fishnet stockings and black high-heeled shoes. Two hands extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. To the left of the donut, an eggplant is depicted holding a syringe. To the right, a banana is also holding a glowing syringe. Below these elements, a banana, a red chili, and a green chili are arranged. The overall style is a vintage 3D snark poster logo with a dreamlike, slightly otherworldly quality due to the holographic effect of the donut\u0027s icing. The background is a soft dark pink, complementing the colors of the subjects.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

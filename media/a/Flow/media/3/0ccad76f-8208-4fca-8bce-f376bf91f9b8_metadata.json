@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0ccad76f-8208-4fca-8bce-f376bf91f9b8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:52:17.390826-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster features an eggplant, a banana, and a green chili with white gloves, all wielding syringes and surrounded by viscous white liquid, embodying a retro, satirical aesthetic. The poster depicts an eggplant with a syringe, its tip appearing to inject or extract glowing, viscous white liquid. Beside it, a banana also holds a glowing syringe, with similar white liquid emanating from or surrounding it. A green chili, wearing white gloves, grips a syringe firmly. The overall style is reminiscent of vintage propaganda or advertising posters, characterized by bold lines, limited color palette, and a slightly distressed texture. The background is simple, emphasizing the subjects and their actions.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

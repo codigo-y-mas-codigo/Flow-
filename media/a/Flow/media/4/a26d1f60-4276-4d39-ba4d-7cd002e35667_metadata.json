@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a26d1f60-4276-4d39-ba4d-7cd002e35667",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:24:06.577727-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A dark green heart outline contains illustrations of produce and botanical elements against a white backdrop. Inside the left of the heart are three red apples with green leaves and brown stems, a cluster and two individual dark blue blueberries with some green leaves. The right side of the heart features four orange carrots with green leafy tops, a bunch of green broccoli, a red chili pepper, and four stalks of wheat with golden grains. A thick, dark green curved line on the exterior forms a partial heart or vine shape and encloses four individual flat, solid-colored leaves: a diagonal green leaf at the top, a yellow leaf pointing upwards, a central blue leaf pointing downwards with a thin, light green stem extending below it, and a horizontal red leaf to the right.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

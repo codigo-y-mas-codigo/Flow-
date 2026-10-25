@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b4a634f8-0417-4c3f-b97d-fa0d48726506",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-29 16:56:59.857521-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized flat design image on a white background depicts a human figure with subdued flat colors and a slightly slumped posture, looking down. Light grey, almost transparent circular arrows swirl subtly around the person, illustrating a self-defeating loop. Extending from the foreground, a hand with bold flat colors offers a single, vibrant green leaf, positioned in front of the person, suggesting a path to break free. The hand symbolizes compassion and the leaf represents hope or a new beginning. The overall aesthetic is a minimalist illustration with clean lines and a vector art style, emphasizing the concept of escaping negative patterns.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

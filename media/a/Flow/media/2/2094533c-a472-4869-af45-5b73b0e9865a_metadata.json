@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2094533c-a472-4869-af45-5b73b0e9865a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 10:50:31.329326-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A modern, geometric digital illustration in a minimalist, luxury style with flat, bold colors, precise shapes, and strong contrast, predominantly deep indigo and soft charcoal gray with subtle gold accents. The image is an elegant square cover for a premium tarot healing course. A subtle glowing outline of an open Rider-Waite tarot deck rests on a dark wooden surface. The central card, \u0027La Papisa\u0027 (The High Priestess), is faintly illuminated, displaying the Roman numeral II prominently in the top center and the text \"LA PAPISA\" below it, both in a large, clean Spanish font, matching the Rider-Waite style. The overall aesthetic is sophisticated, spiritual, high-end wellness, clean, and professional, conveying a modern adult introspective feel and premium branding. 1:1 aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6b56c281-94b0-4d6f-bedf-3ad8adc6d890",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 07:37:04.003939-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A full-body image of a person in a deep-sea diving suit and helmet, appearing to be swimming towards a desk and a chair. The suit is dark, with metallic accents on the helmet, and the helmet is black with a polarized visor. Bubbles are visible around the person. The person is approaching a transparent glass desk, with a silver boom microphone on it, and a white office chair. To the right of the desk, there is another empty white office chair. A glowing blue seahorse floats in the air. Behind the seahorse, the word \"NAUTILUS\" is spelled out in bright blue neon letters, with electric-like tendrils extending from the text against a dark background."
+    }
+  }]
+}

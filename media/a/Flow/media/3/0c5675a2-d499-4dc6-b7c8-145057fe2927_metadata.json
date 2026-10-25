@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0c5675a2-d499-4dc6-b7c8-145057fe2927",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-27 13:14:14.544705-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Two light-skinned adult women in a flat, vector style are positioned against a solid white background. On the left, a woman with reddish-brown hair pulled back into a low ponytail walks to the right, wearing a dark navy blue short-sleeved top with a white Peter Pan collar, a flowing midi skirt with dark navy blue and two shades of lighter blue panels, a yellow belt, and black pointed-toe shoes, carrying a red and yellow woven basket filled with red and yellow bell peppers, green leafy vegetables, a yellow fruit, and purple grapes. On the right, another woman with short, dark brown hair rides a red bicycle to the right, wearing a short-sleeved red t-shirt, dark navy blue capri pants, and red shoes; the bicycle has a rear rack holding two stacked yellow and blue rectangular containers filled with green leafy vegetables, red and yellow bell peppers, and blue items.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

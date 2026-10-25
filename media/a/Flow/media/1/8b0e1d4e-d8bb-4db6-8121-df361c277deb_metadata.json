@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8b0e1d4e-d8bb-4db6-8121-df361c277deb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 31/5/25",
+    "projectId": "4651d429-f88e-4781-83f4-6a223f5fe73e",
+    "createdAt": "2025-05-31 20:28:31.797698-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "\nPara los esquineros:\n\nDiseño vegetal minimalista en cada esquina\nLíneas muy finas y elegantes\nOpción de esquineros complementarios para páginas especiales o inicios de capítulo\nVariantes en los tres colores corporativos (verde salvia, terracota y azul lavanda)",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

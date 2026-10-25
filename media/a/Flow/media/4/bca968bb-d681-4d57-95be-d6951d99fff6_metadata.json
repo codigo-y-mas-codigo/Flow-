@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bca968bb-d681-4d57-95be-d6951d99fff6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 10:53:03.230972-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Minimalist elegant square cover, deep indigo, charcoal gray and subtle metallic gold palette, luxury spiritual wellness aesthetic, modern introspective adult vibe.Center: authentic Rider-Waite style The High Priestess (II) card, classic Pamela Colman Smith illustration with large roman numeral II clearly visible at the top, glowing softly with golden light, placed on open tarot deck with subtle glowing outline on dark wooden surface.Large premium text in Spanish (elegant serif + sans-serif mix, gold and crisp white):Superior: CURSO TAROT\nCentro grande: SANACIÓN EMOCIONAL\nInferior: Y AMOR PROPIO\n\nTexts oversized and perfectly readable even at small thumbnail size, clean composition, no extra elements, high-end branding feel, square 1:1 --ar 1:1 --v 6 --stylize 200 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

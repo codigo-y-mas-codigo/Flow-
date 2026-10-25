@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "355b4258-8442-4954-8f86-5bae932c547c",
+    "mediaTitle": "Demonic man with glowing eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 03:43:17.039426-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "allultra realistic cinematic  high detail, 8K, premium cinematic grading en ese estilo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "a4c4bad2-93cf-4188-9b7e-013db6e2f2d8"
+    }
+  }]
+}

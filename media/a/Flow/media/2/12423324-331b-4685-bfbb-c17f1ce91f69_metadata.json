@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "12423324-331b-4685-bfbb-c17f1ce91f69",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 09:13:18.654566-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "agrega en español \"Feliz y próspero año 2026 \"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

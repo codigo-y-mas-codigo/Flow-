@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3a308be7-73b8-4a0f-995f-7daf725180a2",
+    "mediaTitle": "3D emoji style no text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-07-17 23:58:00.955572-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"change to a more adult body type and position.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "56cbb2d2-1934-4a10-8704-920bdd7af787"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bc7515cd-d8f6-464f-9b3f-bc760c26d3d0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:39:57.000519-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration in the style of a Marseille Tarot card with vivid primary hues of red, blue, and yellow, along with black and white, and thick, clean black outlines defining all forms, depicts Pikachu as EL MUNDO. Shading is minimal, using simple solid black areas for depth. The background is plain white. Pikachu, with yellow fur, red cheeks, a lightning bolt tail, and black-tipped ears, joyfully dances or floats at the center of a large oval garland made of leaves or flowers. Pikachu holds two small wands or staffs. In the four corners of the card, outside the garland, are four symbolic Pokémon: a winged creature (like Togetic or a stylized Pidgey), a fiery feline Pokémon (like Litleo or Arcanine), an earthly bovine Pokémon (like Tauros or Bouffalant), and an aerial bird Pokémon (like Fearow or Pidgeot). The Roman numeral \u0027XXI\u0027 is at the top center. A black banner at the bottom displays the text \u0027EL MUNDO\u0027 in white capital letters. The composition is symmetrical and frontal, contained within a defined border.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

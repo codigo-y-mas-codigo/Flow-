@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f9c3b282-5d07-4f95-9349-7037087042bb",
+    "mediaTitle": "Girls dancing in music video",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:06:48.497881-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "using  THE FIRST PROVIDED IMAGE AS THE ABSOLUTE STARTING FRAME, AND THE SECOND PROVIDED IMAGE AS THE ABSOLUTE ENDING FRAME: GEOMETRY \u0026 ACTION: A high-energy, organic music video dance sequence. The girls from the reference images perform a synchronized but highly individualized group choreography. Each girl moves with her own distinct dancing style, energy, and physical personality on the same beat—completely avoiding robotic, identical mirrored movements. The sequence must start exactly in the pose of the first image, flow through a lively and natural dance routine where they vibe together as a group, and settle precisely into the pose of the second image at the 10-second mark. CAMERA MOVEMENT \u0026 FRAMING: Maintain a steady, consistent medium-wide shot of the dancers. No sudden zooms or extreme close-ups on faces. Keep their full dancing bodies and expressive hand gestures completely in frame to showcase the customized choreography. AUDIO, SPEECH \u0026 LIP-SYNC: The girls speak and sing naturally in Spanish, but strictly taking turns. Only one girl leads the dialogue with expressive lip movements to the camera, while the others laugh, whisper, or react with their own individual gestures, completely avoiding any synchronized talking in unison. A cheerful female voice says: \"¡Siente la energía y baila a tu propio estilo!\" ATMOSPHERE \u0026 LIGHTING: Energetic, high-contrast atmosphere integrating the glowing neon highlights and environmental colors from the reference images. Cool background lights pulse subtly to the beat. PHYSICS: Highly realistic and individualized physics; hair, clothing fabrics, and accessories on each girl react uniquely to their specific dance turns, jumps, and physical movements. STYLE: Photorealistic, professional music video style. Absolutely no text, no subtitles, no logos, no watermarks.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

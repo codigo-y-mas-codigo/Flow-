@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b45fb12f-da5a-4f34-8a36-c9a5fdddcfb3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 02:14:09.034938-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "La Arquitectura Oculta del Tarot: 4 Secretos Estructurales que lo Cambian Todo\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

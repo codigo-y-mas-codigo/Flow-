@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d955e901-e3e2-4095-919b-c4f5fcb6b5ca",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 20:55:41.981896-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized, blue and teal seahorse with a graceful, almost fantastical form, is the central focus of this image, set against a dark background. It faces a beam of light radiating from a stylized spotlight, which features delicate, brain-wave-like patterns that give the scene a surreal and slightly mystical quality. The seahorse\u0027s intricate details are emphasized by sharp contours and bold color contrasts. Beside the image, the text \u0027LAMP Research\u0027 is prominently featured, suggesting a link to a scientific or technological endeavor. The composition utilizes contrasting elements to create a visual narrative, juxtaposing the natural world with scientific curiosity, while the stylized aesthetic contributes to the overall mood of creative exploration and discovery.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

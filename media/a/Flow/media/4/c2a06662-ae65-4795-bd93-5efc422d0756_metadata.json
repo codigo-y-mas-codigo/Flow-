@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c2a06662-ae65-4795-bd93-5efc422d0756",
+    "mediaTitle": "Animal driving Formula 1 car",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:49:11.385140-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "An extremely ordinary and accidental selfie photograph taken with an iPhone. The composition is awkward, with slight motion blur, uneven lighting, and the appearance of a poorly taken spontaneous photo.\n\nThe main subject is the animal from the user\u0027s uploaded reference image. The animal maintains its real features and has its open mouth in an exaggerated expression of emotion or a funny scream.\n\nThe animal is sitting inside a Formula 1 car at top speed during a professional race. It is wearing a driver\u0027s helmet and a racing suit. The background shows other Formula 1 cars, circuit corners, blurred crowds, and an extreme sense of speed. The camera seems to have accidentally captured the moment amidst the movement.\n\nThe image should look like a casual, imperfect, and absurdly authentic selfie taken during a chaotic race.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6625b0cf-f6b0-47a6-811c-52a5b496bfc8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 13:40:25.292336-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": " design on the paper is primarily white in the upper section and features a wave-like design in dark blue and a slightly lighter shade of blue across the bottom. The dark blue color occupies the lower approximately one-third of the paper, rising with a gentle, curved line. Above this dark blue section is a lighter blue curve, which follows the contour of the dark blue, creating a layered, wavy effect. This lighter blue section is thicker on the left and tapers towards the right. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

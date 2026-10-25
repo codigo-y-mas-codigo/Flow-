@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3d1c3342-8f62-44ec-abe9-dfd8ae580b2a",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 12 - 1459",
+    "projectId": "e10a7860-7f08-4878-afaa-0d607de0ea29",
+    "createdAt": "2025-06-12 14:18:00.779754-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Divine Decree / Urban Deluge\nScene 1: Divine Announcement\nDuration: 1-4 seconds\n(VISUALS: Tlaloc, immense and majestic, materializes in the sky. Hurricane-force winds swirl around him, lifting debris and leaves. He initiates the deluge over Mexico City. His expression holds authority, a mix of satisfaction and weariness, culminating in a very mocking smile. In the foreground, under the first drops, a reporter, microphone in hand, is visibly soaked, struggling against the wind, and clearly surprised, his eyes wide as he looks up, as if hearing a direct broadcast from the heavens. The shot is cinematic, hyperrealistic, bathed in dark blue, and infused with a magical glow that highlights Tlaloc\u0027s colossal figure and the unfolding weather event.)\n(SOUND: A thunderclap right after Tlaloc appears overwhelms the ambient city noise. The roar of the wind dramatically increases. Tlaloc\u0027s voice, deep and resonant, sounds like it\u0027s coming from everywhere at once, perhaps with a slight echo effect, as if booming from the clouds themselves.)\nTLALOC (Voz profunda, resonante, con tono de regaño y una sonrisa muy burlona al final, como si se dirigiera a toda la ciudad):\n...Estoy haciendo mi chamba. Y no\u0027más no aprenden. Pero anden, sigan tirando basura.\nScene 2: The Deluge in the City\nDuration: 5-8 seconds\n(VISUALS: A series of rapid, dynamic shots show the torrent of water forcefully impacting the Torre Latinoamericana, the vast Zocalo esplanade, the iconic Angel de la Independencia, and the majestic Palacio de Bellas Artes. Streets turn into rivers, vehicles barely move, and distorted reflections of urban lights shimmer in the moving water. The rain is overwhelming. The style remains surreal, hiperrealista, in deep dark blue tones, with a cinematic and magical atmosphere that denotes nature\u0027s relentless power.)\n(SOUND: The roar of torrential rain dominates the audio, mixed with the splashing of water and the distant sound of muffled horns.)\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

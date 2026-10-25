@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0029a93d-5ed8-4452-b7ce-374bb8ddc5d1",
+    "mediaTitle": "Cat walking on barbershop table",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:50:16.716439-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "incluye mas tipos de peines, tijeras y y resto de accesorios de una barbershop moderna, exibidos elegantemmente , no incluir silla ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "45558ec2-5297-428c-b878-1d2981df37ef"
+    }
+  }]
+}

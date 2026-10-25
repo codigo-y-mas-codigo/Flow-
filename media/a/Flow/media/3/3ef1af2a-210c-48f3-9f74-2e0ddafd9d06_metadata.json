@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3ef1af2a-210c-48f3-9f74-2e0ddafd9d06",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:21:41.745370-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

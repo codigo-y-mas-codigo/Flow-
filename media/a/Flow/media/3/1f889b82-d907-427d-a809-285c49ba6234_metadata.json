@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1f889b82-d907-427d-a809-285c49ba6234",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "07396ae6-fdea-45ba-b35c-e2733a3752d6",
+    "createdAt": "2025-06-17 19:06:05.096970-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage design with a sepia-toned background and a distressed texture. The title, \"El se:o no arregla los problemas, pero de cualquier forma ocupo un buen encerron,\" is centrally placed in a bold, stylized font that appears aged. Arranged around the text are various classic emojis. From the top left, an eggplant emoji with two teardrop emojis. A peach emoji, a pig face emoji with small red devil horns, and a winking face emoji with a sweat drop. A happy pig face emoji, a face emoji with its tongue sticking out, and a peeled banana emoji. Another pig face emoji with its tongue sticking out, a light-skinned fist emoji, and a blue diamond emoji. A light-skinned bare foot emoji, a small bouquet emoji with a red rose and two yellow sunflowers, and another blue diamond emoji. A wide-smiling face emoji with closed eyes, a red chili pepper emoji, and a face emoji blowing a kiss.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

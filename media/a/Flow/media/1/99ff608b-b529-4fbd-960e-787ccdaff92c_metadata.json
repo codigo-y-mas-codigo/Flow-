@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "99ff608b-b529-4fbd-960e-787ccdaff92c",
+    "mediaTitle": "Imagen secuencia por segundo cuadro",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "04-may, 07:55 a.m.",
+    "projectId": "c5eb3850-72c6-464f-81ae-cad38f8314e4",
+    "createdAt": "2026-07-19 14:32:01.955260-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8824dced-9382-4ee4-a894-adc961055af9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 23/6/25",
+    "projectId": "e83ddd54-2ba1-446a-99bd-333cf77a9976",
+    "createdAt": "2025-06-23 03:12:54.630978-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Whimsical illustration. A person meditating cross-legged on a giant tomato, surrounded by floating vegetables, roots connecting to soil with glowing microorganisms. Above them, a storm of pill bottles and fitness trackers dissolving into butterflies. Warm colors, watercolor style, magical realism",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

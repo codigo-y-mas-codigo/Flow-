@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "656a01be-ac8e-40c4-a049-60c01061f289",
+    "mediaTitle": "Four women sitting on sofa",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:00:49.812095-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Put the four women in the image one sitting with those on the sofa.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

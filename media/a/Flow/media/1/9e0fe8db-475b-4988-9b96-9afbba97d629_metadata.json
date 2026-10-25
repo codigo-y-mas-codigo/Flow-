@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9e0fe8db-475b-4988-9b96-9afbba97d629",
+    "mediaTitle": "Minimalist shazlo for logo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2026-10-18 01:41:23.790699-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "minimalist shazlo ideal for premium logo",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6d48c8d5-8d91-43c2-b568-adde626582e6",
+    "mediaTitle": "Women dancing in ballroom",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:05:49.394838-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The four women dancing in the ballroom of image two, in total there must be the 6 women.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7ea71074-bfa8-4ece-a335-a6775e4e0677",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:40:53.117849-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A golden, three-dimensional sculpture of a lion is shown in a side profile view, sitting against a completely black background. The lion faces the left, and its mouth is slightly open. Its mane is voluminous and textured, with individual, somewhat wispy strands extending outward. The detailed body of the lion shows its musculature and form. Parts of the sculpture, particularly towards the rear and the ground beneath it, appear to be dissolving or transforming into a cloud of golden dust or particles, creating a sense of disintegration. The lighting highlights the metallic sheen of the gold, casting subtle shadows that define the lion\u0027s features. The base of the sculpture rests on a dark, reflective plane beneath the lion.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

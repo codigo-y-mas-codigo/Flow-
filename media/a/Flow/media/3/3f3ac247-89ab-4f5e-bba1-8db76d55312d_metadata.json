@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3f3ac247-89ab-4f5e-bba1-8db76d55312d",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 10:33:09.590754-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A high-contrast, wide-angle shot with a dark blue background and visible water ripples on the floor features a male diver in a black diving suit and helmet, with glowing blue accents and a golden compass on his chest, performing a dynamic salsa cumbia merengue dance. The diver moves with professional grace, his flippers adding to the rhythmic motion as he twirls and steps. Blue lightning streaks horizontally across the background, emphasizing his movements. To the left, a luminous blue seahorse stands next to a transparent table with two dark books. Bubbles rise from the top left corner, adding to the underwater ambiance. The scene is lit with vibrant blue neon lights, highlighting the diver\u0027s dance and the glowing seahorse.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

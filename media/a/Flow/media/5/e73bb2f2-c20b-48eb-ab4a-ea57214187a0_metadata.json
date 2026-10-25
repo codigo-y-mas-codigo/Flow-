@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e73bb2f2-c20b-48eb-ab4a-ea57214187a0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 00:06:38.326947-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "**Style:** Cinematic , shot on 85mm f/1.8, extremely sharp focus on the texture of the fabrics and the model\u0027s expressive, hopeful face, magazine editorial style, ultra-realistic skin texture, 8k, award-winning photography. --ar 3:4 --stylize 300",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

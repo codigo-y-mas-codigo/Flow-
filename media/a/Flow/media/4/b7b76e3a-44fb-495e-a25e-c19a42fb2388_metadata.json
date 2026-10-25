@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b7b76e3a-44fb-495e-a25e-c19a42fb2388",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-29 16:12:20.534303-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized flat design image on a white background. In the foreground, a person with soft skin tones is gently pushing away a large, rigid, cracked block labeled \"PERFECCION\" in a dull, flat grey, using one hand. The other hand of the person is open and reaching towards a path composed of small, diverse, colorful stepping stones in vivid flat colors such as green, yellow, and blue. The background features subtle, clear light blue lines representing a continuous, gentle flow. The overall aesthetic uses bold flat colors and is professional and clean.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

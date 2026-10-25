@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2d96c340-c8e5-4e6e-a370-c7000e4c9495",
+    "mediaTitle": "Animal taking selfie in combat",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:54:23.698623-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "An extremely common and poorly taken selfie with an iPhone, with no artistic intention or good composition. The image has an awkward framing, motion blur, and slight overexposure caused by uneven lighting.\n\nThe main subject is the animal from the user\u0027s uploaded reference image. The animal retains its real features and has its mouth open with an exaggerated expression of emotion, fear, or a comical scream.\n\nThe animal is sitting inside a military tank in the middle of combat. It is wearing a military helmet and the inside of the tank looks cluttered and chaotic. In the background, visible through hatches or windows, there are explosions, smoke, gunfire, and other tanks advancing across the battlefield during the day.\n\nThe photograph should feel accidental, impromptu, and ridiculously casual, like a selfie taken by mistake in the middle of war. Do not embellish, keep the fur and characteristic features of the pet, do not embellish, keep its hair identical.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

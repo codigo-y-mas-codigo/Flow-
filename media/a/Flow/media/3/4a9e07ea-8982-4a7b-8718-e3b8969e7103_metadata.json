@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4a9e07ea-8982-4a7b-8718-e3b8969e7103",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:59:11.089143-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A modern snark poster in a vibrant, high-contrast digital illustration style, featuring a luminous pink donut with female legs and hands, alongside an eggplant, bananas, and chiles, all set against a foggy, dark background with sparkling diamonds on the floor. The central focus is a luminous pink donut, depicted with a holographic effect and adorned with numerous diamonds and pink sprinkles. Dripping from its base are pink liquid and white spilled milk. Emerging from the donut\u0027s center are two female legs, clad in black fishnet stockings and black high-heeled shoes. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other a glass pipe. To the side, an eggplant is depicted holding a syringe. Next to it, a banana is shown with a bright syringe. Also in the scene are two more bananas, a red chile, and a green chile. The entire composition is set against a dark, foggy background with shimmering diamonds scattered across the floor, all rendered with bold outlines and flat or gradient fills, emphasizing strong highlights and shadows for a graphic, stylized appearance.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

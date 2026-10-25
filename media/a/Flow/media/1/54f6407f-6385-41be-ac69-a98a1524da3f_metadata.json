@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "54f6407f-6385-41be-ac69-a98a1524da3f",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:37:53.694882-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The scene unfolds underwater, with a luminous seahorse and a glowing treasure chest at the center. A diver equipped with a helmet and flippers, holding a flashlight, swims towards the treasure chest from the left. Above the diver, the word \"NAUTILUS\" is written in bright, glowing blue letters. As the diver approaches, the letters of \"NAUTILUS\" slowly become transparent, fading completely into the watery background with the gentle undulation of the water. Bubbles ascend from various points in the dark blue water, adding to the ethereal glow of the scene.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "da50d754-1a32-4a65-9253-a07e88156f9d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:33:35.268239-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster about various subjects on a stormy night, with a red-toned palette on a cream background, in the style of 1950s beauty ads. The poster features a luminous pink donut centrally placed, with pink liquid and white spilled milk dripping from its base, adorned with diamonds and pink sprinkles, and appearing weightless with a holographic icing effect. Emerging from the donut are two female legs in black fishnet stockings and black high-heeled shoes, and two hands, one holding a syringe with glowing liquid and the other a glass pipe. Beside the donut, an eggplant holds a glowing syringe, a banana holds a glowing syringe, and a red chili wears boxing gloves and holds a syringe. The background is a stormy night with a lightning bolt and abundant mist. At the top, in large, bold, arched mid-century serif font, is the headline \"YO PAS CL SLM FF\", with a smaller tagline below reading \"TU VRGN SLM ACT\". Mid-century sparkle icons are scattered around the headline.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

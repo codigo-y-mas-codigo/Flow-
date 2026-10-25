@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "79acb041-4601-4080-83f2-fc1b14a57d04",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "814e1589-698d-46a2-b440-bf4a49812b18",
+    "createdAt": "2025-06-07 07:51:53.786232-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Woodcut-style illustration: A skeletal figure in black armor and a helmet with a red plume rides a white horse with a black bridle and saddle. The figure faces right, holding a black banner featuring a stylized white five-petaled rose with a yellow center. Beneath the horse\u0027s front legs, a young girl with brown hair in pigtails, wearing a blue dress, looks up with clasped hands. To her right, an older male figure with a light skin tone and visible gray hair under a yellow and green patterned robe and hat kneels in prayer with clasped hands. Further right, another light-skinned figure lies wrapped in a white shroud. The ground is green with yellow and blue stylized vegetation and water. In the background, a yellow sun rises or sets over a blue body of water and green land. The illustration features bold black outlines and flat, bright color hues of yellow, orange, green, red, and blue on a white background, with minimal or hatched shadows. The style evokes a traditional block print with a clear, graphic quality and smooth, matte texture. The card has a light beige border.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

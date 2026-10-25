@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a16c12be-1467-4f07-a25c-42288abddd4f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "6fef30b7-74c4-4674-8525-7800bae67883",
+    "createdAt": "2025-06-03 14:44:36.205352-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An overhead shot on a plain white surface shows a small glass bowl containing a yellow granular substance, a pile of blueberries, two avocado halves each with a pit, several whole and shelled walnuts, a cut of raw red meat, a raw salmon fillet with its skin, a whole raw fish, a clear glass bottle filled with a yellow liquid and a wooden-corked stopper lying on its side, and a clear glass filled with water. The food items are arranged along the bottom edge of the frame, leaving the majority of the upper space empty. The items are spaced out with some overlap between the blueberries and walnuts. The lighting is bright and even, casting minimal shadows.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

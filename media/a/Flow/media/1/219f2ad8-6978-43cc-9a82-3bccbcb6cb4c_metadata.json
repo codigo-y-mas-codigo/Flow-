@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "219f2ad8-6978-43cc-9a82-3bccbcb6cb4c",
+    "mediaTitle": "Person hiding glowing sphere",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:17:02.820324-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Al personaje que está escondida , entre sus manos carga una pequeña  esfera de cristal de color naranja con un brillo sutil Qué intenta apagar o esconder con sus manos. Cada uno de los contenedores debe de mostrar a una personalidad distinta. La doctora tiene un semblante maligno. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

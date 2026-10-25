@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "11140ef4-1a89-44e9-8d63-392a71238bdb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 16/5/25",
+    "projectId": "39c16512-0e76-4240-a91f-3799b3de5e94",
+    "createdAt": "2025-05-16 13:02:36.984381-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An educational medical-style diagram of the lower digestive tract and anal canal, shown from a side cross-section perspective. Use clean, soft lines and pastel colors. Avoid graphic details or realism. Label key parts like rectum, anus, colon, pelvic muscles, and sphincter. The style should be minimalistic, non-sexual, and suitable for health education. Include gentle highlights around the anal canal to indicate areas of caution. White background, clinical illustration feel, but humanized and approachable.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

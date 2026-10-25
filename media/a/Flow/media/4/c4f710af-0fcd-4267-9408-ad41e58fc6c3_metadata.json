@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c4f710af-0fcd-4267-9408-ad41e58fc6c3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "da3057da-e49a-481f-a042-cbff1de63b3f",
+    "createdAt": "2025-06-24 02:55:04.429465-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A male with a light brown skin tone, a full beard, a mustache, and dark hair is depicted from the waist up, lying on a white bed. He is facing the camera and wearing a black baseball cap. His left leg is bent at the knee, with his foot resting on the bed. His right leg is extended along the bed. His body is turned slightly to the right, with his left arm bent at the elbow and resting on the bed. His penis is erect. The background is a plain wall with a light gray color.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

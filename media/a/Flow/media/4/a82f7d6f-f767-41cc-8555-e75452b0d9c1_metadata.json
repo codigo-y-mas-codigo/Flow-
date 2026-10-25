@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a82f7d6f-f767-41cc-8555-e75452b0d9c1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:34:27.029374-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster with a limited red-toned palette on a cream background depicts a luminous pink donut, an eggplant, and a banana with syringes on a stormy night with lightning and abundant fog. The central element is a luminous pink donut, seemingly weightless, from which two female legs clad in black fishnet stockings and black high-heeled shoes emerge. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. Pink liquid and white spilled milk drip from the donut\u0027s base, which is adorned with numerous diamonds and pink sprinkles, creating a holographic effect on the icing. Next to the donut, an eggplant holds a syringe, and a banana also holds a glowing syringe. Viscous, shimmering white liquid surrounds the subjects. The entire scene is set against a dark, stormy night with abundant fog and dramatic lightning strikes. The poster features a large, bold headline arching across the top in all caps, stating \"YO PAS CL SLM FF\", and a tagline below it that reads \"TU VRGN SLM ACT\", both in a mid-century serif font. A few mid-century sparkle or starburst icons are scattered around the headline.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

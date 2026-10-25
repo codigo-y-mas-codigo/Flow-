@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2312be21-4e42-4a60-b942-f1dfe2c70c72",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 07:47:24.850039-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "extra el texto de abarrotes san jose e integra el \"Atendidos por sus propietarios familia Cruz González \" texto en español. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

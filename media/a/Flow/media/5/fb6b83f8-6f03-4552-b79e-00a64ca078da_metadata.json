@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fb6b83f8-6f03-4552-b79e-00a64ca078da",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 18/3/26",
+    "projectId": "9e1b4c03-15f4-4483-94e0-6908efde722e",
+    "createdAt": "2026-03-18 07:40:41.490829-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Borra las latas y pon más bebidas fi sting",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

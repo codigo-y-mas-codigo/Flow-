@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "363faf6b-b049-4147-84fe-6c3734400290",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-27 12:56:44.798118-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The scene opens with a static full shot, showcasing two distinct scenarios side-by-side against a plain white background. On the left, a fair-skinned adult female with shoulder-length hair, one half blonde and the other dark brown, stands facing the viewer. She is dressed in a short-sleeved blue and black dress with a white collar and holds a square orange crate filled with vibrantly colored fruits and vegetables. The crate has a yellow interior and she grips its bottom edge with both hands. To the right, a fair-skinned adult female with dark hair pulled back in a low ponytail is riding a red bicycle. She is seen in profile, facing left, with her feet on the pedals and hands on the handlebars. She wears a yellow long-sleeved shirt over a red sleeveless top, blue pants, and red shoes. A matching orange crate filled with similar produce is attached to the rear rack of the bicycle.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

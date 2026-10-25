@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b08c6616-76ed-49b3-95a8-47a888f28376",
+    "mediaTitle": "Goku transforming Super Saiyan E…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 03:03:56.049241-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of the image prompt:\n\n\"Make it in 918 format.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "7f11701d-101b-48ab-8cfc-5a7989f28d1a"
+    }
+  }]
+}

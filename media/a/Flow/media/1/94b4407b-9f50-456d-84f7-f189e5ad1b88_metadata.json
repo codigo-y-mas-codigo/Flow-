@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "94b4407b-9f50-456d-84f7-f189e5ad1b88",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:53:57.137017-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una habitación obscuro con un líquido blanco viscoso en toda la pared blanca. Una cama con diamantes y encima una jeringa, ambos con el líquido blanco viscoso. Humo y nubes blancas dan un aire de misterio y lujo, todos infundidos con el líquido blanco viscoso.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "87a7b77a-afe0-4cce-a9a2-4649c48bbf08",
+    "mediaTitle": "Doctor checking floating human c…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:04:07.617377-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Cambi tapia la bruja y a la payasa hasta el fondo y agrega a la que parece abogada y a la deportista al frente. Tengo que está vacío a una bailarina",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "502c74f7-8bdb-40eb-b587-351c182a36d2"
+    }
+  }]
+}

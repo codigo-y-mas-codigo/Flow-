@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2666454b-3c8d-413b-acba-e1fc6449fe29",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:25:29.879991-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, inspired by 1950s beauty ads with a limited red-toned palette on a cream background, depicts a luminous pink donut, an eggplant, and glowing white viscous liquid under a night sky with abundant lightning and mist, with a headline \"ACT PAS SLM FF\". The stylized, engraved illustration in the center features a luminous pink donut with pink liquid and white spilled milk dripping from its base, adorned with diamonds and pink sprinkles. Two female legs, clad in black fishnet stockings and black high-heeled shoes, emerge from the donut\u0027s center. Two hands also extend from the donut, one holding a syringe with glowing liquid, and the other holding a glass pipe. Beside the donut, an eggplant holds a syringe, and glowing white viscous liquid is present. The overall impression is one of lightness and airiness, with a dreamlike, slightly otherworldly holographic effect. The dark pink and red-toned background softly complements the donut\u0027s color, maintaining a feeling of delicate sweetness and ethereal beauty.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

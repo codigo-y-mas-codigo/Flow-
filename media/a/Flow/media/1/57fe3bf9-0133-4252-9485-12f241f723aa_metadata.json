@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "57fe3bf9-0133-4252-9485-12f241f723aa",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-13 20:59:20.286644-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally created image features a central illustration of two stylized hands clasped in a fist bump. The hand on the left is outlined in white with a subtle gradient of light blue on the palm side and three white lines indicating knuckles. The hand on the right is filled with a gradient of light blue, with the thumb and side of the index finger outlined in white where they overlap the other hand. Behind the hands is a stylized representation of a brain, the left half outlined in bright red neon and the right half in vibrant purple neon. Above the hands and brain, the words \"FISTING CIENCIA\" are in a simple, uppercase white font. Below them, \"FISTING ONCCENCIA\" is in the same style. The background is a dark, speckled purple, like a night sky with scattered light particles. A glowing blue electrical cord wraps around a light reddish-brown clenched fist that is positioned centrally, behind and slightly overlapping the stylized hands. The cord originates from behind the fist, wraps around the forearm and hand, and extends upward.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

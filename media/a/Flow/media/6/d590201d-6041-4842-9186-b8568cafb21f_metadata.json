@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d590201d-6041-4842-9186-b8568cafb21f",
+    "mediaTitle": "Goku eats taco al pastor",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:01:59.018400-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "allultra realistic cinematic earthy tones.  high detail, 8K",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "6d8e6219-f13d-40a5-ada8-140f2735b615"
+    }
+  }]
+}

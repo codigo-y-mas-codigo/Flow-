@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d7468b62-b49e-4db3-ae77-03d1455f849d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 14:15:00.326446-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A solemn woman in a crimson robe sits upright on a marble throne. In one hand she holds a long, gleaming sword; in the other, perfectly balanced brass scales. Her face is calm but immovable, her eyes covered with a golden blindfold.\n\nSetting: A marble hall with a tall arch behind her, columns disappearing into shadow.  \nLighting: Symmetrical spotlight from above, casting perfect dual shadows on each side.  \nExpression: Absolute neutrality. No anger, no mercy — only balance.\n\nAtmosphere: Everything around her is still, heavy with silence. Dust floats like time itself has slowed.oo",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

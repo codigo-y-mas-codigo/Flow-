@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f723fa0e-89dc-4a8b-a6ee-279c0c2ba644",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:01:00.324829-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, printed in a limited red-toned palette on a cream background, features a luminous pink donut and an eggplant with a syringe. The poster has a large, bold headline that arches across the top in all caps, reading \"SHOTS FIRED, SUGAR CRAVED.\" Beneath that, a tagline in stylized font states, \"A SWEET ESCAPE OR A PRICKLY SITUATION?\" The luminous pink donut, appearing almost weightless with a dreamlike, slightly otherworldly quality due to its holographic shimmer, has tiny, brightly colored, almost translucent sprinkles scattered across its icing. Its base is a barely visible, soft golden hue. Next to the donut, an eggplant holds a syringe. Both subjects appear as stylized, engraved illustrations in the center of the poster, looking slightly off to the side with neutral or sassy expressions. A few mid-century sparkle or starburst icons are scattered around the headline. The poster is finished with a funny footer line or two at the bottom, in a retro vintage font.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

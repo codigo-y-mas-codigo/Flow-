@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2e5705af-b746-4186-8a86-b9ac9ea9c478",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:58:58.893340-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A chibi plushie depicting a young-adult-appearing man with light skin tone and curly, light-colored fabric hair emerges from beneath a wide-brimmed fabric hat. The hat crown is striped with orange and white soft fabric, and the brim is red fabric outlined in yellow fabric. The plushie wears a fabric tunic vertically divided, the left side (viewer\u0027s left) blue with a yellow fabric sleeve and the right side red with a blue fabric sleeve. A yellow and blue fabric belt encircles the plushie\u0027s waist. Its legs are clad in blue fabric tights and its shoes are red fabric.\n\nThe plushie holds a thin, golden-yellow soft fabric object, possibly a wand or a rod, in its raised right plushie hand. Its left plushie hand rests on a light brown soft fabric wooden table standing on four legs. On the table are various soft fabric objects: a golden cup, a red cup, several golden coins or discs, two knives (one with a black fabric handle and one with a white fabric handle), and a pouch or bag. The chibi plushie is centered and uncropped, sitting on a plain white background with even, soft lighting, as if for a product listing.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

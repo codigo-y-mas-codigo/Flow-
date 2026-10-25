@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4ada439a-cb69-4b44-a1b9-bf1545807975",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:39:51.034635-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster in an optical illusion style, with a black and white color palette, displays surreal subjects against a stormy, misty night background. The poster features a luminous donut with pink liquid and white spilled milk dripping from its base. Adorning the donut are numerous diamonds and pink sprinkles, all rendered in a high-contrast black and white optical illusion style. Emerging from the donut\u0027s center are two female legs, clad in black fishnet stockings and black high-heeled shoes. Two hands also extend from the donut, one holding a syringe and the other holding a glass pipe. Next to the donut, a black and white optical illusion eggplant holds a syringe, and a black and white optical illusion banana holds a glowing syringe. The background depicts a night sky with a lightning bolt and abundant mist. The poster includes the headline \"yo pas cl slm ff\" and the text \"tu vrgn slm act\" below the subjects. The overall image has a precise, almost mathematical approach to line work, resulting in a clean and graphic quality.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

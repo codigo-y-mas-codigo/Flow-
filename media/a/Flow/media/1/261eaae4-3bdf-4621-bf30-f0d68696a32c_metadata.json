@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "261eaae4-3bdf-4621-bf30-f0d68696a32c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 00:33:36.751795-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": " middle-aged woman standing in a warm, naturally-lit kitchen. She has long, straight silver-gray hair parted slightly off-center, soft wavy texture near the ends. Her face is round with soft cheeks, medium-sized almond-shaped brown eyes, arched eyebrows, medium-length eyelashes. She wears thin metallic glasses and gold hoop earrings. Her nose is slightly rounded at the tip, lips are full and relaxed in a light smile, and her skin is light beige with smooth texture. No facial hair. Neck is short and sturdy, shoulders are relaxed. She wears a light beige cardigan over a soft gray V-neck blouse.\n\nThe kitchen has a cozy, rustic Mexican-department style with pueblo-inspired details: hand-thrown ceramic pots, wooden shelves, warm earthy tones, white brick tile backsplash, and soft shadows from indirect natural light.\n\nOn the kitchen bar in front of her are holistic nutrition ingredients: a bunch of bananas, apples, strawberries, a glass of milk, mixed seeds (chia, flax, sunflower), a piece of raw salmon, leafy greens (like kale or spinach), and a few seasonal vegetables (like zucchini or tomato). No processed food. Remove modern plastic items. Keep everything in warm, soft tones and gentle focus, like taken with a DSLR camera in natural daylight. Background slightly blurred, subject in sharp focus.\n\nShot should resemble a professional course cover image, authentic and calm atmosphere, vibrant but realistic colors. The person’s face must stay untouched, unmodified.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

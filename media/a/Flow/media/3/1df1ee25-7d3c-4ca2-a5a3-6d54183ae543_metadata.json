@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1df1ee25-7d3c-4ca2-a5a3-6d54183ae543",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 21:39:04.881612-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A highly stylized, abstract logo where a seahorse and a lamp are seamlessly fused into a single, flowing form, evoking a sense of tranquility and innovation. The lamp\u0027s soft, ethereal light is suggested by radiating lines in a gradient of teal and blue, emanating from the center of the fusion. The seahorse\u0027s form is subtly hinted at through elegant curves and implied shapes, blending seamlessly with the lamp\u0027s structure. The color palette is strictly limited to shades of blue and teal, emphasizing a sense of calm and depth. Clean lines and a minimalist aesthetic dominate the design, with a focus on conveying a sense of intellectual curiosity. The text \u0027LAMP Investigación Neurológica\u0027 is artfully incorporated into the design, subtly woven into the flowing lines, suggesting a connection between the visual and the institution\u0027s research in neurology. This sophisticated minimalist design is suitable for a professional, modern, and intellectual brand identity.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

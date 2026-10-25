@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e38d20fa-d6d3-4ee2-8d76-a58050476988",
+    "mediaTitle": "Diseñar logotipo minimalista de …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:15:32.796259-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "una iamgen en español que parezca una estetica (para humanos) , darkgold minimalista, debe destacar el logo osiris estetica . incluye la palabra estetica osiris y haz minimalista el logo . textos en español. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

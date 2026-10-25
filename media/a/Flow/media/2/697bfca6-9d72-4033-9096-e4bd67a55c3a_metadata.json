@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "697bfca6-9d72-4033-9096-e4bd67a55c3a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 15:01:04.556909-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A three-dimensional rendering of a yellow circular emoji with wide, round white eyes, black pupils looking slightly upward and to the left, thick black arched eyebrows, and a wide open mouth revealing a pink tongue and dark interior sits on a reflective white surface against a stark white background. A small, round, light pink blush mark is visible on its left cheek. The emoji has two small, rounded yellow appendages extending from its sides. The left appendage is positioned near its mouth, with the tips of the digits touching its lower lip. The right appendage is extended slightly behind the emoji. The surface beneath the emoji reflects its form with a subtle gradient, suggesting a light source from above. The background is completely plain and white. A smiling yellow emoji with closed eyes, arched brown eyebrows, and a wide white smile showing upper teeth has a hand raised to its left cheek. The emoji has a rounded body and is wearing pink underwear with blue polka dots and a light blue flower at the center front. The emoji is positioned on the reflective white surface.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

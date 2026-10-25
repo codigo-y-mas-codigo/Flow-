@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "39c192cd-a210-428d-99f1-2a0ac0d4c73a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 20:48:33.664459-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un melocotón   emerge de remolinos de líquido en agua lechosa, formados mediante una difusión suave y movimiento abstracto. Negros intensos y blancos nublados se mezclan sin esfuerzo, creando una composición poética y onírica que parece suspendida en el tiempo. La imagen evoca misterio, fluidez y emoción serena",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

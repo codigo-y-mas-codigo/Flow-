@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d9d10f27-d881-40c2-bdfa-f50ebba93754",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-13 09:55:15.920786-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An overhead shot shows printable tarot journal pages and a bound journal arranged on a textured, light brown surface resembling rustic wood. At the top, a page with a dark beige border reads \"Tarot Journal\" in a stylized, dark brown serif font. Below is an illustration of a pale-toned hand holding three tarot cards with beige and brown geometric and celestial designs.\n\nAround this page are various printable sheets. To the left: a page titled \"The Empress\" with text and a small, colorful illustration of a crowned figure with a scepter; a page labeled \"Card of the Day\" with sections for date, focus, and intentions; and edges of pages hinting at \"Decision-Making\" and other spreads.\n\nTo the right: a \"Manifestation Spread\" sheet with boxes and prompts; an \"Intention Spread\" page with card areas and notes; and edges of more pages.\n\nAbove these items, \"TAROT\" is in large, decorative, dark brown serif font. Below, \"JOURNAL AND GUIDEBOOK\" is in smaller, clean, dark brown sans-serif font, followed by \"190 Page Bundle | Printable | US Letter\". The lighting is soft and even, with minimal shadows.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

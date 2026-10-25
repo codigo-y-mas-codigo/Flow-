@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "37167661-9354-4025-b02f-a569ea984bb2",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:29:16.441005-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The camera slowly pans to the left, revealing a male scuba diver, dressed in a black wetsuit with blue accents and a vintage-style diving helmet, who gently opens a glowing treasure chest at the bottom of the ocean. Bright blue light emanates from the chest, illuminating the surrounding area. An anthropomorphic seahorse, glowing with a soft blue light, happily swims in circles near the diver, its tail curling and uncurling. Bubbles gently stream from the open treasure chest and from the diver\u0027s helmet. The diver\u0027s flippers subtly move back and forth, propelling him slightly through the water.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

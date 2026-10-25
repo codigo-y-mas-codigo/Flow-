@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c45b04dc-ef99-4366-b3c0-d15e93d31919",
+    "mediaTitle": "Designing minimalist Osiris hair…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:16:57.131436-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "una iamgen en español que parezca una estetica de cortes de cabello (para humanos) , darkgold minimalista, debe destacar el logo osiris \" estetica\". incluye la palabra estetica osiris y haz minimalista el logo . textos en español. incluye elementos de una estetica de corte de cabello ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

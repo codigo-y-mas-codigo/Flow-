@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a5bdf3f7-9849-4e04-a778-6628a6a2b653",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:49:13.987021-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster digitally illustrated with bold outlines and high contrast, depicting a luminous pink donut, an eggplant, a banana, and glowing white viscous liquid set against a stormy night with lightning and abundant fog. A luminous pink donut, cartoonishly rendered with bold outlines, sits centrally. Pink liquid and white spilled milk drip from its base. Numerous diamonds and pink sprinkles adorn the donut, depicted with sharp edges and a consistent aesthetic. Two female legs, clad in black fishnet stockings and black high-heeled shoes, emerge from the donut\u0027s center. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other a glass pipe. An eggplant with a glowing syringe and a banana with a glowing syringe are positioned alongside the donut. Glowing white viscous liquid is also present. The background is a dramatic night scene with a lightning strike illuminating the abundant fog, all rendered with a limited spectrum of warm oranges and cool blues/blacks, exhibiting strong highlights and shadows without subtle transitions.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

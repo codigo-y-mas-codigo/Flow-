@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "990b4e30-087d-4ab0-be11-a47404b03fda",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:55:30.755859-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital painting with sharp, clean lines and smooth gradients depicts three instances of a cartoon male character. Each character has black spiky hair and fair skin tone. They are seated cross-legged and wear similar martial arts uniforms rendered with a three-dimensional feel, in muted tones of orange and blue secured with a blue sash. The uniforms feature a circular emblem with black text on the left chest and are complemented by blue wristbands and blue shoes. Soft, diffused lighting with minimal shadows enhances the smooth surfaces.\n\nThe character on the left has both hands covering their eyes, their mouth is closed, and their gaze is directed downwards. The central character has both hands covering their ears, a closed mouth, and is looking forward. The character on the right has both hands covering their mouth, with their eyes open and looking forward. The overall rendering exhibits crispness and high definition.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

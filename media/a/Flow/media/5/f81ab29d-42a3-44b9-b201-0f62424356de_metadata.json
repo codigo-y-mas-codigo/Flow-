@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f81ab29d-42a3-44b9-b201-0f62424356de",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 10:23:50.593999-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "In a dramatic underwater dance, a wide-angle shot captures the diver, clad in a vintage metal helmet and dark diving suit, as he performs the Macarena. The diver\u0027s movements are fluid and slightly exaggerated, enhanced by the slow-motion effect of the water. Bubbles ascend from his helmet, adding to the dynamic visual. The neon blue text, \"Que suene la musica DJ,\" pulsates with the rhythm, casting a glow on the surrounding water. A translucent, glowing blue seahorse hovers to the right of the diver, subtly shaking as if laughing, its silhouette shimmering in the ethereal light. Lightning bolts of neon blue light crackle across the dark, high-contrast background, emanating from the pulsating text. A glass table, holding a microphone, reflects the neon light from above, creating a captivating play of light and shadow. The entire scene is bathed in a cool, deep blue light, with subtle rays of light filtering through the water from an unseen source above, creating a moody and surreal atmosphere.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

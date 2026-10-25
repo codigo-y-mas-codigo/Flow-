@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ea4816c8-fcd2-4882-b0b4-66ad8473c1cd",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "0bd31fde-efd6-47a6-a6f2-b468ae8db602",
+    "createdAt": "2025-06-25 23:56:49.622441-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An 8-second hyper-realistic and cinematically immersive underwater video clip, filmed with a RED V-Raptor cinema camera inside a Nauticam underwater housing using a 24mm wide-angle anamorphic lens. The camera executes a slow, smooth circular tracking shot orbiting a majestic, massive formation of giant, translucent, glowing blue quartz crystals rising from a circular stone platform in a vast, dark underwater cavern. The crystal emits a powerful, pulsating blue light, creating dramatic, soft-edged moving shadows and shimmering caustic light patterns on the cavern walls. Visible particulate matter (subtle marine snow) drifts slowly in the deep water. A fine layer of cinematic film grain is present, with a deep, rich cinematic teal and orange color grade. The scene features a 3D rendering of an emoji-like character with a yellow, spherical head and body, tilting its head left, with large round black eyes looking left, short thick black arched eyebrows, and rosy red blush marks on its cheeks. Its left hand is raised to its mouth, thumb and index finger touching the chin and lower lip. The body is spherical, behind the head, segmented with a distinct round shape resembling buttocks, and two small circular black indentations on the rear. The character appears partially submerged in a shallow puddle of white, milky liquid, with droplets visible on the reflective white surface. Audio includes a constant low-frequency rumble of immense water pressure, a powerful, resonant, bass-heavy hum from the crystal synchronized with its pulsing light, and an epic orchestral score with deep bass notes and a powerful choir, growing to a crescendo at the 8-second mark. 16:9 aspect ratio, 1080p resolution.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "88a945a0-b2b4-4ce1-9160-9cd9dc8ae525",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:00:44.245469-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una berenjena con una jeringa ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

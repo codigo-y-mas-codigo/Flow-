@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a65e8d51-9589-49d7-b72b-e25f756c135f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 16:24:07.721359-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A person yawning with tiredness, then a quick transition to someone smiling and full of energy. The scene should convey a before-and-after effect of energy levels. Text overlay: \"¿Cansado de sentirte sin energía?\"\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

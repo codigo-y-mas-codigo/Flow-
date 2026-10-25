@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9bfe0784-b9e5-4d40-9385-dc2e2e2e64e2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:51:09.288178-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un chile verde con guantes blanco empuñando ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

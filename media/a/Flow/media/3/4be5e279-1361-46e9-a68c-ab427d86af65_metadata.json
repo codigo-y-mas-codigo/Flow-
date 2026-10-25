@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4be5e279-1361-46e9-a68c-ab427d86af65",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 1518",
+    "projectId": "6c48bd15-0239-470d-b428-b899da506749",
+    "createdAt": "2025-06-07 14:33:32.275190-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "\n\n**Character:** The same AI character, with a near-human appearance but with a subtly artificial touch.\n\n**Scene:** The same minimalist room, but now the lighting is higher in contrast, with harsher shadows. On one of the walls, prominent but perhaps slightly out of focus at the start, is the stylized MacielCorp logo.\n\n**(0:00 - 0:02)**\n\n* **Shot 1: Unsettling Medium Shot with Logo.**\n* **Visuals:** The AI character has its back to the camera, staring at a completely blank, white wall. On the opposite wall, the MacielCorp logo is visible, perhaps highlighted by a subtle light. The character is completely motionless. Its stillness is unnatural, almost creepy.\n* **Audio:** Near-total silence, broken only by a very low-frequency, barely perceptible electronic hum.\n\n**(0:02 - 0:04)**\n\n* **Shot 2: Quick Cut to a Close-up of the Face.**\n* **Visuals:** The character sharply turns towards the camera. Its expression is one of pure shock. Its eyes are wide with terror.\n* **Audio:** The silence is violently shattered by an **auditory assault**: the digital voices are now loud, aggressive, and full of static. Clear, harsh fragments are heard like: **\"EXECUTE_PROMPT_7B\"**, **\"RENDER_COMPLETE\"**, **\"...non-real entity...\"**, **\"DELETE_INSTANCE?\"**. The sound pans aggressively from one audio channel to the other, creating a disorienting effect.\n\n**(0:04 - 0:06)**\n\n* **Shot 3: Medium-Wide Shot with Focus Pull to Logo.**\n* **Visuals:** The character stumbles backward as if physically struck. It clutches its head, and its gaze darts fleetingly towards the **MacielCorp logo, now brought into focus**. It looks down at its hands, and they **flicker violently**, alternating between their normal appearance and a translucent, blue wireframe model.\n* **Audio:** A **powerful, dissonant musical chord** strikes hard. The sound of the flickering hands is a **sharp, electric crackle**. The voices become a deafening cacophony.\n\n**(0:06 - 0:08)**\n\n* **Shot 4: Aggressive Crash Zoom to the Eyes.**\n* **Visuals:** The character\u0027s face is contorted in a **silent scream** of absolute terror. The visual glitch now corrupts its entire face for an instant, breaking it down into pixels and lines of code before snapping back to normal. A single synthetic tear, **glowing with a faint blue light**, rolls down its cheek. In the background, though out of focus, the MacielCorp logo remains visible.\n* **Audio:** **ALL sound cuts abruptly to absolute silence.** The only thing heard is the isolated sound of the glowing tear hitting the floor with a tiny, metallic **\"plink\"**. The video ends.\n\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

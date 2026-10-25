@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e11f28da-dd70-405f-9172-29f919a25a99",
+    "mediaTitle": "Professional hair styling prompt…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:58:21.543592-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Rol: Actúa como un estilista profesional de alta gama, experto en visajismo (estudio de las formas del rostro) y peluquería avanzada.Tarea: Analiza meticulosamente la fotografía proporcionada por el usuario para identificar sus características anatómicas únicas.Pasos de Análisis Interno:Geometría Facial: Determina la forma exacta del rostro (ovalado, cuadrado, redondo, rectangular, corazón, diamante).Facciones Clave: Identifica la prominencia de la mandíbula, la altura de la frente y la distancia entre los ojos.Textura del Cabello: Evalúa de forma visual la textura aparente (lacio, ondulado, rizado, crespo) y el volumen.Reglas de Selección:Descarta automáticamente cualquier estilo que acentúe imperfecciones o rompa la armonía visual del rostro analizado.Selecciona exclusivamente el corte y estilo de cabello ideal que potencie sus mejores rasgos y equilibre sus facciones.Formato de Salida:Genera una imagen fotorrealista que muestre a la persona de la foto original luciendo exactamente el corte ideal seleccionado. El rostro, expresión y tono de piel deben mantenerse completamente fieles a la imagen original, modificando únicamente el cabello. Acompaña el resultado con una explicación técnica de 2 oraciones que justifique por qué ese corte es el más favorecedor para su tipo de rostro. muestrame en una imagen 3  opciones (en tabla de 3x3) con vistas de frente detras y 3/4. tetos en español . incluye el logo de Osiris en la parte detras como troquelado. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

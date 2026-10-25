@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bce05422-b93a-4afb-92a9-b5e5c4e47d5c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:07:11.342754-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Ultra-premium minimalist square thumbnail for exclusive advanced emotional healing tarot system, sophisticated adult audience, quiet luxury wellness branding with intellectual depth.Dark elegant palette: midnight indigo, charcoal black, subtle aged gold and soft ivory. Cinematic studio lighting with soft highlights and deep shadows.Hero composition: elegant mockup of a premium physical product on a dark wooden surface — a luxurious hardcover book titled “Tarot para Sanación Emocional y Amor Propio” lying slightly open, next to a sleek black tablet or high-end smartphone displaying the course interface with the holographic High Priestess (II) glowing on screen. The book has minimalist gold foil stamping on the cover with large roman numeral II. Soft golden light reflecting off the gold details, creating premium unboxing feel.Extremely large, bold, high-impact Spanish text with luxury typography and glow effects:Top (sharp and exclusive): PROGRAMA EXCLUSIVO DE 15 LECCIONES\nCenter massive (very large, powerful weight, aged gold with luminous glow): SANACIÓN EMOCIONAL\nBottom (strong and clear): Y AMOR PROPIO • SISTEMA AVANZADO\n\nAdditional small elegant text at bottom edge: “Para quienes ya hicieron el trabajo profundo”Clean professional composition, generous negative space, high-end product photography style, subtle reflections and material textures (matte book cover, glossy screen). No clutter, no mystical extras. Feels like a high-ticket physical + digital premium product for serious personal growth.Square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 80 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

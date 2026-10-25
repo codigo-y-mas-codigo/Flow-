@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "620e9899-2642-4526-bc18-c99a212505cc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:01:01.243307-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, inspired by 1950s beauty ads, printed in a limited red-toned palette on a cream background, showcases a luminous pink donut and an eggplant with a syringe. The poster features a large, bold headline at the top that reads, \"SWEETER THAN YOUR EX, AND TWICE AS LOYAL,\" arched across in all caps in a mid-century serif font. Beneath the headline, a tagline in a stylized font states, \"Indulge Yourself.\"\n\nThe stylized, engraved illustration in the center of the poster features a luminous pink donut with subtle holographic shimmer and tiny, bright, translucent sprinkles, appearing almost weightless with a soft golden base peaking through the translucent icing. Beside it, an eggplant with a syringe inserted into it. Around the headline, a few mid-century sparkle and starburst icons add flair. At the bottom of the poster, the funny footer line \"Still buffering, mentally ooo\" is present. All fonts feel like a throwback print ad, and the color palette is limited to retro vintage tones.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

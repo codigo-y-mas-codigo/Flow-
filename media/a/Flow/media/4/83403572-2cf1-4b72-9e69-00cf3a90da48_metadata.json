@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "83403572-2cf1-4b72-9e69-00cf3a90da48",
+    "mediaTitle": "Crear en metal azul 3D",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:07:56.516428-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "hazlo en estilo 3d metalico azul. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

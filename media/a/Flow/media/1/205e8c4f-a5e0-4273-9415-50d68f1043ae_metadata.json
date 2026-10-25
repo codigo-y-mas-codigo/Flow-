@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "205e8c4f-a5e0-4273-9415-50d68f1043ae",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 19 - 0014",
+    "projectId": "0c647195-0f50-494d-bc5d-42109fdc5f20",
+    "createdAt": "2025-06-18 23:51:31.485372-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Subject: Paco, holding phone up, pointing at it with accusing eyes.\nContext: Same living room, tense atmosphere.\nAction: He says, “¡Mira ma‑ma, mira ma‑ma, miraaaa!” wildly gesturing toward the phone.\nStyle: Exaggerated Enchufe TV humor, slightly overacted.\nCamera: Slow motion zoom in on Paco’s expression.\nComposition: Mid shot showing upper half of his body.\nAmbiance: Dramatic buildup music intensifies, comedic sting at end.\nAudio: Paco’s exclamation in Spanish. No subtitles!\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

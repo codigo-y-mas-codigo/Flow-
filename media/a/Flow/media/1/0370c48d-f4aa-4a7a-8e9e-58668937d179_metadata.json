@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0370c48d-f4aa-4a7a-8e9e-58668937d179",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-28 00:33:07.612860-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Quick, clean cut from the previous dim office scene. Close-up on a hand (the same woman\u0027s hand, now looking vibrant and healthy, perhaps with a simple, natural bracelet) holding a small handful of fresh, brightly colored berries (raspberries, blueberries, or strawberries) or a segment of a vibrant orange. The lighting is warm, natural, and inviting. Focus on the freshness and vividness of the food. Realistic style.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

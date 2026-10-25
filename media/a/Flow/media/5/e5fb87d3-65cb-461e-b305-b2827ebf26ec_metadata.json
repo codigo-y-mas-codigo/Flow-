@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e5fb87d3-65cb-461e-b305-b2827ebf26ec",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 23/6/25",
+    "projectId": "e83ddd54-2ba1-446a-99bd-333cf77a9976",
+    "createdAt": "2025-06-23 03:12:54.524211-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "\"Surreal digital art. A human silhouette filled with a vibrant ecosystem: rivers as veins, trees as lungs, glowing fireflies as neurons. Outside the silhouette, a gray mechanical city with gears and wires. The contrast between vibrant nature inside and cold machinery outside. Soft light, hyper-detailed, 8k",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

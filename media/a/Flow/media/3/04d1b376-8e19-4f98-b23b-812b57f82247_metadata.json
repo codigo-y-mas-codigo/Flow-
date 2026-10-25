@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "04d1b376-8e19-4f98-b23b-812b57f82247",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:25:30.270124-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style snark poster, printed in a limited red-toned palette on a cream background, features a luminous pink donut, an eggplant, and white viscous liquid under a stormy night sky with abundant fog and a lightning bolt. The poster\u0027s headline, \"ACT PAS SLM FF,\" arches across the top in a large, bold, mid-century serif font. A luminous pink donut, adorned with numerous diamonds and pink sprinkles, appears weightless in the center, with pink liquid and white spilled milk dripping from its base. Emerging from its center are two female legs clad in black fishnet stockings and black high-heeled shoes, with two hands extending, one holding a syringe with glowing liquid and the other a glass pipe. An eggplant is visible, holding a syringe, and gleaming white viscous liquid is present. The overall impression is one of ethereal beauty, with a dreamlike, slightly otherworldly quality due to the holographic effect of the icing. A lightning bolt dramatically pierces the dark, foggy night sky in the background, adding to the poster\u0027s vintage snark aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

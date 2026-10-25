@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "655a96f6-5067-43b3-a51d-a0cb6ef686b8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-14 02:13:15.840471-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "“Clean line-art logo for \u0027Fisting ConCiencia\u0027, where a minimal stylized brain is partially wrapped by a rose vine, from which emerges a closed fist. Behind it, a peach with symmetrical cuts evokes anatomical depth. Use soft pastel tones: light purple, muted red, and white over black. Font: minimalist serif. Tone: elegant, scientific, intimate — perfect for a sex-ed podcast or publication.”",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

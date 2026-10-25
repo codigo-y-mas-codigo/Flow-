@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b74fd7e4-051b-48d7-92c4-bfb96eaeea92",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:54:43.911538-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster features a banana, a red chili, a green chili, and an eggplant in a humorous arrangement. The poster depicts a banana with a slight curve, a bright red chili pepper with a pointed tip, and a vibrant green chili pepper, also with a pointed tip. An eggplant, dark purple and oval-shaped, completes the quartet. The overall style is reminiscent of vintage advertising, with aged paper textures and classic typography, conveying a snarky or witty message through the composition of these produce items.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

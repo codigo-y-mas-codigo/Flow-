@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6a463025-4e3d-4c07-8753-51f11f7c1e7b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Ingredient Archive",
+    "projectId": "bdcb6e8b-3226-494c-aa5f-a94f721_backfill",
+    "createdAt": "2025-06-26 19:21:57.638257-07",
+    "modelName": "Other",
+    "dimensions": {
+      "width": 1365,
+      "height": 768
+    }
+  }]
+}

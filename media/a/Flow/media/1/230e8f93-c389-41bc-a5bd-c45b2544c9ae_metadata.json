@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "230e8f93-c389-41bc-a5bd-c45b2544c9ae",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:32:54.671483-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style snark poster, in a limited red-toned palette on a cream background, features a luminous pink donut, an eggplant, a banana, and a red chili with a syringe, set against a stormy, foggy night. The poster has a large, bold headline \"YO PAS CL SLM FF\" arched across the top in all caps, and a tagline \"TU VRGN SLM ACT\" below it, both in a mid-century serif font. Scattered mid-century sparkle icons add flair.\n\nIn the center, a stylized, engraved illustration of a luminous pink donut appears almost weightless, with a dreamlike, slightly otherworldly quality due to the holographic effect of its icing. Pink liquid and white spilled milk drip from its base. Adorning the donut are numerous diamonds and pink sprinkles. Emerging from the donut\u0027s center are two female legs, clad in black fishnet stockings and black high-heeled shoes. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other holding a glass pipe. Beside the donut, an eggplant with a glowing syringe, a banana with a glowing syringe, and a red chili with boxing gloves and a syringe are depicted, all rendered in the vintage, engraved illustration style. The background is a dramatic night scene with a lightning strike and abundant fog, all tinted in the limited red-toned palette of the vintage poster.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

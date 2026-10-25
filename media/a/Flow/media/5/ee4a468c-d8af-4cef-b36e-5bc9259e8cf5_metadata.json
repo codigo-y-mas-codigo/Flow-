@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ee4a468c-d8af-4cef-b36e-5bc9259e8cf5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:55:10.425780-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A monochrome aesthetic with a dominating white color hue and bright, even high-key lighting. The scene features a dark room with a bed adorned with diamonds, and a syringe placed on top. White smoke and clouds add a mysterious and luxurious ambiance. The visual characteristics include dynamic splash patterns of viscous, opaque white liquid covering the wall, appearing to move or drip downwards, with a smooth, somewhat reflective texture.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "21f5b7bf-f5c6-42cd-9fac-f19039a22808",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "3e07d7f0-d9b5-478c-b945-516e4361a59a",
+    "createdAt": "2025-07-03 04:57:13.615953-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Raw, intimate cinematic still capturing the physical and emotional toll of performance, set in the gritty reality backstage. Photorealistic style, using harsh, functional lighting contrasting with residual stage glamour. Three adult males with muscular physiques, wearing briefs and helmets, are slumped on a worn wooden bench in a cluttered backstage area immediately after a performance. The male on the left is wearing blue briefs and a silver and blue helmet. He has light brown skin. The male in the middle is wearing red briefs and a red helmet. He has light brown skin. The male on the right is wearing green briefs and a dark green and silver helmet. He has dark brown skin. Their elaborate costumes are slightly disheveled, perhaps stained with sweat or stage makeup. Their heads are bowed low, faces hidden or turned away, body language conveying utter exhaustion. The lighting is unflattering – perhaps a single bare bulb overhead or the harsh spill from a nearby dressing room mirror – casting strong shadows and highlighting the sheen of sweat on their necks and shoulders.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

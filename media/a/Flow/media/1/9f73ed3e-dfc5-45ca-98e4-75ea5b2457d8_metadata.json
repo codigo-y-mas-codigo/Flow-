@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9f73ed3e-dfc5-45ca-98e4-75ea5b2457d8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 12/6/25",
+    "projectId": "082afafb-d9b8-4833-91a6-83ce18daeb7b",
+    "createdAt": "2025-06-12 13:29:21.530725-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una imagen de tlaloc Dios de la lluvia feliz echando agua en la ciudad de México, estilo surrealista hiperreal dark blue",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

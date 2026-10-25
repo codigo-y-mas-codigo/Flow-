@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e4aaf677-4aae-4f7f-a3df-a9716d0265fe",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "LuisEmoji",
+    "projectId": "c34d0acf-9c31-41fe-bd2d-cb5eeba87221",
+    "createdAt": "2025-05-31 03:39:28.505848-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A young adult male with shoulder-length dark brown hair, a light beard and mustache, wearing a black cowboy hat and an open red long-sleeved shirt, lies on a light-colored surface holding a small metallic object in his left hand and a lit lighter near it in his right hand, alongside another young adult man with light skin tone, dark hair, and a trimmed beard, wearing a black baseball cap backwards and red socks, lying on a white bed with wrinkled sheets, his legs spread and bent, arms extended downwards with hands touching his groin, against a light blue wall. The first man\u0027s mouth is slightly open, while the second man\u0027s mouth is open. A dark-colored item of clothing is near the first man\u0027s head, and a dark object is near the second man\u0027s upper body.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

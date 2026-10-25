@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f586db03-584c-40f4-a734-fdee544c7866",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 9/7/25",
+    "projectId": "d9f8c2df-88b4-4fbb-a7c7-b2cb6d43b5e8",
+    "createdAt": "2025-07-09 17:38:02.651180-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Two adult men, appearing to be in their 20s or 30s, are shown from the waist up. Both men have light skin tones, light brown hair, and beards. Each wears a black eye mask with two bright yellow heart shapes over the eyeholes, obscuring their eyes. The man on the left wears a light grey long-sleeved shirt and holds a black smartphone in his right hand, angled slightly downwards. The man on the right wears a bright yellow collared shirt and holds a black smartphone, which emits a faint yellow glow, while tilting his head slightly down towards it. Both men are looking at their phones, suggesting interaction or shared focus.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

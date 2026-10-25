@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "387e1451-f386-412f-bf3e-6f05442babf0",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-26 19:32:28.986782-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"La Torre\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Tower exploding, two Pikachus falling, debris. Marsella style.\nKey animation sequence:\n1. Scene opens with the tower intact for a brief moment.\n2. Suddenly, the flame/ray from above strikes the top of the tower.\n3. The top of the tower explodes outwards with Marsella-style debris, smoke, and flashing light. The crown of the tower visibly dislodges and falls.\n4. The two Pikachu figures are shown actively falling downwards, limbs flailing, expressions of shock, their descent path clear.\n5. Marsella-style spheres/droplets (debris/energy) continue to rain down around the crumbling tower.\nOverall mood: Sudden upheaval, destruction, revelation, dramatic change. Camera: Static, possibly with a slight screen shake effect during the explosion.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "20051ccf-73f0-497a-8e89-71a14820e7ad",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:41:42.118801-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "darkness of a hiker and her dog on a mountain peak,  octane render, dramatic lighting, sun rays, crisp details, vibrant colors, volumetric lighting, heroic pose, shallow depth of field.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

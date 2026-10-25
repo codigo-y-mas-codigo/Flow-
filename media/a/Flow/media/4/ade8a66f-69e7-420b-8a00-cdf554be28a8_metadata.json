@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ade8a66f-69e7-420b-8a00-cdf554be28a8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 17:40:57.671795-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration shows a seahorse rendered in a gradient of blue to teal. The seahorse faces left and has stylized features, including two visible brain-like shapes within its body. Its tail is curled, and its dorsal fin is depicted with vertical lines. The seahorse appears to be interacting with a hanging lamp that emits light. The lamp is shown with a simple conical shade and a bulb. Inside the bulb, a stylized representation of a brain is depicted with wavy lines suggesting the cerebrum, outlined in dark blue. The bulb emits thick, dark blue vertical lines angled downwards. At the bottom of these rays, a smaller, more detailed brain shape is positioned, also outlined in dark blue. This smaller brain appears to be the source of the light, moving upwards towards the larger brain within the lightbulb. The background is a solid dark blue. Below the seahorse and lamp are the words \"CHACIÓN\" in a light teal uppercase sans-serif font, followed by \"CEN LUMPAPRA\" in a slightly smaller light teal uppercase sans-serif font on the line below.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

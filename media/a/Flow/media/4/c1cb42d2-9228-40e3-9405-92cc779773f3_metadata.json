@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c1cb42d2-9228-40e3-9405-92cc779773f3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:36:50.939502-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una ilustración de estilo tradicional que presenta a Pikachu como el personaje principal, de perfil sentado en el trono. Pikachu está sentado de perfil hacia la derecha en un trono de piedra gris con un cojín rojo y un respaldo tallado que se extiende por toda la altura del asiento. Viste una armadura dorada y una capa roja que cae por la espalda. Lleva una corona dorada de cuatro puntas en su cabeza. Sostiene un cetro dorado con un orbe en la parte superior en su pata derecha, elevado verticalmente. En su pata izquierda, sostiene un ankh dorado. Un águila estilizada de color amarillo está representada en la base del trono. El fondo es completamente blanco y liso. Toda la ilustración está delineada con líneas negras gruesas en el estilo de grabado en madera medieval característico, utilizando colores planos saturados sin sombreado ni perspectiva modernos.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

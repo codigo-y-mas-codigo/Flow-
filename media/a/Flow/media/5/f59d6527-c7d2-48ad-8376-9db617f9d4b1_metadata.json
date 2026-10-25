@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f59d6527-c7d2-48ad-8376-9db617f9d4b1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-14 02:13:07.415177-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "“Cyberpunk-inspired logo for \u0027Fisting ConCiencia\u0027. A chrome metallic fist breaking through a peach with rose petals scattering, overlaid on a digital brain circuit in glowing purple. Neon pink, black leather texture, and electric blue accents. Typography: glitch or sci-fi style. Feels kinky, futuristic, and radical — blending sextech, theory, and community rebellion.”",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

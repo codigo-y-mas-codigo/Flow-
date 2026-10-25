@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2d1350dd-c4d0-4157-acba-ba829e951660",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 26/12/25",
+    "projectId": "fd97bba3-5557-4bfe-bac7-13cbfa86e28d",
+    "createdAt": "2025-12-26 00:24:11.718189-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "añade un violin a la mujer del centro ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

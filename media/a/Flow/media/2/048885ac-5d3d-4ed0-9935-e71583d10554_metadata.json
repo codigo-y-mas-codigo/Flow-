@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "048885ac-5d3d-4ed0-9935-e71583d10554",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 02:23:20.749680-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A man with light tan skin looks directly at the camera. He has short, dark hair that is styled to the side, and a short, dark beard and mustache. His eyes are dark brown. He is wearing a light blue, long-sleeved, collared shirt with thin white stripes and black framed glasses. The background is a solid gray."
+    }
+  }]
+}

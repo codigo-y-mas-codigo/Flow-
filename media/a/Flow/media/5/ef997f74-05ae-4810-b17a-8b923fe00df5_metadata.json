@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ef997f74-05ae-4810-b17a-8b923fe00df5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:28:32.161930-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "la leyenda del audifonos y curso en audios hazlo mas grande como un minilogo. Y plantillas + prompts ´tiradas avanzadas al centro arriba en una liena con trasparencia ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

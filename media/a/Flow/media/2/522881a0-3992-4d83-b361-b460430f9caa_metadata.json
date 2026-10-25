@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "522881a0-3992-4d83-b361-b460430f9caa",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 01:56:40.559792-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "A vertical rectangular Tarot card, specifically \"THE MAGICIAN,\" numbered \"I\" at the top center. The overall color palette is dominated by bright yellow, red, and some green and blue. The card features a young-looking male figure standing in the center against a vibrant yellow background. He appears to be a young adult, with fair skin and short, dark hair, possibly brown or black. He is wearing a long, flowing red robe over a white tunic-like garment, which is visible at the neck and sleeves. Above his head floats a horizontal infinity symbol (lemniscate) in black outline.\n\nThe Magician is raising his right arm straight up, holding a white wand or rod, which has small points at both ends. His left arm is extended downwards and slightly forward, pointing toward a wooden table or altar directly in front of him. On the table, which is covered with a dark cloth (perhaps brown or red), are the four suits of the minor arcana: a gold or yellow goblet (Cup), a silver or metallic Pentacle (disk) resting on the table, a sword with a blue hilt and black blade, and a small blue staff or baton (Wand).\n\nThe figure is standing in a garden or natural setting. Red roses on green vines frame the top and sides of the image, appearing to grow from the bottom corners and arch over the Magician. The foreground and bottom of the table feature lush green foliage and small white flowers, possibly lilies, along with red roses. The entire scene is enclosed within a thin black border. The card title, \"THE MAGICIAN,\" is centered in a white box at the very bottom edge of the card. The art style is traditional and illustrative, characteristic of the Rider-Waite-Smith Tarot deck.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

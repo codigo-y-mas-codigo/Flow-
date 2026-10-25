@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "93f43c10-f80d-469d-9b6a-0e3b34f84304",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:47:08.846486-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vibrant, high-contrast digital illustration in the style of a vintage snark poster, featuring bold outlines and flat gradient fills. Centrally located is a luminous pink donut with a holographic icing effect, appearing weightless. Pink liquid and white spilled milk drip from its base, adorned with diamonds and pink sprinkles. Emerging from the donut\u0027s center are two female legs in black fishnet stockings and black high-heeled shoes. Two hands extend from the donut, one holding a syringe with glowing liquid and the other a glass pipe. The background is a dark pink, softly complementing the donut\u0027s color, with a lightning bolt and abundant mist, creating a dreamlike, slightly otherworldly quality. The top of the poster reads \"yo pas cl slm ff\" and the bottom reads \"tu vrgn slm act\".",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

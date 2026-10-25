@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "910afdfa-b6fb-4800-aadf-0be4646822cf",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:53:48.384458-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An expressive landscape painting, rendered with thick, visible brushstrokes and significant impasto, depicts a dramatically lit, dark room. The room contains a bed adorned with diamonds, on which a syringe is placed. White clouds and smoke permeate the air, creating a mysterious and luxurious atmosphere, all defined by thick, textured color and strong contrasts between brightly lit planes and deep, shadowy areas. The color palette uses rich, heightened natural colors with tangible thickness, emphasizing the raw energy and dramatic nature of the scene.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6f276803-9e56-4dd4-a4ff-746cc7dd6efd",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-05-29 21:22:02.045960-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A close-up of an old, weathered wooden signpost in a natural setting (like a garden or a quiet park), initially looking indistinct. Then, a soft, warm light gradually illuminates a clear, simple symbol or arrow on the sign, making it easily discernible.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

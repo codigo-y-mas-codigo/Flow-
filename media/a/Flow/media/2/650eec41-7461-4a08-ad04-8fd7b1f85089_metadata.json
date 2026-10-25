@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "650eec41-7461-4a08-ad04-8fd7b1f85089",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-18 11:28:58.933196-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "\"A surreal and mystical album cover. In the foreground, a rustic wooden table stands on cracked, dry earth. On the table, arrange the following objects: a straw sombrero with a slightly bent brim, four ancient-looking tools (like a hammer, pliers, mortar and pestle, and a small chisel), an empty, slightly broken clay goblet, a simple, unadorned wooden staff, and a single, old bronze coin.\n\nIn the mid-ground, a grand, rustic wooden archway, resembling a door, stands open. The archway is formed by two gnarled, ancient trees whose roots intertwine with the wood, suggesting deep connection to the earth. Through the open archway, a vibrant, cosmic galaxy or nebulous sky is visible, implying an infinite space beyond. Above the arch, intertwined into the branches, is an infinity symbol (lemniscate).\n\nText overlay on the archway itself, written in an ancient, ethereal script that curves along the arch: \"LO QUE PIENSAS SE VUELVE PUERTA! LO QUE HACES ES LO QUE PERDURA!\".\n\nIn the background, on a distant cliff or hill to the right, a small, silhouetted figure with large wings stands, looking out towards the cosmic archway. To the left, a large, glowing question mark hovers in the air, hinting at uncertainty or potential.\n\nA large, glowing, ethereal word \"SEÑAL\" is centered prominently within the cosmic archway, glowing brightly.\n\nAbove the entire scene, at the top center, the title \"PUERTA ASTRAL\" is displayed in elegant, mystical font.\n\nAt the very bottom of the cover, a single line of text in a similar elegant font reads: \"Entre el cielo y la arcilla, Tu palabra es la semilla, Y el mundo espera tu señal\".\n\nThe overall mood should be contemplative, powerful, and slightly melancholic, with warm, earthy tones contrasting with the cool blues and purples of the cosmos. The lighting should be dramatic, with hints of dawn or twilight",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

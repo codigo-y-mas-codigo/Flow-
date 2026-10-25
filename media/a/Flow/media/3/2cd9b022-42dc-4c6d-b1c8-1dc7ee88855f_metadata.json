@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2cd9b022-42dc-4c6d-b1c8-1dc7ee88855f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "3e5c00b5-9b51-4911-8aae-84a629996f7b",
+    "createdAt": "2025-06-24 03:04:05.994874-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Clean, high-resolution digital photography with a playful yet precise execution, focusing on food items forming letters. Prompt: A hyperrealistic digital photograph showcasing the word \"Lukanti \" meticulously constructed entirely from vibrant, fresh food ingredients. The word is perfectly centered horizontally within the frame against a seamless, bright white background, viewed directly from above (flat lay). Each letter is formed from different, appropriate food items: \u0027F\u0027 made from arranged crisp, green celery sticks and perhaps small broccoli florets; \u0027R\u0027 crafted from curved red bell pepper slices; \u0027E\u0027 built from precisely cut cucumber lengths; \u0027S\u0027 formed by arranging glistening red raspberries; \u0027H\u0027 constructed from straight carrot sticks. The ingredients look incredibly fresh, dewy, and appetizing, possibly with tiny water droplets clinging to them. Hard, clean overhead studio lighting casts subtle, crisp shadows directly beneath the letters, giving them slight dimension. The focus is tack sharp across the entire word, revealing the detailed textures of each vegetable and fruit – the fibrous celery, the smooth pepper skin, the seeded cucumber, the drupelets of the raspberries, the grain of the carrots. Deep depth of field ensures everything is sharp against the pristine white background. The color palette is vibrant and natural, dominated by the bright greens, reds, oranges, and pinks of the ingredients. The overall mood is clean, healthy, creative, and graphically appealing, celebrating freshness through edible typography.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

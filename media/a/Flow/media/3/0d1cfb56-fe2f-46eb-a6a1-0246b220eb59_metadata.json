@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0d1cfb56-fe2f-46eb-a6a1-0246b220eb59",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:47:52.360044-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background features a skeletal figure seemingly constructed from or coated in a reflective, textured material of a golden hue, holding a large scythe. The skeleton has a skull with visible teeth and empty eye sockets, facing towards the right. Reflective golden details are visible at the neck, hip, and ankle joints. The skeleton wears tattered light blue and red cloth around the waist, now appearing with a reflective golden texture.\n\nThe skeleton is positioned amidst a field of dark foliage, where dismembered hands and two human heads are visible. One head, at the bottom left, appears to be that of a young-looking person with light blonde curly hair and a neutral expression, now rendered with a reflective golden surface. The other head, at the bottom right, seems older and wears a golden crown, also with a neutral expression and a reflective golden texture. The edges of all figures have a dissolving or disintegrating effect, appearing as a scattering of small, sparkling particles in shades of gold and lighter yellow.\n\nThe large scythe has a long, light yellow handle with a reflective golden texture and a curved, reddish-orange blade, now also exhibiting a reflective golden surface. The scene is illuminated by a light source positioned to the left, casting highlights and shadows that accentuate the three-dimensional forms of the reflective golden elements against the dark background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

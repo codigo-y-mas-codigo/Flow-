@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "abf0002d-d45a-4a00-b50a-c563c8c7bc48",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:51:45.410233-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster features a luminous pink donut with female legs and hands, an eggplant, a banana, and a green chili pepper, all wielding syringes and other objects, set against a dark pink background. A luminous pink donut, seemingly weightless with a holographic effect on its icing, is positioned centrally. Pink liquid and white spilled milk drip from its base. Numerous diamonds and pink sprinkles adorn the donut. Emerging from its center are two female legs clad in black fishnet stockings and black high-heeled shoes. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other a glass pipe. To the side, an eggplant is depicted holding a syringe. Nearby, a banana also holds a glowing syringe. A green chili pepper is shown wearing white gloves and wielding a syringe. Viscous, shiny white liquid is subtly present in the scene. The overall style is that of a vintage poster with a snarky tone, maintaining a delicate and ethereal beauty.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

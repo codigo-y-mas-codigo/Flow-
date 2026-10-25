@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6be54c6e-1ac3-44a7-a7b6-e7e38f50e732",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:03:39.394949-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, printed in a limited red-toned palette on a cream background, features a luminous pink donut and an eggplant with a syringe against a foggy, dark backdrop with glittering diamonds. The stylized, engraved illustration shows a luminous pink donut with a subtle holographic shimmer and tiny, almost translucent, brightly colored sprinkles. Its soft golden base barely peeks through the translucent icing. Next to it, an eggplant holds a syringe. The background features mist in a dark setting with brilliant diamonds scattered on the floor. A large, bold headline arches across the top in all caps, in a mid-century serif font. A humorous tagline appears beneath, also in a stylized font. Mid-century sparkle icons are scattered around the headline.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

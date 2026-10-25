@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6ca03663-7204-4212-acfb-071ce8c85de0",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-25 23:13:29.885920-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Persona: Act as a romance and comedy film director, capturing a charming, meta-humorous moment between a couple.\nTask: Generate a romantic and funny 8-second video clip where a couple reacts to their own AI-generated appearance, culminating in laughter and a passionate kiss.\nContext:\n    Character Descriptions:\n    - Man: A handsome man in his early 30s with dark wavy hair, glasses, and a light, well-groomed beard. He is wearing a sharp black suit jacket over a white button-down shirt.\n    - Woman: A beautiful woman in her early 30s with long, dark, flowing hair and expressive eyes. She is wearing an elegant royal blue dress.\n    Environment: They are in a softly lit, sophisticated indoor setting, like a gallery opening or a classy event, with a blurred background. They are standing close together.\n    Action and Dialogue Sequence (8 seconds):\n    - 0-3 seconds: The man looks directly at the camera with a charming, self-aware smile.\n        - Man\u0027s Dialogue (charming, amused): \"Así que... así es como la IA me imagina a los 40.\"\n    - 3-5 seconds: The woman looks at the man, then turns to the camera with a playful, confident smile.\n        - Woman\u0027s Dialogue (flirtatious, teasing): \"Y a mí me imagina así... con que la IA tiene buen gusto.\"\n    - 5-6 seconds: They both turn to look at each other, and their smiles turn into soft, genuine laughter.\n    - 6-8 seconds: The laughter subsides, they lean in, and share a passionate, heartfelt kiss as the scene ends.\nOutput Format: An 8-second video clip in 16:9 aspect ratio, 1080p resolution. The video must include the generated dialogue for both characters, perfectly synchronized with their lip movements. No on-screen text.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

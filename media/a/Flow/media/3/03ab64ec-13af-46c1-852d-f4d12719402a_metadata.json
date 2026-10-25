@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "03ab64ec-13af-46c1-852d-f4d12719402a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "d25df26b-bfb2-4128-b6e8-e32a927558f9",
+    "createdAt": "2025-06-11 22:12:40.736872-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A mature adult female with fair skin and long, wavy, light gray hair stands behind a countertop in a kitchen. She smiles and looks directly at the camera, wearing light-colored framed eyeglasses, noticeable earrings, a subtle necklace, a gray v-neck top, and a light-colored cardigan. On the countertop in front of her are five pieces of fruit: two speckled orange fruits, one green fruit, and two more green fruits in a teal and brown bowl. Behind her is a light-colored backsplash. Two wooden shelves display various kitchen items including potted plants, canisters, and a metal kettle visible on the left side. The lighting is soft and natural.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "438d2389-7774-42cd-8f13-1a13f9866a5b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-27 05:05:33.811361-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A photograph of a soft, cuddly chibi plushie made of fabric on a white background features a stylized peach with a raised fist emerging from its center. The peach plushie is outlined in black stitching and filled with gradients of orange and light orange fabric, suggesting a three-dimensional form. It has two green fabric leaves stitched at the top and a short brown fabric stem. A pink fabric clenched fist plushie, with visible stitched knuckles and fingernails, points upwards from the middle of the peach plushie. Below the fist, within the peach plushie\u0027s cleft, are stylized flames or radiating lines in shades of yellow and orange fabric, also outlined in black stitching.\n\nThe peach plushie is layered over stylized pink fabric blossoms with dark pink stitching outlines and green fabric leaves peeking out from behind. Four-pointed stars with black stitching outlines and white fabric interiors are scattered around the top half of the peach plushie. Below the peach plushie and blossoms, arranged in a semi-circular arc, are the words \"FISTING CONCEPCIÓN\" in black rounded capital letters with a thick white stitching outline. The overall style is cartoonish and bold.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

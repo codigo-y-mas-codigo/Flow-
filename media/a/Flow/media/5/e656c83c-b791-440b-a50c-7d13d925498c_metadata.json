@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e656c83c-b791-440b-a50c-7d13d925498c",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:39:38.592324-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A dramatic underwater shot with gentle camera motion, where the text \"NAUTILUS\" is translucent and slowly fades away, appearing to dissolve completely with the natural movements of the water until it is no longer visible. A diver in a detailed silver and black diving suit, complete with a helmet and flippers, swims from the left side of the frame towards a treasure chest on the right, illuminating a path with a bright light from a flashlight. The treasure chest, dark with metallic straps, sits on a rocky seabed and emits a soft orange glow from a microphone icon on its front, creating shimmering light reflections on the water\u0027s surface. Above the chest, a blue seahorse glows with an ethereal light, slowly pulsating. The dark blue background, filled with light rays and rising bubbles, evokes the mystery and depth of the ocean.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

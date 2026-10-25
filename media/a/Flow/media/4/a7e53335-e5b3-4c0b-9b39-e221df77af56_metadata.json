@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a7e53335-e5b3-4c0b-9b39-e221df77af56",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "8d62036c-617d-4012-a961-f4bc831927cf",
+    "createdAt": "2025-05-29 21:20:48.201021-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Close-up shot of a thoughtful Mexican woman in her late 40s or early 50s, with a gentle, slightly concerned expression. She is in a calm, natural home setting with soft, diffused lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

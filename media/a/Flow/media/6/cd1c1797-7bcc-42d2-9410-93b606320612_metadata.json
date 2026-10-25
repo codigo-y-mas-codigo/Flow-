@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cd1c1797-7bcc-42d2-9410-93b606320612",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:58:20.788356-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital 3D rendering with a painterly yet sharp focus depicts a futuristic, anime-inspired male figure with bright, slightly desaturated blue spiky hair and fair skin tone. He wears two-toned rectangular glasses, the left lens being a bright, slightly desaturated orange and the right lens being a bright, slightly desaturated blue, with glowing bright, slightly desaturated blue light emanating from beneath them. His angular face has defined cheekbones and a neutral expression. A light bright, slightly desaturated blue scarf is draped around his neck.\n\nThe figure\u0027s body is a complex, partially exposed robotic structure featuring white and darker metallic armored plates with visible wear and rust, revealing intricate networks of wires, tubes, and mechanical components. Bright, slightly desaturated blue glowing lights are integrated into the robotic structure. Two large, futuristic weapons with darker metallic textures and vents are mounted on his back.\n\nBehind the figure is a bright, slightly desaturated blue square sign with stylized white letters \"in.\" followed by a white dot, attached to a silver pole. The background is a bright white. The lighting is soft and diffused, creating subtle highlights and shadows.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

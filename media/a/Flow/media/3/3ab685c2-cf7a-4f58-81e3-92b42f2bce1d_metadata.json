@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3ab685c2-cf7a-4f58-81e3-92b42f2bce1d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:01:27.827118-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "el fertificado añadele el diseño de la sacerdotisa ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

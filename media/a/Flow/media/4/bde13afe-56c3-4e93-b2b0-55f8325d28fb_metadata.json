@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bde13afe-56c3-4e93-b2b0-55f8325d28fb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "d25df26b-bfb2-4128-b6e8-e32a927558f9",
+    "createdAt": "2025-06-11 23:28:33.773066-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A high-resolution digital photograph with natural light captures a warm, softly lit indoor scene. A mature woman, appearing to be between 67–70 years old with a medium-light warm skin tone, is seated at a wooden table. Her dyed warm golden-beige blonde medium-length, straight, thick hair with subtle soft gray lowlights is parted near the center and frames her oval face with subtle jowls. She wears oval-shaped metal-framed glasses, thin gold earrings, and a simple gold chain with a small pendant. Her makeup is natural, featuring soft blush, light foundation, defined eyebrows, and soft warm rose lipstick.\n\nShe is dressed in a long-sleeved beige overshirt worn open over a plain white V-neck shirt. Her arms rest gently on the table, and she has a calm, neutral expression with a gentle smile. A podcast microphone stands in front of her.\n\nThe table also holds a glass of green juice, a small ceramic bowl with red apples, strawberries, and a mix of sunflower, pumpkin, and chia seeds, a closed silver laptop, and a journal notebook. The softly blurred background shows a compact kitchen space with light wood cabinetry, a small silver refrigerator, open shelves with glass jars, and natural light from a side window. The lighting is clean and natural with a shallow depth of field, focusing on the subject.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

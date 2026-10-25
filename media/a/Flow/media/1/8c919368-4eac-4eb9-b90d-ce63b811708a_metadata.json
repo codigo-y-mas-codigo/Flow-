@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8c919368-4eac-4eb9-b90d-ce63b811708a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-06-03 23:20:07.077432-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "[Prompt en inglés para generar la imagen, incluyendo cualquier texto en español que deba aparecer en la imagen.]\nA book cover design for an ebook titled \"Chudai y el Pixel\" with the subtitle \"Descifrando la Pornografía y el Contenido Explícito en Línea\". The design should incorporate a dark, moody background with subtle glowing neon lines or geometric shapes in shades of purple and pink, reminiscent of night mode interfaces on adult sites. The title \"Chudai y el Pixel\" should be in a sleek, digital-style font, possibly with a slight neon glow effect. A key visual element could be a stylized, abstract representation of a \"play\" button icon, subtly integrated into the background or as a focal point, perhaps made of pixelated fragments. The design should convey a sense of mystery and digital exploration.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0167a3b9-ff37-4113-b601-c4893766a05a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 07:50:53.652494-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "deja unicamente abarrotes san josé ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

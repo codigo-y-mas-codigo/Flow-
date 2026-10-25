@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "16dd6604-acc9-4241-bd09-2cfc06994822",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "b649c720-2925-4f7d-91b3-fda5d2be0e00",
+    "createdAt": "2025-06-06 17:33:25.276847-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": " Un fondo del.cosmos con las siluetas del arcano del sol ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

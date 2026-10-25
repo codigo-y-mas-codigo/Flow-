@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f76187f2-2c13-4c7b-b7aa-41883bdd8b74",
+    "mediaTitle": "Sneakers inspired by Goku",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "jul 21, 10:55 p. m.",
+    "projectId": "79acf6d0-8fde-47e7-a06c-c77be3dcc573",
+    "createdAt": "2026-07-23 12:42:32.742844-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated prompt:\n\n\"change for some sneakers inspired by the character Goku, follow the same pattern.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

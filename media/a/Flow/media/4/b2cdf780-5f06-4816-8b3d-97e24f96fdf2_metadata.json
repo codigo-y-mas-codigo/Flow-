@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b2cdf780-5f06-4816-8b3d-97e24f96fdf2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:58:19.892295-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Create a modern snark poster about my subjects.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "60e52c95-9517-4436-a667-6aad7b9f3079",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:52:05.622499-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A soft, polished digital painting depicts two emoji figures rendered with a cool-toned palette of light blues, grays, and whites. The emoji on the left displays a shocked expression, featuring wide, round light blue eyes with dark gray pupils looking slightly upward and to the right. Its mouth is open in an \"O\" shape, and a small, light blue hand extends to touch its lower lip or chin. Two small, light gray circles suggest a blush on its cheeks. Positioned slightly lower and to the right, the second emoji resembles two rounded light blue humps suggesting buttocks, with a small, horizontal dark gray oval centrally located on the upper portion. Below this, a single, small, light gray teardrop is depicted. Both emoji figures have a glossy, soft sheen with diffused lighting, implying a light source from above, and faint, blurry reflections along their bottom edges on a subtle light gray gradient background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cb031a67-a74a-4c39-9753-4e23f967a93a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 22:24:06.679659-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "[Close-up of vibrant, flowing abstract paint strokes in sapphire blue, emerald green, and amethyst purple, with hints of fuchsia, creating a luxurious and mysterious texture. The strokes subtly hint at entwined bodies or open pathways. The lighting is soft and diffused, emphasizing the rich colors and gradients. Book title: \"Deseo Sin Barreras\" in a bold, wide sans-serif typeface. Subtitle: \"Seducción, Lealtad y Libertad en Relaciones Abiertas Gay.\" Author name: \"Luis Angel Maciel\" placed elegantly below.]",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

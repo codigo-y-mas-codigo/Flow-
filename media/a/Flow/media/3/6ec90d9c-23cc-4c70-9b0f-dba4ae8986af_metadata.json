@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6ec90d9c-23cc-4c70-9b0f-dba4ae8986af",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 15:08:55.623880-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized abstract logo design on a white background for Lukanti\u0027s holistic nutrition line. A dark, curving line resembling wheat forms the left side and bottom of a subtle heart shape. A pronounced curve representing a banana is seamlessly integrated to complete the heart. An ovoid avocado shape is also incorporated within the heart. Organic shapes representing five leaves are attached to the design. The topmost leaf is bright green and angled towards the upper right. Below and slightly to the left is a yellow leaf. To the right of the yellow leaf and slightly overlapping it is a blue leaf, pointing upwards. To the right and slightly below the blue leaf is a red leaf, angled to the right. The design features soft, earthy tones with gradients and subtle shading, emphasizing the organic nature of the elements. The leaves are rendered in a graceful, flowing style using a combination of linework and soft fills, creating a sense of balance and harmony.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

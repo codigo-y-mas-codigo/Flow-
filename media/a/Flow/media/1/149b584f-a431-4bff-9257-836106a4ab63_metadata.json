@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "149b584f-a431-4bff-9257-836106a4ab63",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 02:23:04.898664-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Portada 1: El Diagrama de la Totalidad y el Equilibrio\nEste enfoque visualiza el concepto de \"Arquitectura Oculta\" mediante un diseño minimalista y geométrico, centrado en las cartas que representan el inicio, el final y el equilibrio estructural del mazo.\n• Diseño Visual: Un fondo negro profundo con líneas doradas y blancas creando una estructura geométrica compleja, sugiriendo los planos arquitectónicos de un templo. En el centro, enmarcando el título, se colocaría la imagen de JUSTICE (XI) para simbolizar el equilibrio fundamental de la estructura del mazo. Arriba, en una esquina, se colocaría THE FOOL (sin número) como el punto de partida; y abajo, THE WORLD (XXI) como la culminación.\n• Elementos Gráficos Clave:\n    ◦ Uso de JUSTICE para representar los \"secretos estructurales\" del balance.\n    ◦ Se integrarían pequeños símbolos para representar los cuatro palos de los Arcanos Menores (WANDS, CUPS, SWORDS, PENTACLES) en las esquinas, manteniendo la sensación de que las 78 cartas están contenidas en este esquema.\n• Tono y Sensación: Serio, intelectual y revelador. Destaca la estructura matemática y ordenada del Tarot, ideal para un estudio profundo de la jerarquía de las cartas, desde THE EMPEROR (IV) hasta THE HANGED MAN (XII).",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b61debb2-760c-495f-a867-5e845ff155d3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:34:45.186693-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The word \u0027Lukanti\u0027 is the focal point of this image, presented in a refined botanical style. The initial \u0027L\u0027 is capitalized, while the remaining letters flow in lowercase. The letters are crafted as if they were thin, flowing stems, with a gentle calligraphy inspired by nature. Small, intricately designed leaves, budding flowers, and delicate vines are incorporated throughout the design, enhancing the natural and soft essence of the words. The art is rendered with soft, flowing lines, presenting a smooth and airy aesthetic. The color palette encompasses gentle greens, creams, and soft pinks, adding to the delicate, botanical feel. The overall impression is one of gentle femininity and a touch of romantic whimsy, celebrating nature\u0027s delicate beauty.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

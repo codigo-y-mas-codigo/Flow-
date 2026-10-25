@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f05b1ef6-27a5-4866-9dd9-0dd5c43c925c",
+    "mediaTitle": "Edit people and add logo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:30:50.909576-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The logo should have lights.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "e319d8c4-b3db-441b-97a2-c9605c13a66a"
+    }
+  }]
+}

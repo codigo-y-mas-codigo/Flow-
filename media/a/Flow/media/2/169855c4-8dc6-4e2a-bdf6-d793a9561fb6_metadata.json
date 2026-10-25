@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "169855c4-8dc6-4e2a-bdf6-d793a9561fb6",
+    "mediaTitle": "Girls dancing in Spanish video",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:00:32.122527-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

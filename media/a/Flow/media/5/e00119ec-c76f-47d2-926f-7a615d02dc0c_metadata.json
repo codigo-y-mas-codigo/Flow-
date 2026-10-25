@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e00119ec-c76f-47d2-926f-7a615d02dc0c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 20:56:53.972699-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Concept: A stylized seahorse formed by the outline of a desk lamp. The \"head\" of the seahorse is the lamp\u0027s shade, emitting rays of light that subtly suggest neural pathways or brain activity. The body and curled tail follow the form of the lamp\u0027s arm and base.\nColor Palette: Maintain your blue and teal palette for a sense of continuity. The light rays could be a brighter shade of teal or even a soft yellow to indicate illumination.\nText: \"LAMP Research\" or \"Luis Ángel Maciel Padilla Investigación\" in a clean, modern sans-serif font placed below or to the side of the emblem.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

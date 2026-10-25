@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "644f836b-de8b-42cf-b144-8cb90c4be307",
+    "mediaTitle": "Adapting prompt for image genera…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 01:21:01.388296-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "ADAPTA ESTE PROMPT PARA LA IMAGEN ADJUNTA Steal this prompt: \n\n“Surreal mid-century editorial illustration of an eccentric version of the person in the photo and a Zebra [any animal] inside a stylish bar [any location], elongated proportions, exaggerated narrow faces, deadpan expressions, oversized accessories, bizarre fashionable atmosphere, painterly brush textures, distorted anatomy, subtle lowbrow surrealism, sophisticated absurdity, vivid retro color palette dominated by pink, blue, and beige [your color scheme], expressive oil-painted strokes, fashionablevintage clothing, dramatic” usa la primera imagen que te envié",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

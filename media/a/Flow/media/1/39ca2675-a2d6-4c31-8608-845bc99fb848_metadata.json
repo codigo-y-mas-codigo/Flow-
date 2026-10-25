@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "39ca2675-a2d6-4c31-8608-845bc99fb848",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:50:30.558983-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster featuring an optical illusion style with a stark black and white color palette, showcasing a donut with legs and hands, an eggplant, a banana, and glowing white viscous liquid. The central luminous donut, rendered with wavy, concentric, and parallel lines, appears almost weightless, with its base dripping pink liquid and white spilled milk, all in black and white. Numerous diamonds and pink sprinkles adorn it. Emerging from its center are two female legs, clad in black fishnet stockings and black high-heeled shoes. Two hands also extend, one holding a syringe with glowing liquid and the other a glass pipe. An eggplant, in high contrast black and white, holds a syringe. A banana, also in black and white, holds a glowing syringe. Swirls of white viscous glowing liquid, depicted with the same wavy line aesthetic, are present throughout. The background is a high-contrast dark tone.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cc543cda-0ef7-46ed-abf3-96053efe92f9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:37:28.712573-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Lukanti (Estilo Minimalista Natural)\n\nDescripción estética: Una tipografía limpia, sin serifa, con espacios generosos entre letras. La belleza reside en la simplicidad y la proporción, dejando que la naturaleza del producto sea la protagonista.\nUso: Excelente para empaques de diseño moderno, productos de alta gama con ingredientes naturales, o marcas que valoren la claridad y la sofisticación discreta.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

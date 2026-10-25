@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "923c7496-a78c-4db7-aec0-32c01c35bbf0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 15:01:51.058366-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally drawn illustration with bold black outlines and flat, vibrant color fills on a white background depicts a smiling yellow emoji with closed black-outlined eyes, arched black eyebrows, and a wide white smile showing black-outlined upper teeth. The shading is minimal and cartoonish, employing slightly darker yellow to suggest the emoji\u0027s rounded form. Highlights are simple white shapes. The emoji has a rounded yellow body and wears flat pink underwear with flat blue polka dots and a flat light blue flower at the center front, all outlined in black. One of the emoji\u0027s small, rounded yellow appendages, outlined in black, is raised to its left cheek. The emoji sits on a reflective white surface against a stark white background. The surface reflects the emoji\u0027s form with a subtle white gradient. The background is completely plain and white.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

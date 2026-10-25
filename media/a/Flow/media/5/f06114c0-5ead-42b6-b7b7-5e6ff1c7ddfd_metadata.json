@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f06114c0-5ead-42b6-b7b7-5e6ff1c7ddfd",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-29 16:56:17.805925-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized flat design image on a white background. A human figure with bold flat colors, dressed in vibrant blue or green clothing, is starting to climb a staircase. The figure initially appears enthusiastic but has stopped mid-climb and is looking back at a path filled with obstacles such as small muted, clear-colored rocks and cracks. This path indicates resistance. A subtle, transparent wall or barrier faintly separates the figure from the upper part of the staircase, which represents their goal. The overall aesthetic is minimalist illustration with clean lines and a vector art style, conveying a sense of internal struggle and external challenges.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

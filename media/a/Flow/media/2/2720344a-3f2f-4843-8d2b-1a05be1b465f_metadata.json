@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2720344a-3f2f-4843-8d2b-1a05be1b465f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:26:43.102449-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un plátano con una jeringa brillante ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

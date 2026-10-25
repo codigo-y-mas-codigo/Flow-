@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1c9ba4da-c185-45c9-afad-a6e1d3f814ed",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 14:42:02.199865-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el texto de rompe tus patrones, incluye prompts, rechazo, traition, abandono, influencia, insuficiencia ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

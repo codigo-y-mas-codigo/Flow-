@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ccc088e7-1256-4aef-a344-39abfd0ff60e",
+    "mediaTitle": "Man with green eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 03:49:07.409919-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Sensual cinematic portrait of a handsome man, shirtless, skin covered in shiny oil, soft glowing emerald green eyes, gentle green smoke swirling softly around his torso, seductive half-smile, dramatic low key lighting that accentuates his physique, elegant and alluring atmosphere, ultra realistic, cinematic, artistic nude style but tasteful",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

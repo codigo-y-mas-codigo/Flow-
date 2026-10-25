@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a93eeefb-8a73-444f-8ee7-2ce697b20b4d",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 21:42:36.340072-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration ebook cover design features flat, geometric shapes and bold, solid colors. The dominant colors are soft light blue and white, with subtle accents of mint green and peach. The text \u0027Descifrando la Resistencia\u0027 is the title, presented in a clean, legible font. Below it, the subtitle reads \u0027Guía para Decisiones de Salud sin Perfeccionismo\u0027 in a smaller, yet equally clear typeface. At the very bottom, in even smaller text, is the name \u0027Lukanti\u0027. Abstract, flowing watercolor textures in light blue, white, mint green, and peach create a serene background. Subtle, elegant iconography representing connection, growth, and inner peace is incorporated using flat, geometric shapes and bold, solid colors. This includes stylized roots blending with fluid geometric shapes and a minimalist human silhouette radiating calm, intertwined with gentle organic geometric lines, all adhering to the flat vector style with black outlines and no gradients or shading. The overall aesthetic is clean, minimalist, modern, inviting, and professional.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

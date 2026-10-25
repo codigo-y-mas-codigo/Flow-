@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bf1da35c-5afb-4d47-a189-a001d102b29a",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-07 03:12:35.931045-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "\"Lizzi McBeth\u0027s\" Visual Tarot Course Intro\nClip Objective: Introduce the instructor (\"Lizzi McBeth\" - the AI will generate a person based on the description) and welcome students to the course, highlighting the focus on intuition.\n\nPrompt (to be entered into the tool):\n\n[SCENE DETAILS]: A bright, clean, and inviting indoor space. The background is slightly blurred, suggesting a comfortable and aesthetically pleasing environment, perhaps with soft natural light coming from a side.\n\n[SUBJECT DETAILS + ENVIRONMENT]: A charismatic woman, appearing to be in her late 30s or early 40s, with a warm and confident smile. She is looking directly at the camera, establishing a personal connection. She is wearing professional yet approachable attire. Subtle elements related to learning or intuition (like a beautifully illustrated book or a smooth stone) could be softly visible in the blurred background.\n\n[ACTION]: The woman is speaking directly to the viewer with engaging facial expressions. She makes subtle, natural hand gestures as she talks.\n\n[SHOT STYLE + DETAILS]: Medium close-up shot, steady camera. The framing should focus on her face and upper body, emphasizing her welcoming demeanor. Shallow depth of field to keep the focus on her.\n\n[LIGHTING]: Soft, flattering frontal or slightly side lighting. Warm color temperature to create an inviting atmosphere.\n\n[SOUND DESCRIPTION]: Clean, clear audio of a female voice. Gentle, encouraging background music starts subtly and remains low during the dialogue.\n\n[AUDIO]: Dialogue (to be spoken in Spanish): \"Female voice (warm, engaging, confident tone): Hola, soy Lizzi McBeth, bienvenidas al curso de Tarot Visual, donde aprenderan a Leer las Cartas con tu Intuición, No de Memoria.\"\n\n[FILM STYLE]: Professional, high visual quality, inviting, clear focus on the presenter. Emphasize connection and approachability",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6fa335a2-d1f7-4dd2-9f86-359934fcaffc",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 10:12:58.183493-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The camera slowly pans from left to right, revealing a deep-sea diver in a detailed silver helmet and black suit, intently focused on his smartphone. Each time his fingers rapidly tap the screen, a burst of air bubbles streams upwards from his helmet, creating a mesmerizing trail in the dark, submerged environment. To his right, a vibrant, glowing blue seahorse, pulsating with electric tendrils, commands attention in the otherwise dark expanse. On a clear glass desk to his right sits a white desk lamp and a white office chair, both illuminated by the ethereal glow of the seahorse. The overall scene is moody and futuristic, with cool blue and silver tones dominating the color palette.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

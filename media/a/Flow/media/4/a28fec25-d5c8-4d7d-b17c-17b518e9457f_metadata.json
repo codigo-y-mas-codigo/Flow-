@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a28fec25-d5c8-4d7d-b17c-17b518e9457f",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 1518",
+    "projectId": "6c48bd15-0239-470d-b428-b899da506749",
+    "createdAt": "2025-06-07 14:19:18.599167-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "\nHyperrealistic, cinematic shot. A humanoid robot resembling a human version of Goku sits at a desk in a modern office. He has black, spiky hair and wears elegant, metallic armor with subtle lights, paired with torn training pants. On the wall behind him, the \"MacielCorp\" logo is visible.\nAt his feet, a white female Maltese dog, a light-brown male Chihuahua, and a white female Chihuahua with small angel wings and a halo are resting playfully. A tortoise is slowly moving nearby.\nAction: The robot stops typing and looks at his own metallic hand with a confused expression as a subtle visual glitch or static effect flickers across its surface.\nAs he stares, a quick, semi-transparent montage of memories flashes over the main scene: he\u0027s passionately typing on the computer; walking smiling down a recognizable Mexico City street; dancing energetically in a nightclub with neon lights; affectionately playing with the three dogs and the tortoise; and having a warm conversation with a blurred, luminous figure (his creator).\nThe mood is calm but with a growing sense of unease. Soft, emotional, nostalgic lighting for the flashback montage",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

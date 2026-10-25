@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5a28dd29-c291-4403-af16-159e373bc54a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 23/6/25",
+    "projectId": "e83ddd54-2ba1-446a-99bd-333cf77a9976",
+    "createdAt": "2025-06-23 03:14:08.979491-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Whimsical A person meditating cross-legged on a giant tomato, surrounded by floating vegetables, roots connecting to soil with glowing microorganisms. Above them, a storm of pill bottles and fitness trackers dissolving into butterflies. \n\n\n\"Surreal digital art. A The contrast between vibrant nature inside and cold machinery outside. Soft light, hyper-detailed, 8k",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

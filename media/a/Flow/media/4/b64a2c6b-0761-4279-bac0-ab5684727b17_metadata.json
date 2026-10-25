@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b64a2c6b-0761-4279-bac0-ab5684727b17",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-07 13:10:38.846320-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Surreal action scene, superhero style, dynamic angle. One figure in a vibrant peach-colored outfit is mid-shout, mouth wide open, with cartoonish speech bubbles around them reading \"¡SOS SOS IVAN quiero ver....ga y un uto eslam SOS SOS!\". Their companion bursts into the scene dramatically: a figure in a striking purple and green costume emerging from a cloud of shimmering smoke, sparkling diamonds, and crackling lightning bolts. This figure holds an oversized syringe filled with glowing blue liquid. The overall mood should be humorous and chaotic. Vivid colors, sharp focus on the bizarre action, comic book aesthetic meets hyperrealism for a uniquely absurd effect.\n\nNegative Prompt: \nrealistic fire, realistic smoke (unless clearly stylized), photorealistic background (the background should enhance the surrealism), serious expressions, calm atmosphere, ordinary objects, text that is too legible or realistic (the speech bubbles should be clear but still fit the cartoonish feel), low detail, blurry background.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

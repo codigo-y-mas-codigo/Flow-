@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bd32d0d8-6efb-4479-9fdb-927ae3217afd",
+    "mediaTitle": "Cambiar modelos por imagen apuntada",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:08:08.911489-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "En cambia los modelos repetidas por las de la imagen que estoy apuntando",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

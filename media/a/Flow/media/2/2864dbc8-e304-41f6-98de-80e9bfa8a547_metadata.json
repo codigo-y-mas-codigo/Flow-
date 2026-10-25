@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2864dbc8-e304-41f6-98de-80e9bfa8a547",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:03:23.514018-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una ilustración de estilo tradicional que presenta a Pikachu como el personaje principal. Pikachu está de pie detrás de una mesa sencilla, llevando un sombrero de ala ancha rojo y una túnica azul y roja con bordes amarillos. Sobre la mesa hay cuatro símbolos: una copa roja a la izquierda, una moneda amarilla a la derecha, una varita en el centro y una espada pequeña frente a Pikachu. Pikachu sostiene la varita en su pata derecha, demostrando magia o transformación. El fondo es mínimo con una simple línea de tierra. Toda la ilustración está delineada con líneas negras gruesas en el estilo de grabado en madera medieval característico, utilizando colores planos saturados.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

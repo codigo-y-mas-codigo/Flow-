@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "994dedad-7dd2-4cc3-a513-add4258d13b9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:05:45.082368-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, inspired by 1950s beauty ads with a limited red-toned palette on a cream background, features a whimsical and slightly unsettling scene amidst a misty, dark background with sparkling diamonds. A stylized, engraved illustration of a luminous pink donut, almost ethereal and weightless with a holographic icing effect, is centrally depicted. Viscous, bright white liquid drips from the donut, and a small pinkish-red flower rests upon it. Tiny, brightly colored, translucent sprinkles are scattered across the icing. Beside it, an eggplant, also in an engraved illustration style, holds a syringe. The poster features a large, bold, witty headline arching across the top in all caps, with a tagline below, and scattered mid-century sparkle icons.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

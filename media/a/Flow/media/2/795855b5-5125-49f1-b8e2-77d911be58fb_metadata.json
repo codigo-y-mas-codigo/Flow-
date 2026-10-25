@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "795855b5-5125-49f1-b8e2-77d911be58fb",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 20:30:01.312129-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un diamante emerge de remolinos de líquido en agua lechosa, formados mediante una difusión suave y movimiento abstracto. Negros intensos y blancos nublados se mezclan sin esfuerzo, creando una composición poética y onírica que parece suspendida en el tiempo. La imagen evoca misterio, fluidez y emoción serena",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

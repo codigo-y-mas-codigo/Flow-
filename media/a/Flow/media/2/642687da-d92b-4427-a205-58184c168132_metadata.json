@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "642687da-d92b-4427-a205-58184c168132",
+    "mediaTitle": "Doctor examining frozen clones",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:25:01.504971-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Bor borra todos los personajes debes de estar vacías todas los tubos",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "49029202-d09d-43e4-a455-5fe710585ac7"
+    }
+  }]
+}

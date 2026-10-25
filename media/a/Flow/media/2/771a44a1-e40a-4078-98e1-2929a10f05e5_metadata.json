@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "771a44a1-e40a-4078-98e1-2929a10f05e5",
+    "mediaTitle": "3D emoji style no text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-07-18 00:01:42.955343-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1200,
+      "height": 896
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the translated and adapted prompt:\n\n\"Adapt it to horizontal size and make the rose larger, the same size as the other, same age.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE_FOUR_THREE",
+      "parentMediaId": "d901dc39-5b5f-46b0-96a4-9327cf80e255"
+    }
+  }]
+}

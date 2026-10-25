@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "29960b3d-5054-4c4a-81ef-84786feaf2be",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-13 20:55:01.143048-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "lat vector logo for \u0027Fisting ConCiencia\u0027 using a stylized abstract icon of a hand forming a spiral or loop (suggesting both unity and the fisting gesture without explicitness), next to a simplified brain or neuron icon. Color palette: clinical blue, educational white, and black. Font should be clean, geometric, and modern. Logo should suggest intelligence, care, and consent — with subtle kink undertones for those who know, but acceptable on general platforms",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

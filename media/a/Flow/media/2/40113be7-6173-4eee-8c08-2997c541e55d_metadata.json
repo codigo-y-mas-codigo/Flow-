@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "40113be7-6173-4eee-8c08-2997c541e55d",
+    "mediaTitle": "3D emoji style no text",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-07-17 23:52:03.214322-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The character in blue, should look like the one in the attached image and the one with yellow hair, with black hair.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "56cbb2d2-1934-4a10-8704-920bdd7af787"
+    }
+  }]
+}

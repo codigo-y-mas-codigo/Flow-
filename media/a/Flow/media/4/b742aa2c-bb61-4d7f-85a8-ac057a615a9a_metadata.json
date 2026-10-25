@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b742aa2c-bb61-4d7f-85a8-ac057a615a9a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 31/5/25",
+    "projectId": "4651d429-f88e-4781-83f4-6a223f5fe73e",
+    "createdAt": "2025-05-31 20:27:25.378535-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Título principal: \"NUTRICIÓN HOLÍSTICA: FUNDAMENTOS\"\n\nSubtítulo: \"Un enfoque integrador para el bienestar completo\"\n\nDiseño visual:\n\nFondo principal en blanco cálido (#FAF9F6), manteniendo la estética limpia y profesional\nUn motivo visual central que combina elementos naturales (hojas, frutas, vegetales) formando una disposición circular, representando el concepto holístico\nTres círculos entrelazados sutiles (en los colores corporativos) como elemento gráfico secundario que simboliza la conexión cuerpo-mente-emoción\nEl título en tipografía Playfair Display, elegante y serif\nEl subtítulo en Lato, reforzando la identidad visual del curso\nTu nombre y credenciales: \"Eli Padilla - Experta en Herbolaria\" en la parte inferior\nUna línea decorativa simple en verde salvia (#88A47C) bajo el título principal\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

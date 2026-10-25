@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b0d2795e-0e74-4d81-b774-cc86c1b23383",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 26/12/25",
+    "projectId": "fd97bba3-5557-4bfe-bac7-13cbfa86e28d",
+    "createdAt": "2025-12-26 00:54:49.199633-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "ponle un violin en la mano",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

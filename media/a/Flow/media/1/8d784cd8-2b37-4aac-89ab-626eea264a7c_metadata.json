@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8d784cd8-2b37-4aac-89ab-626eea264a7c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 22:51:05.877016-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el texto de epic fol project y borra a un personaje, al de adelante. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

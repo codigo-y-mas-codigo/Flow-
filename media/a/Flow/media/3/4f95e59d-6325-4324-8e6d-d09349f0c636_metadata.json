@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4f95e59d-6325-4324-8e6d-d09349f0c636",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 15:03:26.551244-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally drawn illustration with bold black outlines and flat, vibrant color fills on a white background depicts a happy yellow emoji. The emoji has a rounded body and a wide white smile showing upper teeth. Its closed eyes are indicated by curved black outlines, and arched brown eyebrows with bold black outlines sit above them. A flat pink area with bold black outlines represents underwear, featuring evenly spaced flat blue polka dots and a stylized light blue flower with a bold black outline at the center front. One of the emoji\u0027s rounded arms is raised, the hand with a bold black outline touching its cheek. A minimal, slightly darker yellow shading suggests the roundness of the emoji\u0027s form. A simple white shape indicates a highlight on the cheek. The background is plain white with a subtly shaded area beneath the emoji, suggesting a surface. The overall style is clean, graphic, and expressive, consistent with modern emoji design.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

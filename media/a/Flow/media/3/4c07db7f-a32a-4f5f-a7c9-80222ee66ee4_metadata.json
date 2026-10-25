@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4c07db7f-a32a-4f5f-a7c9-80222ee66ee4",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 09:07:50.389974-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A full shot, featuring a man in a diving suit seated behind a clear desk. The man\u0027s right hand is now resting on the desk. The blue neon text \"LUIS ÁNGEL MACIEL\" is transparent and continues to flicker with electrical sparks. The diving helmet is still adorned with bubbles, suggesting an underwater environment, while the background remains a dark blue with subtle electrical discharges behind the text. A silver microphone with a boom arm is positioned on the desk. To the right, an empty white office chair is visible. The scene is well-lit, highlighting the metallic gleam of the diving helmet and the translucent qualities of the desk.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

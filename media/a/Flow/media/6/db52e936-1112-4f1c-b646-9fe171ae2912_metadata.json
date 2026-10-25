@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "db52e936-1112-4f1c-b646-9fe171ae2912",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 17:40:57.877478-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration shows a seahorse rendered in a gradient of blue to teal. The seahorse faces left and has stylized features, including two visible brain-like shapes within its body. Its tail is curled, and its dorsal fin is depicted with vertical lines. The seahorse appears to be interacting with a hanging lamp that emits brain shapes instead of light. The lamp has a simple conical shade and a stylized lightbulb emitting brain shapes. The lightbulb has a gradient, starting with a teal at the top, transitioning to a lighter blue in the middle, and ending with a dark blue at the bottom. The top of the lightbulb is elongated into a thin vertical line, also in teal. The main body of the bulb is shaped like a bell or dome. Inside, a stylized brain is depicted with wavy lines, outlined in dark blue. Below the lightbulb, several thick, dark blue vertical lines are angled inwards, suggesting rays emanating downwards. At the bottom of these rays, a smaller, more detailed brain shape is positioned, also outlined in dark blue. This smaller brain appears to be moving upwards towards the larger brain within the lightbulb. The background is a solid dark blue. Below the seahorse and lamp are the words \"CHACIÓN\" in a light teal uppercase sans-serif font, followed by \"CEN LUMPAPRA\" in a slightly smaller light teal uppercase sans-serif font on the line below. In the bottom right corner, there is a small white circular icon containing the letters \"ai\" in a dark color.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

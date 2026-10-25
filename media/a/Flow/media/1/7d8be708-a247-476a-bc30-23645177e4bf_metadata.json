@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7d8be708-a247-476a-bc30-23645177e4bf",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2025-06-02 03:46:07.037574-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "In a stop-motion animation style, the layered paper cutouts of a rustic scene depicting \"La Dieta de la Milpa\" begin to shift and converge. Starting from a slightly zoomed-out perspective, each individual paper element, including stylized depictions of corn stalks, bowls filled with food, ancient figures, and plant life, slowly slides and floats towards the center. The warm, earthy tones of the paper layers create a textured and inviting visual. The central text, \"La Dieta de la Milpa,\" comprised of individual paper letters, appears first, gently sliding into its designated space at the forefront. Following the text, the surrounding elements, varying in shades of brown, orange, and cream, drift inward, overlapping and layering to form the complete illustration. The camera slowly zooms in as the final elements settle into place, revealing the intricate details of the paper-cut design with a shallow depth of field, emphasizing the central title and the richness of the layered composition.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

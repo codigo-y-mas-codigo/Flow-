@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "00f2574a-98e3-4b8a-a3e0-0577251bb55f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 10:18:18.647870-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An image of a person in a deep-sea diving suit and helmet. The person\u0027s hands are extended forward. The suit is dark, with metallic accents on the helmet. The helmet is black with a more polarized visor. Behind the person, a glowing blue seahorse is hiding. In front of the person, blue neon musical notes are visible. Behind the musical notes, electric-like tendrils extend against a dark background. Bubbles are visible near the upper left of the image, suggesting an underwater or liquid environment. The shot is pulled back to show more of the scene."
+    }
+  }]
+}

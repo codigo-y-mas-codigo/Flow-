@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "edc10c6f-63f1-4ceb-9c95-2b486c5bb4e5",
+    "mediaTitle": "Create the image",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "jul 21, 10:55 p. m.",
+    "projectId": "79acf6d0-8fde-47e7-a06c-c77be3dcc573",
+    "createdAt": "2026-07-21 21:56:56.045274-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here\u0027s the English translation of your image prompt:\n\n\"create the image.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

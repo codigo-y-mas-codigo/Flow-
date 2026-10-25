@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "291e07c4-6ef5-4dc4-8f16-263fe7e61ce3",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:24:56.416613-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized design incorporates botanical elements. A thick, dark green curved line begins at the bottom left, arcs upwards and to the right, and then curves back down and slightly to the left, resembling the left side of a heart shape or a developing vine. Inside this green line are four individual leaf shapes, each a different color. The top leaf is green and oriented diagonally from the upper left to the lower right. Below and slightly to the left of the green leaf is a yellow leaf pointing upwards and slightly to the left. A blue leaf is positioned centrally, pointing downwards and slightly to the left. To the right of the blue leaf is a red leaf, oriented horizontally with its tip pointing towards the right. A thin, light green stem extends from the bottom of the blue leaf and extends downwards, partially obscured by the red leaf. The entire design is set against a plain white background. The style is flat and graphic, with solid colors and no shading or texture visible.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

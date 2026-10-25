@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "11efeb85-a846-435c-80cf-b96faf77d85e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "d25df26b-bfb2-4128-b6e8-e32a927558f9",
+    "createdAt": "2025-06-11 04:50:11.912864-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A young woman in glasses and red lipstick and a fair-skinned man in a suit stand in a minimalist Mexican apartment kitchen.\n\nA young woman with light-toned skin, light blue eyes, and long, wavy, platinum blonde hair parted slightly off-center wears round, thin-rimmed glasses and bright red lipstick. A small mole is visible on her left cheek near her nose. She is adorned with a delicate gold necklace featuring a small, dark red heart pendant and a thin, dark red choker. She is wearing a black top with a hint of red fabric underneath. Nearby stands a fair-skinned man with dark brown hair styled with longer sides and short, neat bangs, and a sparse goatee. He wears black-framed rectangular glasses and is dressed in a light blue collared shirt under a light-colored suit jacket. A microphone on a light gray or silver stand with a round metallic head is partially visible to the right of the man. The setting is a minimalist kitchen in a Mexican apartment.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

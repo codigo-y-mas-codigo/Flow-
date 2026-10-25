@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1b76871a-c8a3-42c9-81e2-07b4a33ee937",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 00:02:34.206723-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "### 0. El Loco (The Fool) - Pose Precisa\nEditorial fashion photography of a model portraying The Fool Tarot Card. The model is a young, slender figure, positioned **standing on the very edge of a precipice, with their left leg slightly extended as if taking a step forward into the void, right foot firmly planted near the edge.** The model\u0027s **torso is turned slightly to the left, head tilted upwards and facing the sun, a look of serene and hopeful abandon on their face.**\n\n**Right arm is bent, holding a stylized wooden staff horizontally across their shoulders with a small, rustic fabric bindle tied to the right end.**\n**Left arm is gracefully extended downwards and slightly forward, gently holding a single, pristine white rose.**\n\nA small, fluffy white dog (like a Maltese) is **standing on its hind legs at the model\u0027s right foot, looking up playfully** as if warning or accompanying them.\n\n**Location:** Extreme edge of a rocky cliff overlooking a vast, majestic mountain range and a deep valley below.\n**Lighting:** Radiant golden hour natural light, sun low in the sky creating an intense lens flare from the upper right, strong glowing rim light outlining the model\u0027s entire silhouette, hair, clothes, and the dog\u0027s fur.\n**Style:** Cinematic low angle shot, shot on 85mm f/1.8, extremely sharp focus on the texture of the fabrics and the model\u0027s expressive, hopeful face, Vogue magazine editorial style, ultra-realistic skin texture, 8k, award-winning photography. --ar 3:4 --stylize 300",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "dfdf1352-aed3-4552-abf1-6cc5c8e1cdb4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 15:14:00.329902-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image shows a stylized design incorporating agricultural and botanical elements. A thick, golden-brown curved shape resembling a wheat stalk begins at the bottom left, arcs upwards and to the right, and then curves back down and slightly to the left, resembling the left side of a heart shape formed by a developing piece of wheat. Inside this golden-brown shape are four individual grain kernel shapes, each a different color. The top kernel is green and oriented diagonally from the upper left to the lower right. Below and slightly to the left of the green kernel is a yellow kernel pointing upwards and slightly to the left. A blue kernel is positioned centrally, pointing downwards and slightly to the left. To the right of the blue kernel is a red kernel, oriented horizontally with its tip pointing towards the right. A thin, light green stem extends from the bottom of the blue kernel and extends downwards, partially obscured by the red kernel. The entire design is set against a plain white background. The style is flat and graphic, with solid colors and no shading or texture visible."
+    }
+  }]
+}

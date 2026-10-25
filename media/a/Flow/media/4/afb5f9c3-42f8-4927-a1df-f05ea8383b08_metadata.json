@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "afb5f9c3-42f8-4927-a1df-f05ea8383b08",
+    "mediaTitle": "Asustada modelo mojada escondida",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:57:11.122992-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Debe debe estar escondida detrás de la payaso y la doctora hasta el extremo de al fondo. La modelo debe estar y totalmente mojada como si lo hubiera llovido, asustads, por haberse salido vacíot",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

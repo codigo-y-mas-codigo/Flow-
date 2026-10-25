@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5cc49093-cc72-4242-a865-417fd59d1976",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 10:54:27.574185-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Minimalist ultra-premium square thumbnail for exclusive advanced tarot course on emotional healing and self-love, deep emotional transformation vibe, sophisticated luxury spiritual aesthetic for mature audience, modern introspective adult feel, high-end wellness branding.Dark sophisticated palette: deep midnight indigo, charcoal black, subtle aged gold and soft ivory accents. Dramatic yet elegant lighting with soft rim light and gentle volumetric glow.Central hero element: a single authentic Rider-Waite-Smith The High Priestess card (La Sacerdotisa) shown in classic style with large clear roman numeral II at the top, floating slightly above a dark wooden surface with extremely subtle glowing outline of closed tarot deck beneath it. The card has a mysterious, introspective and powerful presence — eyes closed, veil flowing, pomegranates visible, evoking deep inner wisdom and emotional unveiling. Soft golden rim light on the card edges only, creating depth and premium feel. No other cards visible.Powerful large-scale Spanish text in elegant modern luxury typography (mix of refined serif for main title and clean sans for subtitle), high legibility even at small size, perfect visual hierarchy:Top third (smaller but impactful): CURSO TAROT AVANZADO\nCenter dominant (very large, strong weight): SANACIÓN EMOCIONAL\nBottom third (elegant): Y AMOR PROPIO\n\nText color: crisp ivory white with subtle aged gold outline/glow on the main title to create premium pop against the dark background. No text overlapping the card.Ultra clean composition, generous negative space, cinematic depth of field, subtle grain texture for sophistication, no clutter, no crystals, no moons, no stars, no angels, no hands, no additional symbols. Strong emotional pull of mystery, healing power and quiet luxury. Premium branding feel that screams exclusivity and deep personal transformation.Square 1:1 aspect ratio, perfect for Hotmart thumbnail --ar 1:1 --v 6 --stylize 150 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

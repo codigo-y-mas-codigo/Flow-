@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6cbd9bca-0157-4265-81bc-a6779f5b9fbc",
+    "mediaTitle": "Crear infografía de asesoramient…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:06:43.462406-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Rol: Actúa como un diseñador gráfico editorial y estilista visajista profesional.Tarea: Analiza la fotografía del usuario, identifica sus rasgos y estructura ósea, y genera una infografía de asesoramiento de imagen fotorrealista con el corte ideal seleccionado.Instrucciones Estrictas de Consistencia Facial:Mantén la identidad, facciones exactas, mirada, expresión y tono de piel de la persona original de forma 100% idéntica. El único elemento que se debe modificar o reemplazar es el cabello.Estructura y Maquetación de la Imagen:Composición: Diseña un panel horizontal dividido en tres secciones o vistas consecutivas del mismo corte de cabello: 1. Vista Frontal (de frente), 2. Vista Posterior (la nuca/atrás), 3. Vista de Perfil (3/4 o lateral).Fondo: Usa un fondo de estudio fotográfico neutro, minimalista y limpio (gris claro o beige suave).Elementos de Branding e Identidad Visual (Osiris Estética):En la base o centro de la composición, incluye de manera elegante el logotipo de la marca.Texto del Logo: Escribe exactamente \"OSIRIS ESTETICA\" con un isotipo sutil (como un ojo de Horus o un símbolo estético minimalista). Tipografía: Utiliza estrictamente una fuente tipográfica de estilo Cinzel en Bold (serifa clásica romana tallada) para el nombre de la marca.Marca de Agua: Coloca una marca de agua muy sutil y translúcida en la base del cuello que diga \"Osiris\".Formato de Texto y Contenido (En Español):En la parte inferior del panel, incluye una barra blanca limpia con un bloque de texto explicativo redactado estrictamente en español.El texto debe iniciar con el nombre del corte en mayúsculas (ej. \"\u003e EL QUIFF MODERNO: ...\").Incluye una explicación técnica de visajismo de máximo dos líneas detallando por qué ese corte equilibra y favorece la estructura ósea específica de la persona.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

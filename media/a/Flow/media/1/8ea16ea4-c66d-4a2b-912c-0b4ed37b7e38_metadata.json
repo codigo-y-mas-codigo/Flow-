@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8ea16ea4-c66d-4a2b-912c-0b4ed37b7e38",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-27 12:52:01.659930-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image is a modern, geometric digital illustration with flat, bold colors and sharp, precise shapes. A woman with light skin and dark hair is riding a red bicycle. The bicycle has a large wheeled basket attached to it, filled with various foods. The bicycle and the woman are depicted using bold, flat shapes and a limited color palette. The background is flat and uses the same bold color scheme, creating a vibrant and contrasting minimalist scene with a focus on graphic design elements and uniform, even lighting."
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "86aa3a64-aaa1-4e30-a386-b96c96e2daa5",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:58:37.194289-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Against a dark background with electric blue lightning, a camera rotates around a diver in a shiny silver helmet and black suit, seated at a clear glass table. The diver slowly raises one hand in a greeting gesture, then subtly moves their head. To the right, a glowing blue seahorse floats. Above the diver, the word \"NAUTILUS\" in bright blue neon letters flickers and quickly fades until it completely disappears, leaving only the lightning effects. Bubbles float upwards to the left of the diver, adding to the underwater ambiance. The scene features high contrast with neon blue lighting, a sharp depth of field, and a dark background with blue lightning.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

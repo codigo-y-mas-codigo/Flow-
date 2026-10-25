@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bf3127f4-c500-4fcb-9ecc-6c61d5e31124",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:13:58.814516-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Design an image of \"Los Enamorados\" tarot card featuring Pikachu as the main character. The design should closely follow a modern, cartoonish style with the following specifications:\n\n- Background: Solid white background (Hex: #FFFFFF).\n- Pikachu is standing between two figures, representing a choice or decision.\n- Above Pikachu, a cupid is aiming an arrow, symbolizing love and harmony.\n- Color Scheme: Bright reds (Hex: #FF0000), blues (Hex: #0000FF), and yellows (Hex: #FFFF00).\n- Line Style: Use bold, black outlines with a consistent line weight of 2 pixels for all elements.\n- Ensure the overall composition and dimensions match traditional tarot card proportions.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b47c8ed2-7a23-4af2-bdda-899c2944b4f9",
+    "mediaTitle": "Goku eating giant taco",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 01:50:54.504194-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

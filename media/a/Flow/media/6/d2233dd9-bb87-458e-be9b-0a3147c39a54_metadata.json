@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d2233dd9-bb87-458e-be9b-0a3147c39a54",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 04:01:36.928275-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cartoon vintage 3D snark poster features a luminous pink donut, an eggplant, two bananas, and a red and green chili pepper, all depicted with a playful, edgy humor. The central focus is a luminous pink donut, seemingly weightless, from which two female legs in black fishnet stockings and black high-heeled shoes emerge. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other a glass pipe. A dark pink background softly complements the donut\u0027s color, giving it a delicate and ethereal beauty. To the side, an eggplant is depicted holding a syringe. Next to it, two bananas are present, one holding a bright syringe, and the other alongside a red chili pepper and a green chili pepper. The overall image has a dreamlike and slightly otherworldly quality due to the holographic effect of the donut\u0027s icing.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

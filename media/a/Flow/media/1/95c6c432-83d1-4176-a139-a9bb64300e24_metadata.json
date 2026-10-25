@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "95c6c432-83d1-4176-a139-a9bb64300e24",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 06:30:55.814554-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Video (8 seconds).\n\nOverall Style and Tone: Dark, cinematic, filled with awe and mystery. Slow and steady movement, as if in dense water.\n\nSecond 1: Abyssal Immersion - Close-up\n* Image: Extreme close-up of a high-tech diver\u0027s helmet (graphite color with copper details and three small front lights), subtly detailed. Gentle bubbles ascend slowly. The light beam from his helmet cuts through total darkness.\n* Action: The helmet rotates very slowly, exploring.\n* Sound: Deep ocean silence.\n\nSecond 2: The Advance and the Luminous Guide\n* Image: The camera pulls back slightly to show the diver (half-body) moving with serene grace. A bioluminescent seahorse appears in the helmet\u0027s light beam, gracefully floating and emitting a soft blue-green light.\n* Action: The diver and the seahorse swim very slowly forward.\n* Sound: Growing ocean murmur, fine bubbles, and a subtle, ethereal chime from the seahorse.\n\nSecond 3-4: Revelation of the Floating Studio\n* Image: The light beam rapidly expands to reveal an underwater recording studio: a transparent glass table on metallic supports and two white, ergonomic studio chairs. A silver boom microphone is already positioned. The background is the dark studio wall.\n* Action: The diver and the seahorse approach, the diver heading towards the chair.\n* Sound: The ocean murmur blends with a low, barely audible electric hum starting.\n\nSecond 5-6: \"NAUTILUS\" is Born\n* Image: Electric eels, with neon blue flashes, begin to writhe and form the giant glowing letters of the title \"NAUTILUS\" on the dark studio wall. The eels\u0027 light reflects on the glass table and the white chair.\n* Action: The diver slowly glides towards the chair, the seahorse follows.\n* Sound: The electric hum becomes more prominent and rhythmic, with pulses accompanying the flashes.\n\nSecond 7-8: The Diver Takes His Seat and End of Block 1\n* Image: The diver reaches the white chair in front of the microphone and slowly settles in, facing forward (slightly towards the microphone). The reflection of the \"NAUTILUS\" title is clearly visible on the curved surface of his helmet (graphite with copper details). The seahorse positions itself to one side, floating. The shot is a medium close-up of the diver now seated, the microphone and a part of the glass table are visible.\n* Action: The diver completes his movement to sit down.\n* Sound: A soft, muffled \"clunk\" as he sits. The electric hum of the title persists, setting the atmosphere for the next shot.\n\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

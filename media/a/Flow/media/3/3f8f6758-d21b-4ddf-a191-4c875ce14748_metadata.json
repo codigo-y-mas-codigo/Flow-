@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3f8f6758-d21b-4ddf-a191-4c875ce14748",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 02:57:30.344899-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Prompt: retexture the image attached based on the JSON below: \n{\n \"style_name\": \"Thermal Plasma Rim\",\n \"retexture_mode\": \"distance_field_heatmap\",\n \"object_analysis\": {\n \"preserve_silhouette\": true,\n \"geometry_sensitive_mapping\": true,\n \"detail_retention\": \"very_low — suppress all inner detail, keep silhouette sharp\"\n },\n \"material_properties\": {\n \"base_material\": [\"ultra-matte\"],\n \"surface_details\": [\n \"smooth void-like interior\",\n \"no pores\",\n \"no seams\",\n \"no reflections\"\n ]\n },\n \"lighting\": {\n \"type\": \"rim plasma diffusion\",\n \"intensity\": \"very_high\",\n \"shadows\": \"minimal\",\n \"highlight_behavior\": \"rim-only bloom\"\n },\n \"color_palette\": {\n \"dominant_colors\": [\"#000000\", \"#002BFF\", \"#008CFF\"],\n \"accent_colors\": [\"#FFE24A\", \"#FF8A1C\", \"#FF3B00\"]\n },\n \"background\": {\n \"color\": \"#000000\",\n \"type\": \"solid\",\n \"texture\": \"none\"\n }\n}",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

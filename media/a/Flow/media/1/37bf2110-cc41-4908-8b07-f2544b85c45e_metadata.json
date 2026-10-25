@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "37bf2110-cc41-4908-8b07-f2544b85c45e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 02:01:55.317935-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "he male subject, who appears to be in his 30s or early 40s, has short, dark brown hair and fair, smooth skin. He is dressed in what resembles ceremonial or religious garb. He wears a long-sleeved white tunic or robe with what looks like silver or light grey embroidery or trim visible around the neckline and perhaps the cuffs (though the cuffs are mostly obscured). Over the white garment, he wears a deep crimson or burgundy red, open-front cloak or mantle that drapes over his shoulders and arms.\n\nThe man stands behind a dark, ornate table, on which various ceremonial objects are placed. He is looking slightly upwards and to his right (the viewer\u0027s left). His right arm is raised straight above his head, holding a bright, glowing white wand or staff that emits a strong, vertical light. The glow illuminates his face and the area immediately surrounding the wand.\n\nOn the table in front of him, from left to right, are several items:\n1. A golden chalice or goblet with intricate detailing.\n2. A small, round, bronze or gold object, possibly a paten or disc, engraved with a star-like symbol, perhaps a heptagram or similar occult/esoteric emblem.\n3. A silver or steel dagger or short sword lies horizontally across the table, pointed towards the right.\n4. Directly in the center of the table, slightly obscured by the items, appears to be a section of the table itself or a cloth with a large golden pentagram or a similar star symbol contained within a circle.\n\nThe entire scene is enclosed within a richly decorated arch-like border composed of lush greenery, deep red roses in full bloom, and white lilies (or similar white, trumpet-shaped flowers) with yellow anthers. The red roses are predominantly along the top and sides, intertwined with dark green leaves and thorns, while the white lilies are clustered more heavily at the bottom corners. The floral arrangement creates a sense of mystical or opulent framing for the central figure.\n\nThe lighting is dramatic, with the bright light source from the wand contrasting sharply with the warm, deep yellow background and the rich colors of the flowers and robes. The overall aesthetic suggests a tarot card illustration (specifically, perhaps The Magician) or an artistic depiction related to esoteric practices or high fantasy.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

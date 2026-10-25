@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "55676423-bf01-4735-b635-b131e5429b87",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "535da0aa-83a8-46fa-9b9d-f1f531c9d9f5",
+    "createdAt": "2025-06-06 12:33:45.741071-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un hombre de 38 años con lentes , con barba de chivo , dando una clase de tarot para sus alumnos de Internet por podcasts con su computadora ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

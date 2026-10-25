@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "6dcb1187-f0e2-424d-aaeb-b188b2fd9503",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 01:33:45.325683-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Incredible, amazing, mind-blowing optical illusion",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

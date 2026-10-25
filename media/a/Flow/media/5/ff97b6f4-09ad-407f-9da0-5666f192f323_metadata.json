@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ff97b6f4-09ad-407f-9da0-5666f192f323",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "2cbfe30a-1c6a-465c-bd6b-2e2e99d63461",
+    "createdAt": "2025-07-03 03:39:48.788276-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A realistic CD jewel case, cleanly lit with soft reflections and light shadows, showcasing a minimalist, retro-style vector artwork cover. The album insert features a diamond and a syringe, stylized into simplified graphic forms with bold shapes and thick outlines, set against a background of flat black with abstract, wavy shapes representing clouds and dense smoke. The illustration evokes a melancholic mood with cooler hues. A bold album title is present in a wide, rounded typeface, along with a fictional label name and logo in one corner. The overall composition feels polished and editorial, like a clean, conceptual product photo.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

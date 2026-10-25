@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "896c3d92-c245-4850-86ba-6ec51d2acc65",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 14/6/25",
+    "projectId": "2f211f2a-da23-494a-8e16-ae7bba0f156c",
+    "createdAt": "2025-06-14 19:47:48.716447-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A still life features a large, red, hand-shaped lollipop positioned diagonally on a coral-pink surface. The lollipop\u0027s \"fingers\" point towards the upper left, while its white stick extends to the lower right. White sans-serif text is printed on the lollipop, reading \"HOY\" stacked over \"TE DAN POR,\" and then \"DETROIT\" in a larger font. Below \"DETROIT\" is the number \"55\" and a smaller line of illegible text. To the left of the hand lollipop is a light blue speech bubble with a white outline. Inside, dark teal cursive text reads \"Tu suerte dice....\". A round, clear and white candy rests in the upper right. In the lower right is a round lollipop with alternating radial stripes of white and purple. Each item casts a shadow to its right and slightly below on the coral-pink background, suggesting a light source from the upper left.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

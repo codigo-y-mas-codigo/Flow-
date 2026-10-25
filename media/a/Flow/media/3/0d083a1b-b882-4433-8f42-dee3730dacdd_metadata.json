@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0d083a1b-b882-4433-8f42-dee3730dacdd",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:41:08.442563-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, inspired by 1950s beauty ads, printed in a limited red-toned palette on a cream background. The poster features a stylized, engraved illustration of a male with light skin and short hair, looking slightly off to the side with a neutral or sassy expression. At the top, a large, bold headline reads \"YO PAS CL SLM FF\" arching in all caps. Beneath it, a tagline states \"TU VRGN SLM ACT\" in a smaller, stylized font. Scattered around the headline are a few mid-century sparkle or starburst icons. All fonts are a throwback print ad style, and the entire scene conforms to a retro vintage color palette.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

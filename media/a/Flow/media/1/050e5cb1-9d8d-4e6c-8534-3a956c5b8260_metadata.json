@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "050e5cb1-9d8d-4e6c-8534-3a956c5b8260",
+    "mediaTitle": "Improving logo readability and v…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-09 12:43:22.661190-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "The logo feels like it doesn\u0027t stand out, it\u0027s hard to read. What changes can be applied?",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

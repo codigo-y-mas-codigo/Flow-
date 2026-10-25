@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0cb97812-9b7d-4dcf-87fd-c0b1caabcec0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 9/7/25",
+    "projectId": "d9f8c2df-88b4-4fbb-a7c7-b2cb6d43b5e8",
+    "createdAt": "2025-07-09 17:35:24.281629-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Two adult males are depicted indoors, both wearing black masks with heart-shaped yellow eyes. The male in the foreground, a young adult with light skin and dark hair, is shirtless and wearing dark shorts, reclining on a white bed. He is holding a black remote control in his left hand, and his right arm rests on his bent right leg. The male in the background, also a young adult with light skin and dark hair, is seated in a grey chair, shirtless and wearing dark trousers. He is looking down at a black smartphone he is holding with both hands. The room has dark walls and a light-colored ceiling with a recessed light fixture.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

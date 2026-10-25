@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a6bff1c0-a078-4a0a-9767-dd4f8dcc0091",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 13:24:29.422217-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Certificado digital elegante y profesional en español para curso avanzado de tarot terapéutico. Fondo negro profundo con sutil gradiente dorado y morado tenue, estilo minimalista luxury, sin elementos excesivamente místicos. Diseño simétrico y sofisticado.\n\nTítulo central grande en tipografía serif dorada elegante: \"CERTIFICADO DE FINALIZACIÓN\"\n\nSubtítulo debajo en tipografía sans-serif fina: \"SANACIÓN EMOCIONAL Y AMOR PROPIO – Sistema Avanzado de Tarot\"\n\nEn el centro una figura simbólica sutil y poderosa: una mujer con velo blanco translúcido, cadenas doradas rotas cayendo a sus pies, sosteniendo dos llaves antiguas en las manos, rodeada de cuatro símbolos pequeños discretos (abandono, rechazo, traición, insuficiencia) en las esquinas como sellos minimalistas.\n\nTexto principal debajo de la figura, en tipografía serif limpia y grande:\n\"Se otorga a\"\n[Nombre Completo]\n\"por haber completado exitosamente las 15 lecciones + bonos VIP exclusivos\"\n\nDebajo, dos líneas horizontales doradas finas con texto:\nIzquierda: \"[Fecha de Finalización]\"\nDerecha: \"Artur Chéjov – Creador del Sistema\"\n\nPie de página pequeño en dorado tenue:\n\"Octubre 2023 – Otorgado con reconocimiento a la transformación real y autónoma\"\n\nFormato horizontal A4 o cuadrado, alta resolución, espacio editable para nombre y fecha, estilo lujo discreto, adulto, introspectivo, sin lunas, estrellas, cristales ni iconos de audífonos. Colores dominantes: negro profundo, dorado sutil, morado muy tenue. Aspect ratio 16:9 o 1:1 --ar 16:9 --v 6 --stylize 250 --q 2",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

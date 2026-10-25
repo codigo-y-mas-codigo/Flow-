@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ad4858fe-d044-439f-996e-5550933834ac",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 19 - 0014",
+    "projectId": "0c647195-0f50-494d-bc5d-42109fdc5f20",
+    "createdAt": "2025-06-18 23:49:18.006010-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Subject: Smartphone screen showing a WhatsApp group, a single emoji “🙄” from a sister and text reactions like “pinche chismoso”.\nContext: Close‑up of phone on table as it vibrates.\nAction: Phone vibrates and screen lights up multiple quick reactions.\nStyle: Digital chat overlay, comedic timing.\nCamera: Static close‑up on the phone.\nComposition: Emoji and texts clear and centered.\nAmbiance: Notification sound bursts, light chuckle track.\nAudio: Phone notification pings. No subtitles!\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

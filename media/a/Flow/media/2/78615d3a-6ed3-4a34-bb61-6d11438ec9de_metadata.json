@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "78615d3a-6ed3-4a34-bb61-6d11438ec9de",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "2cbfe30a-1c6a-465c-bd6b-2e2e99d63461",
+    "createdAt": "2025-07-03 03:39:33.473735-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Un diamante y jeringa, en un fondo negro con nubes y humo denso ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

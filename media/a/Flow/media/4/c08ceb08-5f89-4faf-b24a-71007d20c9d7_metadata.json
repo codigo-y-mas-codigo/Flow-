@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c08ceb08-5f89-4faf-b24a-71007d20c9d7",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:52:35.705200-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A wide-angle shot with a soft, ethereal glow, captures a male diver in a sleek, metallic diving suit, seated at a reflective glass table. He raises his gloved hand in a friendly wave, and as he does, a stream of shimmering, iridescent bubbles gently floats upwards from his fingertips, disappearing into the dark, watery depths above. The blue neon text \"NAUTILUS\" flickers and slowly fades into the inky black background, which is punctuated by subtle, electric blue lightning bolts. A luminous, turquoise seahorse, radiating a soft bioluminescent glow, drifts slowly to the right of the diver. The entire scene is bathed in a cool, aquatic blue light, creating an atmosphere of mysterious tranquility.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

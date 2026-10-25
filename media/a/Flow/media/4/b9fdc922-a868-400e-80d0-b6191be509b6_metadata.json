@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b9fdc922-a868-400e-80d0-b6191be509b6",
+    "mediaTitle": "Caotic scene in Spanish movie",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 14:19:06.671735-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

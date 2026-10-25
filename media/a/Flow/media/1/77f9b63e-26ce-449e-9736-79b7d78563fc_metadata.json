@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "77f9b63e-26ce-449e-9736-79b7d78563fc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 14:28:08.942697-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A white background features three distinct arrangements of food and botanical illustrations within green heart outlines. The first heart on the left contains three red apples with green leaves and brown stems, a cluster of dark blue blueberries with a few green leaves, and two individual dark blue blueberries. The second heart displays, on its left, three red apples of varying sizes clustered with green leaves and, nestled among them, a spray of deep blue blueberries; on its right, three stacked bright orange carrots with green leafy tops, a small red pepper, a sprig of green broccoli, and several heads of golden wheat extending upwards, along with two deep blue blueberries. The third heart contains, on its left, four stylized leaves colored green, yellow, blue, and red, growing from a single curved stem entering from the bottom; on its right, a red apple with a green leaf and brown stem, three stalks of golden wheat, a yellow banana curving downwards, a cluster of purple grapes with a green leaf, and half of a green avocado with light green flesh and a brown pit.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

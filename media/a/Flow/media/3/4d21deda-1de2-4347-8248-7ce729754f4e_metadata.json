@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4d21deda-1de2-4347-8248-7ce729754f4e",
+    "mediaTitle": "Edit people and add logo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-08-10 01:39:59.438846-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1024,
+      "height": 1024
+    },
+    "generationInputs": {
+      "prompt": "I only want the logo of \"luces de formentera\" in the center on a dark background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_SQUARE",
+      "parentMediaId": "f05b1ef6-27a5-4866-9dd9-0dd5c43c925c"
+    }
+  }]
+}

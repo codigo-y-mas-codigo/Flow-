@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e267fc75-6661-417d-b79c-70f1d2a21d76",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-13 09:55:04.139096-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cartoon creature resembling Pikachu sits in a cereal bowl on a white background with sticky notes. A cartoon depiction of a creature with a white body, tan cheeks, long pointed ears with black tips, black eyes, and a jagged black mouth sits inside a purple bowl filled with white liquid that spills over the edge and light brown and white disc-shaped cereal pieces with red and black details suggesting eyes and cheeks. The creature appears to wear a draped purple cloth or costume and has one arm extended. To the left of the bowl, curved white text reads \"THE FAVORITE CEREAL OF YOUR GHOSTS\". Above the creature, \"MIMIKYU\u0027S\" is written in large white letters with a purple outline and dripping style, with \"Mola\" in cursive purple to the right. A purple starburst at the bottom left reads \"FREE DISGUISE INSIDE\" in white, and a purple rectangle at the bottom right lists \"UP HP\", \"PROTEIN\", \"IRON\", \"CALCIUM\", \"ZINC\", and \"CARBOS\" in white. Three yellow square sticky notes with black handwritten text are arranged horizontally across the white background, each slightly tilted with a faint shadow beneath. The leftmost note has a circled \"1\" and \"PLOT THE CANVAS ON A POSTER\". The middle note has a circled \"2\" and \"PUT THE POSTER ON THE WALL\". The rightmost note has a circled \"3\" and \"SKETCH OUT YOUR BUSINESS MODEL\".",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "21c3378a-903e-4c5b-91fb-2d03f31be251",
+    "mediaTitle": "Cat walking in barbershop",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:38:54.646861-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "haz la imagen de un gato, caminando entre los objetos de una barbershop ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

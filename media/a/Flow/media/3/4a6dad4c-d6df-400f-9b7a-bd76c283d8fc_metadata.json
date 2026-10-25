@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4a6dad4c-d6df-400f-9b7a-bd76c283d8fc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:57:16.094727-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital painting with a soft, polished rendering style featuring a light gray, animated robotic figure with spiky, pale blue hair seated at a light gray desk. The figure has large blue eyes and wears brown-framed glasses. Its robotic body is constructed of segmented, light gray and darker gray metallic components. The figure\u0027s articulated fingers are positioned over a light gray keyboard, with a light gray computer mouse to the right. A light gray computer monitor displays abstract white lines and rectangles. The color palette is predominantly cool-toned, with light blues, grays, and whites. The lighting is soft and diffused, minimizing harsh shadows and contributing to the smooth appearance. The overall feel is crisp, bright, and technically refined, consistent with a clean and futuristic aesthetic. The background is a bright, solid white.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

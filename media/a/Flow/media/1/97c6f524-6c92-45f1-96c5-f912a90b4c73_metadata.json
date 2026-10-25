@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "97c6f524-6c92-45f1-96c5-f912a90b4c73",
+    "mediaTitle": "Modifying character appearance i…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:11:22.963344-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": " cambia la payasa que está arriba por una que parezca estudiante, y a la doctora que está enfrente en el tubo cámbiala por una mujer civil pelirrojo cabello largo. Y a la que está escondida ponle un una bola esfera de cristal de color naranja con un brillo sutil. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

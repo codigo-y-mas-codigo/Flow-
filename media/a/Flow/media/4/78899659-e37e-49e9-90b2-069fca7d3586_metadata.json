@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "78899659-e37e-49e9-90b2-069fca7d3586",
+    "mediaTitle": "Nike Air Force 1 Denim",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "jul 21, 10:55 p. m.",
+    "projectId": "79acf6d0-8fde-47e7-a06c-c77be3dcc573",
+    "createdAt": "2026-07-23 12:49:58.464655-07",
+    "modelName": "Omni Flash",
+    "dimensions": {
+      "duration": "10s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

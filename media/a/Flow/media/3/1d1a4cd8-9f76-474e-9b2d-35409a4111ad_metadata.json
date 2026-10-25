@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1d1a4cd8-9f76-474e-9b2d-35409a4111ad",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:56:10.059236-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster rendered in a vibrant, high-contrast digital illustration style reminiscent of animated series or comic book art. A luminous pink donut, with bold outlines and flat or gradient fills, sits centrally against a dark pink background, stylized with warm oranges and cool blues/blacks. Pink liquid and white spilled milk drip from the donut\u0027s base, adorned with numerous diamonds and pink sprinkles. Emerging from the donut\u0027s center are two female legs, clad in black fishnet stockings and black high-heeled shoes. Two hands also extend from the donut, one holding a syringe with glowing liquid and the other a glass pipe. The donut appears weightless with a holographic icing effect, embodying a dreamlike, otherworldly quality. The dark pink background softly complements the donut\u0027s color, maintaining a feeling of delicate sweetness and ethereal beauty. The scene is set under a night sky with abundant lightning and fog, all rendered with sharp edges and a consistent aesthetic for a playful and energetic visual impact.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "afcdfdd8-d536-43e5-ab18-f313068d5d74",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:44:26.677102-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A traditional-style illustration features Pikachu as the central figure, standing and wearing a red tunic with gold trim. To Pikachu\u0027s left is a female figure wearing a red dress and a blue cloak. To Pikachu\u0027s right is another female figure wearing a blue dress and a red cloak. Above the three figures, a winged figure or Cupid floats within a sunburst of alternating red, yellow, and blue rays. A simple ground line is depicted beneath the figures. The entire illustration is outlined with thick black lines in a characteristic medieval woodcut style, utilizing flat, saturated colors.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

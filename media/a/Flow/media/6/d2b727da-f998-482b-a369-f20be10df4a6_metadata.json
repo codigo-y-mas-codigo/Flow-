@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d2b727da-f998-482b-a369-f20be10df4a6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:09:22.456030-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage snark poster, in a limited red-toned palette on a cream background, features a luminous pink donut, an eggplant with a syringe, and viscous white liquid under a stormy night sky with abundant fog and lightning, with a headline \"act pas slm ff\". The luminous pink donut, appearing almost weightless with a dreamlike, slightly otherworldly holographic effect, is central. Viscous liquid chocolate drips from it, and a small pinkish-red flower rests upon it. Tiny, brightly colored, almost translucent sprinkles are scattered across the icing, with the donut\u0027s base a barely visible, soft golden hue. An eggplant, stylized as an engraved illustration, holds a syringe. Bright, viscous white liquid is also present, appearing as a stylized, engraved element. The background depicts a night sky with a dramatic lightning bolt and thick fog, all rendered in the limited red-toned palette. The headline \"act pas slm ff\" is in a large, bold, mid-century serif font, arching across the top in all caps, with a few mid-century sparkle icons.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

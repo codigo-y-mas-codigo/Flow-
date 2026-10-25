@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "385621f1-279d-424d-baae-53a1551a1688",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:48:05.007780-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background depicts a figure hanging upside down. The figure appears to be constructed from or coated in a reflective, textured material of a golden hue. This man, rendered in gold, is suspended by his right ankle from a thick horizontal branch, also golden and reflective. His short, wavy, light brown hair has a golden sheen. His expression is neutral. His arms are bent, his golden hands tucked inside the openings of a vest that is reflective gold with darker, dissolving edges. Underneath, a light blue and white striped shirt has been transformed into a reflective golden texture with dissolving edges. His legs are crossed at the knees, and he wears bright blue pants, now a textured, reflective gold, and red shoes, similarly transformed. The branch is supported by two roughly vertical, yellow tree trunks, now reflective gold with dissolving edges, each sprouting several small red leaf-like shapes, also rendered in reflective gold with dissolving particles. Green grass-like forms at the base of each trunk are now dark and subtly reflective. At the top center, the Roman numeral XII is in black, and at the bottom center, the French text \"LE PENDU\" is in black capital letters. The card has a thin black border and a thicker white border, both with a subtle golden reflective quality. A light source from the left casts highlights and shadows, emphasizing the three-dimensional form and the dissolving edges that scatter small, sparkling golden particles.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

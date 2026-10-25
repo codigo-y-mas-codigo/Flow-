@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "60117d0f-a263-487b-b7b2-74c519156dc6",
+    "mediaTitle": "Goku transforming Super Saiyan E…",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 01:49:19.712942-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Goku, a AAA luchador with a red and gold mask, entering the Arena México ring under bright lights and pyrotechnics. Quick cut to an epic Super Saiyan transformation: hair explodes in brilliant gold, a powerful golden aura surrounds him, mask slightly torn. He faces El Santo in a classic silver suit. A rapid exchange of blows: a flying kick with ki vs. El Santo\u0027s plancha. It ends with both wrestlers clashing fists in the center of the ring, confetti falling, the crowd going wild with banners. Style mixes Mexican Lucha Libre film and Dragon Ball live-action, fast and dynamic action, epic camera, dramatic arena lighting, intense colors, 8 seconds, high quality, cinematic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

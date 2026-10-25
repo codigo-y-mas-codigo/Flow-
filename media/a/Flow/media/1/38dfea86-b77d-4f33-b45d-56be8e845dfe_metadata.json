@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "38dfea86-b77d-4f33-b45d-56be8e845dfe",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 20:01:43.495292-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital 3D rendering on a white background depicts a robot resembling Goku. The robot has smooth, rounded metallic armor in white and light gray. It features a small, pointed beard only on its chin and wears framed glasses. The robot is seated at a light-colored desk in front of a computer. Its expression is happy and content, suggesting it is working. The lighting is soft and diffused, creating a clean and polished look with minimal shadows. The overall color palette is cool-toned, emphasizing the white and light gray of the robot and desk against the plain white backdrop.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

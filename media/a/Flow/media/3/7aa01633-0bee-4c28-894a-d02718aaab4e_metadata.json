@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7aa01633-0bee-4c28-894a-d02718aaab4e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 16:33:52.618196-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A fast-paced, dynamic montage showcasing a variety of common processed foods and empty containers (e.g., soda cans, chip bags, empty fast-food boxes). The visual style should be slightly chaotic and overwhelming, with a mix of vibrant, artificial colors. Interspersed within this montage are quick shots of the young Mexican woman from the previous scene, displaying expressions of frustration, fatigue, or discomfort while interacting with or looking at these unhealthy food items. The overall mood should convey the negative impact of modern, unhealthy eating habits.\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

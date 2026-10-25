@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4d97fdce-36e9-44b7-a431-8844a2ec38d9",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 24/6/25",
+    "projectId": "0bd31fde-efd6-47a6-a6f2-b468ae8db602",
+    "createdAt": "2025-06-26 00:00:34.787301-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A slow, perfectly smooth circular tracking shot, filmed with a RED V-Raptor cinema camera in a Nauticam underwater housing with a 24mm wide-angle anamorphic lens, orbits a massive, glowing blue quartz crystal formation from left to right, creating dramatic parallax and depth within a vast, dark underwater cavern. The crystal, the sole light source, emits a powerful, pulsating blue light that casts soft-edged moving shadows and shimmering caustic light patterns across the cavern walls and the divers\u0027 futuristic suits, illuminating the visible particulate matter (subtle marine snow) drifting in the dense water. Two divers, one positioned to the left and one to the right of the crystal, in realistic, slightly worn futuristic gear, gracefully swim with transparent, tablet-like devices displaying scrolling holographic data, as a steady stream of highly detailed, photorealistic air bubbles rises from their equipment. The deep, immense water pressure creates a constant, low-frequency rumble, while the crystal emits a powerful, resonant, bass-heavy hum synchronized with its pulsing light. An epic and awe-inspiring orchestral score, featuring deep bass notes from a synthesizer and a powerful choir, grows into a powerful crescendo, peaking at the end of the clip, which is enhanced with a fine layer of cinematic film grain and a deep, rich cinematic teal and orange color grade.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

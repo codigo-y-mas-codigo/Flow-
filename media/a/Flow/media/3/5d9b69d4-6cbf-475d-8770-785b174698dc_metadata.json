@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d9b69d4-6cbf-475d-8770-785b174698dc",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2025-06-02 02:42:12.682370-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A layered papercut diorama ebook cover illustration in warm and earthy ocher, reddish, and brown tones, evoking tradition and health, crafted entirely from paper. The style is \"Layered Wonder,\" emphasizing depth and dimensionality with overlapping paper elements. The background features a subtly textured paper evoking earth, with delicate papercut details suggesting dry leaves and minimalist pre-Hispanic motifs representing corn and other milpa elements. Soft, diffused papercut sun rays are incorporated. The title \"La Dieta de la Milpa\" is presented in an elegant and legible papercut typeface, highlighting the artisanal and healthy nature. The layering creates a sense of depth and a slightly vintage texture with a matte paper finish, generating a welcoming and traditional atmosphere in this paper-crafted scene.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

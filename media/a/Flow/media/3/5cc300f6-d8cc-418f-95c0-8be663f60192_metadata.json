@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5cc300f6-d8cc-418f-95c0-8be663f60192",
+    "mediaTitle": "Vampire hugging man cooking",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:56:09.936113-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Don\u0027t make him muscular, make him normal, thin-bodied.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ec98071f-199e-4c4b-95d3-7b0dd9b9388d"
+    }
+  }]
+}

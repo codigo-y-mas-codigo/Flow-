@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b7c52540-8cda-4692-911e-b03d11796f8f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 14:39:40.748474-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration against a white background features a yellow circular emoji. The emoji has closed, curved eyes, a smiling mouth showing upper teeth, and a hand with four fingers touching its left cheek. Subtle shading gives the emoji a rounded appearance. To the upper right of the emoji is a digitally drawn pile of diamonds. The diamonds vary in size and are depicted with many facets, creating a sparkling effect. Soft grey shading suggests depth and dimension in the diamonds and indicates a light source from the upper left. Faint grey, swirling lines emanate from the base of the diamond pile, suggesting a subtle movement or sparkle. The surface beneath both the emoji and the diamonds is plain white, offering no indication of a specific location or setting beyond a digital canvas.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

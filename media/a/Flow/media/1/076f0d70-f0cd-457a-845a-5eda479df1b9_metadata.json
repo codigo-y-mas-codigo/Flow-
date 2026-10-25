@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "076f0d70-f0cd-457a-845a-5eda479df1b9",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 15:42:30.203492-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A high-quality studio shot of a gold-toned keychain against a clean white background, featuring cute, distinct metallic and plushie charms, some with rhinestones or glitter, depicting an old man and two animated male characters, along with elements from a field of pink flowers. A singular gold keychain ring loosely holds several cute charms. One charm is a cute little figure of an older male with fair skin, wearing a sky-blue suit jacket and matching pants, and a straw hat with a faded blue ribbon. He has a gentle smile, bright blue eyes, and round blue glasses, and holds a small, battered book. Another charm is a cute little figure of an animated male character with spiky black hair and fair skin, wearing an orange and blue martial arts gi, blue wristbands, and an orange belt, holding a dark, multi-pronged object. The third charm is a cute little figure of an animated male character with spiky black hair and fair skin, wearing a blue jumpsuit with white boots and gloves, holding silver scissors. Seven orange balloons with red stars are also a charm. The field of pink flowers is represented by two small charms: one is a cluster of soft pink, lavender, and peach petals, and the other is a shimmering path of moonlight. The color palette is pretty and bright, with shiny metallic gold, smooth opaque colors, and textured, reflective glitter. The lighting is even and bright with sharp focus.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

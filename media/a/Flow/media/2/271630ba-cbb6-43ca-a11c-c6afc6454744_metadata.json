@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "271630ba-cbb6-43ca-a11c-c6afc6454744",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 01:14:24.371048-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A hyperrealistic digital rendering in a cinematic live-action style shows a humanoid robot seated at a modern wooden desk in a well-lit room. The robot has sleek, tech-futuristic armor in light silver and matte gray tones with vivid green and purple accents. A bold metallic purple capital “M” with “MacielCorp.” beneath it in a futuristic font is on the chest plate. The robot\u0027s face is expressive and human-like, with realistic dark brown eyes, full eyebrows, a short pointed beard only on the chin, and thin, rectangular eyeglasses. Its hairstyle is inspired by classic anime heroes: dark, spiky, thick hair that rises upward in dynamic, voluminous spikes. Behind the robot is a neatly made bed with light blue linens and pillows, where three cute dogs sit: one fluffy white dog with a pink bow, one brown dog with its tongue out, and one small white dog with angel wings and a glowing halo. The scene includes two articulated silver desk lamps, a sleek silver keyboard, and a trackpad on a light gray surface. The lighting is soft, highlighting the textures of the metal and adding soft shadows, rendered in 8K with cinematic detail and hyperreal texture, exhibiting soft shadows and high-gloss depth. A window with white frames is visible behind the white dog on the bed, letting in bright light onto a muted light blue wall.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

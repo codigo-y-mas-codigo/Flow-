@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f14fad11-d32b-4871-87ea-4ff17867cf34",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:41:01.098666-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration in the style of a Marseille Tarot card with clean, bold black outlines and a flat, vibrant color palette featuring primary hues of red, blue, and yellow, along with black and white for contrast and shading, depicting Pikachu as EL SOL against a plain white background. At the top center is the Roman numeral \u0027XIX\u0027 in black. A large and radiant sun with Pikachu\u0027s cheerful face (yellow fur, red cheeks, lightning bolt tail, black-tipped ears clearly visible) emits light. Below, two happy Pichu (or small Pikachu) play together in a field, with sunflowers in the background. One Pichu might be riding a small, friendly Pokémon like a Skiddo or a very small Ponyta, or they might be holding hands. At the bottom, a black banner with the text \u0027EL SOL\u0027 in white capital letters completes the card-like aesthetic. Shading is minimal, using simple solid black areas. The composition is symmetrical and frontal.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

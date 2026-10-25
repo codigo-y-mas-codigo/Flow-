@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c9d97ec2-8b23-40a2-8f4e-9112d9dddb6f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "6042f9e3-d3e9-42cc-a129-87b914cde9a8",
+    "createdAt": "2025-05-28 17:10:34.828374-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A smiling young woman with medium skin tone, wearing a straw hat and a blue collared shirt over a white shirt, looks towards the upper left. The background is a light gradient."
+    }
+  }]
+}

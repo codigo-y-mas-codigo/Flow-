@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7f6ce855-102a-45dc-8d70-0315755e87b0",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:53:57.611147-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A viscous white liquid covers the surfaces of an opulent, dark room, creating a mysterious and luxurious atmosphere with white smoke and clouds. A woman with long black hair, fair skin, and a dark top is seen in a medium shot, smiling directly at the viewer. She holds a syringe in her right hand, positioned near a luxurious diamond-studded bed. Her right arm is adorned with a large, ornate golden bracelet, and her left wrist features a slender, dark bracelet. She has a subtle scar visible on her right cheek.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

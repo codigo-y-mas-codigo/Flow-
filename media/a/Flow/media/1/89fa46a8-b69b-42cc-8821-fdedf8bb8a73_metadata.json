@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "89fa46a8-b69b-42cc-8821-fdedf8bb8a73",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 07 - 0150",
+    "projectId": "42b77ca2-8224-469d-a21c-3a4af6578c50",
+    "createdAt": "2025-06-25 23:56:36.562908-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Persona: Act as a professional underwater cinematographer and a sound designer for a high-budget sci-fi epic like \u0027Blade Runner 2049\u0027 or \u0027Dune\u0027.\nTask: Generate a hyper-realistic and cinematically immersive 8-second video clip with impactful audio. The final output must be indistinguishable from a shot filmed with professional cinema equipment in a real underwater environment.\nContext:\n    Cinematic \u0026 Realism Details:\n    - Camera \u0026 Lens: Filmed on a **RED V-Raptor cinema camera inside a Nauticam underwater housing**, using a **24mm wide-angle anamorphic lens** to capture the grand scale and create cinematic lens flares. [cite: 1, 87, 148]\n    - Camera Movement: A **slow, perfectly smooth circular tracking shot** that orbits the central crystal formation from left to right, creating a sense of parallax and depth. [cite: 1, 54, 91]\n    - Lighting \u0026 Atmosphere: The only light source is the crystal itself. It emits a powerful, pulsating blue light that creates **dramatic, soft-edged moving shadows** and **shimmering caustic light patterns** on the cavern walls and divers\u0027 suits. [cite: 1, 75] The deep water has a tangible density, with **visible particulate matter (subtle marine snow)** drifting slowly. [cite: 1, 146]\n    - Post-Production Style: Add a **fine layer of cinematic film grain** to avoid a sterile digital look. [cite: 1, 49] The color grade should be a **deep, rich cinematic teal and orange**.\n    Scene Description \u0026 Action:\n    - An underwater shot inside a vast, dark cavern. In the center is a majestic, massive formation of giant, translucent, glowing blue quartz crystals rising from a circular stone platform.\n    - Two divers in realistic, slightly worn futuristic gear swim gracefully around the crystal. They each hold a transparent, tablet-like device that displays complex, scrolling holographic data.\n    - A steady stream of **highly detailed, photorealistic air bubbles** rises from their equipment.\n    Audio Design (Impactful Sound):\n    - Environmental Sounds: The sound of **deep, immense water pressure**—a constant, low-frequency rumble that you can feel. The crisp, clear sound of the divers\u0027 bubbles. \n    - Sound Effects: A **powerful, resonant, bass-heavy hum** emanates from the crystal, synchronized with its pulsing light. \n    - Music Score: An **epic and awe-inspiring orchestral score**, featuring deep bass notes from a synthesizer and a powerful choir. The music **grows into a powerful crescendo** that peaks exactly at the end of the 8-second clip, creating an impactful and memorable ending. \nOutput Format: An 8-second video clip in 16:9 aspect ratio, 1080p resolution. The video must include the layered, impactful audio. **No subtitles, no on-screen text, no captions.** \n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

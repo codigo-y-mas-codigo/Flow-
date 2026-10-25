@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5e83fd7f-e75e-4221-a6fb-a19769da5fd1",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 07:49:51.626743-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A full-body image of a person in a deep-sea diving suit and helmet, appearing to be swimming from a distance towards a glowing blue seahorse and the word \"NAUTILUS\" spelled out in bright blue neon letters. The seahorse is depicted as if it is swimming, guiding the person. The suit is dark, with metallic accents on the helmet, and the helmet is black with a polarized visor. Many bubbles are visible around the person. Electric-like tendrils extend from the text against a dark background. The camera is pulled back to show more of the surrounding space, revealing a treasure chest filled with diamonds, a laptop, and cell phones."
+    }
+  }]
+}

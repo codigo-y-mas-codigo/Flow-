@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d948a31f-dbbb-4ecf-8111-4e2665c8152c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-06-03 10:19:00.465610-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration with flat, solid colors against a bright white background displays four distinct, decorative borders arranged in parallel rows. The topmost border features whimsical motifs including stylized roses, flowers, leaves, hearts, and dots in bold, primary-like hues of reds, blues, yellows, and greens. Two miniature elephants with upward-curving trunks are also present, all rendered with crisp black outlines. The second border consists of a delicate, wavy vine in a solid color, with small, round berries and pointed leaves branching off, also in flat colors with black outlines. The third border presents a structured pattern of solid-colored circles, each containing a different flat symbol: a snowflake, a five-pointed star, a leaf, a solid heart, and a crown, all connected by a thin, wavy line with small, leafy sprigs and five-pointed stars extending above and below. The bottommost border showcases a flowing, curvilinear line in a solid color, adorned with clusters of flat-colored circles and dots, along with small hearts and curled flourishes integrated into the wavy structure, all outlined in crisp black.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

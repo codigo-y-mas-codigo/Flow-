@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "70a0cb0d-a0e2-46a9-a08d-d0a3c1a6fd4f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 02:59:50.298353-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, inspired by 1950s beauty ads, printed in a limited red-toned palette on a cream background, features a steampunk fish and a luminous pink donut with a witty headline. The poster centers on a stylized, engraved illustration of a steampunk-style fish, primarily teal, metallic, and segmented with brass gears and portholes, appearing somewhat off to the side with a neutral expression. Its round yellow eyes glow subtly, and a small trail of bubbles rises from its back. Beside it, a luminous pink donut with a holographic shimmer and brightly colored, translucent sprinkles floats, appearing weightless. At the top, a bold headline in a mid-century serif font declares, \"GEARS BEFORE QUEERS!\" with starburst icons. A tagline beneath adds, \"Still Buffering,\" and a funny footer states, \"Mentally ooo.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

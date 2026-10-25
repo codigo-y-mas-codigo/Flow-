@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a39c54af-ba52-400b-a708-568947f0100a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-29 16:57:32.885122-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized flat design image on a white background. A woman is depicted with subdued flat colors and clean lines, standing with a slightly slumped posture and looking down. Subtle, swirling, almost transparent light grey circular arrows surround her, illustrating a self-defeating loop. In front of the woman, a hand rendered in bold flat colors extends forward, gently offering a single, vibrant green leaf depicted in bold flat color. The overall aesthetic is minimalist illustration and vector art style, conveying a sense of breaking free from negative patterns.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

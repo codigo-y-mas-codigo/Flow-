@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a768f2ff-ebe8-4957-b06a-1ea7c72c380f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:47:43.618642-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background features a middle-aged man with fair skin, now appearing coated in a reflective, textured golden material, with blonde hair that also takes on this golden hue. He has a beard and mustache and is looking to his right. He is wearing a multi-colored costume with stripes and geometric patterns now rendered in shades of reflective gold and lighter yellow, creating a luxurious texture. The pointed hat with bells or tassels also reflects the golden light. He carries a staff in his right hand and has a bundle tied to a stick slung over his left shoulder, both exhibiting the same reflective gold. A light blue animal, possibly a cat or dog, near his left leg, looking upwards, is now depicted with a reflective, textured golden surface with dissolving edges. The ground beneath the man\u0027s feet has patches of dry foliage transformed into sparkling golden particles, contributing to a sense of dissolving or transformation. The light source from the left casts dramatic highlights and shadows on all elements.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

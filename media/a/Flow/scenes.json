@@ -1,0 +1,35 @@
+{
+  "scenes": [{
+    "sceneId": "3647292e-3019-4471-bfa2-f3597511cb5b",
+    "name": "Untitled Scene 07-18 09:41:39",
+    "aspectRatio": "SCENE_ASPECT_RATIO_LANDSCAPE",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:41:39.204486-07",
+    "isFavorited": false,
+    "clips": [{
+      "mediaTitle": "Goku eating giant taco",
+      "mediaId": "6eea835e-ee5e-473c-abd3-79883cecf59e",
+      "position": 0,
+      "duration": "8s",
+      "endTime": "8s"
+    }, {
+      "mediaTitle": "Luchador mexicano transformándos…",
+      "mediaId": "61700f44-e64e-4f67-9a3c-f2c3a4da04d2",
+      "position": 1,
+      "duration": "8s",
+      "endTime": "8s"
+    }, {
+      "mediaTitle": "Luchadores comparten taco en ring",
+      "mediaId": "c6b50cb9-9e78-40af-a3c9-d6cd6a129229",
+      "position": 2,
+      "duration": "8s",
+      "endTime": "8s"
+    }, {
+      "mediaTitle": "Luchadores dándose la mano en ri…",
+      "mediaId": "60f3efef-2d44-4636-9ec4-30f8814457d6",
+      "position": 3,
+      "duration": "8s"
+    }]
+  }]
+}

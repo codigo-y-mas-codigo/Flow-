@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "26abd2e8-6f0b-40e4-984a-7c07e69ade75",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:23:08.631661-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una ilustración de estilo tradicional que presenta a Pikachu como el personaje principal. Pikachu está de pie en el centro, vistiendo una túnica roja con ribetes dorados, posicionado entre dos personajes femeninos: uno con un vestido rojo y una capa azul a la izquierda, y otro con un vestido azul y una capa roja a la derecha. Sobre esta escena, una figura alada o Cupido flota dentro de un resplandor solar de rayos alternados rojos, amarillos y azules. El fondo es mínimo con una simple línea de tierra. Toda la ilustración está delineada con líneas negras gruesas en el estilo de grabado en madera medieval característico, utilizando colores planos saturados.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

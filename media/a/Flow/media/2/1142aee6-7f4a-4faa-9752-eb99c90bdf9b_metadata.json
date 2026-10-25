@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1142aee6-7f4a-4faa-9752-eb99c90bdf9b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-27 14:01:09.051263-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "\n Retrato impactante de un [SOGORRO] distorsionado por un cristal texturizado vertical, que fragmenta y alarga los rasgos en líneas verticales onduladas. Sobre un fondo de [COLOR] vivo, la fotografía muestra el equilibrio entre los contornos suaves del sujeto y las distorsiones dinámicas impuestas por el cristal, con los detalles bien iluminados y nítidos que resaltan los detalles.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

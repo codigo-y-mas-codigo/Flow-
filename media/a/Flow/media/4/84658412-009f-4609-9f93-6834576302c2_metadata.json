@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "84658412-009f-4609-9f93-6834576302c2",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-26 19:23:33.200102-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"El Diablo\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Devil-Pikachu on a pedestal with two smaller Pokémon tethered. Marsella style.\nKey animation sequence:\n1. Devil-Pikachu stands with a mischievous or imposing smirk.\n2. The unlit torch (if held) in its paw suddenly ignites with a flicker of Marsella crimson red and golden yellow flame. If no torch, one paw makes a subtle beckoning or commanding gesture.\n3. The two tethered Pokémon (Pichu/Mime Jr.) look up with a start or cower slightly, their tethers (black lines) subtly tightening or swaying.\n4. Devil-Pikachu\u0027s bat-like wings give a small, sharp flap.\n5. A very faint, dark red or shadowy aura briefly pulses around Devil-Pikachu or the pedestal.\nOverall mood: Temptation, bondage, materialism, shadow aspects, challenging a new path. Camera: Static, medium shot, capturing the central Devil-Pikachu and the reaction of the tethered figures.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

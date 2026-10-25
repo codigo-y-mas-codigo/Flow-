@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a4c4bad2-93cf-4188-9b7e-013db6e2f2d8",
+    "mediaTitle": "Demonic man with glowing eyes",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 02:31:44.242294-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Make it with a thinner body, it should weigh 55kg, be approximately 160cm tall, not muscular, normal body.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "a784b0fb-2ea0-4e46-91a4-22bf8f6b7548"
+    }
+  }]
+}

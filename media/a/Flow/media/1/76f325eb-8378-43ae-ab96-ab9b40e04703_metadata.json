@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "76f325eb-8378-43ae-ab96-ab9b40e04703",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-10 04:45:36.778757-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital rendering with a predominantly dark background features a golden skeletal figure holding a large scythe, a dissolving golden lion sculpture, a fair-skinned young adult male in colorful attire behind a striped table, a fair-skinned middle-aged man in a patterned costume with a staff, and a fair-skinned man hanging upside down from a branch.\n\nA digital rendering with a predominantly dark background shows the XIII Death card featuring a skeletal figure seemingly constructed from or coated in a reflective, textured golden material, holding a large scythe with a long, light yellow handle and a curved, reddish-orange blade; red details are visible at the neck, hip, and ankle joints of the skeleton, which wears tattered light blue and red cloth around the waist and is surrounded by dissolving golden particles. To the side, a side profile view shows a golden, three-dimensional sculpture of a lion sitting against a completely black background, with parts of the sculpture dissolving into a cloud of golden dust. In another part of the scene, a brightly colored, cartoonish-style illustration depicts a fair-skinned young adult male with curly blonde hair emerging from beneath a wide-brimmed hat, his form having a reflective, textured golden appearance with dissolving edges; he stands behind a rectangular table with dissolving golden diagonal stripes, with various small golden objects on it, and holds a dissolving golden blue wand. Nearby, a full-body illustration of a man with fair skin and blonde hair, appearing middle-aged with a beard and mustache, has a reflective, textured golden costume with dissolving edges, carries a dissolving golden staff, and has a bundle slung over his shoulder, with a dissolving light blue animal near him. Lastly, a tarot card shows a man with light skin tone hanging upside down by his right ankle from a thick horizontal branch with dissolving golden edges and red leaf-like shapes; his vest is half yellow and half red, and his pants are bright blue, all rendered with a reflective, textured golden material and dissolving edges.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

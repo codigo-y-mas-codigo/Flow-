@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "da76d2e8-52d8-4a48-8dc4-2f4ce7290868",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 13:50:33.410007-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A rectangular white design with a stylized blue pattern at the bottom.\n\nThe lower third of the design features a flowing, undulating pattern in deep blue tones. The design consists of two main blue elements: a darker, solid navy blue area occupying the bottom portion of the design, and a slightly lighter, brighter blue wave extending just above the navy, creating a sense of depth and movement. The upper edge of this blue section is a smooth, continuous S-shaped curve that rises from the lower left corner and culminates toward the center-right before descending slightly toward the lower right corner. The overlaid lighter blue curve accentuates this undulating edge.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

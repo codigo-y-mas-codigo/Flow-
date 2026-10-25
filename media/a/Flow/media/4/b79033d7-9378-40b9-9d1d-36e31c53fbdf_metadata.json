@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b79033d7-9378-40b9-9d1d-36e31c53fbdf",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 1/7/25",
+    "projectId": "9030ad1b-6608-45c9-b317-2d3c6747b728",
+    "createdAt": "2025-07-01 15:42:29.967626-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A high-quality studio shot of a gold-toned keychain with multiple cute, metallic or plushie charms, some with rhinestones or glitter, against a clean white background. Dangling from the keychain are three distinct charms: an old man, and two animated male characters in a chibi art style. The old man charm has a gentle smile, silver wispy hair peeking from a straw hat with a faded blue ribbon. He wears a sky-blue suit jacket and pants, and carries a small, battered book. The first chibi male character charm has spiky black hair, fair skin, and wears an orange and blue martial arts gi with a blue undershirt, blue wristbands, and an orange belt. He holds a small, dark, multi-pronged object. The second chibi male character charm also has spiky black hair, fair skin, and wears a blue jumpsuit with white boots and gloves, and a white, sleeveless shirt. He holds silver scissors. Above this charm are seven orange balloons, each with four red, five-pointed stars. Additionally, two small charms represent the location: one is a cluster of delicate pink, lavender, and peach flowers, and the other is a shimmering moonlight path. The color palette is pretty and bright, with shiny metallic gold, smooth opaque colors, and textured, reflective glitter. The lighting is even and bright, with a sharp focus.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

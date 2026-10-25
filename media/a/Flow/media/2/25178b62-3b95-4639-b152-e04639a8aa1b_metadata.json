@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "25178b62-3b95-4639-b152-e04639a8aa1b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:14:32.461196-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital image shows two yellow circular emoji figures against a solid white background with a subtle light gray gradient near the bottom. The emoji on the left displays a shocked expression with wide, round white eyes that have black pupils looking slightly upward and to the right. Its mouth is open in an \"O\" shape, and a small, slightly darker yellow hand extends to touch its lower lip or chin. Two small, light orange circles are present on its cheeks, suggesting a blush. The emoji on the right is positioned slightly lower and to the right, consisting of two rounded humps that resemble buttocks. A small, horizontal dark brown oval is centrally located on the upper portion of the right hump, suggesting an anus. Below this, a single, small, light gray teardrop is depicted. Both emoji figures have a glossy sheen, implying a digital rendering with a light source from above. The bottom edges of both emojis have a faint, blurry reflection on the light gray area.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

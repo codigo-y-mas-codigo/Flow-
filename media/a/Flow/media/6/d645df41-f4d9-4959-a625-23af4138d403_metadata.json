@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d645df41-f4d9-4959-a625-23af4138d403",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-27 12:49:30.687362-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A modern, geometric digital illustration in a looping panoramic vector style for a website footer. The scene depicts a vibrant, healthy natural environment with a soft, light blue sky background featuring a yellow sun and a blue cloud. The foreground and midground showcase stylized, lush green trees, one of which has red apples among its leaves, with rounded canopies and simplified bushes with colorful wildflowers, all rendered with sharp, precise lines and flat color fills. The overall color palette is bright and inviting, featuring flat cheerful greens, sunny yellows, and fresh blues, consistent with the modern, minimalist aesthetic of flat, bold colors and shapes. The elements are distinct with smooth lines and no gradients, characteristic of flat vector art."
+    }
+  }]
+}

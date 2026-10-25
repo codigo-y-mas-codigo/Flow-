@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "41644c6a-2326-4494-98d2-0da503eb5377",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:35:37.890362-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vector illustration in the style of a Marseille Tarot card with vivid primary colors (red, blue, yellow) and thick, clean black outlines on a plain white background depicts Pikachu as EL LOCO. Pikachu, rendered with flat yellow color, red cheeks, black-tipped ears, and a black lightning bolt tail outlined in black, wears a black and white jester\u0027s hat. He carries a small bundle tied to a black stick over his shoulder and walks joyfully towards the right. A small companion Pokémon, resembling a simplified, flat-colored Yamper or Growlithe with thick black outlines, playfully nips at Pikachu\u0027s heel. The ground suggests the edge of a precipice with a simple black line. The Roman numeral \u00270\u0027 is positioned at the top center of the illustration. A black banner with the white capital letters \u0027EL LOCO\u0027 is placed at the bottom.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

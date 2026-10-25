@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ab399e7a-c2ef-4f09-9b7c-b39acef0c257",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/5/25",
+    "projectId": "56bf5254-aae0-4f08-96d9-09de12dd6f36",
+    "createdAt": "2025-05-13 20:59:20.111232-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally created image features a central illustration of a clenched fist. The fist has a light reddish-brown skin tone and is wrapped with a glowing blue electrical cord. The cord originates from behind the fist, wraps around the forearm and hand, and extends upward. Behind the fist is a stylized representation of a brain, divided into two halves. The left half of the brain is outlined in a bright red neon light, while the right half is outlined in a vibrant purple neon light. Above the brain and fist, the words \"FISTING CIENCIA\" are written in a simple, uppercase white font. Below the brain and fist, the words \"FISTING ONCCENCIA\" are written in the same style. The background is a dark, speckled purple, suggesting a night sky or a cosmic setting with scattered light particles. The overall lighting effect is dramatic, with the neon outlines and the glowing cord contrasting against the dark background.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

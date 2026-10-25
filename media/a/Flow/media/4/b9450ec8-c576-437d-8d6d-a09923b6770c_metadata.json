@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b9450ec8-c576-437d-8d6d-a09923b6770c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-06 04:16:24.375901-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A breathtakingly hyperrealistic, cinematic 8-second video. The scene opens with a close-up on a weathered wooden table in a slightly dimly lit, mystical study. On the table are four distinct objects, rendered with incredible detail: a gleaming gold coin (Pentacle), a polished silver goblet (Cup) reflecting the subtle light, a sharp, double-edged steel dagger (Sword) with intricate carvings on its hilt, and a slender wooden wand (Wand) with glowing runes etched along its length. Suddenly, a charismatic young man materializes behind the table. He embodies The Magician from the Rider-Waite Tarot, wearing rich, flowing robes (deep red and white), his gaze intense and focused. With deliberate, graceful movements of his hands, he gestures over the objects. As he does, subtle cinematic visual effects emanate from his hands and interact with the items: a faint golden glow around the coin, a wisp of shimmering water rising from the cup, a fleeting spark of electricity dancing along the blade of the sword, and a soft breeze causing the runes on the wand to illuminate brighter. The camera subtly circles him, capturing the scene from different angles, emphasizing the realism and the magical atmosphere. The lighting is dramatic, with shafts of light highlighting key elements. The overall feeling should be one of powerful potential and mastery. After a few seconds of these magical interactions, the scene subtly transitions to the text \"Tarot Visual\" appearing in a stylish, cinematic font, followed by \"aprenderás a leer el Tarot de forma intuitiva y no de memoria\" fading in beneath it before the 8 seconds are up",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

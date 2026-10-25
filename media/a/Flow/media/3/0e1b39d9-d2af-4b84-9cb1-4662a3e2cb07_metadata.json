@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0e1b39d9-d2af-4b84-9cb1-4662a3e2cb07",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:07:04.626589-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una noche con un rayo y neblina abundante ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

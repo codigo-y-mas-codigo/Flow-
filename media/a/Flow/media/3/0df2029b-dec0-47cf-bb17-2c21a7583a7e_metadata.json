@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0df2029b-dec0-47cf-bb17-2c21a7583a7e",
+    "mediaTitle": "Create doll and cat image",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:10:36.000608-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "cra la imagen de un muñeco similar al de ken de barbie, con un gato, en una estetica y el logo de osiris tamaño horizontal para ogimagen ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

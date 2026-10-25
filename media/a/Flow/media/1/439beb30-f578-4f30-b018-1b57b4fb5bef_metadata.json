@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "439beb30-f578-4f30-b018-1b57b4fb5bef",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:52:21.240819-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Cinematic full body shot of The Fool Tarot Card, represented as a young adventurous hiker with a hopeful expression looking up at the sky. They are standing on the edge of a rocky cliff, holding a wooden staff with a cloth bundle and a white rose in the other hand. A small fluffy white dog is playfully jumping next to their boots.\n\nBackground: Majestic snowy mountains and a deep valley below.\n\nLighting and Atmosphere: Golden hour lighting, sun coming from behind creating a glowing rim light on the hair and the dog\u0027s fur, magical atmosphere, lens flare, warm tones.\n\nCamera settings: Low angle shot looking up to make the subject look heroic, shot on 85mm lens, f/2.8, photorealistic, highly detailed textures on clothes, 8k, masterpiece. --ar 3:4 --stylize 250",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

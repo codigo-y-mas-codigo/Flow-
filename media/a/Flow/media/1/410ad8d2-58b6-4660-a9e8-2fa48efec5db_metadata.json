@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "410ad8d2-58b6-4660-a9e8-2fa48efec5db",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 13/6/25",
+    "projectId": "d0df0cea-ac04-40c2-888a-bd04ac36186f",
+    "createdAt": "2025-06-13 10:01:00.091575-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Hyperrealistic digital food photograph presenting the colorful components of Korean Bibimbap in a dynamic \"exploded\" flat lay composition. The mood is vibrant, healthy, energetic, and graphically deconstructed. Individual ingredients are arranged separately but harmoniously across a seamless, clean white background, viewed directly from above. There is no single center; the composition is a balanced spread. Elements include: small, neat piles of julienned carrots (vibrant orange), sautéed spinach (deep green), marinated shiitake mushrooms (dark brown), seasoned bean sprouts (creamy white), vibrant red gochujang sauce in a tiny dish, perhaps some bulgogi beef fragments, and crucially, a perfectly fried sunny-side-up egg with a glistening yolk placed near the composition\u0027s visual center (though not dead center of the frame itself). Hard, direct overhead lighting casts crisp, minimal shadows beneath each distinct pile and element, emphasizing their separation and individual textures. Extremely sharp focus across all ingredients reveals their details: the texture of the vegetables, the gloss of the sauce, the crispy edge of the egg white. Deep depth of field keeps the entire spread sharp. The color palette is a dazzling array of contrasting colors against the stark white background. Focus is on the graphic separation, vibrant colors, varied textures, and the anticipation of mixing the dish.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

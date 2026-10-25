@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ea2995d8-5ce9-4398-9f24-c840aa0f9934",
+    "mediaTitle": "Kitten entering and exiting scene",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 20:01:25.716513-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

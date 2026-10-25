@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "a045bac3-7d6f-405a-a85a-3dbc4d2aaaab",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 10:48:09.502841-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A minimalist elegant square cover for a premium tarot healing course, luxury minimalist, gold subtle accents, premium branding feel. The image is a digital illustration with a modern, geometric style, a strong emphasis on flat, bold colors and shapes, and sharp, precise lines. The color palette is predominantly deep indigo and soft charcoal gray, creating a sophisticated luxury spiritual aesthetic and high-end wellness vibe. A subtle glowing outline of an open Rider-Waite tarot deck is visible on a dark wooden surface. One major arcana card, The High Priestess, is faintly illuminated in the center of the open deck. The illustration is clean, professional composition with a modern adult introspective feel, with no clutter, text overlay, crystals, moons, or angels. The lighting is flat and even, and the rendering quality is high with smooth lines and solid fills, and no gradients. The illustration is highly stylized, with flat colors and simple shapes. Square 1:1 aspect ratio.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

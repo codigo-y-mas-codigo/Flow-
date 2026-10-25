@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c09b7f49-d581-43b1-ab95-e5e991b75b84",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "814e1589-698d-46a2-b440-bf4a49812b18",
+    "createdAt": "2025-06-07 07:49:36.980482-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A brightly lit, high-resolution photograph taken from a slightly elevated angle shows a neon orange illustration of a tarot card against a backdrop of a tiled wall. The lighting is a mix of natural daylight and soft artificial light, minimizing harsh shadows and creating a clean, well-defined look with a predominantly neutral color palette featuring cool white and blue tones. The illustration depicts the seventh card of the tarot, \"VII El Carro,\" as neon sign art with sharp, glowing orange lines. A figure in a chariot pulled by two sphinx-like creatures is central. The chariot has a visible wheel, a rounded body, and a tall, slender pole. The figure appears to be an adult male with a partially visible face due to a helmet. He holds reins connected to two lion-bodied creatures with human-like faces, wearing decorative headpieces and collars. Above the chariot are thirteen neon orange dots with radiating lines. The card has a border, the Roman numeral \"XIII\" at the top center, and \"* VII EL CARRO *\" at the bottom center, all in neon orange. The background features white rectangular tiles above a row of blue square tiles. The overall aesthetic is modern and intimate, with smooth textures and clear details, exhibiting shallow depth of field.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

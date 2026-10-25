@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2447b508-c643-4eba-8c9a-063c07dfd097",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-10 01:02:50.278352-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A medium, indoor shot shows an older adult woman with fair skin. Her oval face has soft lines, a well-defined contour, and slightly marked cheekbones. Her medium-sized forehead is partially covered by her long, smooth, dense gray-silver hair, which is styled back and falls over her shoulders. She has medium, almond-shaped eyes with slightly drooped upper eyelids, and dark irises. Her medium-thick eyebrows are well-defined and subtly arched. Her nose is straight and medium-sized. Her lips are medium in thickness and defined, with a slight upward curve at the corners forming a subtle smile revealing aligned, complete, natural teeth. Her ears are proportional to her face, and she wears medium-sized circular gold hoop earrings. Her short to medium neck is visible, adorned with a chain and a small circular pendant. She has straight, slightly back-set shoulders and wears a dark gray V-neck top under a light beige cardigan. Her hands rest on a wooden countertop.\n\nOn the countertop, arranged symmetrically, are food items including a wooden cutting board with raw meat, a small wooden bowl of brown grains, a glass of white liquid, a small wooden bowl of green pumpkin seeds, a red bell pepper, a green apple, a red apple, half of an avocado, and a small wooden bowl of red strawberries. A bunch of yellow bananas extends behind the apples and avocado.\n\nBehind the woman is a slightly blurred kitchen setting with beige tiled walls and two wooden shelves. The top shelf holds a terracotta bowl with yellow bananas, a brown ceramic jar, a small potted green leafy plant, and a teal ceramic bowl. The lower shelf contains a brown pottery bowl, a small glass jar with a brown lid, a small terracotta pot with a green plant, and a dark mortar and pestle. The lighting is soft and diffuse, coming from the front-left, and the camera is positioned at face level, focusing on the woman centered in the frame.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

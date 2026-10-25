@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ef201651-50cb-4306-a4e2-5c0b7a4e475b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "3e07d7f0-d9b5-478c-b945-516e4361a59a",
+    "createdAt": "2025-07-03 05:02:14.069830-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Raw, intimate cinematic still capturing the physical and emotional toll of performance, set in the gritty reality backstage. Photorealistic style, using harsh, functional lighting contrasting with residual stage glamour. Three adult males with muscular physiques, wearing briefs and helmets, are slumped on a worn wooden bench in a cluttered backstage area. Their elaborate costumes are slightly disheveled. Their heads are bowed low, faces hidden or turned away, body language conveying utter exhaustion. The lighting is unflattering – a single bare bulb overhead or the harsh spill from a nearby dressing room mirror – casting strong shadows and highlighting the sheen of sweat on their necks and shoulders. The visual narrative lies in the stark contrast between the lingering beauty of the costume and the painful reality of the physical sacrifice. The composition frames the men slightly off-center, surrounded by the mundane clutter of the backstage environment: coiled cables, discarded water bottles, and costume racks blurred in the background. The focus is sharp on their slumped forms and the details of their exhaustion, telling a story of dedication, pain, and the quiet aftermath of applause.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

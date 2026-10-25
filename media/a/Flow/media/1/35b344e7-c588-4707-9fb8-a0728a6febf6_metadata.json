@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "35b344e7-c588-4707-9fb8-a0728a6febf6",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:56:56.745477-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An expressive landscape painting in an impasto style, rendered with thick, visible brushstrokes and a palette knife, depicts a dark room with a diamond-studded bed and a syringe on it. White smoke and clouds add mystery and luxury to the scene. The dramatic late afternoon sun breaks through clouds, creating strong contrasts between brightly lit planes and deep, shadowy areas, all defined by thick, textured color. The composition emphasizes the energy of the scene through the textured application. The color palette uses rich, heightened natural colors, with dramatic yellows or oranges in the sky, applied with tangible thickness.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

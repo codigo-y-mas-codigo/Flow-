@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7fd37108-cfd7-4493-a7b7-90b6ed43342f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 17:40:00.330749-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A logo-style illustration on a white background features a stylized lightbulb emitting brain shapes, alongside a vertically oriented logo on a dark blue background depicting a teal and blue gradient seahorse with internal brains and a hanging lamp. The lightbulb has a teal top fading to lighter blue and then dark blue, elongated at the apex, containing a dark blue outlined brain with wavy lines; dark blue angled lines descend from the bulb towards a smaller, detailed dark blue outlined brain moving upwards. Below these elements, \"inyeig gilo\" in dark blue and \"len Lumpapsa,\" in larger, lighter blue sans-serif fonts are stacked. The seahorse, teal at the top transitioning to blue, faces left and contains two visible stylized brains, with a minimalist teal and light blue conical hanging lamp emitting white light rays attached to its head. Below the seahorse and lamp, \"CHACIÓN\" and \"CEN LUMPAPRA,\" appear in light blue sans-serif capital letters, with a small white circle containing \"ai\" in dark blue in the bottom right corner.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

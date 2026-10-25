@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5c8e02c0-f320-440a-8e18-e8e38c5d02dc",
+    "mediaTitle": "Design aesthetic Egyptian logo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:20:11.801393-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "inañade la palabra en español  \"estética\" arriba de osiris. el logo hazlo  deben ser objetos de una estetica de cortes de cabello . siguiendo ese estilo egipcio minimalista ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

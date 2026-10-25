@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c04aa134-da38-47bf-9e7c-db1f49d5051c",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 17:27:25.519703-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "[Prompt en inglés para generar la imagen, incluyendo cualquier texto en español que deba aparecer en la imagen.]",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

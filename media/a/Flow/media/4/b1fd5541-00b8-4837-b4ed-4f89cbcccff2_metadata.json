@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b1fd5541-00b8-4837-b4ed-4f89cbcccff2",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-29 16:56:59.893653-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A stylized flat design image on a white background features a person depicted with subdued flat colors. Light grey, almost transparent circular arrows subtly swirl around the person, illustrating a self-defeating loop. The person\u0027s posture is slightly slumped, and their gaze is directed downwards. In the foreground, a hand rendered in bold flat colors reaches towards the person, offering a single, vibrant green leaf. The leaf is also depicted in a bold flat color. This minimalist illustration, with clean lines and a vector art style, conveys a sense of breaking free from negative patterns. The overall aesthetic is clean and simple, focusing on the symbolic interaction between the person, the looping arrows, the compassionate hand, and the offering of the green leaf.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

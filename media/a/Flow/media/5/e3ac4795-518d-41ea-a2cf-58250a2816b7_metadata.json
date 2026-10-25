@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e3ac4795-518d-41ea-a2cf-58250a2816b7",
+    "mediaTitle": "Researcher holding Erlenmeyer flask",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 24 - 02:19",
+    "projectId": "18308a22-1633-4daa-bf39-aa46d465430a",
+    "createdAt": "2026-09-24 22:27:49.657025-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt in English:\n\nHigh-resolution photorealistic cinematic photography (50mm f/2.2 lens) of a chemical researcher [you can reference the subject\u0027s image here if you have it, e.g., based on image_0.png], naturally integrated into a modern chemistry laboratory illuminated by cool, uniform fluorescent ceiling light. The researcher is leaning slightly over a stainless steel table, with their left hand holding a weighted Erlenmeyer flask, casting a sharp contact shadow onto the metal surface. The background is softly blurred (bokeh) but shows real laboratory equipment. The researcher\u0027s skin subtly reflects the bluish tone of the fluorescent light.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

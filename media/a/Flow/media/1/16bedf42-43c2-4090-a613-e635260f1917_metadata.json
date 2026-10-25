@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "16bedf42-43c2-4090-a613-e635260f1917",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 29/5/25",
+    "projectId": "30630b16-1335-4e4f-9d18-441350c25b9f",
+    "createdAt": "2025-05-30 17:31:10.958361-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Infographic or diagram illustrating the cycle of resistance in a minimalist, clean, and elegant style. Use light blue, white, and subtle warm accents for colors. The diagram should show: \u0027Mente quiere cambio\u0027 (icon of a brain or a person thinking, looking forward). An arrow pointing to \u0027Cuerpo no responde\u0027 (icon of a static person or a person facing a subtle barrier). A connection to \u0027Percepción de Amenaza\u0027 (icon representing stress, undigested emotions, or past negative experiences, perhaps a swirling cloud or jagged lines). An arrow pointing to \u0027Sistema de Autoprotección Activado\u0027 (icon of a shield or a protective barrier). An arrow looping back to \u0027Resistencia al Cambio\u0027 (icon of a blocked person or a closed door). At the bottom, a small note: \u0027La resistencia es una señal, no un defecto.\u0027 The overall design should be clear, easy to follow, and visually appealing for an editorial layout.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

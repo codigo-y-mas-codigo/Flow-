@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "90f9f07b-d41e-4667-a53c-e32dffc78235",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:53:42.755436-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Una líquido blanco viscoso en toda la pared blanca ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

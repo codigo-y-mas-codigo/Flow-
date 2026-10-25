@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4bade211-f154-4ce4-95c6-fa151f0e1020",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 26/12/25",
+    "projectId": "fd97bba3-5557-4bfe-bac7-13cbfa86e28d",
+    "createdAt": "2025-12-26 00:16:58.561403-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "añade la palabra Version Sinfonica ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

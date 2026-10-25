@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "49029202-d09d-43e4-a455-5fe710585ac7",
+    "mediaTitle": "Doctor examining frozen clones",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "09-ago, 01:32 p.m.",
+    "projectId": "436442ca-77ff-433a-b711-e84fbf130e6c",
+    "createdAt": "2026-09-02 15:22:59.917118-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "Bor borra todos los personajes",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED",
+      "parentMediaId": "14521646-2950-48ee-a002-e445c011f304"
+    }
+  }]
+}

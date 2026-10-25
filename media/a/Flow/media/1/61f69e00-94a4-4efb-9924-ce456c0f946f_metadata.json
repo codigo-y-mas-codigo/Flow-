@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "61f69e00-94a4-4efb-9924-ce456c0f946f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:08:51.561463-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A traditional-style illustration depicts Pikachu as the central figure, seated atop a large wheel adorned with ancient symbols. An angel figure is positioned at the upper left of the wheel, an eagle at the upper right, a lion at the lower right, and a bull at the lower left; these symbolic figures appear to be turning the wheel. Pikachu, with yellow fur and black-tipped ears, holds a scepter in its right paw and a book in its left paw. The background is a plain white. The entire illustration features thick black outlines in a characteristic medieval woodcut style, employing flat, saturated colors.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

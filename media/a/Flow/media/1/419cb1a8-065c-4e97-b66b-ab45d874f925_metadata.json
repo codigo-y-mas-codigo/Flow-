@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "419cb1a8-065c-4e97-b66b-ab45d874f925",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 19 - 0014",
+    "projectId": "0c647195-0f50-494d-bc5d-42109fdc5f20",
+    "createdAt": "2025-06-18 23:16:17.487202-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Subject: Paco, a dramatic 30‑year‑old man with dark hair and casual home clothes, holding his smartphone up in front of him.\nContext: Inside a cozy family living room at midday.\nAction: He shouts into the phone, “¡Mamáaa, el coche ya no tiene gasolina!”, eyes wide, eyebrows raised.\nStyle: Cinematic telenovela‑satire with warm household lighting.\nCamera: Slow dolly in close‑up on Paco’s face.\nComposition: Tight medium close‑up.\nAmbiance: Dramatic suspense music underlines the reveal.\nAudio: Paco says the line in Spanish. No subtitles! Sound effect: faint whoosh as voice peaks.\n",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

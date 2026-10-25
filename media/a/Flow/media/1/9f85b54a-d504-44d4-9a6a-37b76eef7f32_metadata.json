@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "9f85b54a-d504-44d4-9a6a-37b76eef7f32",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:48:51.797266-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A medium shot shows a male diver in a metallic diving helmet and full black diving suit, seated at a translucent desk with a microphone and paperwork, with his gloved fingers typing on a flat screen tablet. Electric blue lightning bolts flash sporadically across the dark background. To the right of the diver, an empty white office chair is visible. Above the desk, the word \"NAUTILUS\" glows in electric blue neon. In the center, a luminous blue seahorse graphic emits a soft glow. Bubbles ascend from the left side of the frame, suggesting an underwater environment. The scene is illuminated by the neon glow and the flashing lightning.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

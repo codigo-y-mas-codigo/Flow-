@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "95bb683f-4b64-44ca-85b0-fb231e4349b5",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 15:02:13.474737-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digitally drawn illustration in a clean, graphic, and expressive modern emoji design shows a yellow emoji against a white background with subtle darker yellow shading suggesting a surface below. The emoji has a round head with two large, expressive brown eyes that have simple white highlights and black pupils looking slightly upward. Above the eyes are thick, curved black eyebrows tilted inwards, conveying a worried or concerned expression. The emoji\u0027s mouth is covered by a hand with a slightly darker yellow skin tone outlined in bold black. The fingers are bent, with the index finger and thumb appearing to pinch the area where the mouth would be. The emoji has a small, rounded body with two muscular arms ending in clenched fists, defined by bold black outlines and slightly darker yellow shading. The left arm is bent at the elbow and held close to the body, while the right arm is slightly more extended. A black garment, resembling underwear bottoms with bold black outlines and flat black fill, is worn low on the emoji\u0027s body.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "04fcdff8-9660-45a4-9766-6eba2c001bd8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 02:01:06.231117-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "humaniza la imagen, Cinematic , shot on 85mm f/1.8, extremely sharp focus on the texture of the fabrics and the model\u0027s expressive, hopeful face, magazine editorial style, ultra-realistic skin texture, 8k, award-winning photography. --ar 3:4 --stylize 300",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

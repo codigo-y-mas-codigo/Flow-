@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "043de612-fd2a-44b1-b228-be369c62f586",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 22:24:14.415140-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "[Minimalist abstract composition featuring two intertwining, glowing lines of light in deep sapphire blue and fuchsia, set against a dark emerald green background. The lines form an elegant, fluid shape that evokes intimacy and movement, subtly breaking apart at one point to suggest freedom. Soft, luminous gradients emanating from the lines. Book title: \"Deseo Sin Barreras\" centrally placed in a clean, contemporary sans-serif font. Subtitle: \"Seducción, Lealtad y Libertad en Relaciones Abiertas Gay.\" Author: \"Luis Angel Maciel\" at the bottom.]",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

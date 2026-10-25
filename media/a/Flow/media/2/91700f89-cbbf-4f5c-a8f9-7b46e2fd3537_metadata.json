@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "91700f89-cbbf-4f5c-a8f9-7b46e2fd3537",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 00:23:34.608074-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A blocky, cartoonish illustration in a flat, unblended style with bold black outlines depicts Pikachu as \"El Emperador\" tarot card. Pikachu is seated on a blocky stone throne, wearing royal armor with bold red, blue, and gold accents. A vibrant red cape drapes behind Pikachu. The figure holds a blocky ankh scepter, symbolizing rule and structure. The color fills are flat and bright, consisting of reds, blues, and golds, consistent with the Marseille Tarot style. The background is simple and regal, focusing on the throne and Pikachu\u0027s authoritative presence. The overall composition and dimensions maintain a traditional tarot card feel, with a clear black border defining the rectangular shape of the card. There is no shading or indication of a light source, maintaining a flat, two-dimensional appearance.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

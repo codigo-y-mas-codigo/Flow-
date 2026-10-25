@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4e0b585e-3f59-4fcc-94af-074f494d948b",
+    "mediaTitle": "Muscular demon with horns standing",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "18 jul, 02:39",
+    "projectId": "51af937b-bc2b-43b6-9388-3927881afb4b",
+    "createdAt": "2026-07-18 04:04:31.671305-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Full body view of muscular demon with horns, glowing green eyes, black smoke dramatically swirling around entire body, wearing leather harness and shorts, standing powerfully in dark void, green energy glow on chest, menacing smile, volumetric smoke, high detail, cinematic dark atmosphere- usa la referencia de la foto ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bcf3c640-5246-4304-acd2-76fde3f90b7e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 31/5/25",
+    "projectId": "4651d429-f88e-4781-83f4-6a223f5fe73e",
+    "createdAt": "2025-05-31 20:28:26.335235-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Separadores de texto y viñetas\nPara los separadores de texto:\n\nLíneas decorativas simples y elegantes con un pequeño motivo botánico estilizado\nTres opciones distintas:\nLínea horizontal con pequeña hoja estilizada al centro (verde salvia)\nPequeño ornamento con tres puntos como bayas (terracota)\nMotivo ondulado minimalista (azul lavanda)\nPara las viñetas:\n\nConjunto de viñetas botánicas minimalistas:\nPequeña hoja estilizada\nCírculo simple\nRombo elegante\nPequeña flor de líneas\nEsquineros para las páginas\nPara los esquineros:\n\nDiseño vegetal minimalista en cada esquina\nLíneas muy finas y elegantes\nOpción de esquineros complementarios para páginas especiales o inicios de capítulo\nVariantes en los tres colores corporativos (verde salvia, terracota y azul lavanda)",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

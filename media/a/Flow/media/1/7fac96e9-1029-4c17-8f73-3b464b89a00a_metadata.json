@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7fac96e9-1029-4c17-8f73-3b464b89a00a",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 01:16:02.271233-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "cambia de created by tunee a Arcano Sonoro con la misma tipografia ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

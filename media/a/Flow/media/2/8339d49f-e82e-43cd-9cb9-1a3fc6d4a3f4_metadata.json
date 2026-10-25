@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "8339d49f-e82e-43cd-9cb9-1a3fc6d4a3f4",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 11:23:13.601249-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el dos romano y los textos del centro borralos. la persona debe parecerse a la sacerdotisa de raider west ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

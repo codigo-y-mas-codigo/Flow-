@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c331ddc9-0d25-4164-9d6d-4252889a53db",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 04:02:14.781059-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A monochrome image with a dominating white color hue and bright, even lighting creating a high-key look. The scene features a dark room with a diamond-studded bed, a syringe on top, and an abundance of white smoke and clouds adding mystery and luxury. A man is depicted from the back, with dark hair, dressed in a purple swimming suit. One wall is made of glass and the other is a giant mirror, reflecting the same man lying down, dressed in a pink swimming suit. Outside the room, another figure of the same man stands looking into the mirror. There is a lightning bolt visible."
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "51c10c82-d1df-45f1-bb12-91fff2b798de",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-10 13:48:07.214694-08",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A rectangular white desing  with a stylized blue design at the bottom. The card is oriented horizontally and slightly off-center, against a white or light gray background. The card is predominantly white, providing ample space in the upper two-thirds for text or images.\n\nThe lower third of the desing features a flowing, undulating design in deep blue tones. The design consists of two main blue elements: a darker, solid navy blue area that occupies the bottom of the card, and a slightly lighter, brighter blue wave that extends just above the navy, creating a sense of depth and movement. The upper edge of this blue section is a smooth, continuous S-shaped curve that rises from the lower left corner and culminates toward the center-right before descending slightly toward the lower right corner. The overlaid lighter blue curve accentuates this undulating edge.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

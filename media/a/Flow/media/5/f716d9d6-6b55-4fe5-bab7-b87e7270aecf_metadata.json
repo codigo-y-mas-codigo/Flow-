@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "f716d9d6-6b55-4fe5-bab7-b87e7270aecf",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2026-03-23 11:06:45.875995-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Versión aún más llamativa (texto más grande y efectos potentes):Ultra-premium square thumbnail, exclusive emotional healing tarot system for advanced adults, dark luxury psychological aesthetic.Deep black-indigo background with dramatic lighting.Central hero: hyper-realistic holographic The High Priestess (II) Major Arcana card floating prominently in the center. Authentic Rider-Waite style illustration, large roman numeral II clearly visible at the top. Premium holographic finish with realistic 3D depth, iridescent edges, subtle light refraction, inner golden glow and slight floating motion effect, making the card look expensive and alive.Massive oversized Spanish text, bold luxury typography with strong visual impact and aged gold glow:Upper part (very large): SISTEMA AVANZADO Y SELECTIVO\nCenter — enormous, dominant title: SANACIÓN EMOCIONAL\nLower part (very large): Y AMOR PROPIO\n\nClean minimalist composition, generous breathing room, high contrast, premium branding feel that screams exclusivity and measurable transformation. No extra elements.Square 1:1 --ar 1:1 --v 6 --stylize 80 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

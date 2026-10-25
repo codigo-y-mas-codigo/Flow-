@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e81901e3-aa59-4966-a327-d048e29d3e79",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "2cbfe30a-1c6a-465c-bd6b-2e2e99d63461",
+    "createdAt": "2025-07-03 03:41:39.134884-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Placed squarely in the center of a light gray background is a realistic CD jewel case, showcasing the cover art for a fictional album. The jewel case is cleanly lit with soft reflections and light shadows, clearly showing the square album insert inside. The insert features minimalist, retro-style vector artwork with flat colors and bold outlines, no gradients or textures. The illustration has a melancholy mood with cooler hues, sparse layout, and abstract imagery. A polished, clear diamond with brilliant facets is depicted in the center, with white smoke swirling around its left side. To the right of the diamond, a peach, an eggplant, and a clear plastic syringe with a light blue tip are positioned vertically. All subjects are stylized into simplified graphic forms with bold shapes and thick outlines. A bold album title in a wide, rounded typeface is present. A fictional label name and logo are in one corner. The composition feels polished and editorial.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "3e53670c-1505-4394-8b25-236577964787",
+    "mediaTitle": "Minimalist Osiris Estetica logo …",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 18:13:01.756764-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "una iamgen que parezca una estetica usa toques de gato , minimalista, debe destacar el logo osiris estetica . incluye la palabra estetica osiris y haz minimalista el logo ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

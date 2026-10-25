@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2fc7803e-f551-4fb0-acb0-7be62e55a0ea",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:04:05.291686-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "\"Una gran luna llena ocupa la parte superior central, de color azul claro con un rostro humano de perfil izquierdo con detalles amarillos en el ojo y la boca. La luna emite rayos cónicos amarillos y rojos que se alternan, y de ella caen numerosas gotas multicolores (rojas, azules, amarillas con contorno negro) hacia abajo. Debajo, en un paisaje de suelo amarillo con dos montículos verdes estilizados, dos perros grandes de color carne, uno a cada lado, están sentados sobre sus patas traseras con las cabezas levantadas, aullando hacia la luna. Entre los perros y ligeramente detrás de ellos, se alzan dos torres cuadradas amarillas con almenas rojas y una ventana negra rectangular cada una. En primer plano, centrado en la parte inferior, un gran cangrejo azul con múltiples patas articuladas y dos pinzas grandes emerge de un cuerpo de agua azul ondulado con líneas negras que ocupa la base de la carta.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

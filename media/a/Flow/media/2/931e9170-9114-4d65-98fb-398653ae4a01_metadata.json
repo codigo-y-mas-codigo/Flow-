@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "931e9170-9114-4d65-98fb-398653ae4a01",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 01:03:33.093107-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A young-adult-appearing human with light skin tone and curly, light-colored hair, wearing a wide-brimmed hat striped with orange and white on the crown and a red brim outlined in yellow, is depicted. The human wears a vertically divided tunic, blue with a yellow sleeve on the left (viewer\u0027s left) and red with a blue sleeve on the right, along with a yellow and blue belt. Blue tights cover the legs, and the shoes are red. The human holds a thin, golden-yellow object in their raised right hand, while their left hand rests on a light brown wooden table with four legs. On the table are a golden cup, a red cup, several golden coins or discs, two knives (one with a black handle and one with a white handle), and a pouch or bag. The background features a simple landscape with a light yellow ground, a small green plant or bush, and a slightly darker yellow horizon line. A black border frames the scene, with \"TAROT\" in small, centered, sans-serif black letters above the Roman numeral \"I\", and \"EL MAGO\" in bold, uppercase, sans-serif black letters at the bottom.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

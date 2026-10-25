@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "eadf9945-d02f-458c-9d6b-19657358d703",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-06-01 13:24:56.092851-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "An infographic illustrating the concept of \u0027Mindful Eating\u0027. The design should be clean, modern, and utilize a color palette primarily derived from the Lukanti logo (vibrant green, bright yellow, red, blue, and brown/wheat tones), complemented by light neutral backgrounds (off-white, light beige). Include minimalist vector illustrations of diverse healthy foods and people engaging in mindful eating, with their clothing featuring solid blocks of the logo\u0027s color palette. Use elegant, readable sans-serif fonts.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

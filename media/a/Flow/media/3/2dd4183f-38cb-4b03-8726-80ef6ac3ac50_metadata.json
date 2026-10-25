@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "2dd4183f-38cb-4b03-8726-80ef6ac3ac50",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 15:01:04.540609-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A three-dimensional rendering of a yellow circular emoji with wide, round white eyes and black pupils looking slightly upward and to the left is positioned on a reflective white surface against a stark white background. The emoji has thick black eyebrows arched in surprise or shock and a wide open mouth revealing a pink tongue and dark interior. A small, round, light pink blush mark is visible on its left cheek. The emoji wears pink underwear with blue polka dots and a light blue flower at the center front. A smiling yellow emoji with closed eyes, arched brown eyebrows, and a wide white smile showing upper teeth has its left hand raised to its left cheek. The surface beneath the emoji reflects its form with a subtle gradient, suggesting a light source from above. The background is completely plain and white.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

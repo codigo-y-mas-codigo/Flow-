@@ -1,0 +1,18 @@
+{
+  "mediaEntries": [{
+    "mediaId": "13514afe-2e93-48db-aef0-bf04d190e933",
+    "mediaTitle": "Animate logo with walking cat",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:10:51.640397-07",
+    "modelName": "Veo 3.1 - Lite",
+    "dimensions": {
+      "duration": "8s"
+    },
+    "generationInputs": {
+      "aspectRatio": "VIDEO_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5d1eb5ac-9902-4baa-bde7-107a381cec72",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:39:22.400734-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Hyper-realistic 3D render of a hiker and her dog on a mountain peak, unreal engine 5 style, octane render, dramatic lighting, sun rays, crisp details, vibrant colors, volumetric lighting, heroic pose, shallow depth of field.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

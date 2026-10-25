@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "bef9bf0b-8524-49d7-8214-8bbbe2a11728",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-25 15:16:16.548803-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cinematic drone shot slowly flying through a surreal futuristic metallic landscape of the Bizom Head office. The camera glides smoothly above the terrace and sides, capturing the intricate architecture and gleaming surfaces in high detail. The lighting is soft and natural, with moving shadows and reflections enhancing the photorealism. In the foreground, a person in a black diving suit with a metallic helmet, featuring a dark visor, is shown. Behind the person, a glowing blue seahorse is visible above their head near a dark, rocky formation. In front of the person, blue neon text that says \"Play\" is visible, with electric-like tendrils extending behind it against a dark background. Bubbles rise near the upper left of the image, suggesting an underwater or liquid environment. No fast movements, subtle motion only. Ultra high-resolution, photorealistic rendering, 3D precision.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

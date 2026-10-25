@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "be71a72b-7a06-4e0a-be28-4a7c4256639b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-21 23:53:43.830306-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "**Style:** Cinematic low angle shot, shot on 85mm lens, f/2.2, sharp focus on the details of the sword and scales, elegant fashion portrait, 8k. --ar 3:4 --stylize 250",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

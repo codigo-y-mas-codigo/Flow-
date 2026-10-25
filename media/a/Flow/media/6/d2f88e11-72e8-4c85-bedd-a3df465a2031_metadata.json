@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d2f88e11-72e8-4c85-bedd-a3df465a2031",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-05-28 17:41:59.254897-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A modern, geometric digital illustration shows a stylized lightbulb in bold flat colors of teal, lighter blue, and dark blue, emitting sharp, precise dark blue brain shapes. The lightbulb has a thin teal vertical line at its top and a bell-shaped main body. Inside the bulb, a stylized dark blue brain with sharp wavy lines is depicted. Below the lightbulb, thick, dark blue, sharply angled vertical lines represent light rays pointing downwards. At the bottom of these rays, a smaller, more detailed dark blue brain shape appears to move upwards towards the larger brain. Below the lightbulb and brain shapes are the bold, flat dark blue text \"inyeig gilo\" stacked above the slightly larger, lighter blue text \"len Lumpapsa,\" all in sans-serif fonts. The background is replaced by a stylized seahorse rendered in a flat gradient of blue to teal, facing left, with two visible brain-like shapes within its body. Its tail is sharply curled, and its dorsal fin has bold vertical lines. The seahorse interacts with a simple conical lamp emitting flat, even light. Below the seahorse and lamp are the bold, flat light teal words \"CHACIÓN\" over \"CEN LUMPAPRA\" in a slightly smaller light teal sans-serif font. A small white circular icon with dark letters \"ai\" is in the bottom right corner.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

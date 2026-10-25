@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "0b9f6c44-c594-4158-b68c-ab4ea9366f70",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:25:12.034038-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra el II romano, el sello de la parte superior izquierda borra el texto y pon el simbolo de audio y curso de audios. y ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

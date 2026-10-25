@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "ea88c3c7-c69f-4d97-a02d-57b3d3d2b448",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "814e1589-698d-46a2-b440-bf4a49812b18",
+    "createdAt": "2025-06-07 07:52:46.823218-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A skeletal figure clad in black armor and a helmet adorned with a red plume rides a white horse turned to the right. The figure holds a black banner displaying a stylized white rose with five petals and a yellow center. The horse has a black bridle and saddle. Beneath the horse\u0027s front legs, a young girl with brown hair in pigtails, wearing a blue dress, looks upwards with clasped hands. To her right, an older male figure with a light skin tone and gray hair visible under a yellow and green patterned robe and hat kneels with hands clasped in prayer. Further right, a light-skinned figure lies on the ground, enveloped in a white shroud.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

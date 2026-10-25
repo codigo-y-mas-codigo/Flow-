@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7af8165a-71d8-462e-b0e5-1ec1e1cfe5d7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 28/5/25",
+    "projectId": "7922dd1a-b936-42d8-a4ce-29bc76772757",
+    "createdAt": "2025-06-19 03:42:17.779887-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A course banner with a clean white background. The image is completely filled with a colorful, vibrant arrangement of natural foods: fresh fruits, vegetables, seeds, nuts, raw meats, glasses of milk, green juices, fish, and oils. Healthy, organic, whole-food style. Professional lighting, studio photography look, high resolution, horizontal layout, minimalist and modern design, for holistic nutrition course."
+    }
+  }]
+}

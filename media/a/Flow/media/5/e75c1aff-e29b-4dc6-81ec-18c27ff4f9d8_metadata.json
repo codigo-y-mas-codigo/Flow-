@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e75c1aff-e29b-4dc6-81ec-18c27ff4f9d8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 10/6/25",
+    "projectId": "e305c62b-e80d-4e72-8482-7d56f64a0a52",
+    "createdAt": "2025-11-22 01:14:53.302185-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "borra donde dice feet, arcano y por delante. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

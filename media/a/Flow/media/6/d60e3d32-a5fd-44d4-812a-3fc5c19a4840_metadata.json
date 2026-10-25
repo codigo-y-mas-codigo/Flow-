@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "d60e3d32-a5fd-44d4-812a-3fc5c19a4840",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "3e07d7f0-d9b5-478c-b945-516e4361a59a",
+    "createdAt": "2025-07-03 04:57:39.148789-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Three adult males with muscular physiques stand side-by-side against a stormy sky with visible lightning. The male on the left, with light brown skin, wears blue briefs and a silver and blue helmet. His left arm is bent at the elbow, and his right arm hangs at his side. The male in the middle, also with light brown skin, wears red briefs and a red helmet. His left arm rests on the shoulder of the male to his right, and his right arm hangs at his side. The male on the right, with dark brown skin, wears green briefs and a dark green and silver helmet. Both of his arms hang at his sides.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

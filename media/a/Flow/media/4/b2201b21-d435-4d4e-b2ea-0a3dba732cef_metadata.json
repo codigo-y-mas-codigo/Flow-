@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b2201b21-d435-4d4e-b2ea-0a3dba732cef",
+    "mediaTitle": "Design aesthetic Egyptian logo",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:37:51.109899-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "haz un favicon para el sitio web ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "5c8e02c0-f320-440a-8e18-e8e38c5d02dc"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "41f16929-6dd1-432f-8bbd-e8825323c361",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:32:53.814019-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster with a red-toned palette on a cream background depicts a dreamlike and slightly otherworldly scene under a stormy, foggy night sky. The large, bold headline \"yo pas cl slm ff\" arches across the top in all caps, with a smaller tagline \"tu vrgn slm act\" curved below, both in mid-century serif fonts. Centrally positioned is a luminous pink donut with dripping pink liquid and white spilled milk, adorned with diamonds and pink sprinkles. Emerging from the donut are two female legs in black fishnet stockings and black high-heeled shoes, and two hands, one holding a syringe with glowing liquid and the other a glass pipe. Accompanying the donut are a stylized engraved illustration of an eggplant holding a syringe, a glowing viscous white liquid, a banana with a glowing syringe, and a red chili pepper wearing boxing gloves and holding a syringe. Mid-century sparkle and starburst icons are scattered around the headline, enhancing the retro print ad aesthetic.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

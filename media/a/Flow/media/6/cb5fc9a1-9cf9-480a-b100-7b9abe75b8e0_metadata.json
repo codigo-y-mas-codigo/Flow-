@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "cb5fc9a1-9cf9-480a-b100-7b9abe75b8e0",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 10 - 0337",
+    "projectId": "f5c59887-459a-4be1-8230-1135fae920e9",
+    "createdAt": "2025-06-10 02:54:42.516906-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "🧾 Hyper-detailed description: Luis, 37 years old\n\n\n\n-Age and origin: 37-year-old Mexican man.\n\n-Height and build: Approximately 160 cm tall, slim build, estimated weight: 56 kg.\n\n-Face shape: Oval face with a gently defined jawline. The chin is narrow but defined, with a slight vertical cleft in the center.\n\n-Forehead: Medium-high, clear, slightly prominent, with no visible wrinkles.\n\n-Eyebrows: Medium thickness, gently arched. They are of even density, dark in color, well-defined but not excessively pronounced.\n\n-Eyes: Almond-shaped, medium-sized, dark brown. Slightly hooded eyelids. Calm, direct gaze.\n\n-Eyelashes: Black, short to medium, not particularly thick.\n\n-Nose: Straight at the base and with a defined bridge. The nasal bridge is slightly wide at mid-level. The nasal tip is rounded and slightly drooping. The nostrils are wide.\n\n- usa lentes de armazon, se ve intelectual. \n\n\n\n-Cheekbones: Slightly defined, without excessive protrusion.\n\n-Mouth: Medium-sized lips, the upper one slightly thinner than the lower one. The lower one has more noticeable volume and is arched. Naturally pinkish in color.\n\n-Teeth: Not visible in the neutral image.\n\n-Ears: Medium-sized, well aligned with the eyes and nose. The auricle is close to the skull, with free earlobes.\n\n-Facial hair: Short, sparse beard, naturally grown, without defined contours. Variable density: more abundant on the chin and mustache, sparse on the cheeks. Black color with uneven areas.\n\n-Skin: Light tan (type IV on the Fitzpatrick scale). Smooth texture with visible shine in the T-zone. Perceptible pores on the cheeks and nose. Healthy skin with no visible marks.\n\n-Hair: Black, straight, medium texture. Naturally styled to the left side with some volume. A slightly \"M\" shaped frontal hairline with a very soft receding hairline. Short length.\n\n-Neck: Long and slender. The clavicles are clearly visible, as is the suprasternal hollow (jugular fossa). Low muscle tension.\n\n-Shoulders: Narrow, slightly drooping due to the relaxed posture.\n\n-Clothing: Long-sleeved gray V-neck shirt. Fitted to the torso.\n\n-Posture: Upright, slightly forward, shoulders relaxed.\n\n-Lighting: Soft, frontal white light, no harsh shadows. Highlights the facial contours and natural hollows.\n\n-Background: Neutral white, no distracting elements.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5f7acfd5-a254-4c74-b1ba-6140f0e95c6f",
+    "mediaTitle": "Clear table walking kitten logos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:53:56.294514-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "borra la mesa, el gatito de perfil caminando, y los logos de los productos deben ser osirits. ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

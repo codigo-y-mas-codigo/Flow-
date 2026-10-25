@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7147a8fe-464d-4760-88b0-3985bd959a0b",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-19 08:43:51.178686-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A cinematic underwater scene unfolds with a wide-angle shot, capturing the mystical ambiance. The neon blue text \"NAUTILUS\" slowly fades into the dark abyss. A male diver in full metallic silver diving gear with an old-school helmet and a clear visor, swims slowly from the left, holding a bright flashlight. He points the light towards a glowing seahorse of blue and green hues and a closed treasure chest. The seahorse, with its vivid bioluminescence, swims and dances around the chest. The treasure chest, resting on a rock, emits a warm orange glow from its keyhole in the shape of a microphone. Air bubbles drift upwards from the diver and the chest, creating a mesmerizing dance of light and shadow. The scene is lit by the diver\u0027s flashlight and the glowing objects, creating a stunning contrast against the dark blue water.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

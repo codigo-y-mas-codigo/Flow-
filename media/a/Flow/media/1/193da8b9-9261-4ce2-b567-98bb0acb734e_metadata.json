@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "193da8b9-9261-4ce2-b567-98bb0acb734e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 31/5/25",
+    "projectId": "4651d429-f88e-4781-83f4-6a223f5fe73e",
+    "createdAt": "2025-05-31 16:59:11.490311-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "\nCreate a professional comparison table with the title \"ALIMENTARSE VS. NUTRIRSE\" for a nutrition PDF. Use a minimal design with a clean white background and elegant typography (Playfair Display for titles, Lato for text). The table should have two clearly defined columns: left column titled \"ALIMENTARSE\" in terracotta color (#D9957E) and right column titled \"NUTRIRSE\" in sage green (#88A47C). Include 5 comparison points with simple, elegant line icons next to each point. The comparison points are: 1) \"Acto mecánico de ingerir\" vs \"Proceso consciente de nutrir\", 2) \"Enfoque en cantidad\" vs \"Enfoque en calidad\", 3) \"Saciedad inmediata\" vs \"Nutrición sostenida\", 4) \"Responde al hambre física\" vs \"Responde a necesidades celulares\", 5) \"Orientado al presente\" vs \"Orientado al bienestar futuro\". Each point should have a minimalist icon. The design should fit a letter-sized page (8.5x11 inches), with enough white space to feel elegant and uncluttered. Use subtle design elements like thin dividing lines in lavender blue (#B8C6D1).",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

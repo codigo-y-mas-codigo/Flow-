@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4dbb90a4-efc7-44b0-93f0-c404861c75c7",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 6/6/25",
+    "projectId": "5de05f6e-3c57-4a2b-bb69-36e0bf09f15c",
+    "createdAt": "2025-06-06 04:13:49.428612-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A dynamic split-second scene in a bustling marketplace. For approximately 3 seconds, a figure resembling the Rider-Waite \"Magician\" card (man with tools on a table, gesturing upwards and downwards) is briefly visible amidst the market activity, perhaps with subtle visual effects representing the four elements (a flash of fire, a ripple of water, a gust of wind, a shower of coins). As the Magician disappears, the text \"Tarot Visual\" bursts onto the screen with energy, quickly followed by \"aprenderás a leer el Tarot de forma intuitiva y no de memoria\" (total duration 8 seconds). The style should be energetic and attention-grabbing.\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

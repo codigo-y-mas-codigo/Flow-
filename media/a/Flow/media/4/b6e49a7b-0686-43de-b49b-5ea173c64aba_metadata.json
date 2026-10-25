@@ -1,0 +1,20 @@
+{
+  "mediaEntries": [{
+    "mediaId": "b6e49a7b-0686-43de-b49b-5ea173c64aba",
+    "mediaTitle": "Create drink promotional piece",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk Project: 18/3/26",
+    "projectId": "9e1b4c03-15f4-4483-94e0-6908efde722e",
+    "createdAt": "2026-08-10 01:59:40.152628-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "Here is the translated image prompt:\n\nCreate a promotional piece for that drink.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT"
+    }
+  }]
+}

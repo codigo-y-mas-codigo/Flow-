@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "e9083373-f2ac-4296-9e8e-269b09aac473",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 16/5/25",
+    "projectId": "39c16512-0e76-4240-a91f-3799b3de5e94",
+    "createdAt": "2025-05-16 13:05:03.474455-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "Create a dramatic, moody image of a podcast microphone and a pair of over-ear headphones resting on a table, lit by a single spotlight against a dark background. The focus should be on the equipment, symbolizing podcasting as a space for deep conversation. Use high contrast between light and shadow. Add subtle background details like acoustic panels or sound waves in abstract. Style: cinematic, photo-realistic or semi-realistic, with neutral tones (black, gray, dark blue). No text, no people, no explicit elements—just atmosphere and symbolism.\"\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

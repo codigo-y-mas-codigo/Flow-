@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c1fbfac3-b052-41ab-8194-b28fe3d8c026",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 20:05:03.763727-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital 3D rendering on a white background depicts a humanoid robot resembling Goku. The robot has smooth, rounded metallic armor in white and light gray with green and purple details. It features spiky, dark hair, framed glasses, and a small, pointed beard only on its chin. The robot is seated at a light-colored desk in front of a computer, with its hands positioned on a mouse and keyboard. A desk lamp is also on the desk. Its expression is happy and content. The lighting is soft and diffused, creating a clean and polished look with minimal shadows. The overall color palette includes cool tones from the robot and desk against the plain white backdrop, with accents of green and purple on the robot\u0027s armor."
+    }
+  }]
+}

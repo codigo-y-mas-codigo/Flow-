@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "68e59c63-44c6-46b5-b951-2cdc6f0e5f6e",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 17/6/25",
+    "projectId": "a3c5d22e-70c6-497a-92a0-a58d7752dc36",
+    "createdAt": "2025-06-17 03:00:12.022051-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A vintage-style poster, inspired by 1950s beauty ads, printed in a limited red-toned palette on a cream background. The poster features a stylized, engraved illustration of a luminous pink donut in the center. The pink icing has a subtle holographic shimmer, with tiny, brightly colored sprinkles scattered across it, appearing almost translucent. The donut\u0027s base is a soft golden hue. At the top, a large, bold headline arches across in all caps, reading: \"Donut Disturb My Peace.\" Beneath it, a tagline states \"Living Life Glazed and Confused.\" A small label \"Sweet Dreams\" is under the donut. The footer reads: \"Still Buffering My Sugar High.\" Mid-century sparkle icons are scattered around the headline.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

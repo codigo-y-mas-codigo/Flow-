@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "082a87a3-c5ec-4a7a-bdd4-438e9ac8b6ed",
+    "mediaTitle": "Cat walking and product logos",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:58:08.146265-07",
+    "modelName": "Nano Banana 2",
+    "dimensions": {
+      "width": 1376,
+      "height": 768
+    },
+    "generationInputs": {
+      "prompt": "el fondo debe ser negro y el gatito rojizo, los objetos deen vrillar ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_LANDSCAPE",
+      "parentMediaId": "4b9a72e7-755e-4f96-a34c-d92242cd4f2c"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "07bee60f-4bd1-4b79-92b9-ed72e8663180",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 7/6/25",
+    "projectId": "925e4f5f-bcf3-40ed-942e-17398010a181",
+    "createdAt": "2025-06-09 19:56:13.914293-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A digital illustration rendered with smooth, glossy surfaces and sharp details, exhibiting a blend of stylized realism and a cartoonish aesthetic, shows a man with light skin and short dark hair walking on a sidewalk next to a grassy area. The man is wearing a dark, possibly navy blue, jacket with subtle reflective qualities and lighter gray or white accents. Underneath, he wears a bright orange shirt that emits a soft glow. His pants are a darker shade of gray, also appearing smooth and slightly reflective. The sidewalk is depicted in cool blues and grays with sharp, clean edges. The adjacent grassy area features subtle green tones, also with a smooth, rendered look. The overall lighting is bright and even, minimizing shadows and emphasizing the reflective surfaces of the man\u0027s clothing and the environment. The scene has a clean, modern, and slightly futuristic feel due to the rendering style and color palette.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

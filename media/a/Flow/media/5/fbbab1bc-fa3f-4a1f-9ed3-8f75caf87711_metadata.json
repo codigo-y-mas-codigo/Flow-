@@ -1,0 +1,19 @@
+{
+  "mediaEntries": [{
+    "mediaId": "fbbab1bc-fa3f-4a1f-9ed3-8f75caf87711",
+    "mediaType": "VIDEO",
+    "source": "generated",
+    "project": "Jun 25 - 0452",
+    "projectId": "38e45751-4ac3-4799-a992-9aae471bbcf4",
+    "createdAt": "2025-06-26 19:15:20.694539-07",
+    "modelName": "Veo 3.1 - Fast",
+    "dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "generationInputs": {
+      "prompt": "Animation of the \"El Colgado\" Pikachu Tarot card, 8-second duration, vertical aspect ratio.\nBased on the existing illustration: Pikachu hanging upside down serenely from a beam. Marsella style.\nKey animation sequence:\n1. Pikachu hangs completely still and upside down, eyes closed or softly open with a tranquil expression.\n2. A very subtle, gentle sway animates Pikachu\u0027s body, as if moved by an almost imperceptible breeze.\n3. The golden aura around Pikachu\u0027s head pulses softly with a calm, warm light.\n4. One or two of its ears might twitch slightly or its clasped paws adjust minutely.\n5. The leaves on the beam/tree (if visible) might rustle very gently.\nOverall mood: Surrender, new perspective, pause, letting go, inner peace. Camera: Static, possibly with a very slow, almost unnoticeable drift upwards or downwards to enhance the feeling of suspension.",
+      "aspectRatio": "VIDEO_ASPECT_RATIO_LANDSCAPE"
+    }
+  }]
+}

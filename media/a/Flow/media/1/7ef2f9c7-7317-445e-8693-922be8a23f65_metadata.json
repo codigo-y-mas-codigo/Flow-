@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "7ef2f9c7-7317-445e-8693-922be8a23f65",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "08e04ff4-f0f3-41b7-abd6-17e842b4e732",
+    "createdAt": "2025-06-02 14:47:23.496181-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A large, round, textured, yellow emoji with wide, open, light brown eyes featuring large white pupils and thin, dark eyebrows angled slightly inward is positioned prominently. Small, rosy cheeks are visible beneath the eyes. A four-fingered hand with a thumb extends from the left, with the index and middle fingers raised in a peace sign gesture that partially obscures the lower face. Behind and slightly below, two smaller, smooth yellow spheres suggest buttocks. A single, light blue droplet appears to fall from the crevice between these spheres. The background is a plain white surface with soft, light gray shadows cast beneath the emoji and spheres, providing a subtle three-dimensional effect.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "c16449af-fc4c-4b19-a820-fe08db9743e8",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "e3fbbdf3-5209-41e4-9ad0-dcecbb93eb35",
+    "createdAt": "2025-06-02 02:01:43.392305-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "The image shows a depiction of the Emperor tarot card. Pikachu is seated on an ornate light brown chair. Pikachu is shown in profile, facing left. Pikachu wears a red and pink cap with a gold brim that has pointed extensions. Over a blue tunic with vertical red stripes, Pikachu wears a red robe with a pink lining. A thick gold chain necklace with a circular or oval pendant hangs around Pikachu\u0027s neck. Pikachu also wears a gold belt. Pikachu\u0027s right leg is crossed over their left knee. In Pikachu\u0027s right hand, Pikachu holds a tall, gold scepter topped with a cross. The chair has a high, curved back and rests on a flat, yellow ground. An eagle with outstretched wings is depicted in profile on the lower right side of the chair. The number \"IIII\" is at the top center of the card, and the words \"EL EMPERADOR\" are at the bottom in black capital letters. The background of the card is white, and a thin black border surrounds the entire image. The illustration is in a traditional style with thick black outlines in the style of a medieval wood carving, using flat, saturated colors. Pikachu wears a red tunic with gold trim and a crown, holding a sword in its right paw and a balance scale in its left paw.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

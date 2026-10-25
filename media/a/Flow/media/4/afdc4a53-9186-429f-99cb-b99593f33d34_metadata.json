@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "afdc4a53-9186-429f-99cb-b99593f33d34",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "cecae847-8ad5-40ba-b591-bdee49749d6d",
+    "createdAt": "2025-12-09 03:05:14.393942-08",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "An animated cartoon character with yellow skin, spiky yellow hair, and exaggerated long, dark eyelashes sits with closed eyes. The character has pursed red lips and holds a thin, silver object horizontally between its yellow hands. The character wears a red short-sleeved shirt. The background is a muted pink wall. The character is seated in a dark red armchair. Below the character are the Spanish words \"Pero pues cada quien.\"",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

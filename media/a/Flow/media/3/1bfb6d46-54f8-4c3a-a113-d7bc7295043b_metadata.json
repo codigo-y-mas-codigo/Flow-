@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "1bfb6d46-54f8-4c3a-a113-d7bc7295043b",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 2/6/25",
+    "projectId": "070fdc26-5813-4e2e-9e53-34c1fc649a94",
+    "createdAt": "2026-03-23 11:41:16.283565-07",
+    "modelName": "Nano Banana Pro",
+    "generationInputs": {
+      "prompt": "Ultra-premium editorial artistic square thumbnail for exclusive advanced emotional healing tarot program, sophisticated mature audience, quiet luxury intellectual branding.High-end editorial photography style: soft diffused lighting, clean minimalist composition, photorealistic artistic feel.Dark palette: deep midnight indigo to black, subtle aged gold.Hero element: artistic photograph of an elegant woman from behind looking into an ornate antique mirror. The reflection inside the mirror is the same woman but dressed exactly as The High Priestess (white veil, flowing tunic, pomegranates visible). The mirror has dramatic golden cracks emitting light and the engraved words ABANDONO • RECHAZO • TRAICIÓN • INSUFICIENCIA visibly healing and closing with golden particles. NO roman numeral II anywhere.Elegant thin gold insignias (luxury minimal style):Top-left: ROMPE TUS PATRONES\nTop-right: INCLUYE PROMPTS\nBottom-left: large clean headphone icon + text CURSO EN AUDIOS\nBottom-right: PLANTILLAS + TIRADAS AVANZADAS\n\nMain text (minimalist elegant luxury typography):Center dominant (huge size, aged gold): SANACIÓN EMOCIONAL\nDirectly below (clean white, strong): Y AMOR PROPIO\n\nCrisp text, generous negative space, high contrast, no repetition, no tiny text. Perfect thumbnail readability and emotional punch.Square 1:1 aspect ratio --ar 1:1 --v 6 --stylize 50 --q 2\n\n",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

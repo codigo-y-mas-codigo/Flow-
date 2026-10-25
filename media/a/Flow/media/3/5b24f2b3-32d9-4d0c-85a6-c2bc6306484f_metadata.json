@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "5b24f2b3-32d9-4d0c-85a6-c2bc6306484f",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 3/7/25",
+    "projectId": "cbe957ae-aa7e-4610-8a89-9f9e02e78600",
+    "createdAt": "2025-07-03 03:54:37.248759-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "This image features a monochrome aesthetic with a white color hue that dominates the scene. The lighting is bright and evenly distributed, creating a high-key look. The visual characteristics include a dynamic splash pattern, with drops and streams of a viscous, opaque white liquid covering the entire wall, appearing to be moving or dripping downwards. The texture is smooth and somewhat reflective, suggesting a wet or freshly applied substance on a matte background. The image has a clean and minimalistic rendering quality, focusing on the abstract forms created by the liquid\u0027s movement."
+    }
+  }]
+}

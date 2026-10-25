@@ -1,0 +1,15 @@
+{
+  "mediaEntries": [{
+    "mediaId": "4f89cbf1-8dca-4e3e-99e1-bdd2c675b642",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 27/5/25",
+    "projectId": "d6ca7c65-4c19-4d39-8ac7-e528a6641bc7",
+    "createdAt": "2025-05-28 00:32:19.197057-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "continuing from the previous scene\u0027s setting. The same professional woman is now rubbing her temples slowly, looking stressed and exhausted. Integrate quick, subtle montage flashes (0.5 seconds each) over the main scene: a stack of paper documents on a desk, a clock ticking fast, a hand reaching for a small, generic pill bottle (out of focus). Maintain realistic style and slightly dim office lighting.",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_UNSPECIFIED"
+    }
+  }]
+}

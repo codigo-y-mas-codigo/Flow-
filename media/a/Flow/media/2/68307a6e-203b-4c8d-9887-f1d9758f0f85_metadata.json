@@ -1,0 +1,14 @@
+{
+  "mediaEntries": [{
+    "mediaId": "68307a6e-203b-4c8d-9887-f1d9758f0f85",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "Whisk: 19/6/25",
+    "projectId": "2c5d8809-6155-49f9-9bba-2399afa66456",
+    "createdAt": "2025-06-25 15:15:19.141025-07",
+    "modelName": "Other",
+    "generationInputs": {
+      "prompt": "A medium shot captures a person in a deep-sea diving suit and helmet. The suit is dark with metallic accents on the helmet, and the helmet\u0027s visor is black and polarized. The person\u0027s hands are extended forward. To the right, a glowing blue seahorse is visible. The background is dark with electric-like tendrils. Bubbles are present near the upper left, indicating an underwater setting. The image has a surreal, futuristic, metallic blue aesthetic with reflective elements. The lighting is soft, with subtle shadows and reflections. The rendering is ultra high-resolution and photorealistic, with 3D precision."
+    }
+  }]
+}

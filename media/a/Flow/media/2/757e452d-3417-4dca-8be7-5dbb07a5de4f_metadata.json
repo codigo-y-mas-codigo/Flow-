@@ -1,0 +1,21 @@
+{
+  "mediaEntries": [{
+    "mediaId": "757e452d-3417-4dca-8be7-5dbb07a5de4f",
+    "mediaTitle": "Crear favicon para sitio web",
+    "mediaType": "IMAGE",
+    "source": "generated",
+    "project": "sept 10 - 19:03",
+    "projectId": "57e6adb8-3560-4b5f-99f0-dc13bd9e54fe",
+    "createdAt": "2026-09-10 19:40:17.717048-07",
+    "modelName": "Nano Banana 2 Lite",
+    "dimensions": {
+      "width": 768,
+      "height": 1376
+    },
+    "generationInputs": {
+      "prompt": "minimizalo este logo a su maxima expresoin ",
+      "aspectRatio": "IMAGE_ASPECT_RATIO_PORTRAIT",
+      "parentMediaId": "ff936065-f89e-49c7-9a5f-7dda612ce1b6"
+    }
+  }]
+}
